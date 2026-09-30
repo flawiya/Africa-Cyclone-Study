@@ -36,7 +36,7 @@ Run Modes:
     python compute_72hr_event_census.py --process --threshold 119
         => MODE 2 with Property threshold (default = 63 km/h)
 
-Author  : Antigravity Automation Engine
+Author  : ASR Parametric Risk Modeling Team
 Review  : Catastrophe Risk and Actuarial Underwriting Team (ASR)
 ========================================================================================
 """

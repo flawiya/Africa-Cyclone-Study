@@ -18,7 +18,7 @@ Purpose:
   5. Save all final deliverables in the dedicated Output/update/ directory.
   6. Produce a comprehensive Verification & Actuarial Audit Markdown Report.
 
-Author: Antigravity Automation Engine
+Author: ASR Parametric Risk Modeling Team
 Review: Catastrophe Risk & Actuarial Underwriting Team (ASR)
 ========================================================================================
 """

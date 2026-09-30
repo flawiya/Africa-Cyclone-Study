@@ -15,7 +15,7 @@ Function:
   4. Generates a publication-grade, high-resolution 300 DPI JPEG map:
      - Output/Africa_Cyclone_2086_Monitored_Portfolio_Map_300dpi.jpg
 
-Author: Antigravity Automation Engine
+Author: ASR Parametric Risk Modeling Team
 Review: Catastrophe Risk & Actuarial Underwriting Team
 ========================================================================================
 """

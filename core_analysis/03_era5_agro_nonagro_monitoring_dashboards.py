@@ -27,7 +27,7 @@ References:
   - Done, J. M. et al. (2012). Modeling high-resolution wind fields for parametric
     tropical cyclone risk. Atmospheric Research, 104-105, 85-94.
 
-Author: Antigravity Automation Engine
+Author: ASR Parametric Risk Modeling Team
 Review: Catastrophe Risk & Actuarial Underwriting Team
 ========================================================================================
 """

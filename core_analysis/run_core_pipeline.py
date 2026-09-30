@@ -23,7 +23,7 @@ Usage:
   python run_core_pipeline.py --step 3
   python run_core_pipeline.py --step 4
 
-Author: Antigravity Automation Engine
+Author: ASR Parametric Risk Modeling Team
 ========================================================================================
 """
 

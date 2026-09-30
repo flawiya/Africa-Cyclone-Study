@@ -24,7 +24,7 @@
            (48 per-year CSVs from GEE, columns: ADM0_NAME, ADM1_NAME,
             ADM2_NAME, ADM2_CODE, year, max [km/h])
 
- Author  : Antigravity Automation Engine
+ Author  : ASR Parametric Risk Modeling Team
  Review  : Catastrophe Risk & Actuarial Underwriting Team (ASR)
 ================================================================================
 """

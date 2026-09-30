@@ -19,7 +19,7 @@ References:
     railway infrastructure assets. Nature Communications, 10, 2677.
   - NOAA Saffir-Simpson Hurricane Wind Scale (SSHWS) classification.
 
-Author: Antigravity Automation Engine
+Author: ASR Parametric Risk Modeling Team
 Review: Catastrophe Risk & Actuarial Underwriting Team
 ========================================================================================
 """

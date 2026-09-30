@@ -25,7 +25,7 @@ References:
   - WMO (2017). Global Guide to Tropical Cyclone Forecasting. WMO-No. 1194 (TCP-50).
   - ECMWF ERA5 Hourly: 10m wind gust (instantaneous maximum).
 
-Author: Antigravity Automation Engine
+Author: ASR Parametric Risk Modeling Team
 Review: Catastrophe Risk & Actuarial Underwriting Team
 ========================================================================================
 """

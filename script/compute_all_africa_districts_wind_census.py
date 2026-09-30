@@ -55,7 +55,7 @@ Three run modes:
     python compute_all_africa_districts_wind_census.py --consolidate --report
         => MODE 3: Merge CSVs AND generate portfolio expansion recommendation
 
-Author  : Antigravity Automation Engine
+Author  : ASR Parametric Risk Modeling Team
 Review  : Catastrophe Risk and Actuarial Underwriting Team (ASR)
 ========================================================================================
 """
