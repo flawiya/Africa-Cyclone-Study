@@ -38,8 +38,7 @@ ROOT_OUTPUT_DIR = os.path.abspath(os.path.join(BASE_DIR, '..', '..', 'Output'))
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(ROOT_OUTPUT_DIR, exist_ok=True)
 
-# Path to Crop Calendar Shapefile
-CROP_SHP_PATH = r'C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Flood-Study\data\africa_agricultural_domain_maize_calendar.shp'
+CROP_SHP_PATH = os.path.abspath(os.path.join(BASE_DIR, '..', '..', 'Data', 'africa_agricultural_domain_maize_calendar.shp'))
 
 THRESHOLDS = {
     '50kmh': 50.0,

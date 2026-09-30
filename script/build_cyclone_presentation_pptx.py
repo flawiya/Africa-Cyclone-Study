@@ -27,7 +27,7 @@ from pptx.enum.shapes import MSO_SHAPE
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(BASE_DIR, '..', 'Output')
 
-PPTX_OUT_PATH = r"C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Cyclone-Study\Cyclone Risk Analysis.pptx"
+PPTX_OUT_PATH = os.path.abspath(os.path.join(BASE_DIR, '..', 'Cyclone Risk Analysis.pptx'))
 
 IMG_COMPOSITE_MAP = os.path.join(OUTPUT_DIR, 'reinsurance_4step_filtering_composite_map.jpg')
 IMG_SAFFIR_CHART = os.path.join(OUTPUT_DIR, 'saffir_simpson_scale_chart.png')

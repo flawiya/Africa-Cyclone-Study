@@ -11,8 +11,12 @@ def export_gaul_l2_africa_geojson():
     ee.Initialize(project='vernal-parser-412016')
     print("      Earth Engine initialized.")
 
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    BASE_DIR = os.path.dirname(SCRIPT_DIR)
+    OUTPUT_DIR = os.path.join(BASE_DIR, 'Output')
+
     # Load Census CSV
-    csv_path = r'c:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Cyclone-Study\Output\Africa_AllDistricts_AllTime_MaxWindGust_Census_1979_2026.csv'
+    csv_path = os.path.join(OUTPUT_DIR, 'Africa_AllDistricts_AllTime_MaxWindGust_Census_1979_2026.csv')
     print(f"[2/4] Reading census data from {csv_path}...")
     df = pd.read_csv(csv_path)
     print(f"      Loaded {len(df)} district records across {df['ADM0_NAME'].nunique()} countries.")
@@ -93,7 +97,7 @@ def export_gaul_l2_africa_geojson():
         "features": all_features
     }
 
-    out_geojson = r'c:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Cyclone-Study\Output\Africa_GAUL_L2_MaxWindGust_Census_1979_2026.geojson'
+    out_geojson = os.path.join(OUTPUT_DIR, 'Africa_GAUL_L2_MaxWindGust_Census_1979_2026.geojson')
     print(f"[4/4] Writing GeoJSON to {out_geojson}...")
     with open(out_geojson, 'w', encoding='utf-8') as f:
         json.dump(geojson_data, f)

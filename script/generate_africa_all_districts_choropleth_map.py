@@ -1,7 +1,8 @@
 import os
 import json
 
-BASE_DIR = r'c:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Cyclone-Study'
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(SCRIPT_DIR)
 GEOJSON_PATH = os.path.join(BASE_DIR, 'Output', 'Africa_GAUL_L2_MaxWindGust_Census_1979_2026.geojson')
 OUT_HTML = os.path.join(BASE_DIR, 'Output', 'Africa_AllDistricts_MaxWindGust_Continental_Choropleth_Map_1979_2026.html')
 
