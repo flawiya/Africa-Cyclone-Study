@@ -2,10 +2,10 @@
 ## Cyclone Idai (March 2019) Sensitivity Benchmark: Holland Radial Decay vs. ECMWF ERA5 10m Wind Gust
 
 > **File Location**: `Africa-Cyclone-Study/Notes/CYCLONE_IDAI_SENSITIVITY_DASHBOARD_EXPLANATION.md`  
-> **Source Dashboard**: [holland_vs_era5_idai_sensitivity_dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/meeting_september_02/holland_vs_era5_idai_sensitivity_dashboard.html)  
-> **Source Data CSV**: [Holland_vs_ERA5_Idai_Sensitivity_Metrics.csv](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/meeting_september_02/Holland_vs_ERA5_Idai_Sensitivity_Metrics.csv)  
-> **Master Multi-Cyclone Dashboard**: [all_cyclones_holland_vs_era5_sensitivity_master_dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/meeting_september_02/all_cyclones_holland_vs_era5_sensitivity_master_dashboard.html)  
-> **Master Multi-Cyclone Data CSV**: [All_Cyclones_Holland_vs_ERA5_Sensitivity_Metrics.csv](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/meeting_september_02/All_Cyclones_Holland_vs_ERA5_Sensitivity_Metrics.csv)  
+> **Source Dashboard**: [holland_vs_era5_idai_sensitivity_dashboard.html](Output/meeting_september_02/holland_vs_era5_idai_sensitivity_dashboard.html)  
+> **Source Data CSV**: [Holland_vs_ERA5_Idai_Sensitivity_Metrics.csv](Output/meeting_september_02/Holland_vs_ERA5_Idai_Sensitivity_Metrics.csv)  
+> **Master Multi-Cyclone Dashboard**: [all_cyclones_holland_vs_era5_sensitivity_master_dashboard.html](Output/meeting_september_02/all_cyclones_holland_vs_era5_sensitivity_master_dashboard.html)  
+> **Master Multi-Cyclone Data CSV**: [All_Cyclones_Holland_vs_ERA5_Sensitivity_Metrics.csv](Output/meeting_september_02/All_Cyclones_Holland_vs_ERA5_Sensitivity_Metrics.csv)  
 > **Purpose**: This document provides a complete, line-by-line explanation of the 4-panel sensitivity dashboard. Use the designated `💬 [MY NOTES / QUESTIONS]` blocks in each section to add your thoughts, questions, or talking points before your meeting.
 
 ---
@@ -22,7 +22,7 @@ During our previous meeting, leadership asked a crucial question regarding wind 
 
 ## 📊 Plot 1 (Top-Left): District Peak Wind Comparison (Bar Chart)
 
-![Top-Left Bar Chart](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/meeting_september_02/holland_vs_era5_idai_sensitivity_dashboard.html)
+![Top-Left Bar Chart](Output/meeting_september_02/holland_vs_era5_idai_sensitivity_dashboard.html)
 
 ### 1. What the 3 Colors Represent
 * 🔴 **Red Bar — `Holland Vortex Wind (km/h)`**:

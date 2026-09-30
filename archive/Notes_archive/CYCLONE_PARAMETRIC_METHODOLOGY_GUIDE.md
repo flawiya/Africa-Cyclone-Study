@@ -175,13 +175,13 @@ An earlier exploratory storm catalogue filtered strictly to districts within $35
 
 ### 7.1 Master Data Files
 1. **Primary Event & Multi-Threshold PDI Metrics (1980–2026)**:
-   * [`Extended_Historical_Cyclone_Agro_NonAgro_Event_Metrics_1980_2026.csv`](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/Extended_Historical_Cyclone_Agro_NonAgro_Event_Metrics_1980_2026.csv)
+   * [`Extended_Historical_Cyclone_Agro_NonAgro_Event_Metrics_1980_2026.csv`](Output/Extended_Historical_Cyclone_Agro_NonAgro_Event_Metrics_1980_2026.csv)
    * Contains 424 district-level storm impact records with multi-threshold linear excess and cubic PDI values (`pdi_50kmh`, `pdi_64kmh_AGRO_REC`, `pdi_80kmh`, `pdi_93kmh`, `pdi_100kmh`, `pdi_119kmh_PROP_REC`).
 2. **Historical 72-Hour Discrete Events Verification Catalogue (1980–2026)**:
-   * [`Historical_Cyclone_72h_Events_Verification_Catalogue_1980_2026.csv`](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/Historical_Cyclone_72h_Events_Verification_Catalogue_1980_2026.csv)
+   * [`Historical_Cyclone_72h_Events_Verification_Catalogue_1980_2026.csv`](Output/Historical_Cyclone_72h_Events_Verification_Catalogue_1980_2026.csv)
    * 157 discrete events $\ge 63\text{ km/h}$ with exact start/end windows (`window_start`, `window_end`), meteorological classification, and direct audit URLs (NASA Earth Observatory, ReliefWeb, Wikipedia).
 3. **Annual Aggregations Table (1980–2026)**:
-   * [`Extended_Historical_Cyclone_Agro_NonAgro_Yearly_Aggregations_1980_2026.csv`](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/Extended_Historical_Cyclone_Agro_NonAgro_Yearly_Aggregations_1980_2026.csv)
+   * [`Extended_Historical_Cyclone_Agro_NonAgro_Yearly_Aggregations_1980_2026.csv`](Output/Extended_Historical_Cyclone_Agro_NonAgro_Yearly_Aggregations_1980_2026.csv)
    * Yearly aggregate PDI sums for pure premium and burning cost pricing.
 
 ### 7.2 Actuarial Join Schema: Integration of GAUL Code
@@ -193,13 +193,13 @@ Downstream catastrophe modelers joining these event tables into Oasis LMF or in-
 ## 8. 💻 Interactive Visualization & Dashboard Standards
 
 1. **Pan-African 72-Hour Events Time-Series Map**:
-   * File: [**`historical_cyclone_72h_events_time_series_map.html`**](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/historical_cyclone_72h_events_time_series_map.html)
+   * File: [**`historical_cyclone_72h_events_time_series_map.html`**](Output/historical_cyclone_72h_events_time_series_map.html)
    * Renders 3,333 Admin 2 vector polygons over keyless `carto-positron` basemap tiles. Displays Saffir-Simpson category fills for affected districts with animated play/pause controls (1980–2026).
 2. **Dedicated Agricultural In-Season Timeline Dashboard**:
-   * File: [**`historical_cyclone_72h_events_agro_in_season_dashboard.html`**](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/historical_cyclone_72h_events_agro_in_season_dashboard.html)
+   * File: [**`historical_cyclone_72h_events_agro_in_season_dashboard.html`**](Output/historical_cyclone_72h_events_agro_in_season_dashboard.html)
    * Strictly filters to active crop calendar dates with 3 agronomic damage tiers (Moderate Lodging, Severe Stem Breakage, Catastrophic Crop Flattening).
 3. **Master 4-Panel Actuarial Dashboard**:
-   * File: [**`extended_historical_cyclone_agro_nonagro_master_dashboard.html`**](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Cyclone-Study/Output/extended_historical_cyclone_agro_nonagro_master_dashboard.html)
+   * File: [**`extended_historical_cyclone_agro_nonagro_master_dashboard.html`**](Output/extended_historical_cyclone_agro_nonagro_master_dashboard.html)
    * Displays annual cumulative PDI energy dissipation bars and multi-threshold sensitivity curves for pure premium pricing.
 
 ### 8.1 Basemap Rendering Standard (Zero "API Key Required" Errors)
