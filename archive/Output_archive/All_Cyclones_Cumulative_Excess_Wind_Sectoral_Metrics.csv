@@ -1,0 +1,901 @@
+cyclone,year,country,district,crop_km2,v_max_kmh,v_max_kt,excess_wind_sum_34kt_63kmh,excess_wind_sum_64kt_119kmh,hours_above_34kt_63kmh,hours_above_64kt_119kmh,ikep_energy_index,ag_crop_lodging_trigger_34kt,property_structural_trigger_64kt
+Cyclone Idai,2019,Malawi,Neno,40.83246860707912,22.1,11.9,0.0,0.0,0,0,43.8,False,False
+Cyclone Idai,2019,Malawi,Mwanza,78.06805293542622,19.2,10.4,0.0,0.0,0,0,41.7,False,False
+Cyclone Idai,2019,Malawi,Ntcheu,0.0,20.9,11.3,0.0,0.0,0,0,37.3,False,False
+Cyclone Idai,2019,Malawi,Blantyre,82.41068838633576,25.0,13.5,0.0,0.0,0,0,51.8,False,False
+Cyclone Idai,2019,Malawi,Chikwawa,200.9166460222725,21.3,11.5,0.0,0.0,0,0,47.7,False,False
+Cyclone Idai,2019,Malawi,Chiradzulu,78.80367623133716,30.2,16.3,0.0,0.0,0,0,62.3,False,False
+Cyclone Idai,2019,Malawi,Mangochi,0.0,21.1,11.4,0.0,0.0,0,0,37.2,False,False
+Cyclone Idai,2019,Malawi,Nsanje,74.82498798603314,24.5,13.2,0.0,0.0,0,0,57.6,False,False
+Cyclone Idai,2019,Malawi,Thyolo,0.0,24.0,12.9,0.0,0.0,0,0,57.4,False,False
+Cyclone Idai,2019,Malawi,Zomba,303.21583878342824,43.5,23.5,0.0,0.0,0,0,77.8,False,False
+Cyclone Idai,2019,Malawi,Balaka,311.3508276994101,28.2,15.3,0.0,0.0,0,0,48.5,False,False
+Cyclone Idai,2019,Malawi,Machinga,319.41545635596594,39.7,21.4,0.0,0.0,0,0,66.3,False,False
+Cyclone Idai,2019,Malawi,Mulanje,0.0,36.1,19.5,0.0,0.0,0,0,73.4,False,False
+Cyclone Idai,2019,Malawi,Phalombe,616.4324106820175,40.8,22.0,0.0,0.0,0,0,81.9,False,False
+Cyclone Idai,2019,Mozambique,Ancuabe,718.0876751676873,12.6,6.8,0.0,0.0,0,0,24.8,False,False
+Cyclone Idai,2019,Mozambique,Balama,804.704341117063,14.0,7.6,0.0,0.0,0,0,29.4,False,False
+Cyclone Idai,2019,Mozambique,Chiure,527.8151431006098,13.4,7.2,0.0,0.0,0,0,28.8,False,False
+Cyclone Idai,2019,Mozambique,Ibo,0.0,12.3,6.6,0.0,0.0,0,0,20.4,False,False
+Cyclone Idai,2019,Mozambique,Macomia,155.84488661858722,11.5,6.2,0.0,0.0,0,0,19.3,False,False
+Cyclone Idai,2019,Mozambique,Mecufi,718.0876751676873,14.0,7.6,0.0,0.0,0,0,26.7,False,False
+Cyclone Idai,2019,Mozambique,Meluco,110.89919476618316,11.6,6.3,0.0,0.0,0,0,21.6,False,False
+Cyclone Idai,2019,Mozambique,Mocimboa da Praia,0.0,10.6,5.7,0.0,0.0,0,0,16.5,False,False
+Cyclone Idai,2019,Mozambique,Montepuez,844.532770119152,10.9,5.9,0.0,0.0,0,0,22.6,False,False
+Cyclone Idai,2019,Mozambique,Mueda,160.72009313113512,10.0,5.4,0.0,0.0,0,0,17.3,False,False
+Cyclone Idai,2019,Mozambique,Muidumbe,101.80400028085072,10.9,5.9,0.0,0.0,0,0,18.3,False,False
+Cyclone Idai,2019,Mozambique,Namuno,849.4751561402123,13.4,7.2,0.0,0.0,0,0,31.7,False,False
+Cyclone Idai,2019,Mozambique,Nangade,0.0,10.0,5.4,0.0,0.0,0,0,15.5,False,False
+Cyclone Idai,2019,Mozambique,Palma,0.0,10.0,5.4,0.0,0.0,0,0,14.4,False,False
+Cyclone Idai,2019,Mozambique,Pemba,127.75040266542868,13.1,7.1,0.0,0.0,0,0,24.2,False,False
+Cyclone Idai,2019,Mozambique,Quissanga,0.0,12.5,6.8,0.0,0.0,0,0,22.1,False,False
+Cyclone Idai,2019,Mozambique,Cidade de Pemba,127.75040266542868,13.7,7.4,0.0,0.0,0,0,25.0,False,False
+Cyclone Idai,2019,Mozambique,Barue,465.5930931264696,43.8,23.6,0.0,0.0,0,0,65.4,False,False
+Cyclone Idai,2019,Mozambique,Guro,191.1572794738291,27.6,14.9,0.0,0.0,0,0,42.5,False,False
+Cyclone Idai,2019,Mozambique,Macossa,0.0,43.4,23.4,0.0,0.0,0,0,67.1,False,False
+Cyclone Idai,2019,Mozambique,Tambara,0.0,28.0,15.1,0.0,0.0,0,0,47.2,False,False
+Cyclone Idai,2019,Mozambique,Angoche,266.6056449527373,30.8,16.6,0.0,0.0,0,0,74.5,False,False
+Cyclone Idai,2019,Mozambique,Erati,1191.2472654884562,14.5,7.8,0.0,0.0,0,0,33.1,False,False
+Cyclone Idai,2019,Mozambique,Lalaua,253.1361087123707,19.9,10.8,0.0,0.0,0,0,42.4,False,False
+Cyclone Idai,2019,Mozambique,Malema,685.2027909555666,34.5,18.6,0.0,0.0,0,0,58.5,False,False
+Cyclone Idai,2019,Mozambique,Meconta,359.4161624598412,19.2,10.4,0.0,0.0,0,0,52.9,False,False
+Cyclone Idai,2019,Mozambique,Mecuburi,974.886625926215,15.1,8.2,0.0,0.0,0,0,40.4,False,False
+Cyclone Idai,2019,Mozambique,Memba,237.0884065638241,15.9,8.6,0.0,0.0,0,0,33.7,False,False
+Cyclone Idai,2019,Mozambique,Mogincual,0.0,21.1,11.4,0.0,0.0,0,0,59.8,False,False
+Cyclone Idai,2019,Mozambique,Mogovolas,886.5081957338016,26.2,14.1,0.0,0.0,0,0,63.0,False,False
+Cyclone Idai,2019,Mozambique,Moma,181.8434113510704,46.0,24.9,0.0,0.0,0,0,83.7,False,False
+Cyclone Idai,2019,Mozambique,Monapo,838.8906889367302,17.9,9.7,0.0,0.0,0,0,44.9,False,False
+Cyclone Idai,2019,Mozambique,Mossuril,296.97076852917434,20.4,11.0,0.0,0.0,0,0,50.9,False,False
+Cyclone Idai,2019,Mozambique,Muecate,436.7158484993262,15.9,8.6,0.0,0.0,0,0,42.7,False,False
+Cyclone Idai,2019,Mozambique,Murrupula,604.3090604141631,20.9,11.3,0.0,0.0,0,0,57.4,False,False
+Cyclone Idai,2019,Mozambique,Nacala-A-Velha,208.84446945928096,18.1,9.8,0.0,0.0,0,0,41.8,False,False
+Cyclone Idai,2019,Mozambique,Nacaroa,423.58865188911807,15.8,8.5,0.0,0.0,0,0,38.0,False,False
+Cyclone Idai,2019,Mozambique,Nampula,1236.7543958374815,18.6,10.0,0.0,0.0,0,0,50.2,False,False
+Cyclone Idai,2019,Mozambique,Ribaue,1174.001881779474,22.4,12.1,0.0,0.0,0,0,52.7,False,False
+Cyclone Idai,2019,Mozambique,Cidade de Nampula,1236.7543958374815,18.3,9.9,0.0,0.0,0,0,49.6,False,False
+Cyclone Idai,2019,Mozambique,Ilha de Mocambique,296.97076852917434,20.7,11.2,0.0,0.0,0,0,51.0,False,False
+Cyclone Idai,2019,Mozambique,Nacala,208.84446945928096,18.8,10.1,0.0,0.0,0,0,41.8,False,False
+Cyclone Idai,2019,Mozambique,Cuamba,775.0955534305062,47.7,25.7,0.0,0.0,0,0,70.8,False,False
+Cyclone Idai,2019,Mozambique,Mandimba,240.44174937160705,24.1,13.0,0.0,0.0,0,0,41.7,False,False
+Cyclone Idai,2019,Mozambique,Marrupa,247.29564311540383,14.1,7.6,0.0,0.0,0,0,25.9,False,False
+Cyclone Idai,2019,Mozambique,Maua,196.4806988653416,21.2,11.5,0.0,0.0,0,0,37.1,False,False
+Cyclone Idai,2019,Mozambique,Mecanhelas,1101.701415688672,43.9,23.7,0.0,0.0,0,0,77.4,False,False
+Cyclone Idai,2019,Mozambique,Mecula,0.0,10.6,5.7,0.0,0.0,0,0,18.8,False,False
+Cyclone Idai,2019,Mozambique,Metarica,151.41999249129518,29.5,15.9,0.0,0.0,0,0,47.8,False,False
+Cyclone Idai,2019,Mozambique,Nipepe,118.6818104396743,18.6,10.0,0.0,0.0,0,0,36.3,False,False
+Cyclone Idai,2019,Mozambique,Caia,225.79646940221448,37.1,20.0,0.0,0.0,0,0,70.8,False,False
+Cyclone Idai,2019,Mozambique,Chemba,106.64933773581302,30.3,16.4,0.0,0.0,0,0,55.7,False,False
+Cyclone Idai,2019,Mozambique,Maringue,210.0988067512264,41.8,22.6,0.0,0.0,0,0,69.5,False,False
+Cyclone Idai,2019,Mozambique,Changara,212.67129786946808,21.6,11.6,0.0,0.0,0,0,32.3,False,False
+Cyclone Idai,2019,Mozambique,Chiuta,188.9250932214997,17.8,9.6,0.0,0.0,0,0,29.0,False,False
+Cyclone Idai,2019,Mozambique,Moatize,322.1444052901339,20.5,11.0,0.0,0.0,0,0,37.0,False,False
+Cyclone Idai,2019,Mozambique,Mutarara,277.15727589399893,26.4,14.3,0.0,0.0,0,0,53.2,False,False
+Cyclone Idai,2019,Mozambique,Tsangano,649.1973829504933,17.9,9.7,0.0,0.0,0,0,35.0,False,False
+Cyclone Idai,2019,Mozambique,Cidade de Tete,212.67129786946808,21.2,11.4,0.0,0.0,0,0,34.3,False,False
+Cyclone Idai,2019,Mozambique,Luenha,212.67129786946808,25.9,14.0,0.0,0.0,0,0,37.9,False,False
+Cyclone Idai,2019,Mozambique,Gile,309.5182010801853,31.8,17.2,0.0,0.0,0,0,75.6,False,False
+Cyclone Idai,2019,Mozambique,Gurue,963.9919911978384,53.8,29.1,0.0,0.0,0,0,89.2,False,False
+Cyclone Idai,2019,Mozambique,Ile,671.1684098077607,50.3,27.1,0.0,0.0,0,0,119.3,False,False
+Cyclone Idai,2019,Mozambique,Inhassunge,0.0,45.9,24.8,0.0,0.0,0,0,111.3,False,False
+Cyclone Idai,2019,Mozambique,Lugela,0.0,45.5,24.6,0.0,0.0,0,0,113.8,False,False
+Cyclone Idai,2019,Mozambique,Maganja da Costa,139.79585504390127,42.3,22.8,0.0,0.0,0,0,132.4,False,False
+Cyclone Idai,2019,Mozambique,Milange,2212.566370681824,36.8,19.9,0.0,0.0,0,0,83.6,False,False
+Cyclone Idai,2019,Mozambique,Mocuba,0.0,55.2,29.8,0.0,0.0,0,0,135.1,False,False
+Cyclone Idai,2019,Mozambique,Alto Molocue,652.375866496782,38.2,20.6,0.0,0.0,0,0,83.4,False,False
+Cyclone Idai,2019,Mozambique,Mopeia,95.70051602465723,32.5,17.6,0.0,0.0,0,0,85.8,False,False
+Cyclone Idai,2019,Mozambique,Morrumbala,168.9881398138509,25.0,13.5,0.0,0.0,0,0,71.8,False,False
+Cyclone Idai,2019,Mozambique,Namacurra,0.0,64.8,35.0,2.8,0.0,2,0,136.2,False,False
+Cyclone Idai,2019,Mozambique,Namarroi,411.15293674714775,54.8,29.6,0.0,0.0,0,0,118.5,False,False
+Cyclone Idai,2019,Mozambique,Nicoadala,328.5496768377461,48.7,26.3,0.0,0.0,0,0,110.0,False,False
+Cyclone Idai,2019,Mozambique,Pebane,0.0,47.9,25.9,0.0,0.0,0,0,96.3,False,False
+Cyclone Idai,2019,Mozambique,Cidade de Quelimane,328.5496768377461,57.7,31.1,0.0,0.0,0,0,118.3,False,False
+Cyclone Idai,2019,Mozambique,Cidade de Maputo,0.0,11.0,5.9,0.0,0.0,0,0,10.6,False,False
+Cyclone Idai,2019,Mozambique,Manhica,436.32429904311607,12.3,6.6,0.0,0.0,0,0,12.5,False,False
+Cyclone Idai,2019,Mozambique,Bilene,167.74998411261967,12.8,6.9,0.0,0.0,0,0,13.5,False,False
+Cyclone Idai,2019,Mozambique,Chibuto,225.5499419577092,14.9,8.0,0.0,0.0,0,0,16.7,False,False
+Cyclone Idai,2019,Mozambique,Chicualacuala,114.23020874832834,18.3,9.9,0.0,0.0,0,0,20.2,False,False
+Cyclone Idai,2019,Mozambique,Chigubo,0.0,19.9,10.8,0.0,0.0,0,0,23.7,False,False
+Cyclone Idai,2019,Mozambique,Chokwe,348.6488020629644,13.7,7.4,0.0,0.0,0,0,14.6,False,False
+Cyclone Idai,2019,Mozambique,Guija,189.1287279378792,14.9,8.0,0.0,0.0,0,0,16.4,False,False
+Cyclone Idai,2019,Mozambique,Mabalane,0.0,16.7,9.0,0.0,0.0,0,0,18.6,False,False
+Cyclone Idai,2019,Mozambique,Mandlakaze,0.0,14.2,7.6,0.0,0.0,0,0,16.1,False,False
+Cyclone Idai,2019,Mozambique,Massangena,0.0,25.0,13.5,0.0,0.0,0,0,30.9,False,False
+Cyclone Idai,2019,Mozambique,Massingir,0.0,14.8,8.0,0.0,0.0,0,0,15.4,False,False
+Cyclone Idai,2019,Mozambique,Xai-xai,348.77433054849337,13.0,7.0,0.0,0.0,0,0,14.1,False,False
+Cyclone Idai,2019,Mozambique,Cidade de Xai-Xai,348.77433054849337,12.9,7.0,0.0,0.0,0,0,14.0,False,False
+Cyclone Idai,2019,Mozambique,Funhalouro,131.96142344261068,20.7,11.2,0.0,0.0,0,0,26.1,False,False
+Cyclone Idai,2019,Mozambique,Govuro,0.0,42.9,23.2,0.0,0.0,0,0,61.5,False,False
+Cyclone Idai,2019,Mozambique,Homoine,0.0,16.9,9.1,0.0,0.0,0,0,21.4,False,False
+Cyclone Idai,2019,Mozambique,Inharrime,0.0,15.0,8.1,0.0,0.0,0,0,18.1,False,False
+Cyclone Idai,2019,Mozambique,Inhassoro,0.0,34.6,18.7,0.0,0.0,0,0,49.0,False,False
+Cyclone Idai,2019,Mozambique,Jangamo,0.0,15.8,8.6,0.0,0.0,0,0,20.0,False,False
+Cyclone Idai,2019,Mozambique,Mabote,89.93153108375746,28.1,15.2,0.0,0.0,0,0,36.3,False,False
+Cyclone Idai,2019,Mozambique,Massinga,223.2738664334157,22.6,12.2,0.0,0.0,0,0,30.5,False,False
+Cyclone Idai,2019,Mozambique,Morrumbene,117.9726195670946,18.8,10.1,0.0,0.0,0,0,24.5,False,False
+Cyclone Idai,2019,Mozambique,Panda,0.0,16.2,8.8,0.0,0.0,0,0,19.5,False,False
+Cyclone Idai,2019,Mozambique,Vilankulo,103.8789414322553,27.4,14.8,0.0,0.0,0,0,38.6,False,False
+Cyclone Idai,2019,Mozambique,Zavala,0.0,14.2,7.7,0.0,0.0,0,0,16.8,False,False
+Cyclone Idai,2019,Mozambique,Cidade de Inhambane,0.0,16.9,9.1,0.0,0.0,0,0,22.0,False,False
+Cyclone Idai,2019,Mozambique,Maxixe,0.0,16.9,9.1,0.0,0.0,0,0,21.8,False,False
+Cyclone Idai,2019,Mozambique,Gondola,768.2729911543685,141.1,76.2,614.9,54.4,16,4,232.3,True,True
+Cyclone Idai,2019,Mozambique,Machaze,0.0,36.5,19.7,0.0,0.0,0,0,51.2,False,False
+Cyclone Idai,2019,Mozambique,Manica,664.5186507463475,95.9,51.8,257.4,0.0,13,0,150.7,True,False
+Cyclone Idai,2019,Mozambique,Mossurize,179.904551019716,44.4,24.0,0.0,0.0,0,0,62.6,False,False
+Cyclone Idai,2019,Mozambique,Sussundenga,289.3301185708276,105.8,57.1,313.4,0.0,14,0,164.0,True,False
+Cyclone Idai,2019,Mozambique,Cidade de Chimoio,768.2729911543685,132.3,71.5,540.5,23.3,15,3,213.2,True,True
+Cyclone Idai,2019,Mozambique,Buzi,0.0,124.6,67.3,465.4,13.1,14,3,201.3,False,True
+Cyclone Idai,2019,Mozambique,Cheringoma,0.0,55.5,30.0,0.0,0.0,0,0,104.5,False,False
+Cyclone Idai,2019,Mozambique,Chibabava,0.0,65.8,35.5,10.4,0.0,5,0,103.4,False,False
+Cyclone Idai,2019,Mozambique,Dondo,128.70050982885934,182.5,98.5,941.3,312.2,16,8,332.4,True,True
+Cyclone Idai,2019,Mozambique,Gorongosa,98.0804748759191,76.8,41.5,67.1,0.0,9,0,120.3,True,False
+Cyclone Idai,2019,Mozambique,Machanga,0.0,55.4,29.9,0.0,0.0,0,0,80.0,False,False
+Cyclone Idai,2019,Mozambique,Marromeu,207.29507831700369,47.1,25.4,0.0,0.0,0,0,99.9,False,False
+Cyclone Idai,2019,Mozambique,Muanza,0.0,99.4,53.7,300.2,0.0,14,0,177.9,False,False
+Cyclone Idai,2019,Mozambique,Nhamatanda,491.1905302936295,159.6,86.2,676.2,126.3,16,5,255.3,True,True
+Cyclone Idai,2019,Mozambique,Cidade da Beira,128.70050982885934,181.0,97.7,739.2,189.0,16,5,279.0,True,True
+Cyclone Idai,2019,Mozambique,Chinde,0.0,44.7,24.1,0.0,0.0,0,0,106.0,False,False
+Cyclone Idai,2019,Mozambique,Boane,152.6152787769789,10.8,5.8,0.0,0.0,0,0,10.2,False,False
+Cyclone Idai,2019,Mozambique,Magude,121.29799872747694,13.1,7.1,0.0,0.0,0,0,13.4,False,False
+Cyclone Idai,2019,Mozambique,Marracuene,105.86754095677564,11.5,6.2,0.0,0.0,0,0,11.3,False,False
+Cyclone Idai,2019,Mozambique,Matutuine,0.0,10.2,5.5,0.0,0.0,0,0,9.5,False,False
+Cyclone Idai,2019,Mozambique,Moamba,0.0,11.8,6.4,0.0,0.0,0,0,11.5,False,False
+Cyclone Idai,2019,Mozambique,Namaacha,0.0,10.7,5.8,0.0,0.0,0,0,10.0,False,False
+Cyclone Idai,2019,Mozambique,Cidade da Matola,152.6152787769789,11.1,6.0,0.0,0.0,0,0,10.7,False,False
+Cyclone Idai,2019,Zimbabwe,Chitungwiza,0.0,29.1,15.7,0.0,0.0,0,0,31.6,False,False
+Cyclone Idai,2019,Zimbabwe,Harare,0.0,26.6,14.3,0.0,0.0,0,0,29.9,False,False
+Cyclone Idai,2019,Zimbabwe,Makoni,1659.8331829337249,48.2,26.0,0.0,0.0,0,0,68.2,False,False
+Cyclone Idai,2019,Zimbabwe,Mutasa,0.0,72.7,39.2,42.8,0.0,8,0,106.1,False,False
+Cyclone Idai,2019,Zimbabwe,Nyanga,750.8255061576469,39.7,21.4,0.0,0.0,0,0,57.5,False,False
+Cyclone Idai,2019,Zimbabwe,Bindura,566.9276222230667,22.5,12.1,0.0,0.0,0,0,27.3,False,False
+Cyclone Idai,2019,Zimbabwe,Shamva,508.71087469650223,23.1,12.4,0.0,0.0,0,0,28.8,False,False
+Cyclone Idai,2019,Zimbabwe,Chegutu,988.3948111623156,22.1,12.0,0.0,0.0,0,0,24.0,False,False
+Cyclone Idai,2019,Zimbabwe,Kadoma,713.3665117965139,18.8,10.2,0.0,0.0,0,0,19.7,False,False
+Cyclone Idai,2019,Zimbabwe,Kwekwe,1378.5635323705794,18.0,9.7,0.0,0.0,0,0,18.3,False,False
+Cyclone Idai,2019,Zimbabwe,Goromonzi,517.1064472330336,28.1,15.2,0.0,0.0,0,0,33.1,False,False
+Cyclone Idai,2019,Zimbabwe,Hwedza,0.0,61.7,33.3,0.0,0.0,0,0,60.9,False,False
+Cyclone Idai,2019,Zimbabwe,Marondera,651.1977388200808,43.8,23.7,0.0,0.0,0,0,45.1,False,False
+Cyclone Idai,2019,Zimbabwe,Murehwa,806.8454986645994,30.2,16.3,0.0,0.0,0,0,40.2,False,False
+Cyclone Idai,2019,Zimbabwe,Mutoko,969.7719195884396,28.9,15.6,0.0,0.0,0,0,39.1,False,False
+Cyclone Idai,2019,Zimbabwe,Seke,428.40029422127947,30.8,16.6,0.0,0.0,0,0,32.0,False,False
+Cyclone Idai,2019,Zimbabwe,Uzumba-Maramba-Pfungwe,521.0249052127346,24.6,13.3,0.0,0.0,0,0,32.0,False,False
+Cyclone Idai,2019,Zimbabwe,Chikomba,762.7362904245958,37.9,20.5,0.0,0.0,0,0,40.0,False,False
+Cyclone Idai,2019,Zimbabwe,Buhera,2852.9545931763973,52.0,28.1,0.0,0.0,0,0,67.1,False,False
+Cyclone Idai,2019,Zimbabwe,Chimanimani,0.0,66.1,35.7,13.2,0.0,6,0,98.0,False,False
+Cyclone Idai,2019,Zimbabwe,Chipinge,1544.6873591466606,39.3,21.2,0.0,0.0,0,0,51.8,False,False
+Cyclone Idai,2019,Zimbabwe,Mutare,1989.447533449147,91.2,49.2,118.7,0.0,9,0,120.3,True,False
+Cyclone Idai,2019,Zimbabwe,Bikita,1150.6307285207938,36.2,19.6,0.0,0.0,0,0,47.3,False,False
+Cyclone Idai,2019,Zimbabwe,Chiredzi,1785.917361570548,24.3,13.1,0.0,0.0,0,0,27.6,False,False
+Cyclone Idai,2019,Zimbabwe,Chivi,1339.8231676675907,21.9,11.8,0.0,0.0,0,0,23.5,False,False
+Cyclone Idai,2019,Zimbabwe,Gutu,2013.2656135406185,32.1,17.3,0.0,0.0,0,0,39.4,False,False
+Cyclone Idai,2019,Zimbabwe,Masvingo,1014.2936496104184,24.8,13.4,0.0,0.0,0,0,28.2,False,False
+Cyclone Idai,2019,Zimbabwe,Mwenezi,1461.5977266451505,19.9,10.7,0.0,0.0,0,0,20.5,False,False
+Cyclone Idai,2019,Zimbabwe,Zaka,732.3376238404527,28.5,15.4,0.0,0.0,0,0,34.1,False,False
+Cyclone Idai,2019,Zimbabwe,Beitbridge,0.0,16.4,8.9,0.0,0.0,0,0,15.6,False,False
+Cyclone Idai,2019,Zimbabwe,Chirumhanzu,558.4042339778435,23.7,12.8,0.0,0.0,0,0,26.7,False,False
+Cyclone Idai,2019,Zimbabwe,Gweru,706.0648228561178,18.5,10.0,0.0,0.0,0,0,18.7,False,False
+Cyclone Idai,2019,Zimbabwe,Mberengwa,834.343516522202,18.8,10.1,0.0,0.0,0,0,18.7,False,False
+Cyclone Idai,2019,Zimbabwe,Shurugwi,583.9454581134663,20.9,11.3,0.0,0.0,0,0,22.2,False,False
+Cyclone Idai,2019,Zimbabwe,Zvishavane,678.3405586397569,19.8,10.7,0.0,0.0,0,0,20.4,False,False
+Cyclone Freddy,2023,Malawi,Neno,40.83246860707912,26.9,14.5,0.0,0.0,0,0,57.0,False,False
+Cyclone Freddy,2023,Malawi,Mwanza,78.06805293542622,30.4,16.4,0.0,0.0,0,0,62.9,False,False
+Cyclone Freddy,2023,Malawi,Ntcheu,0.0,19.9,10.8,0.0,0.0,0,0,42.0,False,False
+Cyclone Freddy,2023,Malawi,Blantyre,82.41068838633576,31.3,16.9,0.0,0.0,0,0,67.2,False,False
+Cyclone Freddy,2023,Malawi,Chikwawa,200.9166460222725,51.8,28.0,0.0,0.0,0,0,101.7,False,False
+Cyclone Freddy,2023,Malawi,Chiradzulu,78.80367623133716,32.1,17.3,0.0,0.0,0,0,71.9,False,False
+Cyclone Freddy,2023,Malawi,Mangochi,0.0,17.4,9.4,0.0,0.0,0,0,37.4,False,False
+Cyclone Freddy,2023,Malawi,Nsanje,74.82498798603314,82.0,44.3,47.2,0.0,6,0,140.3,True,False
+Cyclone Freddy,2023,Malawi,Thyolo,0.0,43.7,23.6,0.0,0.0,0,0,92.2,False,False
+Cyclone Freddy,2023,Malawi,Zomba,303.21583878342824,25.9,14.0,0.0,0.0,0,0,60.1,False,False
+Cyclone Freddy,2023,Malawi,Balaka,311.3508276994101,22.1,11.9,0.0,0.0,0,0,48.4,False,False
+Cyclone Freddy,2023,Malawi,Machinga,319.41545635596594,21.4,11.5,0.0,0.0,0,0,48.9,False,False
+Cyclone Freddy,2023,Malawi,Mulanje,0.0,35.2,19.0,0.0,0.0,0,0,83.1,False,False
+Cyclone Freddy,2023,Malawi,Phalombe,616.4324106820175,29.1,15.7,0.0,0.0,0,0,71.6,False,False
+Cyclone Freddy,2023,Madagascar,Ambatondrazaka,1741.9094389638394,22.9,12.4,0.0,0.0,0,0,29.6,False,False
+Cyclone Freddy,2023,Madagascar,Amparafaravola,1741.9094389638394,19.8,10.7,0.0,0.0,0,0,26.7,False,False
+Cyclone Freddy,2023,Madagascar,Andilamena,1741.9094389638394,16.6,9.0,0.0,0.0,0,0,23.3,False,False
+Cyclone Freddy,2023,Madagascar,Anosibe-An'ala,1741.9094389638394,41.5,22.4,0.0,0.0,0,0,49.8,False,False
+Cyclone Freddy,2023,Madagascar,Moramanga,1741.9094389638394,30.3,16.4,0.0,0.0,0,0,37.9,False,False
+Cyclone Freddy,2023,Madagascar,Ambatofinandrahana,490.1971850618071,70.0,37.8,13.1,0.0,3,0,71.8,True,False
+Cyclone Freddy,2023,Madagascar,Ambositra,490.1971850618071,96.8,52.3,120.8,0.0,6,0,94.5,True,False
+Cyclone Freddy,2023,Madagascar,Fandriana,490.1971850618071,68.4,36.9,12.1,0.0,3,0,72.6,True,False
+Cyclone Freddy,2023,Madagascar,Manandriana,490.1971850618071,119.6,64.6,189.0,1.1,6,1,108.9,True,True
+Cyclone Freddy,2023,Madagascar,Antananarivo I,1068.2139496506124,29.3,15.8,0.0,0.0,0,0,38.7,False,False
+Cyclone Freddy,2023,Madagascar,Antananarivo II,1068.2139496506124,29.6,16.0,0.0,0.0,0,0,38.9,False,False
+Cyclone Freddy,2023,Madagascar,Antananarivo III,1068.2139496506124,29.2,15.8,0.0,0.0,0,0,38.6,False,False
+Cyclone Freddy,2023,Madagascar,Antananarivo IV,1068.2139496506124,29.6,16.0,0.0,0.0,0,0,39.0,False,False
+Cyclone Freddy,2023,Madagascar,Antananarivo V,1068.2139496506124,29.0,15.7,0.0,0.0,0,0,38.4,False,False
+Cyclone Freddy,2023,Madagascar,Antananarivo VI,1068.2139496506124,28.8,15.5,0.0,0.0,0,0,38.2,False,False
+Cyclone Freddy,2023,Madagascar,Ambohidratrimo,1068.2139496506124,26.5,14.3,0.0,0.0,0,0,36.1,False,False
+Cyclone Freddy,2023,Madagascar,Andramasina,1068.2139496506124,35.5,19.2,0.0,0.0,0,0,44.4,False,False
+Cyclone Freddy,2023,Madagascar,Anjozorobe,1068.2139496506124,22.9,12.4,0.0,0.0,0,0,32.0,False,False
+Cyclone Freddy,2023,Madagascar,Ankazobe,1068.2139496506124,22.0,11.9,0.0,0.0,0,0,32.3,False,False
+Cyclone Freddy,2023,Madagascar,Antananarivo Atsimondrano,1068.2139496506124,30.9,16.7,0.0,0.0,0,0,40.1,False,False
+Cyclone Freddy,2023,Madagascar,Antananarivo Avaradrano,1068.2139496506124,29.4,15.9,0.0,0.0,0,0,38.7,False,False
+Cyclone Freddy,2023,Madagascar,Manjakandriana,1068.2139496506124,28.8,15.5,0.0,0.0,0,0,37.9,False,False
+Cyclone Freddy,2023,Madagascar,Fenerive Est,0.0,20.1,10.9,0.0,0.0,0,0,24.7,False,False
+Cyclone Freddy,2023,Madagascar,Mananara-Avaratra,0.0,16.4,8.9,0.0,0.0,0,0,20.6,False,False
+Cyclone Freddy,2023,Madagascar,Maroantsetra,0.0,13.9,7.5,0.0,0.0,0,0,18.2,False,False
+Cyclone Freddy,2023,Madagascar,Sainte Marie,0.0,20.1,10.8,0.0,0.0,0,0,23.1,False,False
+Cyclone Freddy,2023,Madagascar,Soanierana Ivongo,0.0,18.1,9.8,0.0,0.0,0,0,22.6,False,False
+Cyclone Freddy,2023,Madagascar,Vavatenina,0.0,21.8,11.8,0.0,0.0,0,0,26.7,False,False
+Cyclone Freddy,2023,Madagascar,Toamasina II,0.0,25.9,14.0,0.0,0.0,0,0,30.3,False,False
+Cyclone Freddy,2023,Madagascar,Ambovombe-Androy,1691.7866192963431,17.8,9.6,0.0,0.0,0,0,43.2,False,False
+Cyclone Freddy,2023,Madagascar,Bekily,1691.7866192963431,21.0,11.3,0.0,0.0,0,0,54.1,False,False
+Cyclone Freddy,2023,Madagascar,Beloha,1691.7866192963431,21.6,11.7,0.0,0.0,0,0,50.5,False,False
+Cyclone Freddy,2023,Madagascar,Tsihombe,1691.7866192963431,18.2,9.8,0.0,0.0,0,0,41.9,False,False
+Cyclone Freddy,2023,Madagascar,Amboasary-Atsimo,453.9001031840639,19.2,10.4,0.0,0.0,0,0,41.0,False,False
+Cyclone Freddy,2023,Madagascar,Betroka,453.9001031840639,26.1,14.1,0.0,0.0,0,0,54.0,False,False
+Cyclone Freddy,2023,Madagascar,Taolagnaro,453.9001031840639,18.5,10.0,0.0,0.0,0,0,35.3,False,False
+Cyclone Freddy,2023,Madagascar,Ampanihy Ouest,1231.5680450708544,29.5,15.9,0.0,0.0,0,0,73.0,False,False
+Cyclone Freddy,2023,Madagascar,Ankazoabo,1231.5680450708544,77.5,41.8,24.3,0.0,3,0,96.2,True,False
+Cyclone Freddy,2023,Madagascar,Benenitra,1231.5680450708544,27.1,14.6,0.0,0.0,0,0,68.3,False,False
+Cyclone Freddy,2023,Madagascar,Beroroha,1231.5680450708544,78.3,42.3,23.8,0.0,3,0,86.4,True,False
+Cyclone Freddy,2023,Madagascar,Betioky Atsimo,1231.5680450708544,33.7,18.2,0.0,0.0,0,0,87.2,False,False
+Cyclone Freddy,2023,Madagascar,Morombe,1231.5680450708544,71.9,38.8,13.4,0.0,2,0,120.4,True,False
+Cyclone Freddy,2023,Madagascar,Sakaraha,1231.5680450708544,46.5,25.1,0.0,0.0,0,0,94.4,False,False
+Cyclone Freddy,2023,Madagascar,Toliary-I,1231.5680450708544,68.1,36.7,17.4,0.0,4,0,166.2,True,False
+Cyclone Freddy,2023,Madagascar,Toliary-II,1231.5680450708544,56.9,30.7,0.0,0.0,0,0,142.3,False,False
+Cyclone Freddy,2023,Madagascar,Befotaka,0.0,22.8,12.3,0.0,0.0,0,0,40.9,False,False
+Cyclone Freddy,2023,Madagascar,Farafangana,0.0,36.9,19.9,0.0,0.0,0,0,46.9,False,False
+Cyclone Freddy,2023,Madagascar,Midongy-Atsimo,0.0,27.8,15.0,0.0,0.0,0,0,44.0,False,False
+Cyclone Freddy,2023,Madagascar,Vangaindrano,0.0,26.2,14.1,0.0,0.0,0,0,39.8,False,False
+Cyclone Freddy,2023,Madagascar,Vondrozo,0.0,38.4,20.7,0.0,0.0,0,0,50.4,False,False
+Cyclone Freddy,2023,Madagascar,Antanambao Manampontsy,0.0,45.7,24.7,0.0,0.0,0,0,52.6,False,False
+Cyclone Freddy,2023,Madagascar,Brickaville,0.0,31.5,17.0,0.0,0.0,0,0,36.6,False,False
+Cyclone Freddy,2023,Madagascar,Mahanoro,0.0,65.0,35.1,4.5,0.0,3,0,71.9,False,False
+Cyclone Freddy,2023,Madagascar,Marolambo,0.0,61.1,33.0,0.0,0.0,0,0,68.5,False,False
+Cyclone Freddy,2023,Madagascar,Toamasina I,0.0,28.3,15.3,0.0,0.0,0,0,31.6,False,False
+Cyclone Freddy,2023,Madagascar,Vatomandry,0.0,43.9,23.7,0.0,0.0,0,0,49.0,False,False
+Cyclone Freddy,2023,Madagascar,Kandreho,535.8631821294521,17.3,9.3,0.0,0.0,0,0,29.7,False,False
+Cyclone Freddy,2023,Madagascar,Maevatanana,535.8631821294521,17.1,9.2,0.0,0.0,0,0,27.3,False,False
+Cyclone Freddy,2023,Madagascar,Tsaratanana,535.8631821294521,17.1,9.3,0.0,0.0,0,0,25.9,False,False
+Cyclone Freddy,2023,Madagascar,Ambato Boeni,1471.3576122583718,15.0,8.1,0.0,0.0,0,0,25.6,False,False
+Cyclone Freddy,2023,Madagascar,Mahajanga I,1471.3576122583718,12.5,6.8,0.0,0.0,0,0,22.3,False,False
+Cyclone Freddy,2023,Madagascar,Mahajanga II,1471.3576122583718,12.5,6.8,0.0,0.0,0,0,21.6,False,False
+Cyclone Freddy,2023,Madagascar,Marovoay,1471.3576122583718,13.6,7.4,0.0,0.0,0,0,23.4,False,False
+Cyclone Freddy,2023,Madagascar,Mitsinjo,1471.3576122583718,13.3,7.2,0.0,0.0,0,0,24.5,False,False
+Cyclone Freddy,2023,Madagascar,Soalala,1471.3576122583718,14.0,7.6,0.0,0.0,0,0,27.1,False,False
+Cyclone Freddy,2023,Madagascar,Fenoarivobe,494.21633546519513,22.0,11.9,0.0,0.0,0,0,34.1,False,False
+Cyclone Freddy,2023,Madagascar,Tsiroanomandidy,494.21633546519513,25.8,13.9,0.0,0.0,0,0,39.2,False,False
+Cyclone Freddy,2023,Madagascar,Ambanja,1053.7549346702915,10.1,5.5,0.0,0.0,0,0,15.4,False,False
+Cyclone Freddy,2023,Madagascar,Ambilobe,1053.7549346702915,9.9,5.3,0.0,0.0,0,0,14.3,False,False
+Cyclone Freddy,2023,Madagascar,Antsiranana I,0.0,8.5,4.6,0.0,0.0,0,0,12.4,False,False
+Cyclone Freddy,2023,Madagascar,Antsiranana II,1053.7549346702915,8.8,4.7,0.0,0.0,0,0,12.8,False,False
+Cyclone Freddy,2023,Madagascar,Nosy-Be,1053.7549346702915,9.3,5.0,0.0,0.0,0,0,14.6,False,False
+Cyclone Freddy,2023,Madagascar,Isandra,648.8030271510045,134.8,72.8,245.5,16.3,7,1,123.0,True,True
+Cyclone Freddy,2023,Madagascar,Lalangina,648.8030271510045,129.4,69.9,240.2,10.9,7,1,121.5,True,True
+Cyclone Freddy,2023,Madagascar,Vohibato,648.8030271510045,87.9,47.4,84.9,0.0,6,0,89.7,True,False
+Cyclone Freddy,2023,Madagascar,Ambalavao,648.8030271510045,66.8,36.1,8.8,0.0,3,0,75.3,True,False
+Cyclone Freddy,2023,Madagascar,Ambohimahasoa,648.8030271510045,122.2,66.0,189.7,3.7,7,1,111.8,True,True
+Cyclone Freddy,2023,Madagascar,Fianarantsoa I,648.8030271510045,118.1,63.8,196.4,0.0,7,0,112.1,True,False
+Cyclone Freddy,2023,Madagascar,Ikalamavony,648.8030271510045,114.6,61.9,126.2,0.0,5,0,97.4,True,False
+Cyclone Freddy,2023,Madagascar,Iakora,0.0,29.5,15.9,0.0,0.0,0,0,48.3,False,False
+Cyclone Freddy,2023,Madagascar,Ihosy,0.0,46.0,24.8,0.0,0.0,0,0,66.9,False,False
+Cyclone Freddy,2023,Madagascar,Ivohibe,0.0,41.2,22.3,0.0,0.0,0,0,55.2,False,False
+Cyclone Freddy,2023,Madagascar,Arivonimamo,1021.97522760318,30.9,16.7,0.0,0.0,0,0,40.5,False,False
+Cyclone Freddy,2023,Madagascar,Miarinarivo,1021.97522760318,28.2,15.2,0.0,0.0,0,0,38.7,False,False
+Cyclone Freddy,2023,Madagascar,Soavinandriana,1021.97522760318,31.7,17.1,0.0,0.0,0,0,42.4,False,False
+Cyclone Freddy,2023,Madagascar,Ambatomainty,411.6654144057014,18.2,9.8,0.0,0.0,0,0,32.6,False,False
+Cyclone Freddy,2023,Madagascar,Antsalova,411.6654144057014,20.9,11.3,0.0,0.0,0,0,43.3,False,False
+Cyclone Freddy,2023,Madagascar,Besalampy,411.6654144057014,14.6,7.9,0.0,0.0,0,0,30.3,False,False
+Cyclone Freddy,2023,Madagascar,Maintirano,411.6654144057014,16.0,8.6,0.0,0.0,0,0,37.0,False,False
+Cyclone Freddy,2023,Madagascar,Morafenobe,411.6654144057014,17.9,9.7,0.0,0.0,0,0,35.7,False,False
+Cyclone Freddy,2023,Madagascar,Belo Sur Tsiribihina,975.2942916059033,27.4,14.8,0.0,0.0,0,0,50.1,False,False
+Cyclone Freddy,2023,Madagascar,Mahabo,975.2942916059033,48.7,26.3,0.0,0.0,0,0,65.6,False,False
+Cyclone Freddy,2023,Madagascar,Manja,975.2942916059033,54.0,29.2,0.0,0.0,0,0,87.1,False,False
+Cyclone Freddy,2023,Madagascar,Miandrivazo,975.2942916059033,26.1,14.1,0.0,0.0,0,0,43.4,False,False
+Cyclone Freddy,2023,Madagascar,Morondava,975.2942916059033,34.4,18.6,0.0,0.0,0,0,65.7,False,False
+Cyclone Freddy,2023,Madagascar,Andapa,0.0,11.9,6.4,0.0,0.0,0,0,16.0,False,False
+Cyclone Freddy,2023,Madagascar,Antalaha,0.0,13.7,7.4,0.0,0.0,0,0,17.1,False,False
+Cyclone Freddy,2023,Madagascar,Sambava,0.0,11.3,6.1,0.0,0.0,0,0,15.1,False,False
+Cyclone Freddy,2023,Madagascar,Vohemar,0.0,10.1,5.4,0.0,0.0,0,0,13.9,False,False
+Cyclone Freddy,2023,Madagascar,Analalava,2540.956812373445,11.1,6.0,0.0,0.0,0,0,17.8,False,False
+Cyclone Freddy,2023,Madagascar,Antsohihy,2540.956812373445,11.8,6.4,0.0,0.0,0,0,18.2,False,False
+Cyclone Freddy,2023,Madagascar,Bealanana,2540.956812373445,11.4,6.2,0.0,0.0,0,0,16.5,False,False
+Cyclone Freddy,2023,Madagascar,Befandriana Nord,2540.956812373445,12.6,6.8,0.0,0.0,0,0,18.0,False,False
+Cyclone Freddy,2023,Madagascar,Mampikony,2540.956812373445,14.0,7.6,0.0,0.0,0,0,22.0,False,False
+Cyclone Freddy,2023,Madagascar,Mandritsara,2540.956812373445,14.8,8.0,0.0,0.0,0,0,20.5,False,False
+Cyclone Freddy,2023,Madagascar,Port-Berge (Boriziny-Vaovao),2540.956812373445,13.0,7.0,0.0,0.0,0,0,20.5,False,False
+Cyclone Freddy,2023,Madagascar,Betafo,2674.6802117499647,48.2,26.0,0.0,0.0,0,0,55.1,False,False
+Cyclone Freddy,2023,Madagascar,Mandoto,2674.6802117499647,38.2,20.6,0.0,0.0,0,0,48.7,False,False
+Cyclone Freddy,2023,Madagascar,Ambatolampy,2674.6802117499647,38.3,20.7,0.0,0.0,0,0,47.0,False,False
+Cyclone Freddy,2023,Madagascar,Antanifotsy,2674.6802117499647,45.1,24.3,0.0,0.0,0,0,53.1,False,False
+Cyclone Freddy,2023,Madagascar,Antsirabe I,2674.6802117499647,47.5,25.7,0.0,0.0,0,0,54.9,False,False
+Cyclone Freddy,2023,Madagascar,Antsirabe II,2674.6802117499647,48.2,26.0,0.0,0.0,0,0,55.4,False,False
+Cyclone Freddy,2023,Madagascar,Faratsiho,2674.6802117499647,35.6,19.2,0.0,0.0,0,0,45.1,False,False
+Cyclone Freddy,2023,Madagascar,Ifanadiana,0.0,133.4,72.0,266.7,25.5,7,2,126.0,False,True
+Cyclone Freddy,2023,Madagascar,Ikongo,0.0,68.0,36.7,11.5,0.0,3,0,73.6,False,False
+Cyclone Freddy,2023,Madagascar,Manakara Atsimo,0.0,72.1,38.9,26.3,0.0,4,0,74.9,False,False
+Cyclone Freddy,2023,Madagascar,Mananjary,0.0,162.7,87.8,361.4,84.7,8,3,151.2,False,True
+Cyclone Freddy,2023,Madagascar,Nosy-Varika,0.0,105.5,57.0,206.6,0.0,8,0,112.7,False,False
+Cyclone Freddy,2023,Madagascar,Vohipeno,0.0,49.2,26.6,0.0,0.0,0,0,56.7,False,False
+Cyclone Freddy,2023,Mozambique,Ancuabe,718.0876751676873,12.2,6.6,0.0,0.0,0,0,24.6,False,False
+Cyclone Freddy,2023,Mozambique,Balama,804.704341117063,14.5,7.9,0.0,0.0,0,0,29.8,False,False
+Cyclone Freddy,2023,Mozambique,Chiure,527.8151431006098,13.4,7.2,0.0,0.0,0,0,27.7,False,False
+Cyclone Freddy,2023,Mozambique,Ibo,0.0,10.4,5.6,0.0,0.0,0,0,20.5,False,False
+Cyclone Freddy,2023,Mozambique,Macomia,155.84488661858722,10.3,5.6,0.0,0.0,0,0,20.0,False,False
+Cyclone Freddy,2023,Mozambique,Mecufi,718.0876751676873,12.1,6.5,0.0,0.0,0,0,25.0,False,False
+Cyclone Freddy,2023,Mozambique,Meluco,110.89919476618316,11.4,6.1,0.0,0.0,0,0,22.3,False,False
+Cyclone Freddy,2023,Mozambique,Mocimboa da Praia,0.0,9.5,5.1,0.0,0.0,0,0,17.9,False,False
+Cyclone Freddy,2023,Mozambique,Montepuez,844.532770119152,12.1,6.5,0.0,0.0,0,0,23.8,False,False
+Cyclone Freddy,2023,Mozambique,Mueda,160.72009313113512,10.2,5.5,0.0,0.0,0,0,19.0,False,False
+Cyclone Freddy,2023,Mozambique,Muidumbe,101.80400028085072,10.2,5.5,0.0,0.0,0,0,19.5,False,False
+Cyclone Freddy,2023,Mozambique,Namuno,849.4751561402123,15.0,8.1,0.0,0.0,0,0,31.3,False,False
+Cyclone Freddy,2023,Mozambique,Nangade,0.0,9.3,5.0,0.0,0.0,0,0,17.3,False,False
+Cyclone Freddy,2023,Mozambique,Palma,0.0,8.8,4.7,0.0,0.0,0,0,16.1,False,False
+Cyclone Freddy,2023,Mozambique,Pemba,127.75040266542868,11.6,6.3,0.0,0.0,0,0,23.4,False,False
+Cyclone Freddy,2023,Mozambique,Quissanga,0.0,11.0,6.0,0.0,0.0,0,0,21.9,False,False
+Cyclone Freddy,2023,Mozambique,Cidade de Pemba,127.75040266542868,11.6,6.3,0.0,0.0,0,0,23.7,False,False
+Cyclone Freddy,2023,Mozambique,Barue,465.5930931264696,20.7,11.2,0.0,0.0,0,0,50.2,False,False
+Cyclone Freddy,2023,Mozambique,Guro,191.1572794738291,27.0,14.6,0.0,0.0,0,0,57.1,False,False
+Cyclone Freddy,2023,Mozambique,Macossa,0.0,25.8,13.9,0.0,0.0,0,0,61.2,False,False
+Cyclone Freddy,2023,Mozambique,Tambara,0.0,42.3,22.8,0.0,0.0,0,0,83.0,False,False
+Cyclone Freddy,2023,Mozambique,Angoche,266.6056449527373,22.7,12.3,0.0,0.0,0,0,57.9,False,False
+Cyclone Freddy,2023,Mozambique,Erati,1191.2472654884562,14.4,7.8,0.0,0.0,0,0,30.7,False,False
+Cyclone Freddy,2023,Mozambique,Lalaua,253.1361087123707,18.8,10.1,0.0,0.0,0,0,40.6,False,False
+Cyclone Freddy,2023,Mozambique,Malema,685.2027909555666,22.2,12.0,0.0,0.0,0,0,48.4,False,False
+Cyclone Freddy,2023,Mozambique,Meconta,359.4161624598412,19.5,10.5,0.0,0.0,0,0,45.6,False,False
+Cyclone Freddy,2023,Mozambique,Mecuburi,974.886625926215,17.7,9.5,0.0,0.0,0,0,38.7,False,False
+Cyclone Freddy,2023,Mozambique,Memba,237.0884065638241,13.6,7.4,0.0,0.0,0,0,29.4,False,False
+Cyclone Freddy,2023,Mozambique,Mogincual,0.0,19.0,10.3,0.0,0.0,0,0,46.0,False,False
+Cyclone Freddy,2023,Mozambique,Mogovolas,886.5081957338016,23.6,12.7,0.0,0.0,0,0,57.0,False,False
+Cyclone Freddy,2023,Mozambique,Moma,181.8434113510704,28.1,15.1,0.0,0.0,0,0,72.9,False,False
+Cyclone Freddy,2023,Mozambique,Monapo,838.8906889367302,16.3,8.8,0.0,0.0,0,0,37.0,False,False
+Cyclone Freddy,2023,Mozambique,Mossuril,296.97076852917434,16.1,8.7,0.0,0.0,0,0,37.8,False,False
+Cyclone Freddy,2023,Mozambique,Muecate,436.7158484993262,17.3,9.4,0.0,0.0,0,0,38.6,False,False
+Cyclone Freddy,2023,Mozambique,Murrupula,604.3090604141631,23.6,12.7,0.0,0.0,0,0,55.3,False,False
+Cyclone Freddy,2023,Mozambique,Nacala-A-Velha,208.84446945928096,14.9,8.0,0.0,0.0,0,0,33.5,False,False
+Cyclone Freddy,2023,Mozambique,Nacaroa,423.58865188911807,15.4,8.3,0.0,0.0,0,0,33.7,False,False
+Cyclone Freddy,2023,Mozambique,Nampula,1236.7543958374815,20.4,11.0,0.0,0.0,0,0,46.8,False,False
+Cyclone Freddy,2023,Mozambique,Ribaue,1174.001881779474,21.9,11.8,0.0,0.0,0,0,49.9,False,False
+Cyclone Freddy,2023,Mozambique,Cidade de Nampula,1236.7543958374815,19.9,10.7,0.0,0.0,0,0,45.5,False,False
+Cyclone Freddy,2023,Mozambique,Ilha de Mocambique,296.97076852917434,15.8,8.5,0.0,0.0,0,0,37.2,False,False
+Cyclone Freddy,2023,Mozambique,Nacala,208.84446945928096,14.3,7.7,0.0,0.0,0,0,32.4,False,False
+Cyclone Freddy,2023,Mozambique,Cuamba,775.0955534305062,22.0,11.9,0.0,0.0,0,0,47.6,False,False
+Cyclone Freddy,2023,Mozambique,Mandimba,240.44174937160705,18.0,9.7,0.0,0.0,0,0,37.6,False,False
+Cyclone Freddy,2023,Mozambique,Marrupa,247.29564311540383,13.9,7.5,0.0,0.0,0,0,27.2,False,False
+Cyclone Freddy,2023,Mozambique,Maua,196.4806988653416,17.2,9.3,0.0,0.0,0,0,35.1,False,False
+Cyclone Freddy,2023,Mozambique,Mecanhelas,1101.701415688672,23.2,12.5,0.0,0.0,0,0,52.2,False,False
+Cyclone Freddy,2023,Mozambique,Mecula,0.0,11.3,6.1,0.0,0.0,0,0,21.0,False,False
+Cyclone Freddy,2023,Mozambique,Metarica,151.41999249129518,19.3,10.4,0.0,0.0,0,0,40.5,False,False
+Cyclone Freddy,2023,Mozambique,Nipepe,118.6818104396743,17.0,9.2,0.0,0.0,0,0,35.4,False,False
+Cyclone Freddy,2023,Mozambique,Caia,225.79646940221448,44.6,24.1,0.0,0.0,0,0,105.4,False,False
+Cyclone Freddy,2023,Mozambique,Chemba,106.64933773581302,56.5,30.5,0.0,0.0,0,0,106.1,False,False
+Cyclone Freddy,2023,Mozambique,Maringue,210.0988067512264,35.3,19.0,0.0,0.0,0,0,81.4,False,False
+Cyclone Freddy,2023,Mozambique,Changara,212.67129786946808,21.4,11.6,0.0,0.0,0,0,43.9,False,False
+Cyclone Freddy,2023,Mozambique,Chiuta,188.9250932214997,19.9,10.8,0.0,0.0,0,0,40.1,False,False
+Cyclone Freddy,2023,Mozambique,Moatize,322.1444052901339,32.0,17.3,0.0,0.0,0,0,63.2,False,False
+Cyclone Freddy,2023,Mozambique,Mutarara,277.15727589399893,76.2,41.2,33.0,0.0,6,0,134.2,True,False
+Cyclone Freddy,2023,Mozambique,Tsangano,649.1973829504933,21.6,11.7,0.0,0.0,0,0,44.9,False,False
+Cyclone Freddy,2023,Mozambique,Cidade de Tete,212.67129786946808,26.6,14.4,0.0,0.0,0,0,52.1,False,False
+Cyclone Freddy,2023,Mozambique,Luenha,212.67129786946808,21.9,11.8,0.0,0.0,0,0,46.6,False,False
+Cyclone Freddy,2023,Mozambique,Gile,309.5182010801853,30.2,16.3,0.0,0.0,0,0,74.7,False,False
+Cyclone Freddy,2023,Mozambique,Gurue,963.9919911978384,28.0,15.1,0.0,0.0,0,0,63.1,False,False
+Cyclone Freddy,2023,Mozambique,Ile,671.1684098077607,41.1,22.2,0.0,0.0,0,0,101.7,False,False
+Cyclone Freddy,2023,Mozambique,Inhassunge,0.0,135.7,73.3,1107.7,85.1,30,8,434.8,False,True
+Cyclone Freddy,2023,Mozambique,Lugela,0.0,47.6,25.7,0.0,0.0,0,0,121.1,False,False
+Cyclone Freddy,2023,Mozambique,Maganja da Costa,139.79585504390127,75.6,40.8,196.8,0.0,24,0,239.0,True,False
+Cyclone Freddy,2023,Mozambique,Milange,2212.566370681824,35.8,19.4,0.0,0.0,0,0,91.9,False,False
+Cyclone Freddy,2023,Mozambique,Mocuba,0.0,83.1,44.9,146.6,0.0,14,0,222.2,False,False
+Cyclone Freddy,2023,Mozambique,Alto Molocue,652.375866496782,30.1,16.3,0.0,0.0,0,0,70.9,False,False
+Cyclone Freddy,2023,Mozambique,Mopeia,95.70051602465723,64.9,35.0,10.8,0.0,11,0,209.9,True,False
+Cyclone Freddy,2023,Mozambique,Morrumbala,168.9881398138509,82.0,44.3,136.3,0.0,11,0,194.0,True,False
+Cyclone Freddy,2023,Mozambique,Namacurra,0.0,157.5,85.0,1547.7,223.4,33,13,528.9,False,True
+Cyclone Freddy,2023,Mozambique,Namarroi,411.15293674714775,36.0,19.4,0.0,0.0,0,0,85.2,False,False
+Cyclone Freddy,2023,Mozambique,Nicoadala,328.5496768377461,153.6,82.9,1332.2,161.2,32,9,484.3,True,True
+Cyclone Freddy,2023,Mozambique,Pebane,0.0,41.0,22.1,0.0,0.0,0,0,110.9,False,False
+Cyclone Freddy,2023,Mozambique,Cidade de Quelimane,328.5496768377461,166.6,90.0,1753.6,409.6,33,16,589.5,True,True
+Cyclone Freddy,2023,Mozambique,Cidade de Maputo,0.0,11.9,6.4,0.0,0.0,0,0,28.5,False,False
+Cyclone Freddy,2023,Mozambique,Manhica,436.32429904311607,13.4,7.2,0.0,0.0,0,0,33.9,False,False
+Cyclone Freddy,2023,Mozambique,Bilene,167.74998411261967,14.4,7.8,0.0,0.0,0,0,37.8,False,False
+Cyclone Freddy,2023,Mozambique,Chibuto,225.5499419577092,17.2,9.3,0.0,0.0,0,0,49.5,False,False
+Cyclone Freddy,2023,Mozambique,Chicualacuala,114.23020874832834,14.4,7.8,0.0,0.0,0,0,39.5,False,False
+Cyclone Freddy,2023,Mozambique,Chigubo,0.0,18.6,10.0,0.0,0.0,0,0,58.2,False,False
+Cyclone Freddy,2023,Mozambique,Chokwe,348.6488020629644,14.8,8.0,0.0,0.0,0,0,39.6,False,False
+Cyclone Freddy,2023,Mozambique,Guija,189.1287279378792,16.0,8.6,0.0,0.0,0,0,44.6,False,False
+Cyclone Freddy,2023,Mozambique,Mabalane,0.0,15.9,8.6,0.0,0.0,0,0,45.0,False,False
+Cyclone Freddy,2023,Mozambique,Mandlakaze,0.0,17.6,9.5,0.0,0.0,0,0,51.1,False,False
+Cyclone Freddy,2023,Mozambique,Massangena,0.0,16.1,8.7,0.0,0.0,0,0,49.3,False,False
+Cyclone Freddy,2023,Mozambique,Massingir,0.0,13.7,7.4,0.0,0.0,0,0,35.7,False,False
+Cyclone Freddy,2023,Mozambique,Xai-xai,348.77433054849337,15.3,8.3,0.0,0.0,0,0,41.7,False,False
+Cyclone Freddy,2023,Mozambique,Cidade de Xai-Xai,348.77433054849337,15.3,8.3,0.0,0.0,0,0,41.7,False,False
+Cyclone Freddy,2023,Mozambique,Funhalouro,131.96142344261068,24.9,13.4,0.0,0.0,0,0,90.4,False,False
+Cyclone Freddy,2023,Mozambique,Govuro,0.0,28.1,15.2,0.0,0.0,0,0,130.3,False,False
+Cyclone Freddy,2023,Mozambique,Homoine,0.0,25.4,13.7,0.0,0.0,0,0,88.8,False,False
+Cyclone Freddy,2023,Mozambique,Inharrime,0.0,20.8,11.2,0.0,0.0,0,0,65.8,False,False
+Cyclone Freddy,2023,Mozambique,Inhassoro,0.0,32.8,17.7,0.0,0.0,0,0,166.7,False,False
+Cyclone Freddy,2023,Mozambique,Jangamo,0.0,24.3,13.1,0.0,0.0,0,0,82.7,False,False
+Cyclone Freddy,2023,Mozambique,Mabote,89.93153108375746,22.2,12.0,0.0,0.0,0,0,81.6,False,False
+Cyclone Freddy,2023,Mozambique,Massinga,223.2738664334157,34.3,18.5,0.0,0.0,0,0,151.5,False,False
+Cyclone Freddy,2023,Mozambique,Morrumbene,117.9726195670946,29.3,15.8,0.0,0.0,0,0,111.5,False,False
+Cyclone Freddy,2023,Mozambique,Panda,0.0,21.2,11.5,0.0,0.0,0,0,68.1,False,False
+Cyclone Freddy,2023,Mozambique,Vilankulo,103.8789414322553,39.4,21.3,0.0,0.0,0,0,213.1,False,False
+Cyclone Freddy,2023,Mozambique,Zavala,0.0,19.2,10.4,0.0,0.0,0,0,58.6,False,False
+Cyclone Freddy,2023,Mozambique,Cidade de Inhambane,0.0,27.8,15.0,0.0,0.0,0,0,100.8,False,False
+Cyclone Freddy,2023,Mozambique,Maxixe,0.0,26.9,14.5,0.0,0.0,0,0,96.4,False,False
+Cyclone Freddy,2023,Mozambique,Gondola,768.2729911543685,17.8,9.6,0.0,0.0,0,0,59.9,False,False
+Cyclone Freddy,2023,Mozambique,Machaze,0.0,17.9,9.7,0.0,0.0,0,0,62.1,False,False
+Cyclone Freddy,2023,Mozambique,Manica,664.5186507463475,17.0,9.2,0.0,0.0,0,0,49.9,False,False
+Cyclone Freddy,2023,Mozambique,Mossurize,179.904551019716,15.8,8.6,0.0,0.0,0,0,53.3,False,False
+Cyclone Freddy,2023,Mozambique,Sussundenga,289.3301185708276,15.5,8.4,0.0,0.0,0,0,55.1,False,False
+Cyclone Freddy,2023,Mozambique,Cidade de Chimoio,768.2729911543685,17.1,9.2,0.0,0.0,0,0,56.2,False,False
+Cyclone Freddy,2023,Mozambique,Buzi,0.0,19.4,10.5,0.0,0.0,0,0,82.2,False,False
+Cyclone Freddy,2023,Mozambique,Cheringoma,0.0,31.7,17.1,0.0,0.0,0,0,101.4,False,False
+Cyclone Freddy,2023,Mozambique,Chibabava,0.0,18.8,10.1,0.0,0.0,0,0,72.7,False,False
+Cyclone Freddy,2023,Mozambique,Dondo,128.70050982885934,23.0,12.4,0.0,0.0,0,0,88.0,False,False
+Cyclone Freddy,2023,Mozambique,Gorongosa,98.0804748759191,23.1,12.5,0.0,0.0,0,0,69.9,False,False
+Cyclone Freddy,2023,Mozambique,Machanga,0.0,24.5,13.2,0.0,0.0,0,0,106.5,False,False
+Cyclone Freddy,2023,Mozambique,Marromeu,207.29507831700369,42.3,22.9,0.0,0.0,0,0,131.5,False,False
+Cyclone Freddy,2023,Mozambique,Muanza,0.0,26.7,14.4,0.0,0.0,0,0,92.5,False,False
+Cyclone Freddy,2023,Mozambique,Nhamatanda,491.1905302936295,20.2,10.9,0.0,0.0,0,0,72.3,False,False
+Cyclone Freddy,2023,Mozambique,Cidade da Beira,128.70050982885934,22.5,12.1,0.0,0.0,0,0,93.3,False,False
+Cyclone Freddy,2023,Mozambique,Chinde,0.0,62.9,33.9,0.0,0.0,0,0,190.7,False,False
+Cyclone Freddy,2023,Mozambique,Boane,152.6152787769789,11.5,6.2,0.0,0.0,0,0,26.9,False,False
+Cyclone Freddy,2023,Mozambique,Magude,121.29799872747694,13.5,7.3,0.0,0.0,0,0,34.2,False,False
+Cyclone Freddy,2023,Mozambique,Marracuene,105.86754095677564,12.5,6.7,0.0,0.0,0,0,30.5,False,False
+Cyclone Freddy,2023,Mozambique,Matutuine,0.0,11.1,6.0,0.0,0.0,0,0,25.6,False,False
+Cyclone Freddy,2023,Mozambique,Moamba,0.0,12.3,6.6,0.0,0.0,0,0,29.6,False,False
+Cyclone Freddy,2023,Mozambique,Namaacha,0.0,11.2,6.1,0.0,0.0,0,0,26.0,False,False
+Cyclone Freddy,2023,Mozambique,Cidade da Matola,152.6152787769789,11.9,6.4,0.0,0.0,0,0,28.5,False,False
+Cyclone Freddy,2023,Zimbabwe,Chitungwiza,0.0,12.1,6.6,0.0,0.0,0,0,28.1,False,False
+Cyclone Freddy,2023,Zimbabwe,Harare,0.0,12.2,6.6,0.0,0.0,0,0,27.8,False,False
+Cyclone Freddy,2023,Zimbabwe,Makoni,1659.8331829337249,14.9,8.0,0.0,0.0,0,0,37.7,False,False
+Cyclone Freddy,2023,Zimbabwe,Mutasa,0.0,16.1,8.7,0.0,0.0,0,0,44.0,False,False
+Cyclone Freddy,2023,Zimbabwe,Nyanga,750.8255061576469,18.1,9.8,0.0,0.0,0,0,43.3,False,False
+Cyclone Freddy,2023,Zimbabwe,Bindura,566.9276222230667,13.1,7.1,0.0,0.0,0,0,28.1,False,False
+Cyclone Freddy,2023,Zimbabwe,Shamva,508.71087469650223,14.1,7.6,0.0,0.0,0,0,30.0,False,False
+Cyclone Freddy,2023,Zimbabwe,Chegutu,988.3948111623156,10.7,5.8,0.0,0.0,0,0,24.5,False,False
+Cyclone Freddy,2023,Zimbabwe,Kadoma,713.3665117965139,9.8,5.3,0.0,0.0,0,0,22.2,False,False
+Cyclone Freddy,2023,Zimbabwe,Kwekwe,1378.5635323705794,9.2,5.0,0.0,0.0,0,0,21.5,False,False
+Cyclone Freddy,2023,Zimbabwe,Goromonzi,517.1064472330336,13.0,7.0,0.0,0.0,0,0,29.4,False,False
+Cyclone Freddy,2023,Zimbabwe,Hwedza,0.0,12.8,6.9,0.0,0.0,0,0,33.5,False,False
+Cyclone Freddy,2023,Zimbabwe,Marondera,651.1977388200808,13.0,7.0,0.0,0.0,0,0,31.5,False,False
+Cyclone Freddy,2023,Zimbabwe,Murehwa,806.8454986645994,14.4,7.8,0.0,0.0,0,0,33.1,False,False
+Cyclone Freddy,2023,Zimbabwe,Mutoko,969.7719195884396,16.4,8.9,0.0,0.0,0,0,36.5,False,False
+Cyclone Freddy,2023,Zimbabwe,Seke,428.40029422127947,11.8,6.3,0.0,0.0,0,0,27.8,False,False
+Cyclone Freddy,2023,Zimbabwe,Uzumba-Maramba-Pfungwe,521.0249052127346,15.6,8.4,0.0,0.0,0,0,33.3,False,False
+Cyclone Freddy,2023,Zimbabwe,Chikomba,762.7362904245958,11.5,6.2,0.0,0.0,0,0,29.8,False,False
+Cyclone Freddy,2023,Zimbabwe,Buhera,2852.9545931763973,12.3,6.7,0.0,0.0,0,0,36.9,False,False
+Cyclone Freddy,2023,Zimbabwe,Chimanimani,0.0,14.0,7.6,0.0,0.0,0,0,47.3,False,False
+Cyclone Freddy,2023,Zimbabwe,Chipinge,1544.6873591466606,14.5,7.8,0.0,0.0,0,0,46.0,False,False
+Cyclone Freddy,2023,Zimbabwe,Mutare,1989.447533449147,13.9,7.5,0.0,0.0,0,0,42.2,False,False
+Cyclone Freddy,2023,Zimbabwe,Bikita,1150.6307285207938,12.8,6.9,0.0,0.0,0,0,38.6,False,False
+Cyclone Freddy,2023,Zimbabwe,Chiredzi,1785.917361570548,13.3,7.2,0.0,0.0,0,0,37.3,False,False
+Cyclone Freddy,2023,Zimbabwe,Chivi,1339.8231676675907,10.8,5.8,0.0,0.0,0,0,27.9,False,False
+Cyclone Freddy,2023,Zimbabwe,Gutu,2013.2656135406185,11.2,6.0,0.0,0.0,0,0,31.8,False,False
+Cyclone Freddy,2023,Zimbabwe,Masvingo,1014.2936496104184,11.2,6.0,0.0,0.0,0,0,30.1,False,False
+Cyclone Freddy,2023,Zimbabwe,Mwenezi,1461.5977266451505,11.4,6.1,0.0,0.0,0,0,29.0,False,False
+Cyclone Freddy,2023,Zimbabwe,Zaka,732.3376238404527,12.1,6.5,0.0,0.0,0,0,34.3,False,False
+Cyclone Freddy,2023,Zimbabwe,Beitbridge,0.0,10.5,5.6,0.0,0.0,0,0,24.8,False,False
+Cyclone Freddy,2023,Zimbabwe,Chirumhanzu,558.4042339778435,10.2,5.5,0.0,0.0,0,0,26.5,False,False
+Cyclone Freddy,2023,Zimbabwe,Gweru,706.0648228561178,9.2,5.0,0.0,0.0,0,0,22.4,False,False
+Cyclone Freddy,2023,Zimbabwe,Mberengwa,834.343516522202,10.2,5.5,0.0,0.0,0,0,24.8,False,False
+Cyclone Freddy,2023,Zimbabwe,Shurugwi,583.9454581134663,9.9,5.3,0.0,0.0,0,0,25.0,False,False
+Cyclone Freddy,2023,Zimbabwe,Zvishavane,678.3405586397569,10.0,5.4,0.0,0.0,0,0,25.0,False,False
+Cyclone Eloise,2021,Madagascar,Ambatondrazaka,1741.9094389638394,17.1,9.2,0.0,0.0,0,0,15.0,False,False
+Cyclone Eloise,2021,Madagascar,Amparafaravola,1741.9094389638394,20.4,11.0,0.0,0.0,0,0,17.4,False,False
+Cyclone Eloise,2021,Madagascar,Andilamena,1741.9094389638394,31.0,16.7,0.0,0.0,0,0,23.6,False,False
+Cyclone Eloise,2021,Madagascar,Anosibe-An'ala,1741.9094389638394,11.4,6.1,0.0,0.0,0,0,10.5,False,False
+Cyclone Eloise,2021,Madagascar,Moramanga,1741.9094389638394,13.1,7.1,0.0,0.0,0,0,12.1,False,False
+Cyclone Eloise,2021,Madagascar,Ambatofinandrahana,490.1971850618071,10.3,5.6,0.0,0.0,0,0,9.6,False,False
+Cyclone Eloise,2021,Madagascar,Ambositra,490.1971850618071,9.3,5.0,0.0,0.0,0,0,9.0,False,False
+Cyclone Eloise,2021,Madagascar,Fandriana,490.1971850618071,9.7,5.2,0.0,0.0,0,0,9.4,False,False
+Cyclone Eloise,2021,Madagascar,Manandriana,490.1971850618071,9.4,5.1,0.0,0.0,0,0,8.9,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo I,1068.2139496506124,12.1,6.5,0.0,0.0,0,0,11.9,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo II,1068.2139496506124,12.1,6.5,0.0,0.0,0,0,11.9,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo III,1068.2139496506124,12.1,6.5,0.0,0.0,0,0,12.0,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo IV,1068.2139496506124,12.0,6.5,0.0,0.0,0,0,11.9,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo V,1068.2139496506124,12.2,6.6,0.0,0.0,0,0,12.0,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo VI,1068.2139496506124,12.2,6.6,0.0,0.0,0,0,12.0,False,False
+Cyclone Eloise,2021,Madagascar,Ambohidratrimo,1068.2139496506124,12.7,6.8,0.0,0.0,0,0,12.6,False,False
+Cyclone Eloise,2021,Madagascar,Andramasina,1068.2139496506124,11.4,6.2,0.0,0.0,0,0,11.0,False,False
+Cyclone Eloise,2021,Madagascar,Anjozorobe,1068.2139496506124,14.7,8.0,0.0,0.0,0,0,13.9,False,False
+Cyclone Eloise,2021,Madagascar,Ankazobe,1068.2139496506124,13.9,7.5,0.0,0.0,0,0,14.1,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo Atsimondrano,1068.2139496506124,11.8,6.4,0.0,0.0,0,0,11.7,False,False
+Cyclone Eloise,2021,Madagascar,Antananarivo Avaradrano,1068.2139496506124,12.2,6.6,0.0,0.0,0,0,11.9,False,False
+Cyclone Eloise,2021,Madagascar,Manjakandriana,1068.2139496506124,12.6,6.8,0.0,0.0,0,0,12.1,False,False
+Cyclone Eloise,2021,Madagascar,Fenerive Est,0.0,24.5,13.2,0.0,0.0,0,0,20.2,False,False
+Cyclone Eloise,2021,Madagascar,Mananara-Avaratra,0.0,47.2,25.5,0.0,0.0,0,0,36.7,False,False
+Cyclone Eloise,2021,Madagascar,Maroantsetra,0.0,82.7,44.7,32.6,0.0,3,0,57.7,False,False
+Cyclone Eloise,2021,Madagascar,Sainte Marie,0.0,27.5,14.8,0.0,0.0,0,0,23.5,False,False
+Cyclone Eloise,2021,Madagascar,Soanierana Ivongo,0.0,32.0,17.3,0.0,0.0,0,0,25.4,False,False
+Cyclone Eloise,2021,Madagascar,Vavatenina,0.0,20.7,11.2,0.0,0.0,0,0,17.5,False,False
+Cyclone Eloise,2021,Madagascar,Toamasina II,0.0,17.2,9.3,0.0,0.0,0,0,14.9,False,False
+Cyclone Eloise,2021,Madagascar,Ambovombe-Androy,1691.7866192963431,7.7,4.2,0.0,0.0,0,0,5.6,False,False
+Cyclone Eloise,2021,Madagascar,Bekily,1691.7866192963431,8.3,4.5,0.0,0.0,0,0,6.1,False,False
+Cyclone Eloise,2021,Madagascar,Beloha,1691.7866192963431,7.9,4.3,0.0,0.0,0,0,5.6,False,False
+Cyclone Eloise,2021,Madagascar,Tsihombe,1691.7866192963431,7.6,4.1,0.0,0.0,0,0,5.3,False,False
+Cyclone Eloise,2021,Madagascar,Amboasary-Atsimo,453.9001031840639,7.7,4.2,0.0,0.0,0,0,5.7,False,False
+Cyclone Eloise,2021,Madagascar,Betroka,453.9001031840639,8.6,4.7,0.0,0.0,0,0,6.6,False,False
+Cyclone Eloise,2021,Madagascar,Taolagnaro,453.9001031840639,7.3,4.0,0.0,0.0,0,0,5.4,False,False
+Cyclone Eloise,2021,Madagascar,Ampanihy Ouest,1231.5680450708544,8.6,4.6,0.0,0.0,0,0,6.1,False,False
+Cyclone Eloise,2021,Madagascar,Ankazoabo,1231.5680450708544,10.6,5.7,0.0,0.0,0,0,8.3,False,False
+Cyclone Eloise,2021,Madagascar,Benenitra,1231.5680450708544,9.1,4.9,0.0,0.0,0,0,6.9,False,False
+Cyclone Eloise,2021,Madagascar,Beroroha,1231.5680450708544,10.8,5.8,0.0,0.0,0,0,8.9,False,False
+Cyclone Eloise,2021,Madagascar,Betioky Atsimo,1231.5680450708544,9.2,5.0,0.0,0.0,0,0,6.8,False,False
+Cyclone Eloise,2021,Madagascar,Morombe,1231.5680450708544,11.8,6.4,0.0,0.0,0,0,9.2,False,False
+Cyclone Eloise,2021,Madagascar,Sakaraha,1231.5680450708544,10.2,5.5,0.0,0.0,0,0,7.8,False,False
+Cyclone Eloise,2021,Madagascar,Toliary-I,1231.5680450708544,10.2,5.5,0.0,0.0,0,0,7.5,False,False
+Cyclone Eloise,2021,Madagascar,Toliary-II,1231.5680450708544,10.2,5.5,0.0,0.0,0,0,7.6,False,False
+Cyclone Eloise,2021,Madagascar,Befotaka,0.0,7.8,4.2,0.0,0.0,0,0,6.0,False,False
+Cyclone Eloise,2021,Madagascar,Farafangana,0.0,7.9,4.3,0.0,0.0,0,0,6.6,False,False
+Cyclone Eloise,2021,Madagascar,Midongy-Atsimo,0.0,8.0,4.3,0.0,0.0,0,0,6.3,False,False
+Cyclone Eloise,2021,Madagascar,Vangaindrano,0.0,7.7,4.1,0.0,0.0,0,0,6.1,False,False
+Cyclone Eloise,2021,Madagascar,Vondrozo,0.0,8.2,4.4,0.0,0.0,0,0,6.8,False,False
+Cyclone Eloise,2021,Madagascar,Antanambao Manampontsy,0.0,11.5,6.2,0.0,0.0,0,0,10.4,False,False
+Cyclone Eloise,2021,Madagascar,Brickaville,0.0,14.1,7.6,0.0,0.0,0,0,12.5,False,False
+Cyclone Eloise,2021,Madagascar,Mahanoro,0.0,10.7,5.8,0.0,0.0,0,0,9.5,False,False
+Cyclone Eloise,2021,Madagascar,Marolambo,0.0,10.3,5.6,0.0,0.0,0,0,9.5,False,False
+Cyclone Eloise,2021,Madagascar,Toamasina I,0.0,16.6,9.0,0.0,0.0,0,0,14.3,False,False
+Cyclone Eloise,2021,Madagascar,Vatomandry,0.0,12.2,6.6,0.0,0.0,0,0,10.7,False,False
+Cyclone Eloise,2021,Madagascar,Kandreho,535.8631821294521,20.1,10.9,0.0,0.0,0,0,17.7,False,False
+Cyclone Eloise,2021,Madagascar,Maevatanana,535.8631821294521,18.9,10.2,0.0,0.0,0,0,17.8,False,False
+Cyclone Eloise,2021,Madagascar,Tsaratanana,535.8631821294521,21.4,11.5,0.0,0.0,0,0,18.7,False,False
+Cyclone Eloise,2021,Madagascar,Ambato Boeni,1471.3576122583718,25.4,13.7,0.0,0.0,0,0,21.8,False,False
+Cyclone Eloise,2021,Madagascar,Mahajanga I,1471.3576122583718,61.9,33.4,0.0,0.0,0,0,38.3,False,False
+Cyclone Eloise,2021,Madagascar,Mahajanga II,1471.3576122583718,61.1,33.0,0.0,0.0,0,0,35.5,False,False
+Cyclone Eloise,2021,Madagascar,Marovoay,1471.3576122583718,38.1,20.6,0.0,0.0,0,0,27.4,False,False
+Cyclone Eloise,2021,Madagascar,Mitsinjo,1471.3576122583718,42.2,22.8,0.0,0.0,0,0,30.3,False,False
+Cyclone Eloise,2021,Madagascar,Soalala,1471.3576122583718,37.1,20.0,0.0,0.0,0,0,26.9,False,False
+Cyclone Eloise,2021,Madagascar,Fenoarivobe,494.21633546519513,14.9,8.1,0.0,0.0,0,0,14.1,False,False
+Cyclone Eloise,2021,Madagascar,Tsiroanomandidy,494.21633546519513,13.5,7.3,0.0,0.0,0,0,12.9,False,False
+Cyclone Eloise,2021,Madagascar,Ambanja,1053.7549346702915,22.3,12.0,0.0,0.0,0,0,20.2,False,False
+Cyclone Eloise,2021,Madagascar,Ambilobe,1053.7549346702915,23.3,12.6,0.0,0.0,0,0,20.1,False,False
+Cyclone Eloise,2021,Madagascar,Antsiranana I,0.0,16.7,9.0,0.0,0.0,0,0,14.5,False,False
+Cyclone Eloise,2021,Madagascar,Antsiranana II,1053.7549346702915,17.9,9.6,0.0,0.0,0,0,15.7,False,False
+Cyclone Eloise,2021,Madagascar,Nosy-Be,1053.7549346702915,18.6,10.0,0.0,0.0,0,0,16.6,False,False
+Cyclone Eloise,2021,Madagascar,Isandra,648.8030271510045,9.2,5.0,0.0,0.0,0,0,8.3,False,False
+Cyclone Eloise,2021,Madagascar,Lalangina,648.8030271510045,8.8,4.8,0.0,0.0,0,0,8.0,False,False
+Cyclone Eloise,2021,Madagascar,Vohibato,648.8030271510045,8.9,4.8,0.0,0.0,0,0,7.8,False,False
+Cyclone Eloise,2021,Madagascar,Ambalavao,648.8030271510045,9.0,4.9,0.0,0.0,0,0,7.7,False,False
+Cyclone Eloise,2021,Madagascar,Ambohimahasoa,648.8030271510045,9.1,4.9,0.0,0.0,0,0,8.5,False,False
+Cyclone Eloise,2021,Madagascar,Fianarantsoa I,648.8030271510045,9.0,4.8,0.0,0.0,0,0,8.0,False,False
+Cyclone Eloise,2021,Madagascar,Ikalamavony,648.8030271510045,9.9,5.3,0.0,0.0,0,0,8.6,False,False
+Cyclone Eloise,2021,Madagascar,Iakora,0.0,8.3,4.5,0.0,0.0,0,0,6.6,False,False
+Cyclone Eloise,2021,Madagascar,Ihosy,0.0,9.5,5.1,0.0,0.0,0,0,7.6,False,False
+Cyclone Eloise,2021,Madagascar,Ivohibe,0.0,8.5,4.6,0.0,0.0,0,0,7.0,False,False
+Cyclone Eloise,2021,Madagascar,Arivonimamo,1021.97522760318,11.5,6.2,0.0,0.0,0,0,11.7,False,False
+Cyclone Eloise,2021,Madagascar,Miarinarivo,1021.97522760318,12.3,6.6,0.0,0.0,0,0,12.2,False,False
+Cyclone Eloise,2021,Madagascar,Soavinandriana,1021.97522760318,11.9,6.4,0.0,0.0,0,0,11.6,False,False
+Cyclone Eloise,2021,Madagascar,Ambatomainty,411.6654144057014,19.1,10.3,0.0,0.0,0,0,16.9,False,False
+Cyclone Eloise,2021,Madagascar,Antsalova,411.6654144057014,16.4,8.8,0.0,0.0,0,0,14.9,False,False
+Cyclone Eloise,2021,Madagascar,Besalampy,411.6654144057014,30.4,16.4,0.0,0.0,0,0,24.7,False,False
+Cyclone Eloise,2021,Madagascar,Maintirano,411.6654144057014,23.5,12.7,0.0,0.0,0,0,20.9,False,False
+Cyclone Eloise,2021,Madagascar,Morafenobe,411.6654144057014,18.4,9.9,0.0,0.0,0,0,17.5,False,False
+Cyclone Eloise,2021,Madagascar,Belo Sur Tsiribihina,975.2942916059033,13.9,7.5,0.0,0.0,0,0,12.3,False,False
+Cyclone Eloise,2021,Madagascar,Mahabo,975.2942916059033,11.8,6.4,0.0,0.0,0,0,10.1,False,False
+Cyclone Eloise,2021,Madagascar,Manja,975.2942916059033,12.1,6.6,0.0,0.0,0,0,9.7,False,False
+Cyclone Eloise,2021,Madagascar,Miandrivazo,975.2942916059033,13.6,7.3,0.0,0.0,0,0,12.8,False,False
+Cyclone Eloise,2021,Madagascar,Morondava,975.2942916059033,13.1,7.1,0.0,0.0,0,0,10.9,False,False
+Cyclone Eloise,2021,Madagascar,Andapa,0.0,45.1,24.4,0.0,0.0,0,0,38.4,False,False
+Cyclone Eloise,2021,Madagascar,Antalaha,0.0,86.8,46.9,68.5,0.0,6,0,71.9,False,False
+Cyclone Eloise,2021,Madagascar,Sambava,0.0,39.5,21.3,0.0,0.0,0,0,33.9,False,False
+Cyclone Eloise,2021,Madagascar,Vohemar,0.0,25.9,14.0,0.0,0.0,0,0,23.2,False,False
+Cyclone Eloise,2021,Madagascar,Analalava,2540.956812373445,27.5,14.9,0.0,0.0,0,0,24.3,False,False
+Cyclone Eloise,2021,Madagascar,Antsohihy,2540.956812373445,34.7,18.7,0.0,0.0,0,0,28.5,False,False
+Cyclone Eloise,2021,Madagascar,Bealanana,2540.956812373445,31.9,17.2,0.0,0.0,0,0,28.4,False,False
+Cyclone Eloise,2021,Madagascar,Befandriana Nord,2540.956812373445,49.4,26.7,0.0,0.0,0,0,38.5,False,False
+Cyclone Eloise,2021,Madagascar,Mampikony,2540.956812373445,45.9,24.8,0.0,0.0,0,0,30.3,False,False
+Cyclone Eloise,2021,Madagascar,Mandritsara,2540.956812373445,64.0,34.6,1.0,0.0,1,0,41.7,True,False
+Cyclone Eloise,2021,Madagascar,Port-Berge (Boriziny-Vaovao),2540.956812373445,55.5,30.0,0.0,0.0,0,0,33.5,False,False
+Cyclone Eloise,2021,Madagascar,Betafo,2674.6802117499647,10.3,5.6,0.0,0.0,0,0,10.3,False,False
+Cyclone Eloise,2021,Madagascar,Mandoto,2674.6802117499647,11.2,6.1,0.0,0.0,0,0,11.0,False,False
+Cyclone Eloise,2021,Madagascar,Ambatolampy,2674.6802117499647,11.0,5.9,0.0,0.0,0,0,10.8,False,False
+Cyclone Eloise,2021,Madagascar,Antanifotsy,2674.6802117499647,10.5,5.7,0.0,0.0,0,0,10.3,False,False
+Cyclone Eloise,2021,Madagascar,Antsirabe I,2674.6802117499647,10.2,5.5,0.0,0.0,0,0,10.2,False,False
+Cyclone Eloise,2021,Madagascar,Antsirabe II,2674.6802117499647,10.1,5.5,0.0,0.0,0,0,10.1,False,False
+Cyclone Eloise,2021,Madagascar,Faratsiho,2674.6802117499647,11.1,6.0,0.0,0.0,0,0,11.1,False,False
+Cyclone Eloise,2021,Madagascar,Ifanadiana,0.0,8.8,4.8,0.0,0.0,0,0,8.3,False,False
+Cyclone Eloise,2021,Madagascar,Ikongo,0.0,8.4,4.6,0.0,0.0,0,0,7.4,False,False
+Cyclone Eloise,2021,Madagascar,Manakara Atsimo,0.0,8.1,4.4,0.0,0.0,0,0,7.3,False,False
+Cyclone Eloise,2021,Madagascar,Mananjary,0.0,8.9,4.8,0.0,0.0,0,0,8.0,False,False
+Cyclone Eloise,2021,Madagascar,Nosy-Varika,0.0,9.7,5.2,0.0,0.0,0,0,8.8,False,False
+Cyclone Eloise,2021,Madagascar,Vohipeno,0.0,8.1,4.4,0.0,0.0,0,0,7.0,False,False
+Cyclone Eloise,2021,Mozambique,Ancuabe,718.0876751676873,12.4,6.7,0.0,0.0,0,0,9.4,False,False
+Cyclone Eloise,2021,Mozambique,Balama,804.704341117063,13.1,7.1,0.0,0.0,0,0,9.7,False,False
+Cyclone Eloise,2021,Mozambique,Chiure,527.8151431006098,13.5,7.3,0.0,0.0,0,0,10.4,False,False
+Cyclone Eloise,2021,Mozambique,Ibo,0.0,11.2,6.1,0.0,0.0,0,0,8.5,False,False
+Cyclone Eloise,2021,Mozambique,Macomia,155.84488661858722,10.8,5.8,0.0,0.0,0,0,8.0,False,False
+Cyclone Eloise,2021,Mozambique,Mecufi,718.0876751676873,13.1,7.1,0.0,0.0,0,0,10.2,False,False
+Cyclone Eloise,2021,Mozambique,Meluco,110.89919476618316,11.4,6.1,0.0,0.0,0,0,8.4,False,False
+Cyclone Eloise,2021,Mozambique,Mocimboa da Praia,0.0,9.9,5.3,0.0,0.0,0,0,7.2,False,False
+Cyclone Eloise,2021,Mozambique,Montepuez,844.532770119152,11.4,6.2,0.0,0.0,0,0,8.3,False,False
+Cyclone Eloise,2021,Mozambique,Mueda,160.72009313113512,9.9,5.4,0.0,0.0,0,0,7.0,False,False
+Cyclone Eloise,2021,Mozambique,Muidumbe,101.80400028085072,10.4,5.6,0.0,0.0,0,0,7.6,False,False
+Cyclone Eloise,2021,Mozambique,Namuno,849.4751561402123,14.0,7.5,0.0,0.0,0,0,10.6,False,False
+Cyclone Eloise,2021,Mozambique,Nangade,0.0,9.5,5.1,0.0,0.0,0,0,6.8,False,False
+Cyclone Eloise,2021,Mozambique,Palma,0.0,9.2,5.0,0.0,0.0,0,0,6.6,False,False
+Cyclone Eloise,2021,Mozambique,Pemba,127.75040266542868,12.3,6.7,0.0,0.0,0,0,9.5,False,False
+Cyclone Eloise,2021,Mozambique,Quissanga,0.0,11.7,6.3,0.0,0.0,0,0,8.9,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Pemba,127.75040266542868,12.6,6.8,0.0,0.0,0,0,9.8,False,False
+Cyclone Eloise,2021,Mozambique,Barue,465.5930931264696,24.5,13.2,0.0,0.0,0,0,18.6,False,False
+Cyclone Eloise,2021,Mozambique,Guro,191.1572794738291,19.2,10.4,0.0,0.0,0,0,14.3,False,False
+Cyclone Eloise,2021,Mozambique,Macossa,0.0,26.3,14.2,0.0,0.0,0,0,20.9,False,False
+Cyclone Eloise,2021,Mozambique,Tambara,0.0,20.4,11.0,0.0,0.0,0,0,15.9,False,False
+Cyclone Eloise,2021,Mozambique,Angoche,266.6056449527373,28.2,15.2,0.0,0.0,0,0,23.2,False,False
+Cyclone Eloise,2021,Mozambique,Erati,1191.2472654884562,14.8,8.0,0.0,0.0,0,0,11.5,False,False
+Cyclone Eloise,2021,Mozambique,Lalaua,253.1361087123707,15.8,8.5,0.0,0.0,0,0,12.0,False,False
+Cyclone Eloise,2021,Mozambique,Malema,685.2027909555666,16.8,9.0,0.0,0.0,0,0,12.6,False,False
+Cyclone Eloise,2021,Mozambique,Meconta,359.4161624598412,20.7,11.2,0.0,0.0,0,0,16.8,False,False
+Cyclone Eloise,2021,Mozambique,Mecuburi,974.886625926215,16.3,8.8,0.0,0.0,0,0,12.7,False,False
+Cyclone Eloise,2021,Mozambique,Memba,237.0884065638241,15.2,8.2,0.0,0.0,0,0,12.0,False,False
+Cyclone Eloise,2021,Mozambique,Mogincual,0.0,23.2,12.5,0.0,0.0,0,0,18.9,False,False
+Cyclone Eloise,2021,Mozambique,Mogovolas,886.5081957338016,23.5,12.7,0.0,0.0,0,0,19.4,False,False
+Cyclone Eloise,2021,Mozambique,Moma,181.8434113510704,30.1,16.3,0.0,0.0,0,0,25.3,False,False
+Cyclone Eloise,2021,Mozambique,Monapo,838.8906889367302,18.5,10.0,0.0,0.0,0,0,14.8,False,False
+Cyclone Eloise,2021,Mozambique,Mossuril,296.97076852917434,20.1,10.9,0.0,0.0,0,0,16.5,False,False
+Cyclone Eloise,2021,Mozambique,Muecate,436.7158484993262,17.5,9.4,0.0,0.0,0,0,13.9,False,False
+Cyclone Eloise,2021,Mozambique,Murrupula,604.3090604141631,20.5,11.0,0.0,0.0,0,0,16.6,False,False
+Cyclone Eloise,2021,Mozambique,Nacala-A-Velha,208.84446945928096,17.5,9.4,0.0,0.0,0,0,14.2,False,False
+Cyclone Eloise,2021,Mozambique,Nacaroa,423.58865188911807,16.3,8.8,0.0,0.0,0,0,12.9,False,False
+Cyclone Eloise,2021,Mozambique,Nampula,1236.7543958374815,19.3,10.4,0.0,0.0,0,0,15.6,False,False
+Cyclone Eloise,2021,Mozambique,Ribaue,1174.001881779474,18.1,9.8,0.0,0.0,0,0,14.2,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Nampula,1236.7543958374815,19.3,10.4,0.0,0.0,0,0,15.6,False,False
+Cyclone Eloise,2021,Mozambique,Ilha de Mocambique,296.97076852917434,20.0,10.8,0.0,0.0,0,0,16.5,False,False
+Cyclone Eloise,2021,Mozambique,Nacala,208.84446945928096,17.3,9.4,0.0,0.0,0,0,14.3,False,False
+Cyclone Eloise,2021,Mozambique,Cuamba,775.0955534305062,15.8,8.6,0.0,0.0,0,0,11.6,False,False
+Cyclone Eloise,2021,Mozambique,Mandimba,240.44174937160705,13.8,7.4,0.0,0.0,0,0,9.6,False,False
+Cyclone Eloise,2021,Mozambique,Marrupa,247.29564311540383,12.0,6.5,0.0,0.0,0,0,8.4,False,False
+Cyclone Eloise,2021,Mozambique,Maua,196.4806988653416,13.8,7.5,0.0,0.0,0,0,9.8,False,False
+Cyclone Eloise,2021,Mozambique,Mecanhelas,1101.701415688672,16.3,8.8,0.0,0.0,0,0,11.8,False,False
+Cyclone Eloise,2021,Mozambique,Mecula,0.0,10.3,5.6,0.0,0.0,0,0,6.9,False,False
+Cyclone Eloise,2021,Mozambique,Metarica,151.41999249129518,14.8,8.0,0.0,0.0,0,0,10.7,False,False
+Cyclone Eloise,2021,Mozambique,Nipepe,118.6818104396743,14.3,7.7,0.0,0.0,0,0,10.6,False,False
+Cyclone Eloise,2021,Mozambique,Caia,225.79646940221448,30.7,16.6,0.0,0.0,0,0,26.7,False,False
+Cyclone Eloise,2021,Mozambique,Chemba,106.64933773581302,23.5,12.7,0.0,0.0,0,0,19.2,False,False
+Cyclone Eloise,2021,Mozambique,Maringue,210.0988067512264,28.8,15.5,0.0,0.0,0,0,24.3,False,False
+Cyclone Eloise,2021,Mozambique,Changara,212.67129786946808,15.7,8.5,0.0,0.0,0,0,11.0,False,False
+Cyclone Eloise,2021,Mozambique,Chiuta,188.9250932214997,13.8,7.4,0.0,0.0,0,0,9.6,False,False
+Cyclone Eloise,2021,Mozambique,Moatize,322.1444052901339,16.0,8.6,0.0,0.0,0,0,11.7,False,False
+Cyclone Eloise,2021,Mozambique,Mutarara,277.15727589399893,21.7,11.7,0.0,0.0,0,0,17.5,False,False
+Cyclone Eloise,2021,Mozambique,Tsangano,649.1973829504933,14.2,7.7,0.0,0.0,0,0,10.0,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Tete,212.67129786946808,15.8,8.5,0.0,0.0,0,0,11.4,False,False
+Cyclone Eloise,2021,Mozambique,Luenha,212.67129786946808,17.9,9.6,0.0,0.0,0,0,12.8,False,False
+Cyclone Eloise,2021,Mozambique,Gile,309.5182010801853,23.7,12.8,0.0,0.0,0,0,19.6,False,False
+Cyclone Eloise,2021,Mozambique,Gurue,963.9919911978384,18.6,10.1,0.0,0.0,0,0,14.2,False,False
+Cyclone Eloise,2021,Mozambique,Ile,671.1684098077607,24.6,13.3,0.0,0.0,0,0,20.2,False,False
+Cyclone Eloise,2021,Mozambique,Inhassunge,0.0,58.5,31.6,0.0,0.0,0,0,55.2,False,False
+Cyclone Eloise,2021,Mozambique,Lugela,0.0,23.9,12.9,0.0,0.0,0,0,19.3,False,False
+Cyclone Eloise,2021,Mozambique,Maganja da Costa,139.79585504390127,36.9,19.9,0.0,0.0,0,0,33.0,False,False
+Cyclone Eloise,2021,Mozambique,Milange,2212.566370681824,20.6,11.1,0.0,0.0,0,0,15.9,False,False
+Cyclone Eloise,2021,Mozambique,Mocuba,0.0,29.9,16.1,0.0,0.0,0,0,25.4,False,False
+Cyclone Eloise,2021,Mozambique,Alto Molocue,652.375866496782,21.1,11.4,0.0,0.0,0,0,16.8,False,False
+Cyclone Eloise,2021,Mozambique,Mopeia,95.70051602465723,40.3,21.7,0.0,0.0,0,0,36.3,False,False
+Cyclone Eloise,2021,Mozambique,Morrumbala,168.9881398138509,27.3,14.7,0.0,0.0,0,0,22.9,False,False
+Cyclone Eloise,2021,Mozambique,Namacurra,0.0,41.9,22.6,0.0,0.0,0,0,38.2,False,False
+Cyclone Eloise,2021,Mozambique,Namarroi,411.15293674714775,21.1,11.4,0.0,0.0,0,0,16.6,False,False
+Cyclone Eloise,2021,Mozambique,Nicoadala,328.5496768377461,42.8,23.1,0.0,0.0,0,0,38.5,False,False
+Cyclone Eloise,2021,Mozambique,Pebane,0.0,33.3,18.0,0.0,0.0,0,0,28.9,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Quelimane,328.5496768377461,52.3,28.2,0.0,0.0,0,0,48.7,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Maputo,0.0,12.1,6.5,0.0,0.0,0,0,6.6,False,False
+Cyclone Eloise,2021,Mozambique,Manhica,436.32429904311607,13.9,7.5,0.0,0.0,0,0,8.1,False,False
+Cyclone Eloise,2021,Mozambique,Bilene,167.74998411261967,14.6,7.9,0.0,0.0,0,0,8.7,False,False
+Cyclone Eloise,2021,Mozambique,Chibuto,225.5499419577092,17.3,9.3,0.0,0.0,0,0,11.1,False,False
+Cyclone Eloise,2021,Mozambique,Chicualacuala,114.23020874832834,41.5,22.4,0.0,0.0,0,0,24.4,False,False
+Cyclone Eloise,2021,Mozambique,Chigubo,0.0,25.9,14.0,0.0,0.0,0,0,20.4,False,False
+Cyclone Eloise,2021,Mozambique,Chokwe,348.6488020629644,15.9,8.6,0.0,0.0,0,0,9.9,False,False
+Cyclone Eloise,2021,Mozambique,Guija,189.1287279378792,17.6,9.5,0.0,0.0,0,0,11.5,False,False
+Cyclone Eloise,2021,Mozambique,Mabalane,0.0,21.5,11.6,0.0,0.0,0,0,15.1,False,False
+Cyclone Eloise,2021,Mozambique,Mandlakaze,0.0,16.0,8.7,0.0,0.0,0,0,10.0,False,False
+Cyclone Eloise,2021,Mozambique,Massangena,0.0,76.2,41.1,30.7,0.0,3,0,56.7,False,False
+Cyclone Eloise,2021,Mozambique,Massingir,0.0,19.6,10.6,0.0,0.0,0,0,12.2,False,False
+Cyclone Eloise,2021,Mozambique,Xai-xai,348.77433054849337,14.8,8.0,0.0,0.0,0,0,8.8,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Xai-Xai,348.77433054849337,14.7,7.9,0.0,0.0,0,0,8.7,False,False
+Cyclone Eloise,2021,Mozambique,Funhalouro,131.96142344261068,24.8,13.4,0.0,0.0,0,0,18.2,False,False
+Cyclone Eloise,2021,Mozambique,Govuro,0.0,59.3,32.0,0.0,0.0,0,0,54.4,False,False
+Cyclone Eloise,2021,Mozambique,Homoine,0.0,18.6,10.0,0.0,0.0,0,0,12.6,False,False
+Cyclone Eloise,2021,Mozambique,Inharrime,0.0,16.6,9.0,0.0,0.0,0,0,10.7,False,False
+Cyclone Eloise,2021,Mozambique,Inhassoro,0.0,42.0,22.7,0.0,0.0,0,0,36.2,False,False
+Cyclone Eloise,2021,Mozambique,Jangamo,0.0,17.1,9.2,0.0,0.0,0,0,11.4,False,False
+Cyclone Eloise,2021,Mozambique,Mabote,89.93153108375746,41.3,22.3,0.0,0.0,0,0,36.1,False,False
+Cyclone Eloise,2021,Mozambique,Massinga,223.2738664334157,25.2,13.6,0.0,0.0,0,0,19.1,False,False
+Cyclone Eloise,2021,Mozambique,Morrumbene,117.9726195670946,20.5,11.1,0.0,0.0,0,0,14.6,False,False
+Cyclone Eloise,2021,Mozambique,Panda,0.0,18.5,10.0,0.0,0.0,0,0,12.2,False,False
+Cyclone Eloise,2021,Mozambique,Vilankulo,103.8789414322553,30.5,16.5,0.0,0.0,0,0,24.6,False,False
+Cyclone Eloise,2021,Mozambique,Zavala,0.0,15.8,8.5,0.0,0.0,0,0,9.9,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Inhambane,0.0,17.9,9.7,0.0,0.0,0,0,12.3,False,False
+Cyclone Eloise,2021,Mozambique,Maxixe,0.0,18.2,9.8,0.0,0.0,0,0,12.4,False,False
+Cyclone Eloise,2021,Mozambique,Gondola,768.2729911543685,43.7,23.6,0.0,0.0,0,0,37.8,False,False
+Cyclone Eloise,2021,Mozambique,Machaze,0.0,112.0,60.5,209.1,0.0,10,0,104.1,False,False
+Cyclone Eloise,2021,Mozambique,Manica,664.5186507463475,32.3,17.5,0.0,0.0,0,0,25.5,False,False
+Cyclone Eloise,2021,Mozambique,Mossurize,179.904551019716,80.1,43.3,77.1,0.0,8,0,76.4,True,False
+Cyclone Eloise,2021,Mozambique,Sussundenga,289.3301185708276,52.4,28.3,0.0,0.0,0,0,45.1,False,False
+Cyclone Eloise,2021,Mozambique,Cidade de Chimoio,768.2729911543685,40.6,21.9,0.0,0.0,0,0,34.1,False,False
+Cyclone Eloise,2021,Mozambique,Buzi,0.0,141.1,76.2,390.7,53.4,10,4,145.0,False,True
+Cyclone Eloise,2021,Mozambique,Cheringoma,0.0,47.3,25.5,0.0,0.0,0,0,43.6,False,False
+Cyclone Eloise,2021,Mozambique,Chibabava,0.0,142.2,76.8,400.3,41.6,10,4,145.9,False,True
+Cyclone Eloise,2021,Mozambique,Dondo,128.70050982885934,95.1,51.4,147.8,0.0,8,0,91.6,True,False
+Cyclone Eloise,2021,Mozambique,Gorongosa,98.0804748759191,38.6,20.9,0.0,0.0,0,0,33.1,False,False
+Cyclone Eloise,2021,Mozambique,Machanga,0.0,95.9,51.8,158.6,0.0,8,0,93.5,False,False
+Cyclone Eloise,2021,Mozambique,Marromeu,207.29507831700369,52.4,28.3,0.0,0.0,0,0,48.7,False,False
+Cyclone Eloise,2021,Mozambique,Muanza,0.0,68.6,37.0,16.8,0.0,4,0,65.0,False,False
+Cyclone Eloise,2021,Mozambique,Nhamatanda,491.1905302936295,61.0,33.0,0.0,0.0,0,0,56.0,False,False
+Cyclone Eloise,2021,Mozambique,Cidade da Beira,128.70050982885934,137.2,74.1,356.0,38.8,10,3,137.5,True,True
+Cyclone Eloise,2021,Mozambique,Chinde,0.0,64.2,34.7,1.6,0.0,2,0,60.2,False,False
+Cyclone Eloise,2021,Mozambique,Boane,152.6152787769789,11.9,6.4,0.0,0.0,0,0,6.4,False,False
+Cyclone Eloise,2021,Mozambique,Magude,121.29799872747694,15.0,8.1,0.0,0.0,0,0,9.2,False,False
+Cyclone Eloise,2021,Mozambique,Marracuene,105.86754095677564,12.8,6.9,0.0,0.0,0,0,7.1,False,False
+Cyclone Eloise,2021,Mozambique,Matutuine,0.0,11.1,6.0,0.0,0.0,0,0,5.8,False,False
+Cyclone Eloise,2021,Mozambique,Moamba,0.0,13.2,7.1,0.0,0.0,0,0,7.5,False,False
+Cyclone Eloise,2021,Mozambique,Namaacha,0.0,11.7,6.3,0.0,0.0,0,0,6.3,False,False
+Cyclone Eloise,2021,Mozambique,Cidade da Matola,152.6152787769789,12.3,6.7,0.0,0.0,0,0,6.7,False,False
+Cyclone Eloise,2021,South Africa,Umkhanyakude District Municipality,0.0,9.5,5.1,0.0,0.0,0,0,4.7,False,False
+Cyclone Eloise,2021,South Africa,Vhembe District Municipality,536.2603515032189,27.3,14.8,0.0,0.0,0,0,11.9,False,False
+Cyclone Eloise,2021,Zimbabwe,Chitungwiza,0.0,17.4,9.4,0.0,0.0,0,0,10.6,False,False
+Cyclone Eloise,2021,Zimbabwe,Harare,0.0,16.9,9.1,0.0,0.0,0,0,10.3,False,False
+Cyclone Eloise,2021,Zimbabwe,Makoni,1659.8331829337249,23.0,12.4,0.0,0.0,0,0,15.8,False,False
+Cyclone Eloise,2021,Zimbabwe,Mutasa,0.0,27.7,14.9,0.0,0.0,0,0,20.5,False,False
+Cyclone Eloise,2021,Zimbabwe,Nyanga,750.8255061576469,22.4,12.1,0.0,0.0,0,0,16.2,False,False
+Cyclone Eloise,2021,Zimbabwe,Bindura,566.9276222230667,15.8,8.5,0.0,0.0,0,0,9.6,False,False
+Cyclone Eloise,2021,Zimbabwe,Shamva,508.71087469650223,16.0,8.6,0.0,0.0,0,0,10.0,False,False
+Cyclone Eloise,2021,Zimbabwe,Chegutu,988.3948111623156,15.9,8.6,0.0,0.0,0,0,9.2,False,False
+Cyclone Eloise,2021,Zimbabwe,Kadoma,713.3665117965139,14.7,8.0,0.0,0.0,0,0,8.3,False,False
+Cyclone Eloise,2021,Zimbabwe,Kwekwe,1378.5635323705794,14.8,8.0,0.0,0.0,0,0,8.3,False,False
+Cyclone Eloise,2021,Zimbabwe,Goromonzi,517.1064472330336,17.5,9.5,0.0,0.0,0,0,10.9,False,False
+Cyclone Eloise,2021,Zimbabwe,Hwedza,0.0,22.3,12.1,0.0,0.0,0,0,14.9,False,False
+Cyclone Eloise,2021,Zimbabwe,Marondera,651.1977388200808,19.8,10.7,0.0,0.0,0,0,12.7,False,False
+Cyclone Eloise,2021,Zimbabwe,Murehwa,806.8454986645994,18.9,10.2,0.0,0.0,0,0,12.3,False,False
+Cyclone Eloise,2021,Zimbabwe,Mutoko,969.7719195884396,18.5,10.0,0.0,0.0,0,0,12.5,False,False
+Cyclone Eloise,2021,Zimbabwe,Seke,428.40029422127947,17.8,9.6,0.0,0.0,0,0,10.9,False,False
+Cyclone Eloise,2021,Zimbabwe,Uzumba-Maramba-Pfungwe,521.0249052127346,16.7,9.0,0.0,0.0,0,0,10.9,False,False
+Cyclone Eloise,2021,Zimbabwe,Chikomba,762.7362904245958,20.3,11.0,0.0,0.0,0,0,13.0,False,False
+Cyclone Eloise,2021,Zimbabwe,Buhera,2852.9545931763973,27.8,15.0,0.0,0.0,0,0,20.2,False,False
+Cyclone Eloise,2021,Zimbabwe,Chimanimani,0.0,43.2,23.3,0.0,0.0,0,0,35.8,False,False
+Cyclone Eloise,2021,Zimbabwe,Chipinge,1544.6873591466606,55.0,29.7,0.0,0.0,0,0,48.2,False,False
+Cyclone Eloise,2021,Zimbabwe,Mutare,1989.447533449147,31.3,16.9,0.0,0.0,0,0,23.5,False,False
+Cyclone Eloise,2021,Zimbabwe,Bikita,1150.6307285207938,33.7,18.2,0.0,0.0,0,0,26.7,False,False
+Cyclone Eloise,2021,Zimbabwe,Chiredzi,1785.917361570548,54.7,29.5,0.0,0.0,0,0,36.0,False,False
+Cyclone Eloise,2021,Zimbabwe,Chivi,1339.8231676675907,21.9,11.8,0.0,0.0,0,0,14.4,False,False
+Cyclone Eloise,2021,Zimbabwe,Gutu,2013.2656135406185,23.6,12.8,0.0,0.0,0,0,16.2,False,False
+Cyclone Eloise,2021,Zimbabwe,Masvingo,1014.2936496104184,23.5,12.7,0.0,0.0,0,0,16.3,False,False
+Cyclone Eloise,2021,Zimbabwe,Mwenezi,1461.5977266451505,27.7,14.9,0.0,0.0,0,0,17.3,False,False
+Cyclone Eloise,2021,Zimbabwe,Zaka,732.3376238404527,29.8,16.1,0.0,0.0,0,0,21.9,False,False
+Cyclone Eloise,2021,Zimbabwe,Beitbridge,0.0,22.4,12.1,0.0,0.0,0,0,12.3,False,False
+Cyclone Eloise,2021,Zimbabwe,Chirumhanzu,558.4042339778435,18.6,10.0,0.0,0.0,0,0,11.6,False,False
+Cyclone Eloise,2021,Zimbabwe,Gweru,706.0648228561178,15.7,8.5,0.0,0.0,0,0,9.1,False,False
+Cyclone Eloise,2021,Zimbabwe,Mberengwa,834.343516522202,19.0,10.3,0.0,0.0,0,0,11.7,False,False
+Cyclone Eloise,2021,Zimbabwe,Shurugwi,583.9454581134663,17.9,9.7,0.0,0.0,0,0,11.0,False,False
+Cyclone Eloise,2021,Zimbabwe,Zvishavane,678.3405586397569,18.2,9.8,0.0,0.0,0,0,11.5,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Baki,0.0,11.1,6.0,0.0,0.0,0,0,6.1,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Borama,0.0,10.1,5.5,0.0,0.0,0,0,5.1,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Lughaye,0.0,10.8,5.9,0.0,0.0,0,0,5.9,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Zeylac,0.0,10.1,5.5,0.0,0.0,0,0,5.3,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Owdweyne,0.0,13.2,7.1,0.0,0.0,0,0,8.1,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Sheikh,0.0,18.5,10.0,0.0,0.0,0,0,11.3,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Berbera,0.0,19.3,10.4,0.0,0.0,0,0,11.5,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Gebiley,377.5429547878952,10.7,5.8,0.0,0.0,0,0,5.8,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Hargeysa,0.0,11.8,6.3,0.0,0.0,0,0,6.7,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Bandarbeyla,0.0,46.9,25.3,0.0,0.0,0,0,41.1,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Bossaso,0.0,82.8,44.7,52.5,0.0,5,0,79.6,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Caluula,0.0,47.7,25.8,0.0,0.0,0,0,47.9,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Iskushuban,0.0,126.7,68.4,335.0,8.2,13,1,139.9,False,True
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Qandala,0.0,75.4,40.7,75.9,0.0,10,0,92.6,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Qardho,0.0,42.4,22.9,0.0,0.0,0,0,37.3,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Jariiban,0.0,18.5,10.0,0.0,0.0,0,0,10.8,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Burtinle,0.0,19.5,10.5,0.0,0.0,0,0,12.1,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Eyl,0.0,25.1,13.6,0.0,0.0,0,0,17.0,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Garoowe,0.0,24.2,13.1,0.0,0.0,0,0,16.9,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Laasqoray,0.0,42.5,22.9,0.0,0.0,0,0,43.6,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Ceerigaabo,0.0,25.0,13.5,0.0,0.0,0,0,25.6,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Laas Caanood,0.0,18.9,10.2,0.0,0.0,0,0,12.6,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Taleex,0.0,26.9,14.6,0.0,0.0,0,0,21.2,False,False
+Somalia Cyclone ARB 01 / Gati,2020,Somalia,Xudun,0.0,20.1,10.9,0.0,0.0,0,0,15.4,False,False
+Cyclone Gezani,2026,Madagascar,Ambatondrazaka,1741.9094389638394,23.4,12.6,0.0,0.0,0,0,17.6,False,False
+Cyclone Gezani,2026,Madagascar,Amparafaravola,1741.9094389638394,21.2,11.4,0.0,0.0,0,0,13.6,False,False
+Cyclone Gezani,2026,Madagascar,Andilamena,1741.9094389638394,19.1,10.3,0.0,0.0,0,0,10.5,False,False
+Cyclone Gezani,2026,Madagascar,Anosibe-An'ala,1741.9094389638394,39.5,21.3,0.0,0.0,0,0,21.6,False,False
+Cyclone Gezani,2026,Madagascar,Moramanga,1741.9094389638394,45.6,24.6,0.0,0.0,0,0,27.7,False,False
+Cyclone Gezani,2026,Madagascar,Ambatofinandrahana,490.1971850618071,18.8,10.1,0.0,0.0,0,0,5.9,False,False
+Cyclone Gezani,2026,Madagascar,Ambositra,490.1971850618071,20.8,11.2,0.0,0.0,0,0,8.0,False,False
+Cyclone Gezani,2026,Madagascar,Fandriana,490.1971850618071,25.2,13.6,0.0,0.0,0,0,10.2,False,False
+Cyclone Gezani,2026,Madagascar,Manandriana,490.1971850618071,18.8,10.2,0.0,0.0,0,0,6.8,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo I,1068.2139496506124,40.8,22.0,0.0,0.0,0,0,20.2,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo II,1068.2139496506124,42.5,22.9,0.0,0.0,0,0,21.1,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo III,1068.2139496506124,40.8,22.0,0.0,0.0,0,0,20.3,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo IV,1068.2139496506124,41.9,22.6,0.0,0.0,0,0,20.7,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo V,1068.2139496506124,40.3,21.8,0.0,0.0,0,0,20.2,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo VI,1068.2139496506124,38.8,21.0,0.0,0.0,0,0,19.3,False,False
+Cyclone Gezani,2026,Madagascar,Ambohidratrimo,1068.2139496506124,31.2,16.8,0.0,0.0,0,0,15.9,False,False
+Cyclone Gezani,2026,Madagascar,Andramasina,1068.2139496506124,44.5,24.0,0.0,0.0,0,0,21.1,False,False
+Cyclone Gezani,2026,Madagascar,Anjozorobe,1068.2139496506124,23.7,12.8,0.0,0.0,0,0,14.4,False,False
+Cyclone Gezani,2026,Madagascar,Ankazobe,1068.2139496506124,19.7,10.7,0.0,0.0,0,0,10.0,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo Atsimondrano,1068.2139496506124,45.7,24.7,0.0,0.0,0,0,22.4,False,False
+Cyclone Gezani,2026,Madagascar,Antananarivo Avaradrano,1068.2139496506124,42.5,23.0,0.0,0.0,0,0,21.7,False,False
+Cyclone Gezani,2026,Madagascar,Manjakandriana,1068.2139496506124,41.8,22.6,0.0,0.0,0,0,22.6,False,False
+Cyclone Gezani,2026,Madagascar,Fenerive Est,0.0,28.0,15.1,0.0,0.0,0,0,18.4,False,False
+Cyclone Gezani,2026,Madagascar,Mananara-Avaratra,0.0,23.7,12.8,0.0,0.0,0,0,13.7,False,False
+Cyclone Gezani,2026,Madagascar,Maroantsetra,0.0,19.2,10.4,0.0,0.0,0,0,9.7,False,False
+Cyclone Gezani,2026,Madagascar,Sainte Marie,0.0,34.2,18.5,0.0,0.0,0,0,23.5,False,False
+Cyclone Gezani,2026,Madagascar,Soanierana Ivongo,0.0,25.7,13.9,0.0,0.0,0,0,15.8,False,False
+Cyclone Gezani,2026,Madagascar,Vavatenina,0.0,28.3,15.3,0.0,0.0,0,0,19.6,False,False
+Cyclone Gezani,2026,Madagascar,Toamasina II,0.0,34.3,18.5,0.0,0.0,0,0,27.3,False,False
+Cyclone Gezani,2026,Madagascar,Ambovombe-Androy,1691.7866192963431,6.8,3.7,0.0,0.0,0,0,1.8,False,False
+Cyclone Gezani,2026,Madagascar,Bekily,1691.7866192963431,7.1,3.8,0.0,0.0,0,0,2.0,False,False
+Cyclone Gezani,2026,Madagascar,Beloha,1691.7866192963431,6.4,3.5,0.0,0.0,0,0,1.6,False,False
+Cyclone Gezani,2026,Madagascar,Tsihombe,1691.7866192963431,6.4,3.5,0.0,0.0,0,0,1.6,False,False
+Cyclone Gezani,2026,Madagascar,Amboasary-Atsimo,453.9001031840639,7.4,4.0,0.0,0.0,0,0,2.1,False,False
+Cyclone Gezani,2026,Madagascar,Betroka,453.9001031840639,8.0,4.3,0.0,0.0,0,0,2.5,False,False
+Cyclone Gezani,2026,Madagascar,Taolagnaro,453.9001031840639,7.5,4.1,0.0,0.0,0,0,2.1,False,False
+Cyclone Gezani,2026,Madagascar,Ampanihy Ouest,1231.5680450708544,6.5,3.5,0.0,0.0,0,0,1.7,False,False
+Cyclone Gezani,2026,Madagascar,Ankazoabo,1231.5680450708544,8.9,4.8,0.0,0.0,0,0,2.5,False,False
+Cyclone Gezani,2026,Madagascar,Benenitra,1231.5680450708544,7.6,4.1,0.0,0.0,0,0,2.2,False,False
+Cyclone Gezani,2026,Madagascar,Beroroha,1231.5680450708544,10.9,5.9,0.0,0.0,0,0,3.2,False,False
+Cyclone Gezani,2026,Madagascar,Betioky Atsimo,1231.5680450708544,7.0,3.8,0.0,0.0,0,0,1.9,False,False
+Cyclone Gezani,2026,Madagascar,Morombe,1231.5680450708544,7.9,4.3,0.0,0.0,0,0,2.1,False,False
+Cyclone Gezani,2026,Madagascar,Sakaraha,1231.5680450708544,7.8,4.2,0.0,0.0,0,0,2.2,False,False
+Cyclone Gezani,2026,Madagascar,Toliary-I,1231.5680450708544,6.8,3.7,0.0,0.0,0,0,1.8,False,False
+Cyclone Gezani,2026,Madagascar,Toliary-II,1231.5680450708544,6.9,3.8,0.0,0.0,0,0,1.8,False,False
+Cyclone Gezani,2026,Madagascar,Befotaka,0.0,8.1,4.4,0.0,0.0,0,0,2.5,False,False
+Cyclone Gezani,2026,Madagascar,Farafangana,0.0,9.8,5.3,0.0,0.0,0,0,3.6,False,False
+Cyclone Gezani,2026,Madagascar,Midongy-Atsimo,0.0,8.7,4.7,0.0,0.0,0,0,2.9,False,False
+Cyclone Gezani,2026,Madagascar,Vangaindrano,0.0,8.7,4.7,0.0,0.0,0,0,2.9,False,False
+Cyclone Gezani,2026,Madagascar,Vondrozo,0.0,9.7,5.2,0.0,0.0,0,0,3.6,False,False
+Cyclone Gezani,2026,Madagascar,Antanambao Manampontsy,0.0,33.0,17.8,0.0,0.0,0,0,20.0,False,False
+Cyclone Gezani,2026,Madagascar,Brickaville,0.0,45.9,24.8,0.0,0.0,0,0,30.8,False,False
+Cyclone Gezani,2026,Madagascar,Mahanoro,0.0,22.5,12.1,0.0,0.0,0,0,13.7,False,False
+Cyclone Gezani,2026,Madagascar,Marolambo,0.0,24.8,13.4,0.0,0.0,0,0,12.7,False,False
+Cyclone Gezani,2026,Madagascar,Toamasina I,0.0,44.6,24.1,0.0,0.0,0,0,36.0,False,False
+Cyclone Gezani,2026,Madagascar,Vatomandry,0.0,35.9,19.4,0.0,0.0,0,0,23.4,False,False
+Cyclone Gezani,2026,Madagascar,Kandreho,535.8631821294521,12.4,6.7,0.0,0.0,0,0,5.4,False,False
+Cyclone Gezani,2026,Madagascar,Maevatanana,535.8631821294521,13.9,7.5,0.0,0.0,0,0,7.1,False,False
+Cyclone Gezani,2026,Madagascar,Tsaratanana,535.8631821294521,16.6,8.9,0.0,0.0,0,0,9.2,False,False
+Cyclone Gezani,2026,Madagascar,Ambato Boeni,1471.3576122583718,12.3,6.6,0.0,0.0,0,0,5.4,False,False
+Cyclone Gezani,2026,Madagascar,Mahajanga I,1471.3576122583718,11.1,6.0,0.0,0.0,0,0,4.3,False,False
+Cyclone Gezani,2026,Madagascar,Mahajanga II,1471.3576122583718,11.9,6.4,0.0,0.0,0,0,4.7,False,False
+Cyclone Gezani,2026,Madagascar,Marovoay,1471.3576122583718,12.2,6.6,0.0,0.0,0,0,5.1,False,False
+Cyclone Gezani,2026,Madagascar,Mitsinjo,1471.3576122583718,10.8,5.8,0.0,0.0,0,0,4.1,False,False
+Cyclone Gezani,2026,Madagascar,Soalala,1471.3576122583718,10.1,5.5,0.0,0.0,0,0,3.8,False,False
+Cyclone Gezani,2026,Madagascar,Fenoarivobe,494.21633546519513,18.0,9.7,0.0,0.0,0,0,7.2,False,False
+Cyclone Gezani,2026,Madagascar,Tsiroanomandidy,494.21633546519513,19.3,10.4,0.0,0.0,0,0,6.4,False,False
+Cyclone Gezani,2026,Madagascar,Ambanja,1053.7549346702915,11.9,6.4,0.0,0.0,0,0,4.5,False,False
+Cyclone Gezani,2026,Madagascar,Ambilobe,1053.7549346702915,11.9,6.4,0.0,0.0,0,0,4.5,False,False
+Cyclone Gezani,2026,Madagascar,Antsiranana I,0.0,9.9,5.3,0.0,0.0,0,0,3.3,False,False
+Cyclone Gezani,2026,Madagascar,Antsiranana II,1053.7549346702915,10.3,5.6,0.0,0.0,0,0,3.5,False,False
+Cyclone Gezani,2026,Madagascar,Nosy-Be,1053.7549346702915,10.7,5.8,0.0,0.0,0,0,3.7,False,False
+Cyclone Gezani,2026,Madagascar,Isandra,648.8030271510045,14.6,7.9,0.0,0.0,0,0,5.3,False,False
+Cyclone Gezani,2026,Madagascar,Lalangina,648.8030271510045,13.9,7.5,0.0,0.0,0,0,5.4,False,False
+Cyclone Gezani,2026,Madagascar,Vohibato,648.8030271510045,12.7,6.9,0.0,0.0,0,0,4.8,False,False
+Cyclone Gezani,2026,Madagascar,Ambalavao,648.8030271510045,11.8,6.4,0.0,0.0,0,0,4.2,False,False
+Cyclone Gezani,2026,Madagascar,Ambohimahasoa,648.8030271510045,16.1,8.7,0.0,0.0,0,0,6.1,False,False
+Cyclone Gezani,2026,Madagascar,Fianarantsoa I,648.8030271510045,13.7,7.4,0.0,0.0,0,0,5.1,False,False
+Cyclone Gezani,2026,Madagascar,Ikalamavony,648.8030271510045,13.6,7.3,0.0,0.0,0,0,4.4,False,False
+Cyclone Gezani,2026,Madagascar,Iakora,0.0,8.6,4.7,0.0,0.0,0,0,2.9,False,False
+Cyclone Gezani,2026,Madagascar,Ihosy,0.0,9.8,5.3,0.0,0.0,0,0,3.1,False,False
+Cyclone Gezani,2026,Madagascar,Ivohibe,0.0,9.9,5.4,0.0,0.0,0,0,3.6,False,False
+Cyclone Gezani,2026,Madagascar,Arivonimamo,1021.97522760318,43.4,23.4,0.0,0.0,0,0,18.7,False,False
+Cyclone Gezani,2026,Madagascar,Miarinarivo,1021.97522760318,31.5,17.0,0.0,0.0,0,0,11.7,False,False
+Cyclone Gezani,2026,Madagascar,Soavinandriana,1021.97522760318,32.2,17.4,0.0,0.0,0,0,9.9,False,False
+Cyclone Gezani,2026,Madagascar,Ambatomainty,411.6654144057014,12.6,6.8,0.0,0.0,0,0,4.8,False,False
+Cyclone Gezani,2026,Madagascar,Antsalova,411.6654144057014,11.8,6.4,0.0,0.0,0,0,3.7,False,False
+Cyclone Gezani,2026,Madagascar,Besalampy,411.6654144057014,9.6,5.2,0.0,0.0,0,0,3.5,False,False
+Cyclone Gezani,2026,Madagascar,Maintirano,411.6654144057014,9.7,5.2,0.0,0.0,0,0,3.2,False,False
+Cyclone Gezani,2026,Madagascar,Morafenobe,411.6654144057014,11.4,6.2,0.0,0.0,0,0,3.9,False,False
+Cyclone Gezani,2026,Madagascar,Belo Sur Tsiribihina,975.2942916059033,12.9,7.0,0.0,0.0,0,0,3.8,False,False
+Cyclone Gezani,2026,Madagascar,Mahabo,975.2942916059033,12.8,6.9,0.0,0.0,0,0,3.8,False,False
+Cyclone Gezani,2026,Madagascar,Manja,975.2942916059033,9.2,5.0,0.0,0.0,0,0,2.6,False,False
+Cyclone Gezani,2026,Madagascar,Miandrivazo,975.2942916059033,15.5,8.4,0.0,0.0,0,0,4.8,False,False
+Cyclone Gezani,2026,Madagascar,Morondava,975.2942916059033,10.6,5.7,0.0,0.0,0,0,3.0,False,False
+Cyclone Gezani,2026,Madagascar,Andapa,0.0,15.6,8.4,0.0,0.0,0,0,6.9,False,False
+Cyclone Gezani,2026,Madagascar,Antalaha,0.0,20.3,10.9,0.0,0.0,0,0,10.4,False,False
+Cyclone Gezani,2026,Madagascar,Sambava,0.0,14.9,8.0,0.0,0.0,0,0,6.4,False,False
+Cyclone Gezani,2026,Madagascar,Vohemar,0.0,12.6,6.8,0.0,0.0,0,0,4.9,False,False
+Cyclone Gezani,2026,Madagascar,Analalava,2540.956812373445,12.4,6.7,0.0,0.0,0,0,4.9,False,False
+Cyclone Gezani,2026,Madagascar,Antsohihy,2540.956812373445,13.5,7.3,0.0,0.0,0,0,5.6,False,False
+Cyclone Gezani,2026,Madagascar,Bealanana,2540.956812373445,14.1,7.6,0.0,0.0,0,0,5.9,False,False
+Cyclone Gezani,2026,Madagascar,Befandriana Nord,2540.956812373445,15.7,8.5,0.0,0.0,0,0,7.1,False,False
+Cyclone Gezani,2026,Madagascar,Mampikony,2540.956812373445,14.9,8.1,0.0,0.0,0,0,7.0,False,False
+Cyclone Gezani,2026,Madagascar,Mandritsara,2540.956812373445,18.6,10.0,0.0,0.0,0,0,9.5,False,False
+Cyclone Gezani,2026,Madagascar,Port-Berge (Boriziny-Vaovao),2540.956812373445,14.2,7.7,0.0,0.0,0,0,6.3,False,False
+Cyclone Gezani,2026,Madagascar,Betafo,2674.6802117499647,29.8,16.1,0.0,0.0,0,0,8.9,False,False
+Cyclone Gezani,2026,Madagascar,Mandoto,2674.6802117499647,24.1,13.0,0.0,0.0,0,0,7.1,False,False
+Cyclone Gezani,2026,Madagascar,Ambatolampy,2674.6802117499647,45.4,24.5,0.0,0.0,0,0,20.9,False,False
+Cyclone Gezani,2026,Madagascar,Antanifotsy,2674.6802117499647,39.5,21.3,0.0,0.0,0,0,16.9,False,False
+Cyclone Gezani,2026,Madagascar,Antsirabe I,2674.6802117499647,37.7,20.3,0.0,0.0,0,0,11.9,False,False
+Cyclone Gezani,2026,Madagascar,Antsirabe II,2674.6802117499647,38.2,20.6,0.0,0.0,0,0,12.8,False,False
+Cyclone Gezani,2026,Madagascar,Faratsiho,2674.6802117499647,46.3,25.0,0.0,0.0,0,0,14.4,False,False
+Cyclone Gezani,2026,Madagascar,Ifanadiana,0.0,15.5,8.4,0.0,0.0,0,0,6.7,False,False
+Cyclone Gezani,2026,Madagascar,Ikongo,0.0,11.6,6.3,0.0,0.0,0,0,4.7,False,False
+Cyclone Gezani,2026,Madagascar,Manakara Atsimo,0.0,11.4,6.2,0.0,0.0,0,0,5.0,False,False
+Cyclone Gezani,2026,Madagascar,Mananjary,0.0,14.0,7.6,0.0,0.0,0,0,6.8,False,False
+Cyclone Gezani,2026,Madagascar,Nosy-Varika,0.0,17.9,9.7,0.0,0.0,0,0,9.5,False,False
+Cyclone Gezani,2026,Madagascar,Vohipeno,0.0,10.5,5.7,0.0,0.0,0,0,4.2,False,False

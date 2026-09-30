@@ -1,0 +1,541 @@
+cyclone,year,country,district,saffir_simpson_category,peak_wind_kmh,peak_wind_kt,peak_wdpi_pdi_score,ikep_energy_proxy,max_hourly_accel_kmh_hr,rapid_intensification_status,peak_hit_utc,min_dist_to_eye_km,traditional_housing_impact,modern_housing_impact
+Cyclone Eloise,2021,Mozambique,Buzi,Category 1,147.6,79.7,12.87,194.67,22.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 02:00,34.2,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Eloise,2021,Mozambique,Cidade da Beira,Category 1,145.3,78.4,12.26,193.72,22.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 00:00,41.6,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Eloise,2021,Mozambique,Chibabava,Category 1,138.1,74.6,10.53,183.35,25.7,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 05:00,21.4,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Eloise,2021,Mozambique,Machaze,Tropical Storm,113.9,61.5,5.9,135.7,33.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 10:00,16.3,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Eloise,2021,Mozambique,Machanga,Tropical Storm,103.7,56.0,4.46,137.82,10.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 04:00,61.1,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Eloise,2021,Mozambique,Dondo,Tropical Storm,103.3,55.8,4.4,142.56,11.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-22 23:00,68.2,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Eloise,2021,Madagascar,Maroantsetra,Tropical Storm,87.4,47.2,2.67,152.07,32.7,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-19 19:00,10.1,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Mossurize,Tropical Storm,85.7,46.3,2.52,111.67,6.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 10:00,53.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Angoche,Tropical Storm,83.7,45.2,2.35,129.64,4.2,STEADY EVOLUTION,2021-01-21 18:00,205.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Antalaha,Tropical Storm,83.5,45.1,2.32,158.43,32.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-19 13:00,6.7,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Moma,Tropical Storm,82.6,44.6,2.25,128.65,4.9,STEADY EVOLUTION,2021-01-21 18:00,199.1,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Inhassunge,Tropical Storm,81.7,44.1,2.18,139.12,3.9,STEADY EVOLUTION,2021-01-22 12:00,112.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Chinde,Tropical Storm,80.9,43.7,2.12,134.1,5.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-22 14:00,100.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Massangena,Tropical Storm,78.5,42.4,1.93,85.8,7.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 17:00,38.9,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Andapa,Tropical Storm,77.5,41.8,1.86,147.92,4.9,STEADY EVOLUTION,2021-01-19 18:00,93.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Pebane,Tropical Storm,76.7,41.4,1.81,125.51,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-21 20:00,189.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Muanza,Tropical Storm,75.3,40.6,1.71,114.67,6.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-22 21:00,96.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Cidade de Quelimane,Tropical Storm,73.5,39.7,1.58,130.78,4.0,STEADY EVOLUTION,2021-01-22 12:00,127.5,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Mogincual,Tropical Storm,73.3,39.6,1.58,112.21,3.0,STEADY EVOLUTION,2021-01-21 18:00,253.5,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Mitsinjo,Tropical Storm,72.8,39.3,1.54,134.02,8.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 18:00,74.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Besalampy,Tropical Storm,72.3,39.0,1.51,144.61,5.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 18:00,121.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Mogovolas,Tropical Storm,71.3,38.5,1.45,103.63,3.5,STEADY EVOLUTION,2021-01-21 18:00,263.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Mahajanga I,Tropical Storm,71.3,38.5,1.45,121.47,13.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 17:00,33.1,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Mandritsara,Tropical Storm,70.4,38.0,1.39,131.48,8.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 01:00,32.5,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Soalala,Tropical Storm,70.2,37.9,1.38,140.53,6.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 16:00,100.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Sambava,Tropical Storm,70.2,37.9,1.38,138.9,3.6,STEADY EVOLUTION,2021-01-19 18:00,117.5,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Mananara-Avaratra,Tropical Storm,69.7,37.6,1.35,136.57,3.6,STEADY EVOLUTION,2021-01-19 23:00,72.8,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Mahajanga II,Tropical Storm,67.0,36.2,1.2,120.62,16.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 14:00,18.3,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Befandriana Nord,Tropical Storm,67.0,36.2,1.2,140.17,4.3,STEADY EVOLUTION,2021-01-20 00:00,64.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Nhamatanda,Tropical Storm,67.0,36.2,1.2,96.1,4.9,STEADY EVOLUTION,2021-01-23 01:00,111.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Meconta,Tropical Storm,66.6,36.0,1.18,96.21,2.7,STEADY EVOLUTION,2021-01-21 18:00,296.1,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Mossuril,Tropical Storm,65.3,35.3,1.12,102.68,3.0,STEADY EVOLUTION,2021-01-21 18:00,287.3,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Marovoay,Tropical Storm,65.3,35.3,1.11,132.15,8.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 18:00,76.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Ilha de Mocambique,Tropical Storm,65.1,35.2,1.11,103.78,3.1,STEADY EVOLUTION,2021-01-21 18:00,284.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Govuro,Tropical Storm,65.1,35.1,1.1,91.63,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 04:00,109.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Maintirano,Tropical Storm,64.6,34.9,1.08,136.79,5.0,STEADY EVOLUTION,2021-01-21 05:00,171.8,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Maganja da Costa,Tropical Storm,64.2,34.7,1.06,115.73,4.6,STEADY EVOLUTION,2021-01-21 20:00,181.8,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Madagascar,Ambato Boeni,Tropical Storm,63.7,34.4,1.04,121.82,5.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 18:00,135.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Gile,Tropical Storm,63.6,34.3,1.03,91.04,3.6,STEADY EVOLUTION,2021-01-21 18:00,280.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Eloise,2021,Mozambique,Cidade de Nampula,Tropical Depression,61.8,33.4,0.0,85.67,2.5,STEADY EVOLUTION,2021-01-21 18:00,329.3,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Marromeu,Tropical Depression,61.4,33.2,0.0,105.63,3.7,STEADY EVOLUTION,2021-01-22 16:00,125.3,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Nampula,Tropical Depression,61.3,33.1,0.0,84.36,2.5,STEADY EVOLUTION,2021-01-21 18:00,331.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Murrupula,Tropical Depression,61.2,33.0,0.0,83.86,2.9,STEADY EVOLUTION,2021-01-21 18:00,321.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Monapo,Tropical Depression,60.8,32.8,0.0,89.67,2.7,STEADY EVOLUTION,2021-01-21 18:00,329.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Nicoadala,Tropical Depression,60.7,32.8,0.0,109.21,3.7,STEADY EVOLUTION,2021-01-22 12:00,159.5,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Chiredzi,Tropical Depression,60.2,32.5,0.0,62.27,5.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 19:00,60.4,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Chipinge,Tropical Depression,59.6,32.2,0.0,77.81,3.5,STEADY EVOLUTION,2021-01-23 13:00,78.3,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Namacurra,Tropical Depression,59.5,32.1,0.0,115.08,4.1,STEADY EVOLUTION,2021-01-22 11:00,160.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Kandreho,Tropical Depression,59.1,31.9,0.0,109.57,3.6,STEADY EVOLUTION,2021-01-20 18:00,218.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Port-Berge (Boriziny-Vaovao),Tropical Depression,59.1,31.9,0.0,121.17,26.0,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-20 04:00,8.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Nacala-A-Velha,Tropical Depression,58.0,31.3,0.0,88.04,2.9,STEADY EVOLUTION,2021-01-21 18:00,340.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Muecate,Tropical Depression,57.6,31.1,0.0,79.64,2.4,STEADY EVOLUTION,2021-01-21 18:00,363.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Nacala,Tropical Depression,57.6,31.1,0.0,90.13,3.0,STEADY EVOLUTION,2021-01-21 18:00,329.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Sussundenga,Tropical Depression,57.4,31.0,0.0,77.43,3.4,STEADY EVOLUTION,2021-01-23 06:00,119.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambatomainty,Tropical Depression,56.9,30.7,0.0,109.02,3.6,STEADY EVOLUTION,2021-01-20 18:00,234.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Mampikony,Tropical Depression,56.7,30.6,0.0,123.9,4.3,STEADY EVOLUTION,2021-01-20 08:00,47.7,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Ile,Tropical Depression,56.4,30.4,0.0,81.76,3.4,STEADY EVOLUTION,2021-01-21 18:00,284.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Morafenobe,Tropical Depression,56.3,30.4,0.0,115.97,4.2,STEADY EVOLUTION,2021-01-20 22:00,223.3,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Bealanana,Tropical Depression,56.3,30.4,0.0,120.37,3.6,STEADY EVOLUTION,2021-01-19 18:00,128.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Alto Molocue,Tropical Depression,54.7,29.6,0.0,74.06,2.9,STEADY EVOLUTION,2021-01-21 18:00,333.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Nacaroa,Tropical Depression,54.5,29.5,0.0,76.58,2.5,STEADY EVOLUTION,2021-01-21 18:00,386.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mopeia,Tropical Depression,54.5,29.4,0.0,93.91,3.0,STEADY EVOLUTION,2021-01-22 12:00,168.9,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Ribaue,Tropical Depression,53.7,29.0,0.0,69.74,2.4,STEADY EVOLUTION,2021-01-21 18:00,380.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mocuba,Tropical Depression,53.1,28.7,0.0,86.12,3.4,STEADY EVOLUTION,2021-01-21 18:00,234.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Maevatanana,Tropical Depression,53.1,28.7,0.0,101.4,4.0,STEADY EVOLUTION,2021-01-20 18:00,183.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Vohemar,Tropical Depression,53.0,28.6,0.0,105.53,3.0,STEADY EVOLUTION,2021-01-19 00:00,197.7,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mecuburi,Tropical Depression,52.8,28.5,0.0,68.88,2.2,STEADY EVOLUTION,2021-01-21 18:00,407.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Cheringoma,Tropical Depression,52.1,28.1,0.0,91.4,2.6,STEADY EVOLUTION,2021-01-22 19:00,141.4,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antsalova,Tropical Depression,51.3,27.7,0.0,97.97,3.4,STEADY EVOLUTION,2021-01-21 13:00,296.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Memba,Tropical Depression,51.1,27.6,0.0,73.96,2.6,STEADY EVOLUTION,2021-01-21 18:00,401.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Soanierana Ivongo,Tropical Depression,50.9,27.5,0.0,108.45,2.2,STEADY EVOLUTION,2021-01-19 23:00,118.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antsohihy,Tropical Depression,50.7,27.4,0.0,121.45,2.5,STEADY EVOLUTION,2021-01-20 04:00,84.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Analalava,Tropical Depression,50.3,27.1,0.0,113.08,4.2,STEADY EVOLUTION,2021-01-20 11:00,112.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Sainte Marie,Tropical Depression,50.1,27.1,0.0,102.5,2.4,STEADY EVOLUTION,2021-01-19 18:00,155.9,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Erati,Tropical Depression,50.0,27.0,0.0,67.72,2.4,STEADY EVOLUTION,2021-01-21 18:00,434.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Lugela,Tropical Depression,49.4,26.7,0.0,70.51,2.9,STEADY EVOLUTION,2021-01-21 18:00,298.9,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Chicualacuala,Tropical Depression,49.1,26.5,0.0,49.56,5.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-23 22:00,70.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Namarroi,Tropical Depression,48.8,26.3,0.0,65.52,2.7,STEADY EVOLUTION,2021-01-21 18:00,341.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Lalaua,Tropical Depression,48.7,26.3,0.0,60.52,1.9,STEADY EVOLUTION,2021-01-21 18:00,442.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Gondola,Tropical Depression,48.1,26.0,0.0,70.98,2.6,STEADY EVOLUTION,2021-01-23 03:00,154.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Gurue,Tropical Depression,47.4,25.6,0.0,60.27,2.4,STEADY EVOLUTION,2021-01-21 18:00,390.5,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Chimanimani,Tropical Depression,47.4,25.6,0.0,64.28,2.5,STEADY EVOLUTION,2021-01-23 08:00,134.3,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Andilamena,Tropical Depression,47.2,25.5,0.0,106.0,2.2,STEADY EVOLUTION,2021-01-20 03:00,107.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Malema,Tropical Depression,47.1,25.4,0.0,58.06,2.1,STEADY EVOLUTION,2021-01-21 18:00,432.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Fenoarivobe,Tropical Depression,46.9,25.3,0.0,86.81,2.6,STEADY EVOLUTION,2021-01-20 18:00,309.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Tsaratanana,Tropical Depression,46.5,25.1,0.0,96.7,2.9,STEADY EVOLUTION,2021-01-20 18:00,155.9,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Namuno,Tropical Depression,46.3,25.0,0.0,58.09,2.1,STEADY EVOLUTION,2021-01-21 18:00,484.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Inhassoro,Tropical Depression,46.2,24.9,0.0,69.1,2.8,STEADY EVOLUTION,2021-01-23 03:00,160.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Chiure,Tropical Depression,45.9,24.8,0.0,60.41,2.2,STEADY EVOLUTION,2021-01-21 18:00,484.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Belo Sur Tsiribihina,Tropical Depression,45.7,24.7,0.0,78.38,2.7,STEADY EVOLUTION,2021-01-21 16:00,386.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambilobe,Tropical Depression,45.1,24.3,0.0,94.6,2.5,STEADY EVOLUTION,2021-01-19 00:00,221.7,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mabote,Tropical Depression,45.1,24.4,0.0,64.96,2.3,STEADY EVOLUTION,2021-01-23 08:00,135.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mecufi,Tropical Depression,44.7,24.1,0.0,61.94,2.4,STEADY EVOLUTION,2021-01-21 18:00,468.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Morondava,Tropical Depression,44.7,24.1,0.0,66.58,2.3,STEADY EVOLUTION,2021-01-21 18:00,447.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Cidade de Chimoio,Tropical Depression,44.6,24.1,0.0,65.54,2.3,STEADY EVOLUTION,2021-01-23 04:00,165.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Nipepe,Tropical Depression,44.5,24.1,0.0,53.33,1.8,STEADY EVOLUTION,2021-01-21 18:00,497.5,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Morrumbala,Tropical Depression,44.4,24.0,0.0,69.04,2.6,STEADY EVOLUTION,2021-01-21 18:00,258.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ankazobe,Tropical Depression,44.1,23.8,0.0,81.94,2.6,STEADY EVOLUTION,2021-01-20 18:00,277.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Miandrivazo,Tropical Depression,43.8,23.7,0.0,81.71,2.8,STEADY EVOLUTION,2021-01-21 14:00,364.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Milange,Tropical Depression,43.6,23.5,0.0,57.46,2.4,STEADY EVOLUTION,2021-01-21 18:00,354.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Cidade de Pemba,Tropical Depression,43.1,23.3,0.0,59.67,2.4,STEADY EVOLUTION,2021-01-21 18:00,482.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Balama,Tropical Depression,43.0,23.2,0.0,51.48,1.9,STEADY EVOLUTION,2021-01-21 18:00,532.5,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Tsiroanomandidy,Tropical Depression,42.9,23.2,0.0,81.03,2.7,STEADY EVOLUTION,2021-01-20 18:00,362.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antsiranana II,Tropical Depression,42.9,23.2,0.0,77.13,2.2,STEADY EVOLUTION,2021-01-19 00:00,308.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Gorongosa,Tropical Depression,42.7,23.1,0.0,68.99,2.0,STEADY EVOLUTION,2021-01-23 00:00,184.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambanja,Tropical Depression,42.6,23.0,0.0,96.12,2.3,STEADY EVOLUTION,2021-01-19 18:00,209.3,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Ancuabe,Tropical Depression,42.4,22.9,0.0,54.63,2.1,STEADY EVOLUTION,2021-01-21 18:00,530.9,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Pemba,Tropical Depression,42.2,22.8,0.0,56.83,2.3,STEADY EVOLUTION,2021-01-21 18:00,506.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Cuamba,Tropical Depression,42.2,22.8,0.0,49.96,1.9,STEADY EVOLUTION,2021-01-21 18:00,467.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Metarica,Tropical Depression,41.8,22.6,0.0,48.67,1.8,STEADY EVOLUTION,2021-01-21 18:00,501.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Fenerive Est,Tropical Depression,41.8,22.5,0.0,92.82,2.0,STEADY EVOLUTION,2021-01-19 18:00,164.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antsiranana I,Tropical Depression,41.6,22.4,0.0,72.11,2.0,STEADY EVOLUTION,2021-01-19 00:00,338.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Manja,Tropical Depression,41.6,22.5,0.0,56.5,2.0,STEADY EVOLUTION,2021-01-21 18:00,518.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mecanhelas,Tropical Depression,40.8,22.1,0.0,48.38,1.9,STEADY EVOLUTION,2021-01-21 18:00,456.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Maua,Tropical Depression,40.6,21.9,0.0,46.38,1.7,STEADY EVOLUTION,2021-01-21 18:00,538.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Morombe,Tropical Depression,40.5,21.9,0.0,51.49,1.9,STEADY EVOLUTION,2021-01-21 18:00,557.3,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Mahabo,Tropical Depression,40.3,21.8,0.0,61.27,2.2,STEADY EVOLUTION,2021-01-21 18:00,496.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Quissanga,Tropical Depression,40.1,21.7,0.0,53.07,2.2,STEADY EVOLUTION,2021-01-21 18:00,536.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Caia,Tropical Depression,39.9,21.5,0.0,67.46,2.3,STEADY EVOLUTION,2021-01-21 18:00,225.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Anjozorobe,Tropical Depression,39.9,21.5,0.0,76.43,2.1,STEADY EVOLUTION,2021-01-20 18:00,272.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Amparafaravola,Tropical Depression,39.7,21.5,0.0,87.04,1.6,STEADY EVOLUTION,2021-01-20 18:00,187.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Miarinarivo,Tropical Depression,39.7,21.4,0.0,72.56,2.2,STEADY EVOLUTION,2021-01-20 18:00,363.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Meluco,Tropical Depression,39.1,21.1,0.0,48.55,2.0,STEADY EVOLUTION,2021-01-21 18:00,586.9,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambohidratrimo,Tropical Depression,38.8,20.9,0.0,71.74,2.1,STEADY EVOLUTION,2021-01-20 18:00,326.5,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Montepuez,Tropical Depression,38.7,20.9,0.0,45.42,1.8,STEADY EVOLUTION,2021-01-21 18:00,610.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Ibo,Tropical Depression,38.6,20.9,0.0,51.48,2.1,STEADY EVOLUTION,2021-01-21 18:00,547.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Soavinandriana,Tropical Depression,38.4,20.7,0.0,70.2,2.2,STEADY EVOLUTION,2021-01-20 18:00,404.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Marrupa,Tropical Depression,38.1,20.5,0.0,42.55,1.7,STEADY EVOLUTION,2021-01-21 18:00,611.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mutarara,Tropical Depression,38.1,20.5,0.0,52.33,2.0,STEADY EVOLUTION,2021-01-21 18:00,326.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Mandoto,Tropical Depression,37.7,20.3,0.0,66.8,2.3,STEADY EVOLUTION,2021-01-21 17:00,456.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Chemba,Tropical Depression,37.6,20.3,0.0,54.09,2.0,STEADY EVOLUTION,2021-01-21 18:00,300.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Nosy-Be,Tropical Depression,37.5,20.2,0.0,83.58,2.4,STEADY EVOLUTION,2021-01-20 18:00,269.4,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo VI,Tropical Depression,37.4,20.2,0.0,68.79,1.9,STEADY EVOLUTION,2021-01-20 18:00,348.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Beroroha,Tropical Depression,37.4,20.2,0.0,51.88,1.9,STEADY EVOLUTION,2021-01-21 18:00,577.1,No structural damage,No damage
+Cyclone Eloise,2021,South Africa,Vhembe District Municipality,Tropical Depression,37.4,20.2,0.0,38.56,26.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-24 05:00,8.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mandimba,Tropical Depression,37.3,20.1,0.0,41.29,1.6,STEADY EVOLUTION,2021-01-21 18:00,546.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambatondrazaka,Tropical Depression,37.3,20.1,0.0,77.69,1.7,STEADY EVOLUTION,2021-01-20 18:00,240.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Macomia,Tropical Depression,37.2,20.1,0.0,47.32,2.0,STEADY EVOLUTION,2021-01-21 18:00,592.3,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo V,Tropical Depression,37.2,20.1,0.0,68.36,1.9,STEADY EVOLUTION,2021-01-20 18:00,349.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Arivonimamo,Tropical Depression,37.2,20.1,0.0,67.72,2.0,STEADY EVOLUTION,2021-01-20 18:00,374.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Maringue,Tropical Depression,37.1,20.0,0.0,60.05,2.0,STEADY EVOLUTION,2021-01-21 18:00,244.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo I,Tropical Depression,37.1,20.0,0.0,68.19,1.9,STEADY EVOLUTION,2021-01-20 18:00,352.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo III,Tropical Depression,37.1,20.0,0.0,68.21,1.9,STEADY EVOLUTION,2021-01-20 18:00,351.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo IV,Tropical Depression,37.0,20.0,0.0,67.84,1.9,STEADY EVOLUTION,2021-01-20 18:00,355.3,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Bikita,Tropical Depression,36.9,19.9,0.0,51.0,1.7,STEADY EVOLUTION,2021-01-23 10:00,142.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo II,Tropical Depression,36.9,19.9,0.0,67.7,1.9,STEADY EVOLUTION,2021-01-20 18:00,354.5,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo Avaradrano,Tropical Depression,36.7,19.8,0.0,67.62,1.9,STEADY EVOLUTION,2021-01-20 18:00,350.9,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Vavatenina,Tropical Depression,36.7,19.8,0.0,84.24,1.8,STEADY EVOLUTION,2021-01-19 18:00,197.9,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ankazoabo,Tropical Depression,36.7,19.8,0.0,47.33,1.8,STEADY EVOLUTION,2021-01-21 18:00,614.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antananarivo Atsimondrano,Tropical Depression,36.4,19.7,0.0,66.66,1.9,STEADY EVOLUTION,2021-01-20 18:00,365.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Manjakandriana,Tropical Depression,36.4,19.7,0.0,67.67,1.9,STEADY EVOLUTION,2021-01-20 18:00,342.3,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Faratsiho,Tropical Depression,36.3,19.6,0.0,65.61,2.0,STEADY EVOLUTION,2021-01-20 18:00,417.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Muidumbe,Tropical Depression,35.9,19.4,0.0,43.94,1.9,STEADY EVOLUTION,2021-01-21 18:00,633.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Majune,Tropical Depression,35.9,19.4,0.0,38.53,1.5,STEADY EVOLUTION,2021-01-21 18:00,623.8,No structural damage,No damage
+Cyclone Eloise,2021,South Africa,Capricorn District Municipality,Tropical Depression,35.9,19.4,0.0,30.79,11.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2021-01-24 15:00,10.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambatofinandrahana,Tropical Depression,35.6,19.2,0.0,56.86,2.0,STEADY EVOLUTION,2021-01-21 18:00,541.7,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Manica,Tropical Depression,35.6,19.2,0.0,53.66,1.5,STEADY EVOLUTION,2021-01-23 05:00,210.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Betafo,Tropical Depression,35.2,19.0,0.0,60.87,2.0,STEADY EVOLUTION,2021-01-21 18:00,480.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Sakaraha,Tropical Depression,35.1,19.0,0.0,42.9,1.7,STEADY EVOLUTION,2021-01-21 18:00,665.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Tambara,Tropical Depression,35.0,18.9,0.0,46.28,1.8,STEADY EVOLUTION,2021-01-21 18:00,351.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Ngauma,Tropical Depression,34.9,18.9,0.0,37.23,1.4,STEADY EVOLUTION,2021-01-21 18:00,598.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Toliary-II,Tropical Depression,34.9,18.9,0.0,40.83,1.6,STEADY EVOLUTION,2021-01-21 18:00,683.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Toliary-I,Tropical Depression,34.8,18.8,0.0,40.23,1.6,STEADY EVOLUTION,2021-01-21 18:00,690.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Moramanga,Tropical Depression,34.6,18.7,0.0,65.79,1.7,STEADY EVOLUTION,2021-01-20 18:00,338.8,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Mutare,Tropical Depression,34.5,18.6,0.0,48.63,1.5,STEADY EVOLUTION,2021-01-23 06:00,203.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mueda,Tropical Depression,34.3,18.5,0.0,39.52,1.7,STEADY EVOLUTION,2021-01-21 18:00,697.9,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Andramasina,Tropical Depression,34.3,18.5,0.0,62.4,1.8,STEADY EVOLUTION,2021-01-20 18:00,394.8,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mocimboa da Praia,Tropical Depression,34.2,18.5,0.0,41.99,1.8,STEADY EVOLUTION,2021-01-21 18:00,654.9,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ikalamavony,Tropical Depression,34.2,18.5,0.0,49.94,1.8,STEADY EVOLUTION,2021-01-21 18:00,615.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambatolampy,Tropical Depression,34.1,18.4,0.0,61.49,1.8,STEADY EVOLUTION,2021-01-20 18:00,413.7,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Macossa,Tropical Depression,34.0,18.4,0.0,51.39,1.7,STEADY EVOLUTION,2021-01-21 18:00,274.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antsirabe I,Tropical Depression,33.8,18.3,0.0,59.68,1.9,STEADY EVOLUTION,2021-01-21 18:00,466.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mecula,Tropical Depression,33.7,18.2,0.0,36.03,1.6,STEADY EVOLUTION,2021-01-21 18:00,721.5,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Vilankulo,Tropical Depression,33.7,18.2,0.0,54.15,1.6,STEADY EVOLUTION,2021-01-23 03:00,227.7,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Moatize,Tropical Depression,33.6,18.1,0.0,39.16,1.6,STEADY EVOLUTION,2021-01-21 18:00,453.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Tsangano,Tropical Depression,33.6,18.2,0.0,37.0,1.5,STEADY EVOLUTION,2021-01-21 18:00,520.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Toamasina II,Tropical Depression,33.6,18.1,0.0,74.28,1.6,STEADY EVOLUTION,2021-01-20 18:00,254.8,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antsirabe II,Tropical Depression,33.3,18.0,0.0,59.07,1.9,STEADY EVOLUTION,2021-01-21 18:00,464.5,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Nangade,Tropical Depression,33.0,17.8,0.0,38.81,1.7,STEADY EVOLUTION,2021-01-21 18:00,702.5,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antanifotsy,Tropical Depression,33.0,17.8,0.0,58.87,1.8,STEADY EVOLUTION,2021-01-20 18:00,445.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Lichinga,Tropical Depression,32.9,17.7,0.0,33.79,1.4,STEADY EVOLUTION,2021-01-21 18:00,653.4,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Brickaville,Tropical Depression,32.9,17.7,0.0,65.72,1.5,STEADY EVOLUTION,2021-01-20 18:00,322.1,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ihosy,Tropical Depression,32.8,17.7,0.0,42.98,1.7,STEADY EVOLUTION,2021-01-21 18:00,692.0,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Guro,Tropical Depression,32.7,17.7,0.0,41.4,1.6,STEADY EVOLUTION,2021-01-21 18:00,379.5,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Muembe,Tropical Depression,32.7,17.6,0.0,33.45,1.4,STEADY EVOLUTION,2021-01-21 18:00,694.8,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Zaka,Tropical Depression,32.6,17.6,0.0,44.21,1.3,STEADY EVOLUTION,2021-01-23 16:00,154.6,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Manandriana,Tropical Depression,32.6,17.6,0.0,51.58,1.8,STEADY EVOLUTION,2021-01-21 18:00,562.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Cidade de Lichinga,Tropical Depression,32.5,17.5,0.0,33.17,1.4,STEADY EVOLUTION,2021-01-21 18:00,665.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Mavago,Tropical Depression,32.3,17.4,0.0,33.08,1.4,STEADY EVOLUTION,2021-01-21 18:00,736.3,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Toamasina I,Tropical Depression,32.3,17.4,0.0,71.36,1.6,STEADY EVOLUTION,2021-01-19 00:00,275.3,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Angonia,Tropical Depression,32.2,17.4,0.0,33.98,1.4,STEADY EVOLUTION,2021-01-21 18:00,573.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Cidade de Tete,Tropical Depression,32.2,17.4,0.0,37.1,1.5,STEADY EVOLUTION,2021-01-21 18:00,459.1,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Mwenezi,Tropical Depression,32.2,17.4,0.0,39.2,1.7,STEADY EVOLUTION,2021-01-23 21:00,114.9,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Anosibe-An'ala,Tropical Depression,32.2,17.4,0.0,58.57,1.6,STEADY EVOLUTION,2021-01-20 18:00,417.9,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Palma,Tropical Depression,32.0,17.3,0.0,38.47,1.7,STEADY EVOLUTION,2021-01-21 18:00,703.5,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Betioky Atsimo,Tropical Depression,32.0,17.3,0.0,36.84,1.5,STEADY EVOLUTION,2021-01-21 18:00,757.5,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Isandra,Tropical Depression,32.0,17.3,0.0,47.73,1.7,STEADY EVOLUTION,2021-01-21 18:00,622.3,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambositra,Tropical Depression,31.9,17.2,0.0,52.03,1.7,STEADY EVOLUTION,2021-01-21 18:00,539.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Fandriana,Tropical Depression,31.9,17.2,0.0,54.18,1.8,STEADY EVOLUTION,2021-01-21 18:00,503.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Barue,Tropical Depression,31.8,17.2,0.0,45.85,1.6,STEADY EVOLUTION,2021-01-21 18:00,290.9,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Benenitra,Tropical Depression,31.6,17.1,0.0,37.6,1.5,STEADY EVOLUTION,2021-01-21 18:00,755.5,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambohimahasoa,Tropical Depression,31.6,17.1,0.0,48.49,1.7,STEADY EVOLUTION,2021-01-21 18:00,595.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ambalavao,Tropical Depression,31.4,17.0,0.0,43.92,1.6,STEADY EVOLUTION,2021-01-21 18:00,690.6,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Luenha,Tropical Depression,31.2,16.8,0.0,37.67,1.5,STEADY EVOLUTION,2021-01-21 18:00,409.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Fianarantsoa I,Tropical Depression,31.2,16.8,0.0,45.88,1.6,STEADY EVOLUTION,2021-01-21 18:00,638.7,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Chiuta,Tropical Depression,31.1,16.8,0.0,33.54,1.4,STEADY EVOLUTION,2021-01-21 18:00,530.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Antanambao Manampontsy,Tropical Depression,31.0,16.8,0.0,56.88,1.5,STEADY EVOLUTION,2021-01-20 18:00,422.4,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Changara,Tropical Depression,30.9,16.7,0.0,35.15,1.4,STEADY EVOLUTION,2021-01-21 18:00,467.2,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Massinga,Tropical Depression,30.9,16.7,0.0,45.51,1.5,STEADY EVOLUTION,2021-01-21 18:00,277.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Vatomandry,Tropical Depression,30.8,16.6,0.0,57.82,1.5,STEADY EVOLUTION,2021-01-20 18:00,401.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Vohibato,Tropical Depression,30.8,16.6,0.0,44.4,1.6,STEADY EVOLUTION,2021-01-21 18:00,662.0,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Lalangina,Tropical Depression,30.7,16.6,0.0,45.68,1.6,STEADY EVOLUTION,2021-01-21 18:00,631.9,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Buhera,Tropical Depression,30.6,16.5,0.0,43.0,1.2,STEADY EVOLUTION,2021-01-23 07:00,210.4,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Mutasa,Tropical Depression,30.4,16.4,0.0,46.04,1.4,STEADY EVOLUTION,2021-01-23 06:00,247.3,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Macanga,Tropical Depression,30.4,16.4,0.0,31.44,1.3,STEADY EVOLUTION,2021-01-21 18:00,591.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Marolambo,Tropical Depression,30.4,16.4,0.0,53.76,1.6,STEADY EVOLUTION,2021-01-21 18:00,482.3,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Nyanga,Tropical Depression,30.3,16.3,0.0,40.98,1.4,STEADY EVOLUTION,2021-01-21 18:00,316.1,No structural damage,No damage
+Cyclone Eloise,2021,Mozambique,Sanga,Tropical Depression,30.3,16.4,0.0,29.87,1.3,STEADY EVOLUTION,2021-01-21 18:00,771.7,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Ifanadiana,Tropical Depression,30.2,16.3,0.0,46.89,1.6,STEADY EVOLUTION,2021-01-21 18:00,594.2,No structural damage,No damage
+Cyclone Eloise,2021,Madagascar,Betroka,Tropical Depression,30.1,16.2,0.0,36.51,1.5,STEADY EVOLUTION,2021-01-21 18:00,791.6,No structural damage,No damage
+Cyclone Eloise,2021,Zimbabwe,Beitbridge,Tropical Depression,29.9,16.1,0.0,34.03,1.7,STEADY EVOLUTION,2021-01-24 00:00,84.7,No structural damage,No damage
+Cyclone Eloise,2021,South Africa,Waterberg District Municipality,Tropical Depression,29.0,15.7,0.0,24.16,2.7,STEADY EVOLUTION,2021-01-24 21:00,54.9,No structural damage,No damage
+Cyclone Eloise,2021,South Africa,Mopani District Municipality,Tropical Depression,28.7,15.5,0.0,29.94,2.4,STEADY EVOLUTION,2021-01-24 00:00,128.5,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Mananjary,Category 2,158.1,85.3,15.79,111.24,59.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 19:00,11.2,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Freddy,2023,Madagascar,Ambohimahasoa,Category 1,139.4,75.3,10.84,115.62,63.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 22:00,11.0,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Freddy,2023,Madagascar,Ifanadiana,Category 1,128.0,69.1,8.38,103.36,64.0,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 20:00,6.0,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Freddy,2023,Madagascar,Isandra,Category 1,126.3,68.2,8.05,122.05,43.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 00:00,22.5,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Freddy,2023,Mozambique,Namacurra,Category 1,124.5,67.2,7.72,285.81,16.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-11 23:00,15.7,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Freddy,2023,Mozambique,Cidade de Quelimane,Tropical Storm,111.3,60.1,5.52,290.96,13.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-11 19:00,20.1,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Freddy,2023,Madagascar,Ikalamavony,Tropical Storm,107.7,58.2,5.0,114.04,54.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 01:00,9.2,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Freddy,2023,Mozambique,Nicoadala,Tropical Storm,101.5,54.8,4.18,261.9,10.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-12 01:00,19.0,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Freddy,2023,Madagascar,Lalangina,Tropical Storm,93.8,50.6,3.3,97.8,25.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 22:00,35.8,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Manandriana,Tropical Storm,93.4,50.4,3.26,95.86,22.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 23:00,38.7,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Beroroha,Tropical Storm,93.0,50.2,3.22,122.68,51.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 04:00,16.7,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Fianarantsoa I,Tropical Storm,91.4,49.4,3.06,98.83,22.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 23:00,39.9,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Toliary-I,Tropical Storm,83.3,45.0,2.31,287.86,8.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-05 19:00,46.8,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Malawi,Nsanje,Tropical Storm,82.5,44.5,2.25,138.0,13.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-13 00:00,18.5,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Mozambique,Morrumbala,Tropical Storm,82.3,44.4,2.23,154.44,33.0,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-12 19:00,6.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Ankazoabo,Tropical Storm,81.4,43.9,2.16,150.44,12.7,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 07:00,31.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Mozambique,Inhassunge,Tropical Storm,78.9,42.6,1.97,207.65,10.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-11 06:00,42.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Toliary-II,Tropical Storm,78.6,42.5,1.94,256.56,7.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-05 18:00,63.5,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Mozambique,Mutarara,Tropical Storm,77.0,41.6,1.83,139.81,12.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-13 02:00,21.9,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Morombe,Tropical Storm,75.8,40.9,1.74,187.19,9.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 09:00,36.7,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Manja,Tropical Storm,75.7,40.9,1.73,148.56,9.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 08:00,66.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Sakaraha,Tropical Storm,70.6,38.1,1.41,170.96,7.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 10:00,75.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Ambatofinandrahana,Tropical Storm,68.9,37.2,1.31,86.83,13.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 02:00,73.7,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Mozambique,Maganja da Costa,Tropical Storm,67.9,36.7,1.25,145.66,9.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-11 06:00,87.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Mahabo,Tropical Storm,65.8,35.6,1.14,100.95,9.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 05:00,96.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Ambositra,Tropical Storm,64.4,34.8,1.07,77.95,12.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 23:00,57.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Vohibato,Tropical Storm,63.8,34.5,1.04,86.23,12.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 23:00,63.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Freddy,2023,Madagascar,Ambalavao,Tropical Depression,62.5,33.7,0.0,88.45,8.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 02:00,85.1,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Ihosy,Tropical Depression,62.0,33.5,0.0,104.83,8.7,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 05:00,106.2,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Chemba,Tropical Depression,59.1,31.9,0.0,112.96,8.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-13 01:00,56.7,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Chikwawa,Tropical Depression,54.3,29.3,0.0,101.78,4.3,STEADY EVOLUTION,2023-03-13 08:00,28.1,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Betioky Atsimo,Tropical Depression,53.2,28.8,0.0,160.78,4.3,STEADY EVOLUTION,2023-03-05 21:00,129.2,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Morondava,Tropical Depression,53.1,28.7,0.0,106.4,6.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 06:00,134.9,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Tambara,Tropical Depression,50.6,27.3,0.0,96.1,4.7,STEADY EVOLUTION,2023-03-13 12:00,51.2,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Nosy-Varika,Tropical Depression,48.9,26.4,0.0,65.92,5.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 19:00,60.2,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Vilankulo,Tropical Depression,48.2,26.0,0.0,346.31,6.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-26 18:00,89.2,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Mocuba,Tropical Depression,46.2,24.9,0.0,128.5,6.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-11 06:00,65.9,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Mopeia,Tropical Depression,46.1,24.9,0.0,138.79,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-12 12:00,68.4,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Thyolo,Tropical Depression,45.9,24.8,0.0,96.51,3.6,STEADY EVOLUTION,2023-03-13 05:00,66.6,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Caia,Tropical Depression,45.8,24.8,0.0,102.26,4.3,STEADY EVOLUTION,2023-03-13 00:00,89.3,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Chinde,Tropical Depression,45.7,24.7,0.0,139.25,5.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-03-11 06:00,105.6,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Benenitra,Tropical Depression,45.1,24.3,0.0,121.58,4.3,STEADY EVOLUTION,2023-02-22 10:00,169.1,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Ampanihy Ouest,Tropical Depression,45.0,24.3,0.0,134.12,4.0,STEADY EVOLUTION,2023-03-06 06:00,161.1,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Fandriana,Tropical Depression,43.3,23.4,0.0,64.38,6.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 23:00,92.7,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Ikongo,Tropical Depression,43.2,23.3,0.0,70.78,5.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 23:00,93.4,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Betafo,Tropical Depression,42.3,22.8,0.0,64.83,5.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 02:00,129.0,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Ivohibe,Tropical Depression,40.9,22.1,0.0,72.55,4.6,STEADY EVOLUTION,2023-02-22 04:00,158.4,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Inhassoro,Tropical Depression,40.7,22.0,0.0,264.7,5.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-26 18:00,107.7,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Moatize,Tropical Depression,40.5,21.9,0.0,75.38,3.3,STEADY EVOLUTION,2023-03-13 12:00,49.4,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Betroka,Tropical Depression,38.8,20.9,0.0,89.7,4.2,STEADY EVOLUTION,2023-02-22 07:00,210.4,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Mandoto,Tropical Depression,38.4,20.7,0.0,63.88,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-22 04:00,164.9,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Antsirabe I,Tropical Depression,37.9,20.5,0.0,60.16,4.4,STEADY EVOLUTION,2023-02-22 01:00,135.0,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Belo Sur Tsiribihina,Tropical Depression,37.8,20.4,0.0,75.25,5.0,STEADY EVOLUTION,2023-02-22 05:00,211.2,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Massinga,Tropical Depression,37.6,20.3,0.0,233.21,6.0,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-26 03:00,132.9,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Manakara Atsimo,Tropical Depression,37.4,20.2,0.0,64.0,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-21 22:00,91.5,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Mwanza,Tropical Depression,37.3,20.1,0.0,72.87,3.3,STEADY EVOLUTION,2023-03-13 21:00,60.9,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Antsirabe II,Tropical Depression,36.9,19.9,0.0,59.04,4.1,STEADY EVOLUTION,2023-02-22 01:00,135.3,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Pebane,Tropical Depression,36.6,19.8,0.0,97.72,4.4,STEADY EVOLUTION,2023-03-10 15:00,162.5,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Maringue,Tropical Depression,36.3,19.6,0.0,87.66,4.1,STEADY EVOLUTION,2023-03-13 00:00,121.0,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Mulanje,Tropical Depression,36.1,19.5,0.0,81.91,3.6,STEADY EVOLUTION,2023-03-13 00:00,104.6,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Iakora,Tropical Depression,35.9,19.4,0.0,72.59,4.1,STEADY EVOLUTION,2023-02-22 05:00,218.8,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Guro,Tropical Depression,35.5,19.2,0.0,68.96,3.5,STEADY EVOLUTION,2023-03-13 12:00,100.6,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Cidade de Tete,Tropical Depression,35.1,18.9,0.0,64.02,3.3,STEADY EVOLUTION,2023-03-13 12:00,89.2,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Vondrozo,Tropical Depression,34.7,18.7,0.0,64.05,3.4,STEADY EVOLUTION,2023-02-22 04:00,177.1,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Bekily,Tropical Depression,34.4,18.6,0.0,95.06,3.6,STEADY EVOLUTION,2023-03-05 21:00,233.0,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Blantyre,Tropical Depression,34.3,18.5,0.0,74.31,3.4,STEADY EVOLUTION,2023-03-13 21:00,82.7,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Govuro,Tropical Depression,33.7,18.2,0.0,197.9,5.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-26 13:00,137.4,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Beloha,Tropical Depression,33.3,18.0,0.0,89.96,3.6,STEADY EVOLUTION,2023-03-06 06:00,237.4,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Vohipeno,Tropical Depression,33.2,17.9,0.0,60.99,3.3,STEADY EVOLUTION,2023-02-22 03:00,139.4,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Chiradzulu,Tropical Depression,33.1,17.9,0.0,76.14,3.5,STEADY EVOLUTION,2023-03-13 05:00,98.5,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Ile,Tropical Depression,33.0,17.8,0.0,82.03,4.2,STEADY EVOLUTION,2023-03-11 06:00,158.0,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Milange,Tropical Depression,32.9,17.8,0.0,81.87,3.7,STEADY EVOLUTION,2023-03-13 00:00,119.2,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Lugela,Tropical Depression,32.7,17.6,0.0,91.6,4.1,STEADY EVOLUTION,2023-03-12 13:00,104.7,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Neno,Tropical Depression,32.5,17.5,0.0,65.24,3.3,STEADY EVOLUTION,2023-03-13 22:00,88.1,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Miandrivazo,Tropical Depression,32.4,17.5,0.0,62.42,4.3,STEADY EVOLUTION,2023-02-22 05:00,244.4,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Marromeu,Tropical Depression,32.4,17.5,0.0,116.3,4.9,STEADY EVOLUTION,2023-03-11 06:00,142.6,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Midongy-Atsimo,Tropical Depression,31.8,17.2,0.0,64.47,3.4,STEADY EVOLUTION,2023-02-22 06:00,250.0,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Marolambo,Tropical Depression,31.6,17.1,0.0,56.03,3.8,STEADY EVOLUTION,2023-02-21 22:00,112.4,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Antanifotsy,Tropical Depression,31.6,17.1,0.0,54.2,3.1,STEADY EVOLUTION,2023-02-22 02:00,150.0,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Faratsiho,Tropical Depression,31.4,16.9,0.0,54.14,3.2,STEADY EVOLUTION,2023-02-22 03:00,188.0,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Soavinandriana,Tropical Depression,31.0,16.7,0.0,54.29,3.7,STEADY EVOLUTION,2023-02-22 04:00,209.8,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Farafangana,Tropical Depression,30.7,16.6,0.0,58.05,3.0,STEADY EVOLUTION,2023-02-22 04:00,190.8,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Morrumbene,Tropical Depression,30.4,16.4,0.0,166.47,5.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2023-02-24 21:00,186.0,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Phalombe,Tropical Depression,29.7,16.1,0.0,70.61,3.5,STEADY EVOLUTION,2023-03-13 00:00,140.2,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Changara,Tropical Depression,28.6,15.4,0.0,54.4,3.2,STEADY EVOLUTION,2023-03-13 12:00,133.1,No structural damage,No damage
+Cyclone Freddy,2023,Madagascar,Mahanoro,Tropical Depression,28.4,15.3,0.0,52.72,2.8,STEADY EVOLUTION,2023-02-21 06:00,110.7,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Luenha,Tropical Depression,28.3,15.3,0.0,57.31,3.4,STEADY EVOLUTION,2023-03-13 12:00,139.6,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Tsangano,Tropical Depression,27.4,14.8,0.0,52.85,3.1,STEADY EVOLUTION,2023-03-13 23:00,119.7,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Zomba,Tropical Depression,26.7,14.4,0.0,63.1,3.4,STEADY EVOLUTION,2023-03-13 00:00,141.4,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Macossa,Tropical Depression,26.6,14.4,0.0,71.78,3.9,STEADY EVOLUTION,2023-03-13 00:00,159.4,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Namarroi,Tropical Depression,26.6,14.4,0.0,73.11,3.7,STEADY EVOLUTION,2023-03-11 06:00,156.7,No structural damage,No damage
+Cyclone Freddy,2023,Mozambique,Chiuta,Tropical Depression,26.2,14.1,0.0,49.28,3.1,STEADY EVOLUTION,2023-03-14 00:00,129.6,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Balaka,Tropical Depression,24.5,13.2,0.0,53.94,3.2,STEADY EVOLUTION,2023-03-13 23:00,147.2,No structural damage,No damage
+Cyclone Freddy,2023,Malawi,Ntcheu,Tropical Depression,23.3,12.6,0.0,48.4,3.1,STEADY EVOLUTION,2023-03-13 23:00,157.7,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Toamasina I,Tropical Storm,65.8,35.5,1.14,537.04,0.5,STEADY EVOLUTION,2026-02-13 07:00,47.1,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Gezani,2026,Madagascar,Sainte Marie,Tropical Depression,60.2,32.5,0.0,430.46,0.6,STEADY EVOLUTION,2026-02-11 15:00,156.3,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Toamasina II,Tropical Depression,55.0,29.7,0.0,438.17,0.4,STEADY EVOLUTION,2026-02-13 01:00,71.5,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Fenerive Est,Tropical Depression,48.6,26.2,0.0,328.32,0.4,STEADY EVOLUTION,2026-02-12 02:00,156.3,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Vavatenina,Tropical Depression,48.1,26.0,0.0,339.89,0.4,STEADY EVOLUTION,2026-02-12 11:00,127.9,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Anosibe-An'ala,Tropical Depression,46.3,25.0,0.0,284.03,0.5,STEADY EVOLUTION,2026-02-17 03:00,45.0,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Moramanga,Tropical Depression,46.3,25.0,0.0,301.98,2.3,STEADY EVOLUTION,2026-02-17 07:00,22.8,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo I,Tropical Depression,46.3,25.0,0.0,250.09,1.1,STEADY EVOLUTION,2026-02-18 04:00,41.6,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo II,Tropical Depression,46.3,25.0,0.0,249.19,1.5,STEADY EVOLUTION,2026-02-17 09:00,37.8,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo III,Tropical Depression,46.3,25.0,0.0,252.3,1.0,STEADY EVOLUTION,2026-02-18 03:00,41.9,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo IV,Tropical Depression,46.3,25.0,0.0,246.62,1.4,STEADY EVOLUTION,2026-02-17 11:00,38.7,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo V,Tropical Depression,46.3,25.0,0.0,254.65,0.9,STEADY EVOLUTION,2026-02-17 12:00,43.2,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo VI,Tropical Depression,46.3,25.0,0.0,251.25,0.5,STEADY EVOLUTION,2026-02-17 20:00,46.4,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Andramasina,Tropical Depression,46.3,25.0,0.0,223.57,2.6,STEADY EVOLUTION,2026-02-18 11:00,8.3,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo Atsimondrano,Tropical Depression,46.3,25.0,0.0,231.32,2.0,STEADY EVOLUTION,2026-02-17 08:00,28.7,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antananarivo Avaradrano,Tropical Depression,46.3,25.0,0.0,257.36,1.5,STEADY EVOLUTION,2026-02-17 06:00,37.6,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Manjakandriana,Tropical Depression,46.3,25.0,0.0,276.0,1.4,STEADY EVOLUTION,2026-02-17 19:00,38.8,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Brickaville,Tropical Depression,46.3,25.0,0.0,371.38,2.5,STEADY EVOLUTION,2026-02-16 08:00,16.9,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Arivonimamo,Tropical Depression,46.3,25.0,0.0,209.32,1.5,STEADY EVOLUTION,2026-02-17 21:00,35.1,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Ambatolampy,Tropical Depression,46.3,25.0,0.0,205.04,2.4,STEADY EVOLUTION,2026-02-17 11:00,18.1,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antanifotsy,Tropical Depression,46.3,25.0,0.0,216.39,0.6,STEADY EVOLUTION,2026-02-18 05:00,44.7,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Faratsiho,Tropical Depression,46.3,25.0,0.0,172.21,0.6,STEADY EVOLUTION,2026-02-18 09:00,25.4,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antsirabe I,Tropical Depression,46.2,24.9,0.0,167.71,0.5,STEADY EVOLUTION,2026-02-18 18:00,49.8,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antsirabe II,Tropical Depression,46.2,25.0,0.0,177.83,0.5,STEADY EVOLUTION,2026-02-18 18:00,48.5,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Soanierana Ivongo,Tropical Depression,45.7,24.7,0.0,288.21,0.4,STEADY EVOLUTION,2026-02-11 16:00,197.7,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Vatomandry,Tropical Depression,45.6,24.6,0.0,338.84,0.5,STEADY EVOLUTION,2026-02-16 05:00,54.5,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antanambao Manampontsy,Tropical Depression,44.1,23.8,0.0,292.78,0.4,STEADY EVOLUTION,2026-02-16 20:00,63.0,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Soavinandriana,Tropical Depression,43.5,23.5,0.0,148.15,0.5,STEADY EVOLUTION,2026-02-18 18:00,65.9,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Mananara-Avaratra,Tropical Depression,43.1,23.3,0.0,254.08,0.3,STEADY EVOLUTION,2026-02-11 04:00,240.7,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Miarinarivo,Tropical Depression,42.9,23.2,0.0,172.66,0.4,STEADY EVOLUTION,2026-02-18 18:00,68.4,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Ambohidratrimo,Tropical Depression,42.7,23.1,0.0,231.45,0.4,STEADY EVOLUTION,2026-02-17 19:00,69.4,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Betafo,Tropical Depression,41.5,22.4,0.0,135.64,0.5,STEADY EVOLUTION,2026-02-18 18:00,74.6,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Ambatondrazaka,Tropical Depression,39.6,21.4,0.0,290.34,0.3,STEADY EVOLUTION,2026-02-12 13:00,107.3,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Antalaha,Tropical Depression,38.3,20.7,0.0,196.75,0.3,STEADY EVOLUTION,2026-02-10 03:00,321.1,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Amparafaravola,Tropical Depression,36.8,19.9,0.0,235.79,0.3,STEADY EVOLUTION,2026-02-12 05:00,160.9,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Fandriana,Tropical Depression,36.8,19.9,0.0,159.16,0.3,STEADY EVOLUTION,2026-02-18 18:00,96.4,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Marolambo,Tropical Depression,36.4,19.6,0.0,198.37,0.3,STEADY EVOLUTION,2026-02-17 22:00,98.6,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Maroantsetra,Tropical Depression,35.6,19.2,0.0,181.71,0.3,STEADY EVOLUTION,2026-02-10 15:00,321.1,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Mandoto,Tropical Depression,35.6,19.2,0.0,113.42,0.5,STEADY EVOLUTION,2026-02-18 18:00,102.5,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Anjozorobe,Tropical Depression,35.1,19.0,0.0,229.64,0.3,STEADY EVOLUTION,2026-02-17 01:00,105.0,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Andilamena,Tropical Depression,33.9,18.3,0.0,189.01,0.2,STEADY EVOLUTION,2026-02-11 18:00,235.3,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Mahanoro,Tropical Depression,33.6,18.1,0.0,222.26,0.3,STEADY EVOLUTION,2026-02-17 01:00,113.7,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Mandritsara,Tropical Depression,33.6,18.2,0.0,174.96,0.2,STEADY EVOLUTION,2026-02-11 07:00,291.4,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Ambositra,Tropical Depression,31.5,17.0,0.0,130.67,0.2,STEADY EVOLUTION,2026-02-18 18:00,126.6,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Ankazobe,Tropical Depression,30.1,16.2,0.0,163.09,0.2,STEADY EVOLUTION,2026-02-18 02:00,136.2,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Tsiroanomandidy,Tropical Depression,29.5,15.9,0.0,105.86,0.2,STEADY EVOLUTION,2026-02-18 18:00,140.4,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Ambatofinandrahana,Tropical Depression,28.8,15.5,0.0,96.73,0.3,STEADY EVOLUTION,2026-02-18 18:00,146.2,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Manandriana,Tropical Depression,28.8,15.6,0.0,111.96,0.2,STEADY EVOLUTION,2026-02-18 18:00,145.6,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Fenoarivobe,Tropical Depression,27.8,15.0,0.0,120.5,0.2,STEADY EVOLUTION,2026-02-18 18:00,154.3,No structural damage,No damage
+Cyclone Gezani,2026,Madagascar,Nosy-Varika,Tropical Depression,27.6,14.9,0.0,158.48,0.2,STEADY EVOLUTION,2026-02-17 22:00,155.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Dondo,Category 3 (Major),184.6,99.7,25.18,486.45,32.0,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 22:00,23.2,Structure disappears / Completely leveled,Wall failure / Partial concrete collapse
+Cyclone Idai,2019,Mozambique,Cidade da Beira,Category 2,175.2,94.6,21.51,441.5,61.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 20:00,1.8,Structure disappears / Completely leveled,Wall failure / Partial concrete collapse
+Cyclone Idai,2019,Mozambique,Nhamatanda,Category 2,168.9,91.2,19.27,392.93,46.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 02:00,11.9,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Idai,2019,Mozambique,Buzi,Category 2,162.7,87.8,17.21,411.28,15.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 01:00,52.9,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Idai,2019,Mozambique,Gondola,Category 1,147.4,79.6,12.8,349.78,22.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 07:00,19.5,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Idai,2019,Mozambique,Cidade de Chimoio,Category 1,140.6,75.9,11.12,319.47,18.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 09:00,19.2,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Idai,2019,Mozambique,Muanza,Category 1,135.9,73.4,10.04,402.46,10.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 00:00,73.7,Total Collapse / Structure leveled,Roofing CGI sheets peeled off; windows broken
+Cyclone Idai,2019,Mozambique,Sussundenga,Category 1,125.9,68.0,7.98,317.14,6.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 11:00,44.5,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Idai,2019,Mozambique,Manica,Tropical Storm,113.1,61.1,5.79,290.58,5.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 14:00,40.0,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Idai,2019,Mozambique,Gorongosa,Tropical Storm,105.2,56.8,4.65,277.36,5.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 06:00,86.8,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Idai,2019,Zimbabwe,Mutare,Tropical Storm,96.4,52.1,3.58,193.64,11.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 18:00,18.2,Roofs ripped off; mud walls lean,Minor items (awnings/tiles) break
+Cyclone Idai,2019,Mozambique,Chibabava,Tropical Storm,93.2,50.3,3.24,236.81,6.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 02:00,109.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Zimbabwe,Mutasa,Tropical Storm,91.6,49.5,3.08,222.56,3.2,STEADY EVOLUTION,2019-03-15 19:00,51.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Zimbabwe,Chimanimani,Tropical Storm,87.3,47.1,2.66,214.74,3.8,STEADY EVOLUTION,2019-03-15 14:00,73.1,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Chinde,Tropical Storm,85.8,46.3,2.52,286.07,6.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 10:00,129.1,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Marromeu,Tropical Storm,81.0,43.8,2.13,267.32,5.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 12:00,153.3,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Machanga,Tropical Storm,80.3,43.4,2.07,195.8,5.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 23:00,136.9,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Cheringoma,Tropical Storm,80.1,43.3,2.06,267.51,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 00:00,137.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Inhassunge,Tropical Storm,76.1,41.1,1.76,286.44,7.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 06:00,65.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Zimbabwe,Buhera,Tropical Storm,75.9,41.0,1.75,152.38,4.7,STEADY EVOLUTION,2019-03-15 23:00,60.7,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Zimbabwe,Makoni,Tropical Storm,72.7,39.2,1.54,156.96,4.1,STEADY EVOLUTION,2019-03-15 23:00,59.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Zimbabwe,Hwedza,Tropical Storm,72.4,39.1,1.52,121.05,4.3,STEADY EVOLUTION,2019-03-16 00:00,10.3,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Cidade de Quelimane,Tropical Storm,69.4,37.5,1.34,292.0,8.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 06:00,44.6,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Namacurra,Tropical Storm,66.8,36.1,1.19,292.45,7.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-04 12:00,21.2,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Govuro,Tropical Storm,63.1,34.1,1.0,155.12,4.5,STEADY EVOLUTION,2019-03-14 22:00,176.9,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Cyclone Idai,2019,Mozambique,Mopeia,Tropical Depression,62.8,33.9,0.0,240.04,7.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 12:00,130.9,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mossurize,Tropical Depression,61.8,33.3,0.0,149.69,3.1,STEADY EVOLUTION,2019-03-15 11:00,143.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Macossa,Tropical Depression,61.4,33.1,0.0,173.2,4.0,STEADY EVOLUTION,2019-03-15 07:00,157.9,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Nicoadala,Tropical Depression,61.2,33.0,0.0,279.75,8.7,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 06:00,56.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Barue,Tropical Depression,60.7,32.8,0.0,164.95,3.6,STEADY EVOLUTION,2019-03-15 11:00,133.1,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Marondera,Tropical Depression,60.3,32.6,0.0,112.21,3.0,STEADY EVOLUTION,2019-03-16 03:00,53.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Maringue,Tropical Depression,59.4,32.1,0.0,186.5,4.7,STEADY EVOLUTION,2019-03-15 05:00,175.1,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Chikomba,Tropical Depression,58.3,31.5,0.0,101.66,3.0,STEADY EVOLUTION,2019-03-16 02:00,68.8,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Inhassoro,Tropical Depression,56.9,30.7,0.0,125.81,4.1,STEADY EVOLUTION,2019-03-14 12:00,221.2,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Nyanga,Tropical Depression,55.8,30.1,0.0,146.75,3.3,STEADY EVOLUTION,2019-03-15 21:00,129.2,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Gutu,Tropical Depression,55.8,30.1,0.0,100.96,2.8,STEADY EVOLUTION,2019-03-16 00:00,111.1,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Cuamba,Tropical Depression,55.6,30.0,0.0,174.82,5.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 11:00,24.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Ile,Tropical Depression,55.6,30.0,0.0,225.96,9.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-05 12:00,20.8,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Lugela,Tropical Depression,55.6,30.0,0.0,236.62,9.5,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 05:00,19.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Maganja da Costa,Tropical Depression,55.6,30.0,0.0,276.23,6.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-05 14:00,39.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Alto Molocue,Tropical Depression,55.6,30.0,0.0,230.17,7.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 00:00,65.1,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Malema,Tropical Depression,55.5,30.0,0.0,185.96,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 12:00,76.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Gurue,Tropical Depression,55.4,29.9,0.0,200.15,6.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 00:00,5.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mocuba,Tropical Depression,55.4,29.9,0.0,233.35,7.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-05 22:00,27.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Namarroi,Tropical Depression,55.4,29.9,0.0,215.66,8.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-05 17:00,29.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Angoche,Tropical Depression,55.2,29.8,0.0,177.91,4.7,STEADY EVOLUTION,2019-03-09 01:00,90.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mecanhelas,Tropical Depression,54.7,29.6,0.0,160.57,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 12:00,6.6,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Bikita,Tropical Depression,54.7,29.5,0.0,117.64,2.7,STEADY EVOLUTION,2019-03-15 22:00,131.0,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Chipinge,Tropical Depression,54.6,29.5,0.0,126.7,2.7,STEADY EVOLUTION,2019-03-15 12:00,155.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Moma,Tropical Depression,54.3,29.3,0.0,186.22,13.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-09 03:00,47.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mogovolas,Tropical Depression,54.2,29.3,0.0,169.66,5.2,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-09 00:00,113.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Pebane,Tropical Depression,54.1,29.2,0.0,215.87,15.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-09 02:00,11.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Caia,Tropical Depression,53.6,28.9,0.0,196.87,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 12:00,200.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Gile,Tropical Depression,53.0,28.6,0.0,210.32,7.8,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-09 00:00,68.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Machaze,Tropical Depression,52.6,28.4,0.0,126.11,3.0,STEADY EVOLUTION,2019-03-15 02:00,194.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Metarica,Tropical Depression,52.4,28.3,0.0,159.13,4.7,STEADY EVOLUTION,2019-03-06 12:00,79.9,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Murehwa,Tropical Depression,51.4,27.8,0.0,106.87,2.9,STEADY EVOLUTION,2019-03-16 00:00,100.9,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Vilankulo,Tropical Depression,50.0,27.0,0.0,99.82,3.5,STEADY EVOLUTION,2019-03-14 12:00,279.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Milange,Tropical Depression,49.7,26.8,0.0,208.79,7.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 05:00,10.6,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Seke,Tropical Depression,49.2,26.6,0.0,85.99,2.6,STEADY EVOLUTION,2019-03-16 04:00,95.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Murrupula,Tropical Depression,48.5,26.2,0.0,171.68,5.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-09 00:00,134.4,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Chitungwiza,Tropical Depression,47.4,25.6,0.0,85.52,2.7,STEADY EVOLUTION,2019-03-16 04:00,103.5,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Phalombe,Tropical Depression,47.4,25.6,0.0,165.25,6.0,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 12:00,3.2,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Goromonzi,Tropical Depression,46.8,25.3,0.0,89.75,2.8,STEADY EVOLUTION,2019-03-16 02:00,109.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mogincual,Tropical Depression,46.6,25.1,0.0,145.61,4.2,STEADY EVOLUTION,2019-03-09 00:00,158.1,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Blantyre,Tropical Depression,46.3,25.0,0.0,157.66,5.0,STEADY EVOLUTION,2019-03-07 06:00,76.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Meconta,Tropical Depression,46.2,25.0,0.0,139.88,4.4,STEADY EVOLUTION,2019-03-09 00:00,173.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Morrumbala,Tropical Depression,46.1,24.9,0.0,218.48,7.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 12:00,126.1,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Ribaue,Tropical Depression,45.9,24.8,0.0,168.13,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 09:00,140.7,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Machinga,Tropical Depression,45.8,24.7,0.0,145.0,4.9,STEADY EVOLUTION,2019-03-06 12:00,39.2,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Thyolo,Tropical Depression,45.5,24.6,0.0,174.64,5.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-07 06:00,71.8,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Nampula,Tropical Depression,45.3,24.5,0.0,143.84,4.8,STEADY EVOLUTION,2019-03-09 00:00,175.7,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Neno,Tropical Depression,45.2,24.4,0.0,144.85,4.6,STEADY EVOLUTION,2019-03-07 06:00,102.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Cidade de Nampula,Tropical Depression,44.8,24.2,0.0,139.53,4.6,STEADY EVOLUTION,2019-03-09 00:00,182.1,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Mutoko,Tropical Depression,44.7,24.2,0.0,106.71,3.2,STEADY EVOLUTION,2019-03-16 00:00,150.8,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Harare,Tropical Depression,44.5,24.0,0.0,81.97,2.7,STEADY EVOLUTION,2019-03-16 03:00,118.5,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Mangochi,Tropical Depression,44.5,24.0,0.0,129.25,4.1,STEADY EVOLUTION,2019-03-07 06:00,116.4,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Zaka,Tropical Depression,44.5,24.0,0.0,87.97,2.5,STEADY EVOLUTION,2019-03-15 23:00,174.6,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Ntcheu,Tropical Depression,44.3,23.9,0.0,128.41,4.2,STEADY EVOLUTION,2019-03-07 06:00,123.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mandimba,Tropical Depression,44.3,23.9,0.0,142.99,4.3,STEADY EVOLUTION,2019-03-07 06:00,94.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Maua,Tropical Depression,44.2,23.9,0.0,127.89,4.3,STEADY EVOLUTION,2019-03-06 12:00,130.4,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Zomba,Tropical Depression,44.0,23.8,0.0,146.74,5.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 12:00,25.1,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Chemba,Tropical Depression,43.4,23.4,0.0,164.17,5.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-15 05:00,195.7,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Mwanza,Tropical Depression,42.7,23.1,0.0,139.26,4.5,STEADY EVOLUTION,2019-03-07 06:00,122.2,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Chirumhanzu,Tropical Depression,42.6,23.0,0.0,71.85,2.4,STEADY EVOLUTION,2019-03-16 00:00,147.7,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Mulanje,Tropical Depression,42.5,22.9,0.0,174.82,6.0,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-06 12:00,29.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Lalaua,Tropical Depression,42.2,22.8,0.0,137.62,4.7,STEADY EVOLUTION,2019-03-06 12:00,164.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mabote,Tropical Depression,42.2,22.8,0.0,92.83,2.9,STEADY EVOLUTION,2019-03-14 12:00,276.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Massinga,Tropical Depression,42.0,22.7,0.0,78.94,2.9,STEADY EVOLUTION,2019-03-14 12:00,339.6,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Chikwawa,Tropical Depression,41.6,22.5,0.0,155.09,5.0,STEADY EVOLUTION,2019-03-07 06:00,116.0,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Tsangano,Tropical Depression,41.1,22.2,0.0,120.22,4.1,STEADY EVOLUTION,2019-03-07 06:00,145.9,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Masvingo,Tropical Depression,41.0,22.1,0.0,74.33,2.4,STEADY EVOLUTION,2019-03-16 00:00,190.1,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Chiradzulu,Tropical Depression,40.7,22.0,0.0,159.47,5.4,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-07 03:00,49.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Tambara,Tropical Depression,40.2,21.7,0.0,140.25,4.4,STEADY EVOLUTION,2019-03-15 06:00,217.6,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Balaka,Tropical Depression,40.0,21.6,0.0,145.27,4.6,STEADY EVOLUTION,2019-03-07 06:00,79.7,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Nsanje,Tropical Depression,39.9,21.6,0.0,181.21,5.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 12:00,121.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Nipepe,Tropical Depression,39.9,21.6,0.0,119.76,4.3,STEADY EVOLUTION,2019-03-06 12:00,176.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mutarara,Tropical Depression,39.7,21.4,0.0,164.02,5.3,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2019-03-14 12:00,157.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Ngauma,Tropical Depression,39.6,21.4,0.0,113.28,3.9,STEADY EVOLUTION,2019-03-07 06:00,146.9,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Guro,Tropical Depression,39.4,21.3,0.0,123.48,3.9,STEADY EVOLUTION,2019-03-15 07:00,251.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Muecate,Tropical Depression,39.0,21.1,0.0,117.6,4.1,STEADY EVOLUTION,2019-03-09 00:00,234.4,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Chegutu,Tropical Depression,38.8,20.9,0.0,66.41,2.5,STEADY EVOLUTION,2019-03-16 02:00,153.2,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Uzumba-Maramba-Pfungwe,Tropical Depression,38.4,20.8,0.0,90.11,3.1,STEADY EVOLUTION,2019-03-16 00:00,183.0,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mossuril,Tropical Depression,38.3,20.7,0.0,120.05,3.7,STEADY EVOLUTION,2019-03-09 00:00,214.8,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Bindura,Tropical Depression,38.0,20.5,0.0,76.79,2.8,STEADY EVOLUTION,2019-03-16 00:00,167.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Monapo,Tropical Depression,38.0,20.5,0.0,113.5,3.8,STEADY EVOLUTION,2019-03-09 00:00,239.8,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Shamva,Tropical Depression,37.6,20.3,0.0,81.29,2.9,STEADY EVOLUTION,2019-03-16 00:00,178.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Ilha de Mocambique,Tropical Depression,37.6,20.3,0.0,118.74,3.7,STEADY EVOLUTION,2019-03-09 00:00,215.9,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Angonia,Tropical Depression,37.5,20.3,0.0,102.3,3.8,STEADY EVOLUTION,2019-03-07 06:00,183.2,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Mudzi,Tropical Depression,37.4,20.2,0.0,102.51,3.3,STEADY EVOLUTION,2019-03-15 23:00,208.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Mecuburi,Tropical Depression,37.1,20.1,0.0,120.8,4.3,STEADY EVOLUTION,2019-03-09 00:00,235.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Luenha,Tropical Depression,36.7,19.8,0.0,109.81,3.6,STEADY EVOLUTION,2019-03-15 08:00,251.6,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Funhalouro,Tropical Depression,36.5,19.7,0.0,67.6,2.5,STEADY EVOLUTION,2019-03-14 12:00,373.6,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Shurugwi,Tropical Depression,36.2,19.6,0.0,60.28,2.3,STEADY EVOLUTION,2019-03-16 00:00,202.3,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Dedza,Tropical Depression,35.9,19.4,0.0,94.03,3.6,STEADY EVOLUTION,2019-03-07 06:00,198.8,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Moatize,Tropical Depression,35.8,19.3,0.0,120.37,4.2,STEADY EVOLUTION,2019-03-07 06:00,181.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Massangena,Tropical Depression,35.8,19.4,0.0,79.27,2.5,STEADY EVOLUTION,2019-03-15 04:00,285.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Morrumbene,Tropical Depression,35.8,19.4,0.0,63.26,2.4,STEADY EVOLUTION,2019-03-14 12:00,410.2,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Mazowe,Tropical Depression,35.7,19.3,0.0,68.66,2.7,STEADY EVOLUTION,2019-03-16 00:00,181.6,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Chivi,Tropical Depression,35.5,19.2,0.0,62.7,2.3,STEADY EVOLUTION,2019-03-16 00:00,231.1,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Majune,Tropical Depression,35.2,19.0,0.0,98.43,3.8,STEADY EVOLUTION,2019-03-06 12:00,181.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Nacaroa,Tropical Depression,34.7,18.7,0.0,101.08,3.7,STEADY EVOLUTION,2019-03-09 00:00,281.9,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Nacala-A-Velha,Tropical Depression,34.4,18.6,0.0,102.22,3.6,STEADY EVOLUTION,2019-03-09 00:00,270.4,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Zvimba,Tropical Depression,34.3,18.5,0.0,61.71,2.5,STEADY EVOLUTION,2019-03-16 01:00,189.7,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Lichinga,Tropical Depression,34.2,18.5,0.0,90.39,3.6,STEADY EVOLUTION,2019-03-07 06:00,202.7,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Chiredzi,Tropical Depression,34.1,18.4,0.0,71.65,2.4,STEADY EVOLUTION,2019-03-15 12:00,265.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Nacala,Tropical Depression,34.0,18.4,0.0,99.35,3.4,STEADY EVOLUTION,2019-03-10 00:00,271.8,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Salima,Tropical Depression,33.3,18.0,0.0,84.06,3.4,STEADY EVOLUTION,2019-03-07 06:00,224.5,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Kadoma,Tropical Depression,33.2,18.0,0.0,55.18,2.3,STEADY EVOLUTION,2019-03-16 01:00,202.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Cidade de Lichinga,Tropical Depression,33.2,17.9,0.0,86.52,3.5,STEADY EVOLUTION,2019-03-07 06:00,214.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Cidade de Inhambane,Tropical Depression,33.2,17.9,0.0,56.73,2.3,STEADY EVOLUTION,2019-03-14 12:00,450.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Maxixe,Tropical Depression,33.0,17.8,0.0,56.28,2.3,STEADY EVOLUTION,2019-03-14 12:00,452.5,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Zvishavane,Tropical Depression,32.8,17.7,0.0,55.06,2.2,STEADY EVOLUTION,2019-03-16 00:00,246.8,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Rushinga,Tropical Depression,32.7,17.7,0.0,85.6,3.2,STEADY EVOLUTION,2019-03-16 00:00,240.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Homoine,Tropical Depression,32.5,17.6,0.0,55.44,2.3,STEADY EVOLUTION,2019-03-14 12:00,455.0,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Chigubo,Tropical Depression,32.4,17.5,0.0,61.55,2.3,STEADY EVOLUTION,2019-03-14 12:00,391.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Macanga,Tropical Depression,31.9,17.2,0.0,86.39,3.5,STEADY EVOLUTION,2019-03-07 06:00,239.6,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Gweru,Tropical Depression,31.9,17.2,0.0,51.49,2.2,STEADY EVOLUTION,2019-03-16 00:00,235.0,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Mount Darwin,Tropical Depression,31.8,17.2,0.0,72.69,2.9,STEADY EVOLUTION,2019-03-16 00:00,236.5,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Marrupa,Tropical Depression,31.7,17.1,0.0,85.84,3.6,STEADY EVOLUTION,2019-03-06 12:00,240.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Chiuta,Tropical Depression,31.7,17.1,0.0,94.72,3.6,STEADY EVOLUTION,2019-03-07 06:00,235.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Erati,Tropical Depression,31.6,17.1,0.0,90.63,3.6,STEADY EVOLUTION,2019-03-09 00:00,323.0,No structural damage,No damage
+Cyclone Idai,2019,Zimbabwe,Kwekwe,Tropical Depression,31.5,17.0,0.0,50.79,2.2,STEADY EVOLUTION,2019-03-16 00:00,229.2,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Balama,Tropical Depression,31.5,17.0,0.0,92.49,3.8,STEADY EVOLUTION,2019-03-06 12:00,256.3,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Cidade de Tete,Tropical Depression,31.4,16.9,0.0,107.97,3.8,STEADY EVOLUTION,2019-03-07 06:00,230.8,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Jangamo,Tropical Depression,30.9,16.7,0.0,51.6,2.2,STEADY EVOLUTION,2019-03-14 12:00,484.1,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Namuno,Tropical Depression,30.8,16.7,0.0,95.55,3.8,STEADY EVOLUTION,2019-03-09 00:00,276.4,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Changara,Tropical Depression,30.8,16.6,0.0,98.83,3.6,STEADY EVOLUTION,2019-03-15 07:00,277.0,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Memba,Tropical Depression,30.6,16.5,0.0,86.08,3.4,STEADY EVOLUTION,2019-03-09 00:00,335.6,No structural damage,No damage
+Cyclone Idai,2019,Malawi,Lilongwe,Tropical Depression,30.4,16.4,0.0,76.02,3.3,STEADY EVOLUTION,2019-03-07 06:00,263.1,No structural damage,No damage
+Cyclone Idai,2019,Mozambique,Panda,Tropical Depression,30.1,16.3,0.0,50.7,2.2,STEADY EVOLUTION,2019-03-14 12:00,477.0,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Eyl,Tropical Storm,64.8,35.0,1.09,106.09,4.3,STEADY EVOLUTION,2013-11-11 00:00,59.8,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Somalia Cyclone ARB 01,2013,Somalia,Qardho,Tropical Storm,64.6,34.9,1.08,87.77,3.3,STEADY EVOLUTION,2013-11-11 06:00,70.0,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Somalia Cyclone ARB 01,2013,Somalia,Garoowe,Tropical Storm,64.5,34.8,1.07,85.94,3.4,STEADY EVOLUTION,2013-11-11 06:00,68.7,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Somalia Cyclone ARB 01,2013,Somalia,Taleex,Tropical Storm,63.2,34.1,1.01,68.47,19.6,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2013-11-11 06:00,9.4,Thatch loosened; minor mud cracks,Window shutters rattle; no damage
+Somalia Cyclone ARB 01,2013,Somalia,Bandarbeyla,Tropical Depression,60.3,32.6,0.0,106.64,2.7,STEADY EVOLUTION,2013-11-11 01:00,92.1,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Xudun,Tropical Depression,55.3,29.9,0.0,57.15,9.9,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2013-11-11 11:00,35.3,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Ceerigaabo,Tropical Depression,50.0,27.0,0.0,52.96,2.8,STEADY EVOLUTION,2013-11-11 12:00,96.3,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Caynabo,Tropical Depression,47.5,25.6,0.0,42.22,10.1,RAPID INTENSIFICATION (Jump >= 5.0 km/h/hr),2013-11-11 17:00,34.0,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Laas Caanood,Tropical Depression,47.3,25.6,0.0,56.75,2.1,STEADY EVOLUTION,2013-11-11 12:00,111.2,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Sheikh,Tropical Depression,46.3,25.0,0.0,29.87,2.9,STEADY EVOLUTION,2013-11-12 00:00,66.1,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Ceel Afweyn,Tropical Depression,46.3,25.0,0.0,47.06,2.3,STEADY EVOLUTION,2013-11-11 20:00,64.8,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Burtinle,Tropical Depression,45.8,24.7,0.0,59.05,2.0,STEADY EVOLUTION,2013-11-11 06:00,154.1,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Burco,Tropical Depression,45.4,24.5,0.0,35.55,2.4,STEADY EVOLUTION,2013-11-12 00:00,77.9,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Laasqoray,Tropical Depression,43.8,23.6,0.0,49.61,2.3,STEADY EVOLUTION,2013-11-11 10:00,141.7,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Berbera,Tropical Depression,42.1,22.7,0.0,25.76,2.8,STEADY EVOLUTION,2013-11-12 00:00,99.9,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Jariiban,Tropical Depression,41.5,22.4,0.0,57.94,1.8,STEADY EVOLUTION,2013-11-11 02:00,180.4,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Buuhoodle,Tropical Depression,39.4,21.3,0.0,41.94,1.4,STEADY EVOLUTION,2013-11-11 17:00,118.6,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Owdweyne,Tropical Depression,38.1,20.6,0.0,24.54,1.8,STEADY EVOLUTION,2013-11-12 00:00,124.1,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Bossaso,Tropical Depression,35.9,19.4,0.0,42.33,1.4,STEADY EVOLUTION,2013-11-11 07:00,207.5,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Iskushuban,Tropical Depression,35.3,19.1,0.0,50.91,1.2,STEADY EVOLUTION,2013-11-11 05:00,226.3,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Qandala,Tropical Depression,32.4,17.5,0.0,40.34,1.1,STEADY EVOLUTION,2013-11-11 06:00,252.8,No structural damage,No damage
+Somalia Cyclone ARB 01,2013,Somalia,Gaalkacyo,Tropical Depression,30.1,16.3,0.0,35.19,1.1,STEADY EVOLUTION,2013-11-11 06:00,274.1,No structural damage,No damage

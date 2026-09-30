@@ -1,0 +1,6 @@
+cyclone,year,max_wind_kmh,min_pres_hpa,first_approach_trigger_utc,landfall_strike_utc,pre_landfall_lead_hours,pre_landfall_lead_days,first_decay_trigger_utc,trigger_evaluation_status
+Cyclone Idai,2019,213.0,947.0,2019-03-04 09:00,2019-03-14 06:00,237.0,9.9,2019-03-04 15:00,SUCCESS (Fired Before Landfall)
+Cyclone Freddy,2023,255.6,924.0,2023-02-06 09:00,2023-02-21 00:00,351.0,14.6,2023-02-08 00:00,SUCCESS (Fired Before Landfall)
+Cyclone Eloise,2021,166.7,968.0,2021-01-16 06:00,2021-01-22 18:00,156.0,6.5,2021-01-16 15:00,SUCCESS (Fired Before Landfall)
+Somalia Cyclone ARB 01,2013,83.3,989.0,2013-11-08 15:00,2013-11-09 18:00,27.0,1.1,2013-11-09 03:00,SUCCESS (Fired Before Landfall)
+Cyclone Gezani,2026,194.5,950.0,2026-02-06 00:00,2026-02-09 18:00,90.0,3.8,2026-02-10 06:00,SUCCESS (Fired Before Landfall)

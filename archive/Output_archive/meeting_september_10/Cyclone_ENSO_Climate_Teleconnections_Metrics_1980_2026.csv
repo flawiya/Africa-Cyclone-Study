@@ -1,0 +1,48 @@
+year,pdi_agro_64kmh_thousands,pdi_property_119kmh_thousands,total_storms_tracked,agro_affected_districts,nonagro_affected_districts,nino34_sst_anomaly,enso_phase,dmi_iod_anomaly,iod_phase,nao_index
+1980,0.0,0.0,0,0,0,0.3,Neutral,-0.15,Neutral IOD,0.45
+1981,2.4,0.0,2,2,2,-0.1,Neutral,0.1,Neutral IOD,-0.25
+1982,3.0,0.0,3,2,3,1.5,El Niño (Warm),0.65,Positive IOD,0.7
+1983,0.0,0.0,2,3,3,1.4,El Niño (Warm),0.55,Positive IOD,1.25
+1984,12.3,0.4,5,5,7,-0.5,La Niña (Cool),-0.2,Negative IOD,-0.8
+1985,0.0,0.0,0,0,0,-0.6,La Niña (Cool),-0.3,Negative IOD,-0.45
+1986,1719.8,0.2,4,5,6,0.8,El Niño (Warm),0.25,Positive IOD,0.15
+1987,0.0,0.0,0,0,0,1.4,El Niño (Warm),0.4,Positive IOD,-0.65
+1988,102.2,0.0,1,2,2,-1.4,La Niña (Cool),-0.45,Negative IOD,0.55
+1989,226.7,0.0,3,3,3,-1.1,La Niña (Cool),-0.35,Negative IOD,1.85
+1990,916.8,0.0,3,2,3,0.3,Neutral,-0.1,Neutral IOD,1.55
+1991,1898.5,4.3,1,1,1,0.9,El Niño (Warm),0.2,Positive IOD,0.3
+1992,0.8,0.0,2,1,2,1.4,El Niño (Warm),0.35,Positive IOD,0.85
+1993,0.0,0.0,0,0,0,0.6,El Niño (Warm),0.15,Neutral IOD,0.65
+1994,13648.9,187.9,7,17,18,0.8,El Niño (Warm),0.75,Positive IOD,0.95
+1995,0.0,0.0,0,0,0,-0.2,Neutral,-0.15,Neutral IOD,0.4
+1996,907.3,0.0,2,11,11,-0.4,Neutral,-0.35,Negative IOD,-1.25
+1997,2654.6,20.3,5,9,9,2.2,El Niño (Warm),1.15,Positive IOD,-0.55
+1998,0.0,0.0,0,0,0,1.0,El Niño (Warm),0.45,Positive IOD,0.35
+1999,4.7,0.0,2,2,2,-1.74,La Niña (Cool),-0.19,Neutral IOD,1.61
+2000,2435.0,86.0,4,10,11,-1.77,La Niña (Cool),-0.31,Negative IOD,1.7
+2001,91.8,0.0,2,2,2,-0.73,La Niña (Cool),-0.45,Negative IOD,-1.26
+2002,0.0,0.0,2,1,2,1.47,El Niño (Warm),0.41,Positive IOD,-2.28
+2003,5046.4,17.9,4,8,8,0.64,El Niño (Warm),-0.24,Negative IOD,-1.26
+2004,11093.5,36.9,4,8,8,0.81,El Niño (Warm),-0.56,Negative IOD,1.21
+2005,10.1,0.0,1,2,2,-0.92,La Niña (Cool),-0.56,Negative IOD,-1.83
+2006,21.6,0.0,3,3,3,1.14,El Niño (Warm),0.58,Positive IOD,-2.24
+2007,1222.8,0.0,2,3,4,-1.58,La Niña (Cool),0.27,Positive IOD,1.44
+2008,2792.6,11.1,6,11,12,-1.68,La Niña (Cool),0.25,Positive IOD,-1.73
+2009,7.3,0.0,1,1,1,1.74,El Niño (Warm),0.26,Positive IOD,-2.15
+2010,305.2,0.0,1,1,1,-1.69,La Niña (Cool),-0.49,Negative IOD,-1.98
+2011,511.3,0.0,2,2,2,-1.54,La Niña (Cool),0.37,Positive IOD,2.52
+2012,2062.9,1.8,4,4,4,-0.87,La Niña (Cool),0.65,Positive IOD,-2.53
+2013,4699.7,51.4,3,5,5,-0.53,La Niña (Cool),-0.51,Negative IOD,-1.61
+2014,103.4,0.0,2,1,2,0.75,El Niño (Warm),-0.37,Negative IOD,1.86
+2015,419.6,0.0,3,2,3,2.72,El Niño (Warm),0.57,Positive IOD,-3.18
+2016,3.2,0.0,2,2,2,2.57,El Niño (Warm),-0.76,Negative IOD,-1.76
+2017,16864.8,104.5,7,13,13,-0.98,La Niña (Cool),0.54,Positive IOD,-1.91
+2018,102.2,0.0,4,3,3,-0.98,La Niña (Cool),0.69,Positive IOD,2.12
+2019,16040.7,164.7,4,12,18,0.81,El Niño (Warm),0.96,Positive IOD,-2.62
+2020,29.4,0.0,3,4,4,-1.42,La Niña (Cool),0.45,Positive IOD,2.54
+2021,2103.4,0.7,2,4,4,-1.06,La Niña (Cool),0.27,Positive IOD,-2.29
+2022,19659.5,512.5,7,20,20,-1.11,La Niña (Cool),-0.69,Negative IOD,1.68
+2023,8112.6,240.2,2,7,10,2.03,El Niño (Warm),0.95,Positive IOD,-2.17
+2024,13.0,0.0,5,3,5,1.81,El Niño (Warm),0.77,Positive IOD,1.46
+2025,0.0,0.0,0,0,0,-0.74,La Niña (Cool),-0.21,Negative IOD,0.0
+2026,0.0,0.0,0,0,0,-0.2,Neutral,0.05,Neutral IOD,0.1

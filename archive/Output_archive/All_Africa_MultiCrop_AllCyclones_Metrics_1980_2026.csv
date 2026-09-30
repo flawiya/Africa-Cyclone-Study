@@ -1,0 +1,159 @@
+cyclone,year,date,country,district,crop_name,v_max_kmh,v_max_kt,in_crop_season,excess_wind_sum_34kt_AGRO
+ALIBERA,1990,1990-01-01,Madagascar,Haute matsiatra,Maize,72.3,39.1,True,14.5
+ANA,2022,2022-01-23,Mozambique,Angoche,Maize,80.6,43.5,True,17.6
+ANA,2022,2022-01-23,Mozambique,Moma,Maize,75.1,40.5,True,14.4
+ANDRY,1983,1983-12-05,Madagascar,Boeny,Maize,105.8,57.1,True,82.9
+AVA,2018,2018-01-01,Madagascar,Alaotra-Mangoro,Maize,66.3,35.8,True,3.8
+BATSIRAI,2022,2022-01-27,Madagascar,Atsimo-Andrefana,Maize,74.4,40.1,True,11.4
+BATSIRAI,2022,2022-01-27,Madagascar,Haute matsiatra,Maize,102.5,55.4,True,45.7
+BELNA,2019,2019-12-04,Madagascar,Melaky,Maize,123.7,66.8,True,144.9
+BELNA,2019,2019-12-04,Madagascar,Menabe,Maize,72.4,39.1,True,9.4
+BINGIZA,2011,2011-02-09,Madagascar,Boeny,Maize,63.5,34.3,True,0.5
+BINGIZA,2011,2011-02-09,Madagascar,Sofia,Maize,72.3,39.0,True,10.4
+BONDO,2006,2006-12-17,Madagascar,Boeny,Maize,88.4,47.8,True,25.4
+BONITA,1996,1996-01-05,Madagascar,Alaotra-Mangoro,Maize,128.6,69.5,True,135.7
+BONITA,1996,1996-01-05,Madagascar,Analamanga,Maize,69.6,37.6,True,6.6
+BONITA,1996,1996-01-05,Madagascar,Betsiboka,Maize,97.2,52.5,True,80.5
+BONITA,1996,1996-01-05,Madagascar,Boeny,Maize,74.7,40.3,True,11.9
+BONITA,1996,1996-01-05,Madagascar,Melaky,Maize,67.6,36.5,True,4.6
+BONITA,1996,1996-01-05,Mozambique,Maganja da Costa,Maize,87.4,47.2,True,58.3
+BONITA,1996,1996-01-05,Mozambique,Marromeu,Maize,108.2,58.4,True,119.4
+BONITA,1996,1996-01-05,Mozambique,Mopeia,Maize,120.5,65.1,True,115.8
+BONITA,1996,1996-01-05,Mozambique,Nicoadala,Maize,119.0,64.3,True,129.4
+CALASANJY,1989,1989-01-09,Madagascar,Menabe,Maize,118.6,64.0,True,125.3
+CHALANE,2020,2020-12-23,Mozambique,Dondo,Maize,84.1,45.4,True,21.1
+CHALANE,2020,2020-12-23,Mozambique,Gondola,Maize,66.1,35.7,True,3.1
+CHALANE,2020,2020-12-23,Zimbabwe,Mutare,Maize,63.9,34.5,True,0.9
+CHEDZA,2015,2015-01-15,Madagascar,Menabe,Maize,68.4,36.9,True,10.6
+CYNTHIA,1991,1991-02-16,Madagascar,Menabe,Maize,76.1,41.1,True,13.1
+DAISY,1994,1994-01-09,Madagascar,Amoron'i mania,Maize,86.9,46.9,True,23.9
+DAISY,1994,1994-01-09,Madagascar,Vakinankaratra,Maize,66.0,35.6,True,3.0
+DELFINA,2002,2002-12-30,Mozambique,Angoche,Maize,85.7,46.3,True,25.0
+DELFINA,2003,2003-01-01,Mozambique,Angoche,Maize,77.9,42.0,True,18.7
+DELFINA,2003,2003-01-01,Mozambique,Mogovolas,Maize,84.8,45.8,True,21.8
+DELTA,2005,2005-11-28,Morocco,Chichaoua,Winter Wheat,66.3,35.8,True,3.3
+DINEO,2017,2017-02-12,Mozambique,Funhalouro,Maize,97.5,52.6,True,72.3
+DINEO,2017,2017-02-12,Mozambique,Massinga,Maize,85.2,46.0,True,41.6
+DINEO,2017,2017-02-12,Mozambique,Morrumbene,Maize,109.7,59.2,True,98.3
+DOMOINA,1984,1984-01-19,Mozambique,Chibuto,Maize,73.4,39.7,True,10.4
+DOMOINA,1984,1984-01-19,Mozambique,Morrumbene,Maize,93.2,50.3,True,65.0
+ELINAH,1983,1983-01-10,Mozambique,Angoche,Maize,89.9,48.5,True,43.6
+ELINAH,1983,1983-01-10,Mozambique,Mossuril,Maize,82.3,44.4,True,28.4
+ELINE:LEONE,2000,2000-02-10,Madagascar,Analamanga,Maize,74.4,40.2,True,11.4
+ELINE:LEONE,2000,2000-02-10,Madagascar,Itasy,Maize,77.4,41.8,True,14.4
+ELINE:LEONE,2000,2000-02-10,Madagascar,Vakinankaratra,Maize,63.7,34.4,True,0.7
+ELINE:LEONE,2000,2000-02-10,Mozambique,Gondola,Maize,63.1,34.1,True,0.1
+ELINE:LEONE,2000,2000-02-10,Mozambique,Mossurize,Maize,81.1,43.8,True,18.1
+ELINE:LEONE,2000,2000-02-10,Mozambique,Sussundenga,Maize,103.6,55.9,True,70.4
+ELINE:LEONE,2000,2000-02-10,Zimbabwe,Buhera,Maize,74.1,40.0,True,17.3
+ELINE:LEONE,2000,2000-02-10,Zimbabwe,Gutu,Maize,66.7,36.0,True,6.5
+ELINE:LEONE,2000,2000-02-10,Zimbabwe,Mutare,Maize,75.0,40.5,True,12.0
+ELITA,2004,2004-01-26,Madagascar,Boeny,Maize,75.8,40.9,True,12.8
+ELITA,2004,2004-01-26,Madagascar,Haute matsiatra,Maize,75.6,40.8,True,16.6
+ELITA,2004,2004-01-26,Madagascar,Menabe,Maize,98.8,53.3,True,42.0
+ELOISE,2021,2021-01-16,Mozambique,Dondo,Maize,102.6,55.4,True,64.3
+ELOISE,2021,2021-01-16,Mozambique,Mossurize,Maize,76.2,41.1,True,26.1
+EMNATI,2022,2022-02-16,Madagascar,Anosy,Maize,92.3,49.8,True,53.1
+ENAWO,2017,2017-03-03,Madagascar,Betsiboka,Maize,75.6,40.8,False,0.0
+FAME,2008,2008-01-24,Madagascar,Melaky,Maize,82.4,44.5,True,35.9
+FARI,2003,2003-01-22,Madagascar,Amoron'i mania,Maize,82.0,44.3,True,19.0
+FAVIO,2007,2007-02-12,Mozambique,Massinga,Maize,67.1,36.2,True,4.1
+FAVIO,2007,2007-02-12,Mozambique,Sussundenga,Maize,75.5,40.8,True,12.5
+FAVIO,2007,2007-02-12,Mozambique,Vilanculos,Maize,128.7,69.5,True,132.3
+FILAO,1988,1988-02-24,Mozambique,Marromeu,Maize,64.6,34.9,True,1.6
+FILAO,1988,1988-02-24,Mozambique,Mopeia,Maize,91.7,49.5,True,61.1
+FILAO,1988,1988-02-24,Mozambique,Nicoadala,Maize,86.2,46.6,True,45.9
+FILIPO,2024,2024-03-10,Mozambique,Chibuto,Maize,63.9,34.5,True,0.9
+FREDDY,2023,2023-02-16,Madagascar,Amoron'i mania,Maize,80.6,43.5,True,17.6
+FREDDY,2023,2023-02-16,Madagascar,Haute matsiatra,Maize,108.4,58.5,True,49.6
+FREDDY,2023,2023-02-16,Malawi,SC Mbenje,Maize,73.1,39.4,True,16.6
+FREDDY,2023,2023-02-16,Malawi,TA Ngabu,Maize,66.5,35.9,True,3.5
+FREDDY,2023,2023-02-16,Malawi,TA Tengani,Maize,83.3,45.0,True,31.4
+FREDDY,2023,2023-02-16,Mozambique,Maganja da Costa,Maize,75.9,41.0,True,70.0
+FREDDY,2023,2023-02-16,Mozambique,Mopeia,Maize,66.0,35.6,True,7.7
+FREDDY,2023,2023-02-16,Mozambique,Morrumbala,Maize,79.7,43.0,True,44.8
+FREDDY,2023,2023-02-16,Mozambique,Mutarara,Maize,67.4,36.4,True,6.7
+FREDDY,2023,2023-02-16,Mozambique,Nicoadala,Maize,154.6,83.5,True,459.6
+FUNSO,2012,2012-01-19,Mozambique,Maganja da Costa,Maize,69.7,37.6,True,36.0
+GAFILO,2004,2004-03-02,Madagascar,Boeny,Maize,115.7,62.5,False,0.0
+GAFILO,2004,2004-03-02,Madagascar,Melaky,Maize,119.5,64.5,False,0.0
+GAFILO,2004,2004-03-02,Madagascar,Sofia,Maize,182.3,98.4,False,0.0
+GAMANE,2024,2024-03-26,Madagascar,Diana,Maize,97.7,52.7,False,0.0
+GERALDA,1994,1994-01-26,Madagascar,Alaotra-Mangoro,Maize,98.7,53.3,True,110.1
+GERALDA,1994,1994-01-26,Madagascar,Analamanga,Maize,86.5,46.7,True,31.7
+GERALDA,1994,1994-01-26,Madagascar,Itasy,Maize,64.4,34.8,True,1.4
+GIOVANNA,2012,2012-02-09,Madagascar,Itasy,Maize,73.7,39.8,True,10.7
+GOMBE,2022,2022-03-08,Mozambique,Angoche,Maize,64.0,34.5,True,1.4
+GOMBE,2022,2022-03-08,Mozambique,Erati,Maize,65.6,35.4,True,2.6
+GOMBE,2022,2022-03-08,Mozambique,Gurue,Maize,64.6,34.9,True,1.6
+GOMBE,2022,2022-03-08,Mozambique,Meconta,Maize,112.8,60.9,True,96.7
+GOMBE,2022,2022-03-08,Mozambique,Mogovolas,Maize,78.6,42.5,True,23.8
+GOMBE,2022,2022-03-08,Mozambique,Monapo,Maize,119.2,64.3,True,116.2
+GOMBE,2022,2022-03-08,Mozambique,Mossuril,Maize,157.6,85.1,True,219.7
+GOMBE,2022,2022-03-08,Mozambique,Muecate,Maize,78.6,42.5,True,27.3
+GOMBE,2022,2022-03-08,Mozambique,Murrupula,Maize,90.0,48.6,True,41.3
+GOMBE,2022,2022-03-08,Mozambique,Nacala Velha,Maize,77.4,41.8,True,29.0
+GOMBE,2022,2022-03-08,Mozambique,Nampula,Maize,100.0,54.0,True,79.3
+GOMBE,2022,2022-03-08,Mozambique,Ribaue,Maize,81.5,44.0,True,19.4
+GRETELLE,1997,1997-01-20,Madagascar,Anosy,Maize,84.6,45.7,True,59.9
+GRETELLE,1997,1997-01-20,Madagascar,Atsimo-Andrefana,Maize,77.0,41.6,True,20.2
+GRETELLE,1997,1997-01-20,Madagascar,Haute matsiatra,Maize,63.6,34.3,True,0.6
+HARUNA,2013,2013-02-18,Madagascar,Androy,Maize,66.9,36.1,True,3.9
+HARUNA,2013,2013-02-18,Madagascar,Anosy,Maize,88.6,47.9,True,39.1
+HARUNA,2013,2013-02-18,Madagascar,Atsimo-Andrefana,Maize,142.6,77.0,True,129.1
+HELLEN,2014,2014-03-28,Madagascar,Boeny,Maize,66.8,36.0,False,0.0
+HELYETTE,1981,1981-01-29,Madagascar,Anosy,Maize,70.8,38.2,True,7.8
+HIDAYA,2024,2024-05-01,Tanzania,Rufiji,Maize,71.2,38.5,True,8.2
+HONORININA,1986,1986-03-08,Madagascar,Alaotra-Mangoro,Maize,87.4,47.2,False,0.0
+HONORININA,1986,1986-03-08,Madagascar,Analamanga,Maize,96.3,52.0,False,0.0
+HONORININA,1986,1986-03-08,Madagascar,Itasy,Maize,75.9,41.0,False,0.0
+HUDAH,2000,2000-03-27,Madagascar,Sofia,Maize,117.9,63.7,False,0.0
+HUDAH,2000,2000-03-27,Mozambique,Gile,Maize,91.0,49.2,False,0.0
+HUDAH,2000,2000-03-27,Mozambique,Maganja da Costa,Maize,83.6,45.1,False,0.0
+HUDAH,2000,2000-03-27,Mozambique,Murrupula,Maize,73.0,39.4,False,0.0
+IADINE,1981,1981-02-16,Madagascar,Melaky,Maize,72.8,39.3,True,9.8
+IDAI,2019,2019-03-05,Mozambique,Dondo,Maize,147.6,79.7,True,270.6
+IDAI,2019,2019-03-05,Mozambique,Gondola,Maize,142.5,77.0,True,223.9
+IDAI,2019,2019-03-05,Mozambique,Gorongosa,Maize,77.0,41.6,True,24.3
+IDAI,2019,2019-03-05,Mozambique,Manica,Maize,94.7,51.1,True,84.4
+IDAI,2019,2019-03-05,Mozambique,Nhamatanda,Maize,158.0,85.3,True,204.6
+IDAI,2019,2019-03-05,Mozambique,Sussundenga,Maize,106.8,57.6,True,107.4
+IDAI,2019,2019-03-05,Zimbabwe,Mutare,Maize,79.8,43.1,True,32.8
+IVAN,2008,2008-02-06,Madagascar,Alaotra-Mangoro,Maize,85.7,46.3,True,39.7
+JAPHET,2003,2003-02-26,Mozambique,Mossurize,Maize,96.3,52.0,True,62.7
+JAPHET,2003,2003-02-26,Mozambique,Vilanculos,Maize,106.1,57.3,True,99.5
+JAPHET,2003,2003-02-26,Zimbabwe,Bikita,Maize,87.5,47.2,True,34.8
+JAPHET,2003,2003-02-26,Zimbabwe,Chipinge,Maize,101.0,54.6,True,88.0
+JAYA,2007,2007-03-29,Madagascar,Sofia,Maize,66.9,36.1,False,0.0
+JOKWE,2008,2008-03-04,Mozambique,Angoche,Maize,161.9,87.4,True,333.5
+JOKWE,2008,2008-03-04,Mozambique,Meconta,Maize,71.4,38.6,True,19.6
+JOKWE,2008,2008-03-04,Mozambique,Mogovolas,Maize,70.1,37.8,True,14.3
+JOKWE,2008,2008-03-04,Mozambique,Moma,Maize,104.3,56.3,True,112.0
+JOKWE,2008,2008-03-04,Mozambique,Monapo,Maize,74.7,40.3,True,16.7
+JOKWE,2008,2008-03-04,Mozambique,Mossuril,Maize,151.7,81.9,True,205.6
+JOKWE,2008,2008-03-04,Mozambique,Nacala Velha,Maize,79.4,42.9,True,31.6
+JOSIE,1997,1997-02-05,Madagascar,Diana,Maize,68.3,36.9,True,8.8
+KAMISY,1984,1984-04-04,Madagascar,Boeny,Maize,74.4,40.2,False,0.0
+KAMISY,1984,1984-04-04,Madagascar,Diana,Maize,69.4,37.4,False,0.0
+KENNETH,2019,2019-04-22,Mozambique,Ancuabe,Maize,65.3,35.3,False,0.0
+KENNETH,2019,2019-04-22,Mozambique,Macomia,Maize,177.2,95.7,False,0.0
+KENNETH,2019,2019-04-22,Mozambique,Meluco,Maize,111.1,60.0,False,0.0
+KENNETH,2019,2019-04-22,Mozambique,Montepuez,Maize,85.3,46.1,False,0.0
+KENNETH,2019,2019-04-22,Mozambique,Muidumbe,Maize,98.3,53.1,False,0.0
+KENNETH,2019,2019-04-22,Mozambique,Pemba,Maize,79.0,42.6,False,0.0
+KESINY,2002,2002-05-03,Madagascar,Diana,Maize,70.4,38.0,False,0.0
+LISETTE,1997,1997-02-26,Mozambique,Dondo,Maize,97.3,52.5,True,60.7
+LISETTE,1997,1997-02-26,Mozambique,Gondola,Maize,67.3,36.4,True,4.3
+LISETTE,1997,1997-02-26,Mozambique,Gorongosa,Maize,92.4,49.9,True,40.7
+LISETTE,1997,1997-02-26,Mozambique,Nhamatanda,Maize,81.4,43.9,True,18.4
+LITANNE,1994,1994-03-09,Madagascar,Alaotra-Mangoro,Maize,92.1,49.7,False,0.0
+MEKUNU:SAGAR,2018,2018-05-16,Somalia,Gabiley,Maize,75.1,40.6,True,25.4
+NADIA,1994,1994-03-19,Madagascar,Diana,Maize,127.3,68.7,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Erati,Maize,91.9,49.6,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Meconta,Maize,72.3,39.1,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Memba,Maize,85.6,46.2,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Monapo,Maize,93.1,50.3,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Mossuril,Maize,103.9,56.1,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Muecate,Maize,75.6,40.8,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Nacala Velha,Maize,98.2,53.0,False,0.0
+NADIA,1994,1994-03-19,Mozambique,Nampula,Maize,65.9,35.6,False,0.0

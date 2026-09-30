@@ -1,0 +1,1160 @@
+cyclone,country,district,risk_category,centroid_lat,centroid_lon,peak_hit_utc,min_dist_to_eye_km,peak_wind_kt,peak_wind_kmh,duration_34kt_hours,onset_34kt_utc,onset_50kt_utc,onset_64kt_utc,decay_rate_hpa_hr,reintensification_proximity
+Cyclone Idai,Malawi,Phalombe,🟢 Safe / Low Impact,-15.671443152480773,35.698071612893074,2019-03-06 12:00,3.2,25.6,47.4,144.0,,,,1.0,YES
+Cyclone Idai,Malawi,Blantyre,🟢 Safe / Low Impact,-15.671009196922837,34.94583655327112,2019-03-07 06:00,77.4,25.0,46.3,78.0,,,,1.0,YES
+Cyclone Idai,Malawi,Machinga,🟢 Safe / Low Impact,-14.937953457877143,35.57425344237479,2019-03-06 12:00,39.7,24.7,45.8,102.0,,,,1.0,YES
+Cyclone Idai,Malawi,Thyolo,🟢 Safe / Low Impact,-16.101097172698413,35.14478621852642,2019-03-07 06:00,73.9,24.6,45.5,78.0,,,,1.0,YES
+Cyclone Idai,Malawi,Neno,🟢 Safe / Low Impact,-15.460609822533604,34.696187348679594,2019-03-07 06:00,102.3,24.4,45.2,66.0,,,,1.0,YES
+Cyclone Idai,Malawi,Mangochi,🟢 Safe / Low Impact,-14.348601359627427,35.190814277922996,2019-03-07 06:00,117.1,24.0,44.5,72.0,,,,1.0,YES
+Cyclone Idai,Malawi,Ntcheu,🟢 Safe / Low Impact,-14.814461558191217,34.714524534245854,2019-03-07 06:00,123.6,23.9,44.3,60.0,,,,1.0,YES
+Cyclone Idai,Malawi,Zomba,🟢 Safe / Low Impact,-15.397581844676534,35.43535379318956,2019-03-06 12:00,25.7,23.8,44.0,114.0,,,,1.0,YES
+Cyclone Idai,Malawi,Mwanza,🟢 Safe / Low Impact,-15.664114317798179,34.51808584048236,2019-03-07 06:00,122.6,23.1,42.7,60.0,,,,1.0,YES
+Cyclone Idai,Malawi,Mulanje,🟢 Safe / Low Impact,-15.937826686404401,35.509952611889524,2019-03-06 12:00,32.5,22.9,42.5,144.0,,,,1.0,YES
+Cyclone Idai,Malawi,Chikwawa,🟢 Safe / Low Impact,-16.16507334105755,34.70790099767106,2019-03-07 06:00,116.7,22.5,41.6,60.0,,,,1.0,YES
+Cyclone Idai,Malawi,Chiradzulu,🟢 Safe / Low Impact,-15.745284753944533,35.21372530521577,2019-03-07 03:00,49.5,22.0,40.7,96.0,,,,1.0,YES
+Cyclone Idai,Malawi,Nsanje,🟢 Safe / Low Impact,-16.741474024061674,35.142835856233226,2019-03-14 12:00,121.4,21.6,39.9,60.0,,,,1.0,YES
+Cyclone Idai,Malawi,Balaka,🟢 Safe / Low Impact,-15.037496830404766,35.056821320502664,2019-03-07 06:00,79.9,21.6,40.0,78.0,,,,1.0,YES
+Cyclone Idai,Malawi,Dedza,🟢 Safe / Low Impact,-14.26612920770944,34.22803459159504,2019-03-07 06:00,198.8,19.4,35.9,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Salima,🟢 Safe / Low Impact,-13.735947783891426,34.38268321382521,2019-03-07 06:00,224.6,18.0,33.3,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Lilongwe,🟢 Safe / Low Impact,-14.017525706684575,33.684424680014466,2019-03-07 06:00,263.2,16.4,30.4,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Dowa,🟢 Safe / Low Impact,-13.570832022718017,33.787034113200924,2019-03-07 06:00,283.5,15.6,28.9,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Ntchisi,🟢 Safe / Low Impact,-13.299440663930191,33.91961376300743,2019-03-07 06:00,294.2,15.2,28.2,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Nkhotakota,🟢 Safe / Low Impact,-12.844441167838436,34.087605022630264,2019-03-07 06:00,322.4,14.3,26.4,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Mchinji,🟢 Safe / Low Impact,-13.692498359367228,33.05617316547305,2019-03-07 06:00,339.9,13.9,25.7,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Kasungu,🟢 Safe / Low Impact,-12.984393056838524,33.385780428597826,2019-03-07 06:00,359.6,13.3,24.6,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Likoma,🟢 Safe / Low Impact,-12.048485523563084,34.68537630209056,2019-03-07 06:00,366.3,12.9,23.9,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Area under National Administration,🟢 Safe / Low Impact,-11.838699386251283,34.46039771100796,2019-03-07 06:00,398.1,12.2,22.6,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Nkhata Bay,🟢 Safe / Low Impact,-11.672258564534658,34.04132684405396,2019-03-07 06:00,435.8,11.5,21.3,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Mzimba,🟢 Safe / Low Impact,-11.770966874288076,33.637689220851435,2019-03-07 06:00,448.3,11.3,21.0,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Rumphi,🟢 Safe / Low Impact,-10.819958983655779,33.81518372509575,2019-03-07 06:00,531.1,10.0,18.5,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Karonga,🟢 Safe / Low Impact,-10.084653071563716,33.88246421351402,2019-03-07 06:00,601.3,9.1,16.8,0.0,,,,1.0,YES
+Cyclone Idai,Malawi,Chitipa,🟢 Safe / Low Impact,-9.961637620057191,33.498977279974866,2019-03-07 06:00,631.7,8.8,16.3,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Dondo,🔴 Cyclone Force (Cat 1+),-19.49298040370051,34.828252336892604,2019-03-14 21:00,23.2,92.5,171.2,60.0,2019-03-14 09:00:00,2019-03-14 18:00:00,2019-03-14 21:00:00,1.0,YES
+Cyclone Idai,Mozambique,Buzi,🔴 Cyclone Force (Cat 1+),-20.037618817456355,34.37567864750314,2019-03-15 00:00,55.5,86.0,159.2,54.0,2019-03-14 12:00:00,2019-03-14 21:00:00,2019-03-15 00:00:00,1.0,YES
+Cyclone Idai,Mozambique,Cidade da Beira,🔴 Cyclone Force (Cat 1+),-19.721292552350953,34.924581216578915,2019-03-15 03:00,13.3,84.5,156.5,66.0,2019-03-14 06:00:00,2019-03-14 12:00:00,2019-03-14 18:00:00,1.0,YES
+Cyclone Idai,Mozambique,Nhamatanda,🔴 Cyclone Force (Cat 1+),-19.33389319953975,34.24040447859879,2019-03-15 03:00,12.0,83.0,153.7,60.0,2019-03-14 12:00:00,2019-03-14 21:00:00,2019-03-15 00:00:00,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Chimoio,🔴 Cyclone Force (Cat 1+),-19.127041879438764,33.45626338820464,2019-03-15 09:00,19.2,75.9,140.6,48.0,2019-03-15 00:00:00,2019-03-15 06:00:00,2019-03-15 09:00:00,1.0,YES
+Cyclone Idai,Mozambique,Gondola,🔴 Cyclone Force (Cat 1+),-19.150381926111148,33.66741768246745,2019-03-15 06:00,24.7,74.5,137.9,48.0,2019-03-14 21:00:00,2019-03-15 03:00:00,2019-03-15 06:00:00,1.0,YES
+Cyclone Idai,Mozambique,Muanza,🔴 Cyclone Force (Cat 1+),-19.08435178512121,35.0596236404679,2019-03-15 00:00,73.7,73.4,135.9,66.0,2019-03-14 06:00:00,2019-03-14 18:00:00,2019-03-14 21:00:00,1.0,YES
+Cyclone Idai,Mozambique,Sussundenga,🔴 Cyclone Force (Cat 1+),-19.67040317293065,33.26288404903408,2019-03-15 12:00,45.6,67.9,125.8,48.0,2019-03-15 00:00:00,2019-03-15 06:00:00,2019-03-15 12:00:00,1.0,YES
+Cyclone Idai,Mozambique,Manica,🟡 Tropical Storm Force,-18.83099998050468,33.10655283616162,2019-03-15 15:00,41.6,60.5,112.1,54.0,2019-03-15 03:00:00,2019-03-15 09:00:00,,1.0,YES
+Cyclone Idai,Mozambique,Gorongosa,🟡 Tropical Storm Force,-18.613460976134007,34.21707414424074,2019-03-15 06:00,87.7,56.8,105.2,42.0,2019-03-14 21:00:00,2019-03-15 03:00:00,,1.0,YES
+Cyclone Idai,Mozambique,Chibabava,🟡 Tropical Storm Force,-20.36807208716094,33.88320194219389,2019-03-15 03:00,109.8,50.1,92.9,36.0,2019-03-14 21:00:00,2019-03-15 03:00:00,,1.0,YES
+Cyclone Idai,Mozambique,Chinde,🟡 Tropical Storm Force,-18.399166079350525,36.324746706185365,2019-03-14 09:00,129.1,46.3,85.7,96.0,2019-03-14 03:00:00,,,1.0,YES
+Cyclone Idai,Mozambique,Marromeu,🟡 Tropical Storm Force,-18.42817680399243,35.742421665796094,2019-03-14 12:00,153.3,43.8,81.0,48.0,2019-03-14 06:00:00,,,1.0,YES
+Cyclone Idai,Mozambique,Cheringoma,🟡 Tropical Storm Force,-18.528932502391765,35.22272028346834,2019-03-15 00:00,137.6,43.3,80.1,48.0,2019-03-14 09:00:00,,,1.0,YES
+Cyclone Idai,Mozambique,Machanga,🟡 Tropical Storm Force,-20.90943269605078,34.52661627847644,2019-03-15 00:00,137.5,43.3,80.2,36.0,2019-03-14 12:00:00,,,1.0,YES
+Cyclone Idai,Mozambique,Inhassunge,🟡 Tropical Storm Force,-18.055413995950648,36.80791047275936,2019-03-14 06:00,65.4,41.1,76.1,132.0,2019-03-14 03:00:00,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Quelimane,🟡 Tropical Storm Force,-17.862455258261367,36.914780729077265,2019-03-14 06:00,44.6,37.5,69.4,144.0,2019-03-14 06:00:00,,,1.0,YES
+Cyclone Idai,Mozambique,Namacurra,🟡 Tropical Storm Force,-17.482194432169667,37.07354226837362,2019-03-04 12:00,21.2,36.1,66.8,144.0,2019-03-04 12:00:00,,,1.0,YES
+Cyclone Idai,Mozambique,Mopeia,🟢 Safe / Low Impact,-17.83304572551324,36.06249856978365,2019-03-14 12:00,131.9,33.9,62.8,72.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Govuro,🟢 Safe / Low Impact,-21.318131760117325,34.6768882484668,2019-03-14 21:00,178.7,33.6,62.3,6.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mossurize,🟢 Safe / Low Impact,-20.512417776409677,32.944039586135965,2019-03-15 12:00,144.8,33.2,61.4,12.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Nicoadala,🟢 Safe / Low Impact,-17.615935781643316,36.74381051057589,2019-03-14 06:00,56.9,33.0,61.2,126.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Macossa,🟢 Safe / Low Impact,-17.909766640076818,33.789505125241334,2019-03-15 06:00,158.7,32.9,61.0,12.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Barue,🟢 Safe / Low Impact,-17.992509438104207,33.2220975313472,2019-03-15 12:00,133.1,32.7,60.6,24.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Maringue,🟢 Safe / Low Impact,-17.85730826561168,34.484588194981534,2019-03-15 06:00,175.1,32.1,59.4,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Inhassoro,🟢 Safe / Low Impact,-21.750363039940943,34.85865853939365,2019-03-14 12:00,221.2,30.7,56.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Malema,🟢 Safe / Low Impact,-14.79816667662,37.390578073935046,2019-03-06 12:00,76.8,30.0,55.5,96.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Ile,🟢 Safe / Low Impact,-16.18020064041081,37.465769034320985,2019-03-05 12:00,28.5,30.0,55.6,168.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Alto Molocue,🟢 Safe / Low Impact,-15.6490394609734,37.663594169331695,2019-03-06 00:00,65.9,30.0,55.6,144.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Gurue,🟢 Safe / Low Impact,-15.349075592141736,36.94740449401028,2019-03-06 00:00,13.9,29.9,55.4,180.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Lugela,🟢 Safe / Low Impact,-16.30555830258885,36.653320823811406,2019-03-06 06:00,22.1,29.9,55.4,210.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Maganja da Costa,🟢 Safe / Low Impact,-17.10961774761628,37.625238769559765,2019-03-05 15:00,40.5,29.9,55.4,156.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Angoche,🟢 Safe / Low Impact,-16.09691989397336,39.806753245816076,2019-03-09 00:00,90.6,29.7,55.1,30.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mecanhelas,🟢 Safe / Low Impact,-15.001352187426692,36.08265734960938,2019-03-06 12:00,8.1,29.6,54.7,126.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Namarroi,🟢 Safe / Low Impact,-15.855191574975311,36.806917645103525,2019-03-05 18:00,30.4,29.6,54.9,198.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mogovolas,🟢 Safe / Low Impact,-15.737638159064915,39.259577434966715,2019-03-09 00:00,113.9,29.3,54.2,30.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Moma,🟢 Safe / Low Impact,-16.35784264081027,39.270016890969615,2019-03-09 03:00,47.2,29.3,54.3,42.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cuamba,🟢 Safe / Low Impact,-14.74764775696228,36.54485573415752,2019-03-06 09:00,24.7,29.1,54.0,126.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mocuba,🟢 Safe / Low Impact,-16.853350081805836,36.86355693029469,2019-03-06 00:00,27.7,29.1,54.0,180.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Caia,🟢 Safe / Low Impact,-17.78237838483119,35.00832112121529,2019-03-14 12:00,201.3,28.9,53.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Gile,🟢 Safe / Low Impact,-15.927610915015402,38.30655257592137,2019-03-09 00:00,69.3,28.6,53.0,126.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Machaze,🟢 Safe / Low Impact,-21.042499556892015,33.2712699171532,2019-03-15 03:00,194.7,28.4,52.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Metarica,🟢 Safe / Low Impact,-14.322614314069357,36.862479933427615,2019-03-06 12:00,82.7,28.3,52.4,84.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Vilankulo,🟢 Safe / Low Impact,-22.300848980284787,35.1263277432606,2019-03-14 12:00,279.7,27.0,50.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Milange,🟢 Safe / Low Impact,-16.018877132172836,35.991165974099836,2019-03-06 06:00,11.7,26.8,49.7,186.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Pebane,🟢 Safe / Low Impact,-16.72124641407891,38.54073256370729,2019-03-09 03:00,11.2,26.7,49.5,150.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Murrupula,🟢 Safe / Low Impact,-15.400610790222622,38.661148581818004,2019-03-09 00:00,136.2,26.2,48.5,48.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mogincual,🟢 Safe / Low Impact,-15.539380958241173,40.08715050031857,2019-03-09 00:00,158.1,25.1,46.6,24.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Meconta,🟢 Safe / Low Impact,-15.281764916892142,39.646874184096035,2019-03-09 00:00,173.4,25.0,46.2,12.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Morrumbala,🟢 Safe / Low Impact,-17.057072181189227,35.789906452054986,2019-03-14 12:00,126.1,24.9,46.1,132.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Ribaue,🟢 Safe / Low Impact,-15.00671701213524,38.19594909315362,2019-03-06 09:00,140.7,24.8,45.9,66.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Nampula,🟢 Safe / Low Impact,-15.128209128935111,39.12707952268529,2019-03-09 00:00,176.9,24.5,45.3,12.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Nampula,🟢 Safe / Low Impact,-15.102237271129507,39.26289280251133,2019-03-09 00:00,184.0,24.2,44.8,12.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mandimba,🟢 Safe / Low Impact,-14.203858666707736,35.90437833092482,2019-03-07 06:00,94.3,23.9,44.3,84.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Maua,🟢 Safe / Low Impact,-13.902086278591117,37.04060621893566,2019-03-06 12:00,132.8,23.9,44.2,30.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chemba,🟢 Safe / Low Impact,-17.205913048566,34.63003008828114,2019-03-15 06:00,195.7,23.4,43.4,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Lalaua,🟢 Safe / Low Impact,-14.43639495619872,38.12688193844106,2019-03-06 12:00,164.4,22.8,42.2,24.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mabote,🟢 Safe / Low Impact,-22.002079779789923,33.801837419628015,2019-03-14 12:00,276.2,22.8,42.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Massinga,🟢 Safe / Low Impact,-22.836326393242235,35.01996304662898,2019-03-14 12:00,339.6,22.7,42.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Tsangano,🟢 Safe / Low Impact,-15.125206936491217,34.34385683377499,2019-03-07 06:00,146.1,22.2,41.1,54.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Tambara,🟢 Safe / Low Impact,-16.963223826482412,34.10514358143015,2019-03-15 06:00,219.1,21.7,40.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Nipepe,🟢 Safe / Low Impact,-13.987108612616048,37.90362867971476,2019-03-06 12:00,177.4,21.6,39.9,12.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Ngauma,🟢 Safe / Low Impact,-13.819693467730481,35.578542799632174,2019-03-07 06:00,146.9,21.4,39.6,54.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mutarara,🟢 Safe / Low Impact,-16.867390540969243,34.77192803351488,2019-03-14 12:00,157.6,21.4,39.7,24.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Guro,🟢 Safe / Low Impact,-16.971890094645435,33.538641658424275,2019-03-15 06:00,251.4,21.2,39.3,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Muecate,🟢 Safe / Low Impact,-14.682521526228783,39.53374401832871,2019-03-09 00:00,234.5,21.1,39.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mossuril,🟢 Safe / Low Impact,-15.061594386196836,40.51366385026776,2019-03-09 00:00,215.6,20.7,38.3,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Monapo,🟢 Safe / Low Impact,-14.791761795246131,40.135350461298934,2019-03-09 00:00,239.8,20.5,38.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Ilha de Mocambique,🟢 Safe / Low Impact,-15.049627210723589,40.61476240160655,2019-03-09 00:00,215.9,20.3,37.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Angonia,🟢 Safe / Low Impact,-14.674443959423186,34.163199621701544,2019-03-07 06:00,184.1,20.3,37.5,24.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mecuburi,🟢 Safe / Low Impact,-14.476024683905138,38.916058694403596,2019-03-09 00:00,235.9,20.1,37.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Luenha,🟢 Safe / Low Impact,-16.86742112687652,33.11878092017298,2019-03-15 09:00,251.6,19.8,36.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Funhalouro,🟢 Safe / Low Impact,-23.054454245014995,34.30598242528294,2019-03-14 12:00,374.9,19.7,36.5,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Morrumbene,🟢 Safe / Low Impact,-23.473928590971973,35.09855149531949,2019-03-14 12:00,410.2,19.4,35.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Moatize,🟢 Safe / Low Impact,-15.972897324840636,34.002581143934655,2019-03-07 06:00,181.5,19.3,35.8,12.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Massangena,🟢 Safe / Low Impact,-21.747368318710514,32.591499697035566,2019-03-15 06:00,286.4,19.3,35.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Majune,🟢 Safe / Low Impact,-13.320324045984558,36.37381687426724,2019-03-06 12:00,181.4,19.0,35.2,6.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Nacaroa,🟢 Safe / Low Impact,-14.33619788023184,39.90609740506127,2019-03-09 00:00,282.0,18.7,34.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Nacala-A-Velha,🟢 Safe / Low Impact,-14.562711476448893,40.48295572070426,2019-03-09 00:00,271.1,18.6,34.4,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Lichinga,🟢 Safe / Low Impact,-13.392912749659535,35.29252539545475,2019-03-07 06:00,203.1,18.5,34.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Nacala,🟢 Safe / Low Impact,-14.537687375341381,40.71994126709687,2019-03-10 00:00,272.3,18.4,34.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Lichinga,🟢 Safe / Low Impact,-13.297008442890808,35.2469749446047,2019-03-07 06:00,214.9,17.9,33.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Inhambane,🟢 Safe / Low Impact,-23.884809744964297,35.46622861605017,2019-03-14 12:00,450.7,17.9,33.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Maxixe,🟢 Safe / Low Impact,-23.881701041224026,35.309141287096786,2019-03-14 12:00,452.5,17.8,33.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Homoine,🟢 Safe / Low Impact,-23.875685962406735,35.04128391111423,2019-03-14 12:00,455.0,17.6,32.5,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chigubo,🟢 Safe / Low Impact,-22.90985173152885,33.24780540823208,2019-03-14 12:00,391.5,17.5,32.4,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Macanga,🟢 Safe / Low Impact,-14.801934152663497,33.534699965724855,2019-03-07 06:00,239.9,17.2,31.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Erati,🟢 Safe / Low Impact,-13.91860448749564,39.77329979252512,2019-03-09 00:00,323.0,17.1,31.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Marrupa,🟢 Safe / Low Impact,-13.029976355092703,37.51979737718006,2019-03-06 12:00,242.5,17.1,31.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chiuta,🟢 Safe / Low Impact,-15.47064092456608,33.454630203336684,2019-03-07 06:00,235.3,17.1,31.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Balama,🟢 Safe / Low Impact,-13.463608178857527,38.407154573416854,2019-03-06 12:00,256.8,17.0,31.5,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Tete,🟢 Safe / Low Impact,-16.138574508267325,33.56713746616361,2019-03-07 06:00,230.8,16.9,31.4,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Namuno,🟢 Safe / Low Impact,-13.743494022909372,38.89469637187747,2019-03-09 00:00,276.6,16.7,30.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Jangamo,🟢 Safe / Low Impact,-24.163165326372866,35.27080113570643,2019-03-14 12:00,484.1,16.7,30.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Changara,🟢 Safe / Low Impact,-16.27292924383553,33.15533282090875,2019-03-15 06:00,277.0,16.6,30.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Memba,🟢 Safe / Low Impact,-13.965411427549174,40.393680595296054,2019-03-09 00:00,335.6,16.5,30.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Panda,🟢 Safe / Low Impact,-24.01449862688979,34.401529488469215,2019-03-14 12:00,477.2,16.3,30.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Muembe,🟢 Safe / Low Impact,-12.82428305817206,35.81249570527803,2019-03-07 06:00,246.2,16.0,29.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chiure,🟢 Safe / Low Impact,-13.466727954301968,39.70316401052158,2019-03-09 00:00,365.7,15.5,28.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Inharrime,🟢 Safe / Low Impact,-24.400624275729566,34.771198046100146,2019-03-14 12:00,515.0,15.5,28.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cahora Bassa,🟢 Safe / Low Impact,-16.025865717250774,32.50589138387366,2019-03-16 00:00,308.7,14.9,27.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chicualacuala,🟢 Safe / Low Impact,-22.715257356334938,32.0310314616046,2019-03-14 12:00,405.5,14.9,27.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mabalane,🟢 Safe / Low Impact,-23.47829447166141,32.738032517117496,2019-03-14 12:00,470.4,14.9,27.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Zavala,🟢 Safe / Low Impact,-24.650941039512826,34.66913973285399,2019-03-14 12:00,543.6,14.7,27.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chifunde,🟢 Safe / Low Impact,-14.613385983315105,32.82855901628035,2019-03-07 06:00,318.6,14.4,26.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chibuto,🟢 Safe / Low Impact,-24.30003995432555,33.61009494253058,2019-03-14 12:00,526.0,14.4,26.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mecufi,🟢 Safe / Low Impact,-13.238351261507932,40.402071242462995,2019-03-09 00:00,414.8,14.3,26.5,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mandlakaze,🟢 Safe / Low Impact,-24.63073392769013,34.067429857759564,2019-03-14 12:00,551.1,14.2,26.3,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mavago,🟢 Safe / Low Impact,-12.235024878783285,36.40646724288317,2019-03-06 12:00,301.9,14.1,26.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Magoe,🟢 Safe / Low Impact,-15.903931423281588,31.366058883685458,2019-03-16 00:00,313.2,14.1,26.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Guija,🟢 Safe / Low Impact,-24.166840659925843,33.121459571149714,2019-03-14 12:00,526.0,14.1,26.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Ancuabe,🟢 Safe / Low Impact,-12.970008620208487,39.77370985532249,2019-03-09 00:00,404.6,14.0,26.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Lago niassa,🟢 Safe / Low Impact,-12.462054582095364,34.66370258920327,2019-03-07 06:00,326.6,14.0,25.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Lago,🟢 Safe / Low Impact,-12.304539667109552,34.991719112446674,2019-03-07 06:00,326.7,13.8,25.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Pemba,🟢 Safe / Low Impact,-13.018799163534045,40.529978996811266,2019-03-10 00:00,441.5,13.7,25.4,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Sanga,🟢 Safe / Low Impact,-12.176662626579727,35.56049153360986,2019-03-07 06:00,322.3,13.7,25.3,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Montepuez,🟢 Safe / Low Impact,-12.603642603931506,38.72807060381997,2019-03-06 12:00,350.9,13.6,25.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Pemba,🟢 Safe / Low Impact,-12.89582850629942,40.31372074911588,2019-03-09 00:00,448.0,13.5,25.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mecula,🟢 Safe / Low Impact,-11.957940972690048,37.56607663725254,2019-03-06 12:00,353.9,13.1,24.3,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Chokwe,🟢 Safe / Low Impact,-24.561732883359316,32.95513332493528,2019-03-14 12:00,573.0,13.1,24.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Massingir,🟢 Safe / Low Impact,-23.866655306858956,32.092310481960254,2019-03-14 12:00,526.8,13.1,24.3,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Meluco,🟢 Safe / Low Impact,-12.465325150096305,39.62399172496682,2019-03-09 00:00,429.0,12.9,23.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Xai-xai,🟢 Safe / Low Impact,-25.01147625508086,33.61149804883937,2019-03-14 12:00,603.1,12.9,23.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Xai-Xai,🟢 Safe / Low Impact,-25.04949011040439,33.658941925121105,2019-03-14 12:00,606.2,12.9,23.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Quissanga,🟢 Safe / Low Impact,-12.573532209695987,40.32153734624105,2019-03-09 00:00,478.5,12.8,23.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Maravia,🟢 Safe / Low Impact,-15.09288696053668,32.06519642482012,2019-03-07 06:00,387.1,12.5,23.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Bilene,🟢 Safe / Low Impact,-25.026239178817026,33.175420947343255,2019-03-14 12:00,615.3,12.5,23.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Ibo,🟢 Safe / Low Impact,-12.30889976629552,40.59780932607929,2019-03-10 00:00,519.5,12.4,23.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Magude,🟢 Safe / Low Impact,-24.701429438671784,32.43966141110445,2019-03-14 12:00,606.9,12.3,22.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Zumbu,🟢 Safe / Low Impact,-15.229201190467839,30.93407441588519,2019-03-16 00:00,395.0,12.0,22.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Macomia,🟢 Safe / Low Impact,-12.063715879459842,40.190709738673405,2019-03-09 00:00,504.6,11.9,22.0,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Manhica,🟢 Safe / Low Impact,-25.207157946784815,32.82121205997293,2019-03-14 12:00,645.2,11.8,21.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Muidumbe,🟢 Safe / Low Impact,-11.833783647585147,39.83693136848565,2019-03-09 00:00,494.8,11.6,21.5,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mueda,🟢 Safe / Low Impact,-11.58686167158509,39.12995463828935,2019-03-09 00:00,467.8,11.3,20.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Marracuene,🟢 Safe / Low Impact,-25.660638353711548,32.71177288276512,2019-03-14 12:00,696.5,11.1,20.5,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Moamba,🟢 Safe / Low Impact,-25.347331810126526,32.257093057185436,2019-03-14 12:00,680.0,11.1,20.6,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Mocimboa da Praia,🟢 Safe / Low Impact,-11.43392560901824,40.16534720142886,2019-03-09 00:00,551.7,10.9,20.1,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade da Matola,🟢 Safe / Low Impact,-25.83465936688863,32.49518299779534,2019-03-14 12:00,721.9,10.7,19.8,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Cidade de Maputo,🟢 Safe / Low Impact,-25.959528481087535,32.62437570666508,2019-03-14 12:00,730.8,10.6,19.7,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Nangade,🟢 Safe / Low Impact,-11.157345976295463,39.7755167967327,2019-03-09 00:00,547.8,10.5,19.5,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Boane,🟢 Safe / Low Impact,-26.034435349080166,32.353143414526926,2019-03-14 12:00,747.6,10.3,19.2,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Palma,🟢 Safe / Low Impact,-10.863206964221451,40.320333898177964,2019-03-10 00:00,610.5,10.2,18.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Namaacha,🟢 Safe / Low Impact,-26.06172516261806,32.16342003560364,2019-03-14 12:00,757.1,10.2,18.9,0.0,,,,1.0,YES
+Cyclone Idai,Mozambique,Matutuine,🟢 Safe / Low Impact,-26.527205682549717,32.562816852958676,2019-03-14 12:00,792.8,9.9,18.3,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mutare,🟡 Tropical Storm Force,-19.2244815643743,32.429240332958955,2019-03-15 18:00,19.9,52.1,96.4,48.0,2019-03-15 09:00:00,2019-03-15 18:00:00,,1.0,YES
+Cyclone Idai,Zimbabwe,Mutasa,🟡 Tropical Storm Force,-18.64529296195178,32.701520941951095,2019-03-15 18:00,51.6,48.4,89.7,42.0,2019-03-15 09:00:00,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chimanimani,🟡 Tropical Storm Force,-19.784479720890346,32.71928377725646,2019-03-15 15:00,73.1,46.8,86.7,42.0,2019-03-15 06:00:00,,,1.0,YES
+Cyclone Idai,Zimbabwe,Buhera,🟡 Tropical Storm Force,-19.449779964113915,31.86772830237585,2019-03-16 00:00,61.8,39.7,73.5,36.0,2019-03-15 21:00:00,,,1.0,YES
+Cyclone Idai,Zimbabwe,Hwedza,🟡 Tropical Storm Force,-18.736941130148455,31.63528133262533,2019-03-16 00:00,10.3,39.1,72.4,24.0,2019-03-15 21:00:00,,,1.0,YES
+Cyclone Idai,Zimbabwe,Makoni,🟡 Tropical Storm Force,-18.363059678578534,32.18294158959883,2019-03-16 00:00,60.3,38.6,71.5,30.0,2019-03-15 21:00:00,,,1.0,YES
+Cyclone Idai,Zimbabwe,Marondera,🟢 Safe / Low Impact,-18.27064053987425,31.499135093005535,2019-03-16 03:00,53.4,32.6,60.3,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chikomba,🟢 Safe / Low Impact,-18.892003316060542,31.103893512666026,2019-03-16 03:00,68.8,31.4,58.1,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Nyanga,🟢 Safe / Low Impact,-17.94022598132723,32.75635209220891,2019-03-15 21:00,129.3,30.1,55.8,12.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Gutu,🟢 Safe / Low Impact,-19.61163516599132,31.241003574871787,2019-03-16 00:00,111.9,30.1,55.8,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chipinge,🟢 Safe / Low Impact,-20.49461662954734,32.47410089350441,2019-03-15 12:00,156.0,29.5,54.6,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Bikita,🟢 Safe / Low Impact,-20.145955585924458,31.911423458244588,2019-03-15 21:00,131.3,29.2,54.1,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Murehwa,🟢 Safe / Low Impact,-17.797393130907945,31.821608967167155,2019-03-16 00:00,100.9,27.8,51.4,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Seke,🟢 Safe / Low Impact,-18.254326496978106,30.953866562917433,2019-03-16 03:00,95.2,26.5,49.1,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chitungwiza,🟢 Safe / Low Impact,-18.01300635851408,31.06339572184548,2019-03-16 03:00,103.5,25.6,47.4,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Goromonzi,🟢 Safe / Low Impact,-17.788372928543073,31.3387884726818,2019-03-16 03:00,109.3,25.3,46.8,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mutoko,🟢 Safe / Low Impact,-17.448009981769268,32.27433550826524,2019-03-16 00:00,150.8,24.2,44.7,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Harare,🟢 Safe / Low Impact,-17.836221719267854,31.06789060835604,2019-03-16 03:00,118.5,24.0,44.5,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Zaka,🟢 Safe / Low Impact,-20.387101518009917,31.426731332861742,2019-03-16 00:00,174.9,24.0,44.4,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chirumhanzu,🟢 Safe / Low Impact,-19.318775199847597,30.481656544125403,2019-03-16 00:00,147.7,23.0,42.6,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Masvingo,🟢 Safe / Low Impact,-20.259878985626408,30.909327372102172,2019-03-16 00:00,190.1,22.1,41.0,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chegutu,🟢 Safe / Low Impact,-18.14205229708983,30.396917469529114,2019-03-16 03:00,153.2,20.9,38.7,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Uzumba-Maramba-Pfungwe,🟢 Safe / Low Impact,-17.082628602704066,32.043474589267866,2019-03-16 00:00,183.0,20.8,38.4,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Bindura,🟢 Safe / Low Impact,-17.246431435919497,31.308639604799072,2019-03-16 00:00,167.5,20.5,38.0,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Shamva,🟢 Safe / Low Impact,-17.095529930835312,31.638692009396188,2019-03-16 00:00,178.6,20.3,37.6,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mudzi,🟢 Safe / Low Impact,-17.03475033335003,32.63348385171471,2019-03-16 00:00,208.6,20.1,37.3,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Shurugwi,🟢 Safe / Low Impact,-19.74703148419769,30.148866449681098,2019-03-16 00:00,202.3,19.6,36.2,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mazowe,🟢 Safe / Low Impact,-17.25167838376461,30.93195880461896,2019-03-16 00:00,181.6,19.3,35.7,6.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chivi,🟢 Safe / Low Impact,-20.483309985112925,30.564640683220702,2019-03-16 00:00,231.6,19.2,35.5,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Zvimba,🟢 Safe / Low Impact,-17.501246176499063,30.447594004954375,2019-03-16 00:00,189.7,18.5,34.3,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Chiredzi,🟢 Safe / Low Impact,-21.344460730785904,31.683451553718935,2019-03-15 12:00,266.5,18.4,34.1,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Kadoma,🟢 Safe / Low Impact,-18.286062814365764,29.85633986581741,2019-03-16 00:00,202.4,17.9,33.2,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Rushinga,🟢 Safe / Low Impact,-16.609166823599352,32.29404651766987,2019-03-16 00:00,240.2,17.7,32.7,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Zvishavane,🟢 Safe / Low Impact,-20.284403627273942,30.07562282534197,2019-03-16 00:00,246.8,17.7,32.8,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mount Darwin,🟢 Safe / Low Impact,-16.574096467421263,31.651083330399974,2019-03-16 00:00,236.5,17.2,31.8,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Gweru,🟢 Safe / Low Impact,-19.46734503187328,29.641736269314773,2019-03-16 00:00,235.0,17.2,31.9,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Kwekwe,🟢 Safe / Low Impact,-18.882591900719227,29.556265093578027,2019-03-16 00:00,229.2,17.0,31.5,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mberengwa,🟢 Safe / Low Impact,-20.745075521253543,30.01245541438677,2019-03-16 00:00,289.5,16.1,29.8,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Guruve,🟢 Safe / Low Impact,-16.6845789659816,30.659084994629865,2019-03-16 00:00,250.9,15.9,29.5,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Centenary,🟢 Safe / Low Impact,-16.426781462467826,31.142635557754602,2019-03-16 00:00,260.2,15.8,29.3,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mwenezi,🟢 Safe / Low Impact,-21.367743465966733,30.69082406727017,2019-03-16 00:00,307.6,15.8,29.3,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Makonde,🟢 Safe / Low Impact,-17.127737918351045,30.01473791270281,2019-03-16 00:00,251.6,15.6,29.0,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Insiza,🟢 Safe / Low Impact,-20.25632133329486,29.404045103701634,2019-03-16 00:00,298.6,15.1,28.0,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mbire,🟢 Safe / Low Impact,-16.117445936612803,30.519535411308482,2019-03-16 00:00,314.4,13.8,25.5,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Nkayi,🟢 Safe / Low Impact,-18.922238992865562,28.68667191859512,2019-03-16 00:00,320.8,13.7,25.3,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Umzingwane,🟢 Safe / Low Impact,-20.345542437821013,28.94529169197477,2019-03-16 00:00,344.0,13.6,25.2,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Bubi,🟢 Safe / Low Impact,-19.526816514171085,28.659754309683006,2019-03-16 00:00,334.9,13.5,25.0,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Gokwe South,🟢 Safe / Low Impact,-18.20765717079585,28.64530126716644,2019-03-16 00:00,329.4,13.3,24.6,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Gokwe North,🟢 Safe / Low Impact,-17.571626338903076,28.837485631990614,2019-03-16 00:00,329.9,13.2,24.4,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Beitbridge,🟢 Safe / Low Impact,-21.90984514714278,30.029549586990857,2019-03-16 00:00,393.9,13.0,24.1,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Hurungwe,🟢 Safe / Low Impact,-16.435388258168636,29.53738624033193,2019-03-16 00:00,342.3,12.9,23.8,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Bulawayo,🟢 Safe / Low Impact,-20.14025705172959,28.548304428395856,2019-03-16 00:00,369.6,12.8,23.7,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Gwanda,🟢 Safe / Low Impact,-21.2358634116549,29.16132464181472,2019-03-16 00:00,388.9,12.8,23.7,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Umguza,🟢 Safe / Low Impact,-19.823637781661898,28.275853284270983,2019-03-16 00:00,383.0,12.4,22.9,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Matobo,🟢 Safe / Low Impact,-20.95534995999951,28.49054516573261,2019-03-16 00:00,421.1,11.9,22.0,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Kariba,🟢 Safe / Low Impact,-16.89421022859133,28.612571936027095,2019-03-16 00:00,385.9,11.8,21.9,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Lupane,🟢 Safe / Low Impact,-18.85610696367586,27.91315654313733,2019-03-16 00:00,401.7,11.7,21.7,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Mangwe,🟢 Safe / Low Impact,-20.97865430368867,28.01290877138675,2019-03-16 00:00,463.6,11.0,20.3,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Binga,🟢 Safe / Low Impact,-17.79113470896296,27.65675975187383,2019-03-16 00:00,441.3,10.8,20.1,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Bulilima,🟢 Safe / Low Impact,-20.16923858479863,27.5652389526324,2019-03-16 00:00,465.8,10.8,19.9,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Tsholotsho,🟢 Safe / Low Impact,-19.620082301738236,27.413127255481662,2019-03-16 00:00,464.3,10.7,19.8,0.0,,,,1.0,YES
+Cyclone Idai,Zimbabwe,Hwange,🟢 Safe / Low Impact,-18.716476110439,26.501113786851935,2019-03-16 00:00,550.2,9.3,17.3,0.0,,,,1.0,YES
+Cyclone Freddy,Madagascar,Isandra,🔴 Cyclone Force (Cat 1+),-21.280832873504817,46.8964711679244,2023-02-22 00:00,22.5,68.2,126.3,18.0,2023-02-22 00:00:00,2023-02-22 00:00:00,2023-02-22 00:00:00,1.11,YES
+Cyclone Freddy,Madagascar,Mananjary,🟡 Tropical Storm Force,-21.197355939989663,48.08621168026544,2023-02-21 18:00,24.7,53.0,98.2,24.0,2023-02-21 18:00:00,2023-02-21 18:00:00,,1.11,YES
+Cyclone Freddy,Madagascar,Ambohimahasoa,🟡 Tropical Storm Force,-21.06888520722573,47.16886707373292,2023-02-22 00:00,38.4,52.6,97.3,18.0,2023-02-21 21:00:00,2023-02-22 00:00:00,,1.11,YES
+Cyclone Freddy,Madagascar,Ikalamavony,🟡 Tropical Storm Force,-21.28854375048938,46.21944048983822,2023-02-22 03:00,27.9,50.5,93.6,12.0,2023-02-22 00:00:00,2023-02-22 03:00:00,,1.11,YES
+Cyclone Freddy,Madagascar,Manandriana,🟡 Tropical Storm Force,-20.75062419594183,47.01951218192177,2023-02-22 00:00,45.0,47.2,87.4,12.0,2023-02-22 00:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Toliary-I,🟡 Tropical Storm Force,-23.340890633888854,43.65833592753301,2023-03-05 18:00,47.2,45.0,83.3,108.0,2023-03-05 15:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Fianarantsoa I,🟡 Tropical Storm Force,-21.45378217620448,47.08755695532975,2023-02-22 00:00,49.3,44.2,81.8,18.0,2023-02-22 00:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Toliary-II,🟡 Tropical Storm Force,-23.228324077246977,43.79285846750965,2023-03-05 18:00,63.5,42.5,78.6,108.0,2023-02-22 12:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Morombe,🟡 Tropical Storm Force,-22.027340504512555,43.714773866341254,2023-02-22 09:00,43.1,40.9,75.8,24.0,2023-02-22 09:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Ankazoabo,🟡 Tropical Storm Force,-22.169463183393358,44.6790480121999,2023-02-22 06:00,39.6,39.6,73.3,18.0,2023-02-22 06:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Manja,🟡 Tropical Storm Force,-21.422156886023053,44.20129884877109,2023-02-22 09:00,71.8,39.2,72.5,18.0,2023-02-22 06:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Lalangina,🟡 Tropical Storm Force,-21.41010783416841,47.26623843912175,2023-02-22 00:00,48.0,38.4,71.1,18.0,2023-02-21 21:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Beroroha,🟡 Tropical Storm Force,-21.485100887860558,45.203328163530074,2023-02-22 03:00,16.7,38.3,70.9,12.0,2023-02-22 03:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Sakaraha,🟡 Tropical Storm Force,-22.786615099666815,44.4412213131589,2023-02-22 09:00,81.9,37.2,68.8,12.0,2023-02-22 09:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Ifanadiana,🟡 Tropical Storm Force,-21.09176083393907,47.63659154208775,2023-02-21 21:00,6.0,36.5,67.6,24.0,2023-02-21 21:00:00,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambatofinandrahana,🟢 Safe / Low Impact,-20.5022501569848,46.309341117612256,2023-02-22 03:00,83.8,34.0,62.9,12.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Vohibato,🟢 Safe / Low Impact,-21.66520245378984,47.087434940557124,2023-02-22 00:00,69.5,33.9,62.7,12.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mahabo,🟢 Safe / Low Impact,-20.636350275485462,45.16579130099931,2023-02-22 06:00,107.4,33.1,61.3,6.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ihosy,🟢 Safe / Low Impact,-22.34325957459919,45.82367882256433,2023-02-22 06:00,111.4,32.4,60.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambalavao,🟢 Safe / Low Impact,-21.876812171496127,46.721921592741346,2023-02-22 03:00,86.8,32.0,59.3,18.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambositra,🟢 Safe / Low Impact,-20.575495927707966,47.29967735010444,2023-02-22 00:00,64.4,30.8,57.0,18.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Betioky Atsimo,🟢 Safe / Low Impact,-23.67787217663619,44.49393349014559,2023-03-05 21:00,129.2,28.8,53.2,18.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Morondava,🟢 Safe / Low Impact,-20.58729436272454,44.38356732265231,2023-02-22 06:00,134.9,28.7,53.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ampanihy Ouest,🟢 Safe / Low Impact,-24.52202889816956,44.48207132447954,2023-03-06 06:00,161.1,24.3,45.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Benenitra,🟢 Safe / Low Impact,-23.402835989885705,45.08646729115591,2023-02-22 09:00,169.1,24.3,45.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Nosy-Varika,🟢 Safe / Low Impact,-20.565304473107236,48.1731992604267,2023-02-21 18:00,60.9,23.7,43.9,24.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Fandriana,🟢 Safe / Low Impact,-20.26628006176449,47.442704086264825,2023-02-22 00:00,92.9,22.4,41.4,18.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ikongo,🟢 Safe / Low Impact,-21.925456124599826,47.45039638669336,2023-02-22 00:00,93.6,22.4,41.6,18.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Betafo,🟢 Safe / Low Impact,-19.946886368282385,46.667615317472844,2023-02-22 03:00,129.0,22.1,40.9,6.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ivohibe,🟢 Safe / Low Impact,-22.520559130946648,46.915760476738576,2023-02-22 03:00,158.4,21.8,40.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Betroka,🟢 Safe / Low Impact,-23.371745306940802,45.87687877998001,2023-02-22 06:00,212.6,20.8,38.5,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mandoto,🟢 Safe / Low Impact,-19.68268312492405,46.19773505693329,2023-02-22 03:00,169.6,20.7,38.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Belo Sur Tsiribihina,🟢 Safe / Low Impact,-19.63942727760643,44.84791952842972,2023-02-22 06:00,216.5,20.3,37.6,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Manakara Atsimo,🟢 Safe / Low Impact,-21.915938102990708,47.871954768677824,2023-02-21 21:00,96.5,20.0,37.1,12.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antsirabe I,🟢 Safe / Low Impact,-19.881919674869085,47.031890191817105,2023-02-22 03:00,137.6,19.6,36.4,6.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Iakora,🟢 Safe / Low Impact,-23.153019983518057,46.634488186349394,2023-02-22 06:00,218.8,19.4,35.9,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antsirabe II,🟢 Safe / Low Impact,-19.882178861693376,47.158591935077524,2023-02-22 03:00,140.5,19.0,35.2,6.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Bekily,🟢 Safe / Low Impact,-24.251855530213124,45.39500350310285,2023-03-05 21:00,233.0,18.6,34.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Vondrozo,🟢 Safe / Low Impact,-22.686078406930832,47.30609979266371,2023-02-22 03:00,179.5,18.4,34.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Beloha,🟢 Safe / Low Impact,-25.090557357945162,45.0224597005439,2023-03-06 06:00,237.8,18.0,33.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Vohipeno,🟢 Safe / Low Impact,-22.342564439633545,47.705831125180445,2023-02-22 03:00,139.7,17.9,33.2,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Miandrivazo,🟢 Safe / Low Impact,-19.16101927778305,45.368156916137465,2023-02-22 06:00,244.4,17.3,32.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Midongy-Atsimo,🟢 Safe / Low Impact,-23.34271629983984,46.99663196764105,2023-02-22 06:00,250.2,17.2,31.8,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Faratsiho,🟢 Safe / Low Impact,-19.412266097190447,46.902932160601914,2023-02-22 03:00,188.0,16.9,31.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Marolambo,🟢 Safe / Low Impact,-20.091916748436528,47.96680366884591,2023-02-21 21:00,117.3,16.7,30.9,18.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antanifotsy,🟢 Safe / Low Impact,-19.745508237678955,47.49857707303217,2023-02-22 03:00,150.0,16.7,30.9,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Soavinandriana,🟢 Safe / Low Impact,-19.22708741372509,46.559732843775684,2023-02-22 03:00,209.8,16.5,30.6,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Farafangana,🟢 Safe / Low Impact,-22.80662341805397,47.65883347586522,2023-02-22 06:00,190.8,16.2,30.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Vatomandry,🟢 Safe / Low Impact,-19.360373586022984,48.77830622479299,2023-02-21 06:00,171.9,16.1,29.9,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Befotaka,🟢 Safe / Low Impact,-23.88444265939879,46.815972692114954,2023-02-22 06:00,301.9,15.7,29.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antsalova,🟢 Safe / Low Impact,-18.82724518338383,44.63586566488048,2023-02-22 06:00,306.3,15.6,28.8,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambovombe-Androy,🟢 Safe / Low Impact,-24.860209565121913,45.78648055142064,2023-03-05 21:00,296.7,15.3,28.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Tsihombe,🟢 Safe / Low Impact,-25.363082892160488,45.472378153985105,2023-03-06 06:00,292.2,15.3,28.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mahanoro,🟢 Safe / Low Impact,-20.03159874203965,48.517287453838726,2023-02-21 06:00,110.7,15.3,28.4,18.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Tsiroanomandidy,🟢 Safe / Low Impact,-18.841081743072866,45.97031253951066,2023-02-22 06:00,265.7,15.3,28.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Vangaindrano,🟢 Safe / Low Impact,-23.55774740200859,47.39908301782498,2023-02-22 06:00,274.8,15.2,28.2,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambatolampy,🟢 Safe / Low Impact,-19.46335152329653,47.56547800119849,2023-02-22 03:00,181.1,15.2,28.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Toamasina I,🟢 Safe / Low Impact,-18.14626833450195,49.39536583281305,2023-02-21 06:00,269.6,14.9,27.6,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Amboasary-Atsimo,🟢 Safe / Low Impact,-24.423420455359796,46.35410886723683,2023-02-22 09:00,331.4,14.7,27.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antanambao Manampontsy,🟢 Safe / Low Impact,-19.55839989110254,48.470233695225645,2023-02-21 06:00,161.8,14.7,27.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Brickaville,🟢 Safe / Low Impact,-18.641381370795692,48.853146907679,2023-02-21 06:00,241.9,14.6,27.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Arivonimamo,🟢 Safe / Low Impact,-19.070397479298478,47.240488362966595,2023-02-22 03:00,227.6,14.4,26.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Miarinarivo,🟢 Safe / Low Impact,-18.9067205683278,46.830710391049635,2023-02-22 03:00,243.9,14.4,26.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Andramasina,🟢 Safe / Low Impact,-19.30014998099813,47.74602401851007,2023-02-22 03:00,200.0,14.0,26.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Anosibe-An'ala,🟢 Safe / Low Impact,-19.51370478529814,48.12462379307846,2023-02-22 03:00,177.3,13.6,25.2,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo Atsimondrano,🟢 Safe / Low Impact,-19.027650462226738,47.51859335780675,2023-02-22 03:00,229.7,13.6,25.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Toamasina II,🟢 Safe / Low Impact,-18.00556021284029,49.14116058355805,2023-02-21 06:00,294.8,13.5,25.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo IV,🟢 Safe / Low Impact,-18.933375189417823,47.51385187308637,2023-02-22 03:00,240.1,13.3,24.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo I,🟢 Safe / Low Impact,-18.905803874297998,47.51163859861034,2023-02-22 03:00,243.2,13.2,24.5,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo II,🟢 Safe / Low Impact,-18.92890016644232,47.54840284580506,2023-02-22 03:00,240.6,13.2,24.5,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo III,🟢 Safe / Low Impact,-18.896375381167534,47.52886792791958,2023-02-22 03:00,244.2,13.2,24.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Taolagnaro,🟢 Safe / Low Impact,-24.630854590279014,46.96170495832651,2023-02-22 06:00,385.6,13.2,24.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo V,🟢 Safe / Low Impact,-18.880099434663506,47.539318504434924,2023-02-22 03:00,246.0,13.1,24.2,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo VI,🟢 Safe / Low Impact,-18.86611900676256,47.493273743915914,2023-02-22 03:00,247.7,13.1,24.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antananarivo Avaradrano,🟢 Safe / Low Impact,-18.901476043128856,47.625653444826334,2023-02-22 03:00,243.6,13.0,24.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Fenoarivobe,🟢 Safe / Low Impact,-18.271605293061572,46.36161866877217,2023-02-22 06:00,317.8,13.0,24.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambohidratrimo,🟢 Safe / Low Impact,-18.66535229344008,47.4359656116975,2023-02-22 06:00,270.3,12.7,23.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Moramanga,🟢 Safe / Low Impact,-18.805512962892074,48.26572985738054,2023-02-21 06:00,248.1,12.6,23.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Morafenobe,🟢 Safe / Low Impact,-17.934564659574004,44.9591770974939,2023-02-22 06:00,387.3,12.6,23.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Manjakandriana,🟢 Safe / Low Impact,-18.828163312106796,47.79045560782885,2023-02-22 03:00,252.7,12.5,23.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ankazobe,🟢 Safe / Low Impact,-18.162079272243567,47.054848517940194,2023-02-22 06:00,327.8,12.1,22.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambatomainty,🟢 Safe / Low Impact,-17.74287604424327,45.59955055296136,2023-02-22 06:00,393.9,12.1,22.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Maintirano,🟢 Safe / Low Impact,-17.725756495769847,44.31816249769611,2023-02-22 06:00,431.6,11.9,22.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Vavatenina,🟢 Safe / Low Impact,-17.5059686630648,49.02130762734196,2023-02-21 06:00,350.6,11.6,21.6,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambatondrazaka,🟢 Safe / Low Impact,-17.918413688250343,48.45140652269302,2023-02-21 06:00,331.9,11.4,21.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Anjozorobe,🟢 Safe / Low Impact,-18.202311378579985,47.75148770668021,2023-02-22 06:00,321.8,11.3,21.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Sainte Marie,🟢 Safe / Low Impact,-16.89828941043823,49.91068843677749,2023-02-21 06:00,381.1,11.3,20.8,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Kandreho,🟢 Safe / Low Impact,-17.40920436503168,46.05136417078088,2023-02-22 06:00,417.9,11.2,20.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Fenerive Est,🟢 Safe / Low Impact,-17.163260434782778,49.202061647914846,2023-02-21 06:00,379.3,11.0,20.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Maevatanana,🟢 Safe / Low Impact,-17.239094017070595,46.8913333300683,2023-02-22 06:00,429.4,10.4,19.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Besalampy,🟢 Safe / Low Impact,-16.92126615035704,44.92020657239435,2023-02-22 06:00,497.7,10.4,19.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Amparafaravola,🟢 Safe / Low Impact,-17.440835773398604,48.34303836070407,2023-02-21 06:00,385.7,10.2,18.8,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Soanierana Ivongo,🟢 Safe / Low Impact,-16.72323158591909,49.30957399046481,2023-02-21 06:00,422.8,10.1,18.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Tsaratanana,🟢 Safe / Low Impact,-17.14391368947848,47.64103528451295,2023-02-22 06:00,439.1,9.8,18.2,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambato Boeni,🟢 Safe / Low Impact,-16.670871793650075,46.476146576740426,2023-02-22 06:00,493.7,9.8,18.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Soalala,🟢 Safe / Low Impact,-16.508767018762963,45.412711334183584,2023-02-22 06:00,531.0,9.8,18.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mananara-Avaratra,🟢 Safe / Low Impact,-16.232575416472688,49.511121069919824,2023-02-21 06:00,465.6,9.2,17.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mitsinjo,🟢 Safe / Low Impact,-16.110832541954103,45.9276848753838,2023-02-22 06:00,562.3,9.1,16.9,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Marovoay,🟢 Safe / Low Impact,-16.161412684688976,46.62690635517195,2023-02-22 06:00,549.4,9.0,16.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Andilamena,🟢 Safe / Low Impact,-16.720334873187134,48.3488141875541,2023-02-21 06:00,460.2,8.9,16.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mahajanga I,🟢 Safe / Low Impact,-15.695075153847702,46.34264107183282,2023-02-22 06:00,602.9,8.6,15.8,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mampikony,🟢 Safe / Low Impact,-16.16169345253924,47.67325361599412,2023-02-22 06:00,544.0,8.6,16.0,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mahajanga II,🟢 Safe / Low Impact,-15.653003179753771,46.75312749300166,2023-02-22 06:00,605.7,8.4,15.6,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Mandritsara,🟢 Safe / Low Impact,-16.033135725907574,48.73613524360341,2023-02-21 06:00,514.2,8.2,15.2,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Port-Berge (Boriziny-Vaovao),🟢 Safe / Low Impact,-15.717355753950056,47.727257031518214,2023-02-22 06:00,588.3,8.2,15.1,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Maroantsetra,🟢 Safe / Low Impact,-15.460563451882171,49.50024265627273,2023-02-21 06:00,546.4,7.8,14.5,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antalaha,🟢 Safe / Low Impact,-15.220755948916441,50.14185511061774,2023-02-21 06:00,554.0,7.7,14.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antsohihy,🟢 Safe / Low Impact,-14.999597382484263,48.05763847956722,2023-02-22 06:00,647.4,7.4,13.8,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Analalava,🟢 Safe / Low Impact,-14.727265113418987,47.781573655026904,2023-02-22 06:00,686.7,7.3,13.5,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Befandriana Nord,🟢 Safe / Low Impact,-15.164575437255511,48.77251952014978,2023-02-22 06:00,605.2,7.3,13.6,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Bealanana,🟢 Safe / Low Impact,-14.553232414740624,48.83502240769307,2023-02-22 06:00,665.9,6.9,12.8,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Andapa,🟢 Safe / Low Impact,-14.567340229732038,49.55329153944386,2023-02-22 06:00,639.5,6.7,12.4,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambanja,🟢 Safe / Low Impact,-13.87863080437892,48.47141752311465,2023-02-22 06:00,750.1,6.6,12.2,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Sambava,🟢 Safe / Low Impact,-14.222127614965322,49.78642070614404,2023-02-22 06:00,670.6,6.4,11.9,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Nosy-Be,🟢 Safe / Low Impact,-13.336163848084823,48.27013906578316,2023-02-22 06:00,814.2,6.3,11.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Ambilobe,🟢 Safe / Low Impact,-13.492411112186858,49.086276672918125,2023-02-22 06:00,768.4,6.2,11.5,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Vohemar,🟢 Safe / Low Impact,-13.485088819080927,49.714554902813134,2023-02-22 06:00,752.3,6.1,11.3,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antsiranana II,🟢 Safe / Low Impact,-12.590605618522025,49.2371838365241,2023-02-22 06:00,860.8,5.8,10.7,0.0,,,,1.11,YES
+Cyclone Freddy,Madagascar,Antsiranana I,🟢 Safe / Low Impact,-12.29184212101757,49.265556192078435,2023-02-22 06:00,892.4,5.6,10.5,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Nsanje,🟡 Tropical Storm Force,-16.741474024061674,35.142835856233226,2023-03-13 00:00,20.0,44.5,82.5,66.0,2023-03-13 00:00:00,,,1.11,YES
+Cyclone Freddy,Malawi,Chikwawa,🟢 Safe / Low Impact,-16.165073341057543,34.707900997671054,2023-03-13 09:00,28.1,28.8,53.3,60.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Thyolo,🟢 Safe / Low Impact,-16.101097172698413,35.14478621852642,2023-03-13 03:00,66.6,24.1,44.6,60.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Mwanza,🟢 Safe / Low Impact,-15.664114317798179,34.51808584048236,2023-03-13 21:00,60.9,20.1,37.3,48.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Mulanje,🟢 Safe / Low Impact,-15.937826686404401,35.509952611889524,2023-03-13 00:00,105.7,19.5,36.1,60.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Blantyre,🟢 Safe / Low Impact,-15.671009196922833,34.94583655327113,2023-03-13 21:00,82.9,18.5,34.3,54.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Chiradzulu,🟢 Safe / Low Impact,-15.745284753944533,35.21372530521577,2023-03-13 03:00,99.2,17.8,33.0,54.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Neno,🟢 Safe / Low Impact,-15.460609822533604,34.696187348679594,2023-03-13 21:00,88.1,17.4,32.3,48.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Phalombe,🟢 Safe / Low Impact,-15.671443152480773,35.698071612893074,2023-03-13 00:00,140.9,16.1,29.7,54.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Zomba,🟢 Safe / Low Impact,-15.397581844676534,35.43535379318956,2023-03-13 00:00,142.2,14.4,26.7,48.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Balaka,🟢 Safe / Low Impact,-15.037496830404766,35.056821320502664,2023-03-14 00:00,147.2,13.1,24.3,36.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Ntcheu,🟢 Safe / Low Impact,-14.814461558191217,34.714524534245854,2023-03-14 00:00,157.7,12.6,23.3,18.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Machinga,🟢 Safe / Low Impact,-14.937953457877143,35.5742534423748,2023-03-13 00:00,188.4,11.7,21.6,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Dedza,🟢 Safe / Low Impact,-14.26612920770944,34.22803459159504,2023-03-14 00:00,215.8,10.2,18.9,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Mangochi,🟢 Safe / Low Impact,-14.348601359627427,35.190814277922996,2023-03-14 00:00,222.7,10.0,18.5,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Lilongwe,🟢 Safe / Low Impact,-14.017525706684575,33.684424680014466,2023-03-14 00:00,254.5,9.1,16.9,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Salima,🟢 Safe / Low Impact,-13.735947783891426,34.38268321382521,2023-03-14 00:00,274.0,8.6,16.0,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Dowa,🟢 Safe / Low Impact,-13.570832022718015,33.787034113200924,2023-03-14 00:00,299.7,8.1,15.0,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Mchinji,🟢 Safe / Low Impact,-13.692498359367228,33.05617316547305,2023-03-14 00:00,314.0,7.8,14.5,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Ntchisi,🟢 Safe / Low Impact,-13.299440663930191,33.91961376300743,2023-03-14 00:00,326.6,7.6,14.1,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Kasungu,🟢 Safe / Low Impact,-12.984393056838524,33.385780428597826,2023-03-14 00:00,373.8,6.9,12.8,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Nkhotakota,🟢 Safe / Low Impact,-12.844441167838436,34.087605022630264,2023-03-14 00:00,374.6,6.9,12.7,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Likoma,🟢 Safe / Low Impact,-12.048485523563084,34.68537630209056,2023-03-03 18:00,462.7,6.0,11.1,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Area under National Administration,🟢 Safe / Low Impact,-11.838699386251282,34.460397711007936,2023-03-03 18:00,485.0,5.9,10.9,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Mzimba,🟢 Safe / Low Impact,-11.770966874288076,33.637689220851435,2023-03-03 18:00,499.3,5.7,10.6,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Nkhata Bay,🟢 Safe / Low Impact,-11.672258564534658,34.04132684405396,2023-03-03 18:00,504.9,5.7,10.6,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Rumphi,🟢 Safe / Low Impact,-10.819958983655777,33.81518372509574,2023-03-03 18:00,601.6,5.4,10.0,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Karonga,🟢 Safe / Low Impact,-10.084653071563716,33.88246421351402,2023-03-03 18:00,682.3,5.2,9.6,0.0,,,,1.11,YES
+Cyclone Freddy,Malawi,Chitipa,🟢 Safe / Low Impact,-9.961637620057193,33.498977279974866,2023-03-03 18:00,700.5,5.1,9.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Namacurra,🟡 Tropical Storm Force,-17.482194432169667,37.07354226837362,2023-03-12 00:00,18.5,59.5,110.3,96.0,2023-03-11 06:00:00,2023-03-11 21:00:00,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Quelimane,🟡 Tropical Storm Force,-17.862455258261367,36.914780729077265,2023-03-11 18:00,20.8,59.3,109.8,84.0,2023-03-11 06:00:00,2023-03-11 06:00:00,,1.11,YES
+Cyclone Freddy,Mozambique,Nicoadala,🟡 Tropical Storm Force,-17.615935781643316,36.74381051057589,2023-03-12 00:00,19.4,54.3,100.6,90.0,2023-03-11 06:00:00,2023-03-12 00:00:00,,1.11,YES
+Cyclone Freddy,Mozambique,Inhassunge,🟡 Tropical Storm Force,-18.055413995950648,36.80791047275936,2023-03-11 06:00,42.0,42.6,78.9,84.0,2023-03-11 06:00:00,,,1.11,YES
+Cyclone Freddy,Mozambique,Morrumbala,🟡 Tropical Storm Force,-17.057072181189234,35.78990645205499,2023-03-12 18:00,12.6,37.6,69.6,114.0,2023-03-12 12:00:00,,,1.11,YES
+Cyclone Freddy,Mozambique,Mutarara,🟡 Tropical Storm Force,-16.867390540969247,34.771928033514875,2023-03-13 00:00,21.9,37.1,68.8,60.0,2023-03-13 00:00:00,,,1.11,YES
+Cyclone Freddy,Mozambique,Maganja da Costa,🟡 Tropical Storm Force,-17.109617747616277,37.625238769559765,2023-03-11 06:00,88.4,36.7,67.9,72.0,2023-03-11 06:00:00,,,1.11,YES
+Cyclone Freddy,Mozambique,Chemba,🟢 Safe / Low Impact,-17.205913048566,34.63003008828114,2023-03-13 00:00,58.0,31.0,57.4,60.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Tambara,🟢 Safe / Low Impact,-16.963223826482412,34.10514358143015,2023-03-13 12:00,51.2,27.3,50.6,54.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mocuba,🟢 Safe / Low Impact,-16.853350081805836,36.86355693029469,2023-03-11 06:00,66.3,24.9,46.2,78.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mopeia,🟢 Safe / Low Impact,-17.83304572551324,36.06249856978365,2023-03-12 12:00,68.4,24.9,46.1,90.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Caia,🟢 Safe / Low Impact,-17.78237838483119,35.00832112121529,2023-03-13 00:00,89.3,24.8,45.8,54.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chinde,🟢 Safe / Low Impact,-18.399166079350525,36.324746706185365,2023-03-11 06:00,105.6,24.7,45.7,54.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Moatize,🟢 Safe / Low Impact,-15.972897324840636,34.002581143934655,2023-03-13 12:00,49.4,21.9,40.5,48.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Vilankulo,🟢 Safe / Low Impact,-22.300848980284787,35.1263277432606,2023-02-24 06:00,97.3,21.9,40.6,18.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Pebane,🟢 Safe / Low Impact,-16.721246414078912,38.54073256370727,2023-03-10 15:00,162.8,19.8,36.6,6.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Maringue,🟢 Safe / Low Impact,-17.85730826561168,34.484588194981534,2023-03-13 00:00,121.9,19.6,36.3,54.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Guro,🟢 Safe / Low Impact,-16.971890094645435,33.538641658424275,2023-03-13 12:00,100.6,19.2,35.5,48.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Massinga,🟢 Safe / Low Impact,-22.836326393242235,35.01996304662898,2023-02-24 06:00,146.5,19.1,35.3,6.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Tete,🟢 Safe / Low Impact,-16.138574508267325,33.56713746616361,2023-03-13 12:00,89.2,18.9,35.1,48.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Inhassoro,🟢 Safe / Low Impact,-21.750363039940943,34.85865853939365,2023-02-24 06:00,107.7,18.3,33.9,12.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Ile,🟢 Safe / Low Impact,-16.18020064041081,37.465769034320985,2023-03-11 06:00,158.6,17.8,33.0,6.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Milange,🟢 Safe / Low Impact,-16.018877132172836,35.991165974099836,2023-03-13 00:00,120.8,17.8,32.9,66.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Lugela,🟢 Safe / Low Impact,-16.30555830258885,36.653320823811406,2023-03-12 12:00,105.4,17.6,32.7,30.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Marromeu,🟢 Safe / Low Impact,-18.42817680399243,35.742421665796094,2023-03-11 06:00,142.7,17.5,32.4,18.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Morrumbene,🟢 Safe / Low Impact,-23.473928590971973,35.09855149531949,2023-02-24 06:00,201.7,16.3,30.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Govuro,🟢 Safe / Low Impact,-21.318131760117325,34.6768882484668,2023-02-24 06:00,137.4,15.6,29.0,6.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Inhambane,🟢 Safe / Low Impact,-23.884809744964297,35.46622861605017,2023-02-24 06:00,215.1,15.5,28.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Changara,🟢 Safe / Low Impact,-16.27292924383553,33.15533282090875,2023-03-13 12:00,133.1,15.4,28.6,42.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Luenha,🟢 Safe / Low Impact,-16.86742112687652,33.11878092017298,2023-03-13 12:00,139.6,15.3,28.3,42.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cheringoma,🟢 Safe / Low Impact,-18.528932502391765,35.22272028346834,2023-03-13 00:00,168.8,15.1,27.9,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Maxixe,🟢 Safe / Low Impact,-23.881701041224026,35.309141287096786,2023-02-24 06:00,223.2,15.0,27.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Moma,🟢 Safe / Low Impact,-16.35784264081027,39.270016890969615,2023-03-10 15:00,224.7,14.8,27.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Tsangano,🟢 Safe / Low Impact,-15.125206936491217,34.34385683377499,2023-03-14 00:00,119.7,14.8,27.4,42.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Gile,🟢 Safe / Low Impact,-15.927610915015402,38.30655257592137,2023-03-11 06:00,230.2,14.6,27.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Macossa,🟢 Safe / Low Impact,-17.909766640076818,33.789505125241334,2023-03-13 00:00,159.4,14.4,26.6,36.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Namarroi,🟢 Safe / Low Impact,-15.855191574975311,36.806917645103525,2023-03-11 06:00,157.6,14.4,26.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chiuta,🟢 Safe / Low Impact,-15.47064092456608,33.454630203336684,2023-03-14 00:00,129.6,14.1,26.2,36.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Homoine,🟢 Safe / Low Impact,-23.875685962406735,35.04128391111423,2023-02-24 06:00,238.7,14.1,26.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Funhalouro,🟢 Safe / Low Impact,-23.05445424501499,34.30598242528293,2023-02-24 06:00,215.2,13.9,25.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Alto Molocue,🟢 Safe / Low Impact,-15.6490394609734,37.663594169331695,2023-03-11 06:00,221.2,13.7,25.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Machanga,🟢 Safe / Low Impact,-20.90943269605078,34.52661627847644,2023-02-24 06:00,173.3,13.6,25.2,6.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Jangamo,🟢 Safe / Low Impact,-24.163165326372862,35.27080113570643,2023-02-24 06:00,251.9,13.5,25.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Gorongosa,🟢 Safe / Low Impact,-18.613460976134007,34.21707414424074,2023-03-13 00:00,207.4,12.8,23.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mabote,🟢 Safe / Low Impact,-22.002079779789923,33.801837419628015,2023-02-24 06:00,217.6,12.4,22.9,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade da Beira,🟢 Safe / Low Impact,-19.721292552350953,34.924581216578915,2023-03-03 18:00,252.4,12.4,23.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Angoche,🟢 Safe / Low Impact,-16.096919893973364,39.806753245816076,2023-03-10 12:00,277.5,12.2,22.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Inharrime,🟢 Safe / Low Impact,-24.400624275729566,34.771198046100146,2023-03-03 18:00,301.7,12.1,22.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Dondo,🟢 Safe / Low Impact,-19.49298040370051,34.828252336892604,2023-03-03 18:00,279.7,12.0,22.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mogovolas,🟢 Safe / Low Impact,-15.737638159064915,39.259577434966715,2023-03-10 15:00,288.7,11.9,22.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Angonia,🟢 Safe / Low Impact,-14.674443959423186,34.163199621701544,2023-03-14 00:00,171.5,11.9,22.1,12.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Gurue,🟢 Safe / Low Impact,-15.349075592141743,36.94740449401028,2023-03-11 06:00,214.7,11.9,22.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Panda,🟢 Safe / Low Impact,-24.014498626889786,34.401529488469215,2023-03-03 18:00,290.1,11.9,22.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Muanza,🟢 Safe / Low Impact,-19.084351785121196,35.0596236404679,2023-03-11 06:00,232.2,11.9,22.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Buzi,🟢 Safe / Low Impact,-20.037618817456355,34.37567864750314,2023-03-03 18:00,251.9,11.8,21.9,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Barue,🟢 Safe / Low Impact,-17.992509438104207,33.2220975313472,2023-03-13 12:00,199.0,11.7,21.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Zavala,🟢 Safe / Low Impact,-24.650941039512826,34.66913973285399,2023-03-03 18:00,330.4,11.7,21.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Macanga,🟢 Safe / Low Impact,-14.801934152663497,33.534699965724855,2023-03-14 00:00,181.0,11.5,21.3,6.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Murrupula,🟢 Safe / Low Impact,-15.400610790222622,38.661148581818004,2023-03-11 06:00,299.6,11.4,21.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mecanhelas,🟢 Safe / Low Impact,-15.001352187426692,36.08265734960938,2023-03-13 00:00,223.7,11.3,21.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chibabava,🟢 Safe / Low Impact,-20.36807208716094,33.88320194219389,2023-03-03 18:00,262.9,11.3,20.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cahora Bassa,🟢 Safe / Low Impact,-16.025865717250774,32.50589138387366,2023-03-13 12:00,203.3,11.2,20.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Nhamatanda,🟢 Safe / Low Impact,-19.333893199539745,34.240404478598784,2023-03-03 18:00,278.6,11.0,20.3,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mandlakaze,🟢 Safe / Low Impact,-24.630733927690134,34.067429857759564,2023-03-03 18:00,366.2,10.9,20.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chigubo,🟢 Safe / Low Impact,-22.90985173152885,33.24780540823208,2023-03-03 18:00,299.4,10.7,19.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Machaze,🟢 Safe / Low Impact,-21.04249955689201,33.271269917153205,2023-03-03 18:00,284.8,10.6,19.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Ribaue,🟢 Safe / Low Impact,-15.00671701213524,38.19594909315362,2023-03-11 06:00,309.8,10.5,19.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chibuto,🟢 Safe / Low Impact,-24.300039954325552,33.61009494253057,2023-03-03 18:00,363.5,10.5,19.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Malema,🟢 Safe / Low Impact,-14.79816667662,37.390578073935046,2023-03-11 06:00,290.6,10.1,18.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mogincual,🟢 Safe / Low Impact,-15.539380958241173,40.08715050031857,2023-03-10 15:00,346.0,10.1,18.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Nampula,🟢 Safe / Low Impact,-15.128209128935111,39.12707952268529,2023-03-10 15:00,349.5,10.1,18.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Gondola,🟢 Safe / Low Impact,-19.150381926111148,33.66741768246745,2023-03-03 18:00,288.8,10.1,18.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Meconta,🟢 Safe / Low Impact,-15.281764916892142,39.646874184096035,2023-03-10 15:00,350.6,10.0,18.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Guija,🟢 Safe / Low Impact,-24.166840659925843,33.121459571149714,2023-03-03 18:00,387.5,10.0,18.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Xai-xai,🟢 Safe / Low Impact,-25.01147625508086,33.61149804883937,2023-03-03 18:00,426.7,10.0,18.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Xai-Xai,🟢 Safe / Low Impact,-25.04949011040439,33.658941925121105,2023-03-03 18:00,427.6,10.0,18.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mossurize,🟢 Safe / Low Impact,-20.512417776409677,32.944039586135965,2023-03-03 18:00,338.3,10.0,18.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Sussundenga,🟢 Safe / Low Impact,-19.67040317293065,33.26288404903408,2023-03-03 18:00,360.5,10.0,18.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Nampula,🟢 Safe / Low Impact,-15.102237271129507,39.26289280251133,2023-03-10 15:00,356.3,9.9,18.3,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Massangena,🟢 Safe / Low Impact,-21.747368318710514,32.591499697035566,2023-03-03 18:00,341.7,9.9,18.3,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cuamba,🟢 Safe / Low Impact,-14.74764775696228,36.54485573415752,2023-03-13 00:00,265.9,9.8,18.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mabalane,🟢 Safe / Low Impact,-23.47829447166141,32.738032517117496,2023-03-03 18:00,374.3,9.8,18.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Chimoio,🟢 Safe / Low Impact,-19.127041879438764,33.45626338820464,2023-03-03 18:00,298.2,9.8,18.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Bilene,🟢 Safe / Low Impact,-25.026239178817026,33.175420947343255,2023-03-03 18:00,453.8,9.6,17.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chokwe,🟢 Safe / Low Impact,-24.561732883359312,32.95513332493528,2023-03-03 18:00,430.0,9.6,17.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Manica,🟢 Safe / Low Impact,-18.83099998050468,33.10655283616162,2023-03-13 00:00,283.4,9.5,17.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chifunde,🟢 Safe / Low Impact,-14.613385983315105,32.82855901628035,2023-03-14 00:00,243.9,9.4,17.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chicualacuala,🟢 Safe / Low Impact,-22.715257356334938,32.0310314616046,2023-03-03 18:00,410.9,9.2,17.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Manhica,🟢 Safe / Low Impact,-25.207157946784815,32.82121205997293,2023-03-03 18:00,492.0,9.1,16.9,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mandimba,🟢 Safe / Low Impact,-14.203858666707736,35.90437833092482,2023-03-13 00:00,274.4,9.0,16.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Massingir,🟢 Safe / Low Impact,-23.866655306858956,32.09231048196024,2023-03-03 18:00,452.8,9.0,16.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Magude,🟢 Safe / Low Impact,-24.701429438671788,32.439661411104446,2023-03-03 18:00,478.6,9.0,16.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Lalaua,🟢 Safe / Low Impact,-14.43639495619872,38.12688193844106,2023-03-11 06:00,364.6,8.9,16.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Marracuene,🟢 Safe / Low Impact,-25.660638353711548,32.71177288276512,2023-03-03 18:00,538.1,8.8,16.3,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Muecate,🟢 Safe / Low Impact,-14.682521526228783,39.53374401832871,2023-03-10 15:00,409.4,8.7,16.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mecuburi,🟢 Safe / Low Impact,-14.476024683905138,38.916058694403596,2023-03-10 15:00,399.4,8.6,16.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mossuril,🟢 Safe / Low Impact,-15.061594386196836,40.51366385026776,2023-03-10 15:00,415.3,8.6,15.9,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Metarica,🟢 Safe / Low Impact,-14.322614314069357,36.862479933427615,2023-03-11 06:00,319.4,8.6,16.0,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Moamba,🟢 Safe / Low Impact,-25.347331810126526,32.257093057185436,2023-03-03 18:00,541.6,8.6,15.9,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Monapo,🟢 Safe / Low Impact,-14.791761795246131,40.135350461298934,2023-03-10 15:00,421.7,8.5,15.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Maravia,🟢 Safe / Low Impact,-15.09288696053668,32.06519642482014,2023-03-14 00:00,278.7,8.5,15.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Maputo,🟢 Safe / Low Impact,-25.959528481087535,32.62437570666508,2023-03-03 18:00,569.9,8.5,15.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade da Matola,🟢 Safe / Low Impact,-25.83465936688863,32.49518299779534,2023-03-03 18:00,566.7,8.5,15.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Ilha de Mocambique,🟢 Safe / Low Impact,-15.049627210723589,40.61476240160655,2023-03-10 15:00,422.4,8.4,15.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Boane,🟢 Safe / Low Impact,-26.034435349080166,32.353143414526926,2023-03-03 18:00,592.9,8.3,15.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Ngauma,🟢 Safe / Low Impact,-13.819693467730481,35.578542799632174,2023-03-13 00:00,293.4,8.2,15.3,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Matutuine,🟢 Safe / Low Impact,-26.527205682549717,32.562816852958676,2023-03-03 18:00,624.8,8.2,15.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Namaacha,🟢 Safe / Low Impact,-26.06172516261806,32.16342003560364,2023-03-03 18:00,607.2,8.2,15.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Nipepe,🟢 Safe / Low Impact,-13.987108612616048,37.90362867971476,2023-03-11 06:00,396.1,8.0,14.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Nacaroa,🟢 Safe / Low Impact,-14.33619788023184,39.90609740506127,2023-03-10 15:00,458.7,7.9,14.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Magoe,🟢 Safe / Low Impact,-15.903931423281588,31.366058883685458,2023-03-13 12:00,325.9,7.9,14.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Nacala-A-Velha,🟢 Safe / Low Impact,-14.562711476448893,40.48295572070426,2023-03-03 18:00,461.4,7.8,14.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Nacala,🟢 Safe / Low Impact,-14.537687375341381,40.71994126709687,2023-03-03 18:00,476.5,7.8,14.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Maua,🟢 Safe / Low Impact,-13.902086278591117,37.04060621893566,2023-03-11 06:00,369.6,7.8,14.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Lichinga,🟢 Safe / Low Impact,-13.392912749659535,35.29252539545475,2023-03-14 00:00,326.5,7.6,14.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Lichinga,🟢 Safe / Low Impact,-13.297008442890808,35.2469749446047,2023-03-14 00:00,335.4,7.5,13.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Namuno,🟢 Safe / Low Impact,-13.743494022909372,38.89469637187747,2023-03-10 18:00,469.1,7.4,13.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Erati,🟢 Safe / Low Impact,-13.91860448749564,39.77329979252512,2023-03-03 18:00,498.2,7.4,13.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Memba,🟢 Safe / Low Impact,-13.965411427549178,40.393680595296054,2023-03-03 18:00,516.8,7.4,13.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Balama,🟢 Safe / Low Impact,-13.463608178857527,38.407154573416854,2023-03-03 18:00,473.3,7.2,13.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Chiure,🟢 Safe / Low Impact,-13.466727954301964,39.7031640105216,2023-03-03 18:00,539.7,7.1,13.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Majune,🟢 Safe / Low Impact,-13.320324045984563,36.37381687426724,2023-03-13 00:00,384.1,7.1,13.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mecufi,🟢 Safe / Low Impact,-13.238351261507932,40.402071242462995,2023-03-03 18:00,591.8,6.9,12.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Ancuabe,🟢 Safe / Low Impact,-12.970008620208487,39.77370985532249,2023-03-03 18:00,590.5,6.8,12.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Cidade de Pemba,🟢 Safe / Low Impact,-13.018799163534045,40.529978996811266,2023-03-03 18:00,619.6,6.8,12.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Marrupa,🟢 Safe / Low Impact,-13.029976355092703,37.51979737718006,2023-03-03 18:00,477.5,6.8,12.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Zumbu,🟢 Safe / Low Impact,-15.229201190467835,30.934074415885174,2023-03-13 12:00,386.4,6.8,12.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Pemba,🟢 Safe / Low Impact,-12.89582850629942,40.31372074911588,2023-03-03 18:00,624.4,6.7,12.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Montepuez,🟢 Safe / Low Impact,-12.603642603931506,38.72807060381997,2023-03-03 18:00,573.8,6.6,12.3,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Muembe,🟢 Safe / Low Impact,-12.82428305817206,35.81249570527803,2023-03-13 00:00,405.0,6.6,12.2,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Meluco,🟢 Safe / Low Impact,-12.465325150096305,39.62399172496682,2023-03-03 18:00,631.6,6.5,12.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Quissanga,🟢 Safe / Low Impact,-12.573532209695987,40.32153734624105,2023-03-03 18:00,658.6,6.5,12.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Ibo,🟢 Safe / Low Impact,-12.30889976629552,40.59780932607929,2023-03-03 18:00,696.2,6.4,11.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Lago niassa,🟢 Safe / Low Impact,-12.462054582095364,34.66370258920327,2023-03-14 00:00,416.6,6.4,11.8,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Macomia,🟢 Safe / Low Impact,-12.063715879459842,40.190709738673405,2023-03-03 18:00,700.3,6.3,11.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mavago,🟢 Safe / Low Impact,-12.235024878783285,36.40646724288317,2023-03-03 18:00,491.1,6.3,11.7,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mecula,🟢 Safe / Low Impact,-11.957940972690045,37.56607663725254,2023-03-03 18:00,582.3,6.3,11.6,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Muidumbe,🟢 Safe / Low Impact,-11.833783647585147,39.83693136848565,2023-03-03 18:00,704.8,6.2,11.5,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Lago,🟢 Safe / Low Impact,-12.304539667109552,34.991719112446674,2023-03-03 18:00,437.8,6.2,11.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Sanga,🟢 Safe / Low Impact,-12.176662626579727,35.56049153360986,2023-03-03 18:00,464.5,6.2,11.4,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mueda,🟢 Safe / Low Impact,-11.58686167158509,39.12995463828935,2023-03-03 18:00,694.2,6.1,11.3,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Mocimboa da Praia,🟢 Safe / Low Impact,-11.43392560901824,40.16534720142886,2023-03-03 18:00,760.6,6.0,11.1,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Nangade,🟢 Safe / Low Impact,-11.157345976295463,39.7755167967327,2023-03-03 18:00,769.7,5.9,10.9,0.0,,,,1.11,YES
+Cyclone Freddy,Mozambique,Palma,🟢 Safe / Low Impact,-10.863206964221451,40.320333898177964,2023-03-03 18:00,824.9,5.7,10.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mudzi,🟢 Safe / Low Impact,-17.03475033335003,32.63348385171471,2023-03-13 12:00,194.1,12.0,22.2,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Rushinga,🟢 Safe / Low Impact,-16.609166823599352,32.29404651766987,2023-03-13 12:00,224.4,10.7,19.8,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Nyanga,🟢 Safe / Low Impact,-17.940225981327234,32.75635209220891,2023-03-13 12:00,229.5,10.5,19.5,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mutoko,🟢 Safe / Low Impact,-17.448009981769268,32.27433550826523,2023-03-13 12:00,244.9,10.0,18.5,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Uzumba-Maramba-Pfungwe,🟢 Safe / Low Impact,-17.082628602704066,32.043474589267866,2023-03-13 12:00,256.5,9.6,17.9,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chimanimani,🟢 Safe / Low Impact,-19.784479720890346,32.71928377725646,2023-03-03 18:00,396.1,9.4,17.5,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chipinge,🟢 Safe / Low Impact,-20.49461662954734,32.47410089350441,2023-03-03 18:00,383.8,9.4,17.5,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mutasa,🟢 Safe / Low Impact,-18.64529296195178,32.701520941951095,2023-03-13 00:00,290.0,9.0,16.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mutare,🟢 Safe / Low Impact,-19.2244815643743,32.429240332958955,2023-03-03 18:00,358.7,8.9,16.4,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Bikita,🟢 Safe / Low Impact,-20.145955585924458,31.911423458244588,2023-03-03 18:00,453.1,8.8,16.2,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chiredzi,🟢 Safe / Low Impact,-21.344460730785904,31.683451553718935,2023-03-03 18:00,438.9,8.8,16.3,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mount Darwin,🟢 Safe / Low Impact,-16.574096467421263,31.651083330399974,2023-03-13 12:00,293.0,8.7,16.1,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Shamva,🟢 Safe / Low Impact,-17.095529930835312,31.638692009396188,2023-03-13 12:00,299.0,8.6,15.8,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Buhera,🟢 Safe / Low Impact,-19.449779964113915,31.86772830237585,2023-03-03 18:00,414.8,8.5,15.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Makoni,🟢 Safe / Low Impact,-18.36305967857853,32.18294158959884,2023-03-13 12:00,306.1,8.4,15.5,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Murehwa,🟢 Safe / Low Impact,-17.797393130907942,31.821608967167148,2023-03-13 12:00,304.5,8.4,15.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Zaka,🟢 Safe / Low Impact,-20.387101518009917,31.426731332861742,2023-03-03 18:00,489.9,8.4,15.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Hwedza,🟢 Safe / Low Impact,-18.736941130148455,31.63528133262533,2023-03-03 18:00,377.2,8.0,14.9,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Gutu,🟢 Safe / Low Impact,-19.61163516599132,31.241003574871787,2023-03-03 18:00,472.8,8.0,14.9,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mwenezi,🟢 Safe / Low Impact,-21.36774346596673,30.690824067270174,2023-03-03 18:00,540.7,8.0,14.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Masvingo,🟢 Safe / Low Impact,-20.25987898562641,30.909327372102165,2023-03-03 18:00,545.5,7.9,14.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Bindura,🟢 Safe / Low Impact,-17.246431435919497,31.308639604799072,2023-03-13 12:00,336.6,7.8,14.4,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Marondera,🟢 Safe / Low Impact,-18.27064053987425,31.499135093005535,2023-03-03 18:00,359.4,7.7,14.3,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chikomba,🟢 Safe / Low Impact,-18.89200331606054,31.10389351266603,2023-03-03 18:00,432.2,7.7,14.3,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chivi,🟢 Safe / Low Impact,-20.483309985112925,30.564640683220702,2023-03-03 18:00,572.3,7.7,14.3,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Centenary,🟢 Safe / Low Impact,-16.426781462467822,31.142635557754602,2023-03-13 12:00,347.8,7.6,14.0,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Goromonzi,🟢 Safe / Low Impact,-17.788372928543073,31.3387884726818,2023-03-13 12:00,351.0,7.5,13.9,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Beitbridge,🟢 Safe / Low Impact,-21.90984514714278,30.029549586990857,2023-03-03 18:00,605.9,7.5,13.9,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chitungwiza,🟢 Safe / Low Impact,-18.01300635851408,31.06339572184548,2023-03-03 18:00,387.5,7.4,13.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Seke,🟢 Safe / Low Impact,-18.254326496978106,30.953866562917433,2023-03-03 18:00,409.3,7.4,13.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chirumhanzu,🟢 Safe / Low Impact,-19.318775199847597,30.481656544125403,2023-03-03 18:00,513.0,7.4,13.8,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mberengwa,🟢 Safe / Low Impact,-20.745075521253543,30.01245541438677,2023-03-03 18:00,621.2,7.4,13.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Zvishavane,🟢 Safe / Low Impact,-20.284403627273942,30.07562282534197,2023-03-03 18:00,613.0,7.4,13.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Harare,🟢 Safe / Low Impact,-17.836221719267854,31.06789060835604,2023-03-03 18:00,379.7,7.3,13.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Shurugwi,🟢 Safe / Low Impact,-19.74703148419769,30.148866449681098,2023-03-03 18:00,569.3,7.3,13.5,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mazowe,🟢 Safe / Low Impact,-17.25167838376461,30.93195880461896,2023-03-13 12:00,376.0,7.1,13.2,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Chegutu,🟢 Safe / Low Impact,-18.14205229708983,30.396917469529114,2023-03-03 18:00,458.1,7.0,13.1,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Insiza,🟢 Safe / Low Impact,-20.256321333294864,29.404045103701627,2023-03-03 18:00,665.5,7.0,12.9,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Gweru,🟢 Safe / Low Impact,-19.46734503187328,29.641736269314773,2023-03-03 18:00,595.6,7.0,12.9,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Zvimba,🟢 Safe / Low Impact,-17.501246176499063,30.447594004954375,2023-03-03 18:00,431.9,6.9,12.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Gwanda,🟢 Safe / Low Impact,-21.2358634116549,29.16132464181472,2023-03-03 18:00,699.8,6.9,12.8,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Guruve,🟢 Safe / Low Impact,-16.6845789659816,30.659084994629865,2023-03-13 12:00,398.7,6.8,12.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Kadoma,🟢 Safe / Low Impact,-18.286062814365764,29.85633986581741,2023-03-03 18:00,517.1,6.8,12.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Kwekwe,🟢 Safe / Low Impact,-18.882591900719227,29.556265093578027,2023-03-03 18:00,572.3,6.8,12.6,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Umzingwane,🟢 Safe / Low Impact,-20.345542437821013,28.94529169197477,2023-03-03 18:00,710.1,6.7,12.4,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mbire,🟢 Safe / Low Impact,-16.117445936612803,30.519535411308482,2023-03-13 12:00,414.5,6.6,12.1,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Makonde,🟢 Safe / Low Impact,-17.12773791835104,30.014737912702817,2023-03-03 18:00,470.3,6.6,12.2,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Bubi,🟢 Safe / Low Impact,-19.526816514171085,28.659754309683013,2023-03-03 18:00,688.5,6.5,12.0,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Bulawayo,🟢 Safe / Low Impact,-20.14025705172959,28.548304428395856,2023-03-03 18:00,732.2,6.5,12.0,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Matobo,🟢 Safe / Low Impact,-20.95534995999951,28.49054516573261,2023-03-03 18:00,772.9,6.5,12.1,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Nkayi,🟢 Safe / Low Impact,-18.922238992865562,28.68667191859512,2023-03-03 18:00,657.7,6.4,11.8,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Mangwe,🟢 Safe / Low Impact,-20.97865430368867,28.01290877138675,2023-03-03 18:00,821.6,6.3,11.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Umguza,🟢 Safe / Low Impact,-19.823637781661898,28.275853284270983,2023-03-03 18:00,739.4,6.3,11.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Hurungwe,🟢 Safe / Low Impact,-16.435388258168633,29.537386240331923,2023-03-03 18:00,518.7,6.2,11.4,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Gokwe North,🟢 Safe / Low Impact,-17.571626338903076,28.837485631990614,2023-03-03 18:00,601.0,6.2,11.4,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Gokwe South,🟢 Safe / Low Impact,-18.207657170795844,28.64530126716644,2023-03-03 18:00,636.2,6.2,11.5,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Lupane,🟢 Safe / Low Impact,-18.856106963675863,27.913156543137323,2023-03-03 18:00,731.3,6.0,11.2,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Bulilima,🟢 Safe / Low Impact,-20.169238584798634,27.5652389526324,2023-03-03 18:00,823.0,6.0,11.2,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Kariba,🟢 Safe / Low Impact,-16.89421022859133,28.612571936027095,2023-03-03 18:00,617.1,5.9,11.0,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Tsholotsho,🟢 Safe / Low Impact,-19.620082301738236,27.41312725548165,2023-03-03 18:00,811.1,5.9,11.0,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Binga,🟢 Safe / Low Impact,-17.79113470896296,27.65675975187383,2023-03-03 18:00,728.4,5.8,10.7,0.0,,,,1.11,YES
+Cyclone Freddy,Zimbabwe,Hwange,🟢 Safe / Low Impact,-18.716476110438997,26.501113786851928,2023-03-03 18:00,869.3,5.5,10.2,0.0,,,,1.11,YES
+Cyclone Eloise,Madagascar,Maroantsetra,🟡 Tropical Storm Force,-15.460563451882171,49.50024265627273,2021-01-19 18:00,27.8,46.1,85.4,30.0,2021-01-19 15:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Antalaha,🟡 Tropical Storm Force,-15.220755948916441,50.14185511061774,2021-01-19 12:00,6.7,42.4,78.5,30.0,2021-01-19 09:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Andapa,🟡 Tropical Storm Force,-14.567340229732038,49.55329153944386,2021-01-19 18:00,97.4,41.8,77.5,18.0,2021-01-19 15:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Mitsinjo,🟡 Tropical Storm Force,-16.110832541954103,45.9276848753838,2021-01-20 18:00,76.9,39.3,72.8,30.0,2021-01-20 12:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Besalampy,🟡 Tropical Storm Force,-16.92126615035704,44.92020657239435,2021-01-20 18:00,121.6,39.0,72.3,30.0,2021-01-20 18:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Mahajanga I,🟡 Tropical Storm Force,-15.695075153847702,46.34264107183282,2021-01-20 18:00,33.1,38.5,71.2,30.0,2021-01-20 18:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Sambava,🟡 Tropical Storm Force,-14.222127614965322,49.78642070614404,2021-01-19 18:00,117.5,37.9,70.2,6.0,2021-01-19 18:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Mandritsara,🟡 Tropical Storm Force,-16.03313572590757,48.73613524360341,2021-01-20 00:00,37.1,37.3,69.2,12.0,2021-01-20 00:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Soalala,🟡 Tropical Storm Force,-16.508767018762963,45.412711334183584,2021-01-20 21:00,100.2,37.0,68.5,24.0,2021-01-20 15:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Mananara-Avaratra,🟡 Tropical Storm Force,-16.232575416472688,49.511121069919824,2021-01-19 21:00,72.8,36.7,68.0,18.0,2021-01-19 18:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Befandriana Nord,🟡 Tropical Storm Force,-15.164575437255511,48.77251952014978,2021-01-20 00:00,70.8,36.2,67.0,12.0,2021-01-20 00:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Mahajanga II,🟡 Tropical Storm Force,-15.653003179753771,46.75312749300166,2021-01-20 15:00,32.6,35.7,66.2,30.0,2021-01-20 15:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Marovoay,🟡 Tropical Storm Force,-16.16141268468898,46.62690635517195,2021-01-20 18:00,80.3,35.3,65.3,30.0,2021-01-20 12:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Maintirano,🟡 Tropical Storm Force,-17.725756495769847,44.31816249769611,2021-01-21 06:00,173.4,34.8,64.4,12.0,2021-01-21 03:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambato Boeni,🟡 Tropical Storm Force,-16.67087179365008,46.47614657674043,2021-01-20 18:00,137.5,34.4,63.7,30.0,2021-01-20 18:00:00,,,1.7,YES
+Cyclone Eloise,Madagascar,Kandreho,🟢 Safe / Low Impact,-17.40920436503168,46.05136417078088,2021-01-20 18:00,218.7,31.9,59.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Port-Berge (Boriziny-Vaovao),🟢 Safe / Low Impact,-15.717355753950052,47.727257031518214,2021-01-20 09:00,8.6,31.6,58.4,18.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambatomainty,🟢 Safe / Low Impact,-17.74287604424327,45.59955055296136,2021-01-20 18:00,236.0,30.7,56.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Bealanana,🟢 Safe / Low Impact,-14.553232414740624,48.83502240769307,2021-01-19 18:00,128.1,30.4,56.3,6.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Morafenobe,🟢 Safe / Low Impact,-17.934564659574004,44.9591770974939,2021-01-20 21:00,223.3,30.3,56.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Mampikony,🟢 Safe / Low Impact,-16.16169345253924,47.67325361599412,2021-01-20 06:00,47.7,30.0,55.5,18.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Maevatanana,🟢 Safe / Low Impact,-17.239094017070595,46.89133333006829,2021-01-20 18:00,187.4,28.7,53.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Vohemar,🟢 Safe / Low Impact,-13.485088819080929,49.714554902813134,2021-01-19 00:00,197.7,28.6,53.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antsalova,🟢 Safe / Low Impact,-18.82724518338383,44.63586566488048,2021-01-21 12:00,296.1,27.6,51.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Sainte Marie,🟢 Safe / Low Impact,-16.89828941043823,49.91068843677749,2021-01-19 18:00,158.2,27.1,50.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Analalava,🟢 Safe / Low Impact,-14.727265113418987,47.781573655026904,2021-01-20 12:00,113.7,27.1,50.1,18.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Soanierana Ivongo,🟢 Safe / Low Impact,-16.72323158591909,49.30957399046481,2021-01-20 00:00,119.9,27.0,50.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antsohihy,🟢 Safe / Low Impact,-14.999597382484259,48.0576384795672,2021-01-20 03:00,87.9,26.9,49.9,12.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Andilamena,🟢 Safe / Low Impact,-16.720334873187134,48.3488141875541,2021-01-20 03:00,108.7,25.5,47.2,6.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Fenoarivobe,🟢 Safe / Low Impact,-18.271605293061572,46.36161866877217,2021-01-20 18:00,310.1,25.3,46.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Tsaratanana,🟢 Safe / Low Impact,-17.143913689478484,47.64103528451296,2021-01-20 18:00,155.9,25.1,46.5,6.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Belo Sur Tsiribihina,🟢 Safe / Low Impact,-19.63942727760643,44.84791952842972,2021-01-21 15:00,386.2,24.6,45.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambilobe,🟢 Safe / Low Impact,-13.49241111218686,49.08627667291812,2021-01-19 00:00,224.6,24.3,45.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Morondava,🟢 Safe / Low Impact,-20.58729436272454,44.38356732265231,2021-01-21 18:00,449.0,24.1,44.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ankazobe,🟢 Safe / Low Impact,-18.162079272243567,47.054848517940194,2021-01-20 18:00,279.7,23.8,44.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Miandrivazo,🟢 Safe / Low Impact,-19.16101927778305,45.368156916137465,2021-01-21 15:00,364.1,23.6,43.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Tsiroanomandidy,🟢 Safe / Low Impact,-18.841081743072873,45.97031253951066,2021-01-20 18:00,362.3,23.2,42.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antsiranana II,🟢 Safe / Low Impact,-12.590605618522025,49.2371838365241,2021-01-19 00:00,308.2,23.2,42.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambanja,🟢 Safe / Low Impact,-13.878630804378917,48.47141752311465,2021-01-19 18:00,209.3,23.0,42.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Fenerive Est,🟢 Safe / Low Impact,-17.163260434782778,49.202061647914846,2021-01-19 18:00,168.3,22.5,41.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Manja,🟢 Safe / Low Impact,-21.422156886023057,44.20129884877108,2021-01-21 18:00,518.0,22.5,41.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antsiranana I,🟢 Safe / Low Impact,-12.29184212101757,49.265556192078435,2021-01-19 00:00,338.8,22.4,41.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Morombe,🟢 Safe / Low Impact,-22.027340504512555,43.714773866341254,2021-01-21 18:00,558.9,21.9,40.5,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Mahabo,🟢 Safe / Low Impact,-20.636350275485462,45.16579130099931,2021-01-21 18:00,496.6,21.8,40.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Amparafaravola,🟢 Safe / Low Impact,-17.440835773398604,48.34303836070407,2021-01-20 18:00,188.0,21.5,39.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Anjozorobe,🟢 Safe / Low Impact,-18.202311378579985,47.75148770668021,2021-01-20 18:00,272.7,21.5,39.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Miarinarivo,🟢 Safe / Low Impact,-18.9067205683278,46.830710391049635,2021-01-20 18:00,365.8,21.4,39.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambohidratrimo,🟢 Safe / Low Impact,-18.66535229344008,47.4359656116975,2021-01-20 18:00,326.5,20.9,38.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Soavinandriana,🟢 Safe / Low Impact,-19.22708741372509,46.559732843775684,2021-01-20 18:00,408.4,20.7,38.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Mandoto,🟢 Safe / Low Impact,-19.68268312492405,46.19773505693329,2021-01-21 18:00,456.9,20.3,37.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo VI,🟢 Safe / Low Impact,-18.86611900676256,47.493273743915914,2021-01-20 18:00,348.0,20.2,37.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Beroroha,🟢 Safe / Low Impact,-21.485100887860558,45.203328163530074,2021-01-21 18:00,577.7,20.2,37.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Nosy-Be,🟢 Safe / Low Impact,-13.336163848084823,48.27013906578316,2021-01-20 18:00,271.1,20.2,37.5,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambatondrazaka,🟢 Safe / Low Impact,-17.918413688250343,48.45140652269302,2021-01-20 18:00,240.2,20.1,37.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo V,🟢 Safe / Low Impact,-18.880099434663506,47.539318504434924,2021-01-20 18:00,349.1,20.1,37.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Arivonimamo,🟢 Safe / Low Impact,-19.070397479298478,47.240488362966595,2021-01-20 18:00,374.0,20.1,37.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo I,🟢 Safe / Low Impact,-18.905803874297998,47.51163859861034,2021-01-20 18:00,352.2,20.0,37.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo III,🟢 Safe / Low Impact,-18.896375381167534,47.52886792791958,2021-01-20 18:00,351.0,20.0,37.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo IV,🟢 Safe / Low Impact,-18.933375189417823,47.51385187308637,2021-01-20 18:00,355.3,20.0,37.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo II,🟢 Safe / Low Impact,-18.92890016644232,47.54840284580506,2021-01-20 18:00,354.5,19.9,36.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo Avaradrano,🟢 Safe / Low Impact,-18.901476043128856,47.625653444826334,2021-01-20 18:00,350.9,19.8,36.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Vavatenina,🟢 Safe / Low Impact,-17.5059686630648,49.02130762734196,2021-01-19 18:00,200.9,19.8,36.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ankazoabo,🟢 Safe / Low Impact,-22.169463183393358,44.6790480121999,2021-01-21 18:00,614.6,19.8,36.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antananarivo Atsimondrano,🟢 Safe / Low Impact,-19.027650462226738,47.51859335780675,2021-01-20 18:00,365.7,19.7,36.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Manjakandriana,🟢 Safe / Low Impact,-18.828163312106796,47.79045560782885,2021-01-20 18:00,342.3,19.7,36.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Faratsiho,🟢 Safe / Low Impact,-19.412266097190447,46.902932160601914,2021-01-20 18:00,418.2,19.6,36.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambatofinandrahana,🟢 Safe / Low Impact,-20.502250156984797,46.309341117612256,2021-01-21 18:00,541.7,19.2,35.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Sakaraha,🟢 Safe / Low Impact,-22.786615099666815,44.4412213131589,2021-01-21 18:00,665.3,19.0,35.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Betafo,🟢 Safe / Low Impact,-19.946886368282385,46.667615317472844,2021-01-21 18:00,481.8,19.0,35.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Toliary-II,🟢 Safe / Low Impact,-23.228324077246985,43.79285846750965,2021-01-21 18:00,683.9,18.9,34.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Toliary-I,🟢 Safe / Low Impact,-23.340890633888854,43.65833592753301,2021-01-21 18:00,690.2,18.8,34.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Moramanga,🟢 Safe / Low Impact,-18.805512962892074,48.26572985738054,2021-01-20 18:00,339.9,18.7,34.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Andramasina,🟢 Safe / Low Impact,-19.30014998099813,47.74602401851008,2021-01-20 18:00,394.8,18.5,34.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ikalamavony,🟢 Safe / Low Impact,-21.28854375048938,46.21944048983822,2021-01-21 18:00,615.5,18.5,34.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambatolampy,🟢 Safe / Low Impact,-19.46335152329653,47.56547800119849,2021-01-20 18:00,413.7,18.4,34.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antsirabe I,🟢 Safe / Low Impact,-19.881919674869085,47.031890191817105,2021-01-21 18:00,466.6,18.3,33.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Toamasina II,🟢 Safe / Low Impact,-18.00556021284029,49.14116058355805,2021-01-20 18:00,257.8,18.1,33.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antsirabe II,🟢 Safe / Low Impact,-19.882178861693376,47.158591935077524,2021-01-21 18:00,464.5,18.0,33.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antanifotsy,🟢 Safe / Low Impact,-19.745508237678955,47.49857707303217,2021-01-20 18:00,445.4,17.8,33.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Brickaville,🟢 Safe / Low Impact,-18.641381370795692,48.853146907679,2021-01-20 18:00,322.1,17.7,32.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ihosy,🟢 Safe / Low Impact,-22.34325957459919,45.82367882256433,2021-01-21 18:00,692.4,17.7,32.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Manandriana,🟢 Safe / Low Impact,-20.75062419594183,47.01951218192177,2021-01-21 18:00,562.1,17.6,32.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Anosibe-An'ala,🟢 Safe / Low Impact,-19.51370478529814,48.12462379307846,2021-01-20 18:00,419.7,17.4,32.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Toamasina I,🟢 Safe / Low Impact,-18.14626833450195,49.39536583281305,2021-01-19 00:00,278.3,17.4,32.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Betioky Atsimo,🟢 Safe / Low Impact,-23.67787217663619,44.49393349014559,2021-01-21 18:00,758.8,17.3,32.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Isandra,🟢 Safe / Low Impact,-21.280832873504817,46.8964711679244,2021-01-21 18:00,622.3,17.3,32.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambositra,🟢 Safe / Low Impact,-20.575495927707966,47.29967735010444,2021-01-21 18:00,539.2,17.2,31.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Fandriana,🟢 Safe / Low Impact,-20.26628006176449,47.442704086264825,2021-01-21 18:00,503.6,17.2,31.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Benenitra,🟢 Safe / Low Impact,-23.402835989885705,45.08646729115591,2021-01-21 18:00,755.5,17.1,31.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambohimahasoa,🟢 Safe / Low Impact,-21.06888520722573,47.16886707373292,2021-01-21 18:00,595.2,17.1,31.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambalavao,🟢 Safe / Low Impact,-21.876812171496127,46.721921592741346,2021-01-21 18:00,690.6,17.0,31.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Antanambao Manampontsy,🟢 Safe / Low Impact,-19.55839989110254,48.470233695225645,2021-01-20 18:00,422.4,16.8,31.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Fianarantsoa I,🟢 Safe / Low Impact,-21.45378217620448,47.08755695532975,2021-01-21 18:00,638.7,16.8,31.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Vatomandry,🟢 Safe / Low Impact,-19.360373586022984,48.77830622479299,2021-01-20 18:00,401.2,16.6,30.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Lalangina,🟢 Safe / Low Impact,-21.41010783416841,47.26623843912175,2021-01-21 18:00,631.9,16.6,30.7,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Vohibato,🟢 Safe / Low Impact,-21.66520245378984,47.087434940557124,2021-01-21 18:00,662.0,16.6,30.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Marolambo,🟢 Safe / Low Impact,-20.091916748436528,47.96680366884591,2021-01-21 18:00,483.1,16.4,30.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ifanadiana,🟢 Safe / Low Impact,-21.09176083393907,47.63659154208775,2021-01-21 18:00,594.2,16.3,30.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Betroka,🟢 Safe / Low Impact,-23.37174530694081,45.87687877998,2021-01-21 18:00,792.2,16.2,30.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ivohibe,🟢 Safe / Low Impact,-22.520559130946648,46.915760476738576,2021-01-21 18:00,758.6,16.0,29.6,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ampanihy Ouest,🟢 Safe / Low Impact,-24.522028898169562,44.482071324479534,2021-01-21 18:00,843.8,15.9,29.5,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ikongo,🟢 Safe / Low Impact,-21.925456124599826,47.45039638669336,2021-01-21 18:00,687.7,15.9,29.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Mahanoro,🟢 Safe / Low Impact,-20.03159874203965,48.517287453838726,2021-01-20 18:00,475.0,15.8,29.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Nosy-Varika,🟢 Safe / Low Impact,-20.565304473107236,48.1731992604267,2021-01-21 18:00,535.7,15.8,29.3,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Iakora,🟢 Safe / Low Impact,-23.153019983518057,46.634488186349394,2021-01-21 18:00,813.1,15.7,29.0,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Bekily,🟢 Safe / Low Impact,-24.251855530213124,45.39500350310285,2021-01-21 18:00,854.0,15.6,28.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Mananjary,🟢 Safe / Low Impact,-21.197355939989663,48.08621168026544,2021-01-21 18:00,606.5,15.6,28.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Vondrozo,🟢 Safe / Low Impact,-22.686078406930832,47.30609979266371,2021-01-21 18:00,773.0,15.4,28.5,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Manakara Atsimo,🟢 Safe / Low Impact,-21.915938102990708,47.871954768677824,2021-01-21 18:00,685.7,15.3,28.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Vohipeno,🟢 Safe / Low Impact,-22.342564439633545,47.705831125180445,2021-01-21 18:00,733.1,15.2,28.1,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Midongy-Atsimo,🟢 Safe / Low Impact,-23.34271629983984,46.99663196764105,2021-01-21 18:00,848.4,15.1,27.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Farafangana,🟢 Safe / Low Impact,-22.80662341805397,47.65883347586522,2021-01-21 18:00,784.8,14.9,27.5,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Beloha,🟢 Safe / Low Impact,-25.090557357945162,45.0224597005439,2021-01-21 18:00,924.1,14.8,27.4,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Befotaka,🟢 Safe / Low Impact,-23.88444265939879,46.815972692114954,2021-01-21 18:00,891.6,14.7,27.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Ambovombe-Androy,🟢 Safe / Low Impact,-24.860209565121913,45.78648055142064,2021-01-21 18:00,932.2,14.5,26.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Amboasary-Atsimo,🟢 Safe / Low Impact,-24.423420455359796,46.35410886723683,2021-01-21 18:00,917.2,14.5,26.9,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Vangaindrano,🟢 Safe / Low Impact,-23.55774740200859,47.39908301782497,2021-01-21 18:00,869.2,14.5,26.8,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Tsihombe,🟢 Safe / Low Impact,-25.363082892160488,45.472378153985105,2021-01-21 18:00,969.8,14.2,26.2,0.0,,,,1.7,YES
+Cyclone Eloise,Madagascar,Taolagnaro,🟢 Safe / Low Impact,-24.630854590279014,46.96170495832651,2021-01-21 18:00,969.6,13.9,25.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Buzi,🔴 Cyclone Force (Cat 1+),-20.037618817456355,34.37567864750314,2021-01-23 03:00,34.2,79.2,146.7,30.0,2021-01-23 00:00:00,2021-01-23 00:00:00,2021-01-23 03:00:00,1.7,YES
+Cyclone Eloise,Mozambique,Cidade da Beira,🔴 Cyclone Force (Cat 1+),-19.721292552350953,34.924581216578915,2021-01-23 00:00,42.8,78.4,145.3,30.0,2021-01-22 21:00:00,2021-01-22 21:00:00,2021-01-23 00:00:00,1.7,YES
+Cyclone Eloise,Mozambique,Chibabava,🟡 Tropical Storm Force,-20.36807208716094,33.88320194219389,2021-01-23 03:00,21.4,58.2,107.8,30.0,2021-01-23 00:00:00,2021-01-23 03:00:00,,1.7,YES
+Cyclone Eloise,Mozambique,Machaze,🟡 Tropical Storm Force,-21.042499556892015,33.2712699171532,2021-01-23 09:00,16.3,57.4,106.3,30.0,2021-01-23 06:00:00,2021-01-23 09:00:00,,1.7,YES
+Cyclone Eloise,Mozambique,Dondo,🟡 Tropical Storm Force,-19.49298040370051,34.828252336892604,2021-01-23 00:00,69.8,55.5,102.9,30.0,2021-01-22 21:00:00,2021-01-23 00:00:00,,1.7,YES
+Cyclone Eloise,Mozambique,Machanga,🟡 Tropical Storm Force,-20.90943269605078,34.52661627847644,2021-01-23 03:00,64.2,55.3,102.3,24.0,2021-01-23 00:00:00,2021-01-23 03:00:00,,1.7,YES
+Cyclone Eloise,Mozambique,Angoche,🟡 Tropical Storm Force,-16.09691989397336,39.806753245816076,2021-01-21 18:00,205.2,45.2,83.7,18.0,2021-01-21 15:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Moma,🟡 Tropical Storm Force,-16.35784264081027,39.270016890969615,2021-01-21 18:00,199.1,44.6,82.6,18.0,2021-01-21 15:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Mossurize,🟡 Tropical Storm Force,-20.512417776409677,32.944039586135965,2021-01-23 09:00,53.2,44.3,82.1,18.0,2021-01-23 06:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Inhassunge,🟡 Tropical Storm Force,-18.055413995950648,36.80791047275936,2021-01-22 12:00,112.2,44.1,81.7,30.0,2021-01-22 09:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Chinde,🟡 Tropical Storm Force,-18.399166079350525,36.324746706185365,2021-01-22 15:00,100.2,42.1,78.1,36.0,2021-01-22 12:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Massangena,🟡 Tropical Storm Force,-21.747368318710514,32.591499697035566,2021-01-23 18:00,38.9,42.0,77.8,18.0,2021-01-23 15:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Pebane,🟡 Tropical Storm Force,-16.72124641407891,38.54073256370729,2021-01-21 21:00,189.0,41.0,75.8,18.0,2021-01-21 18:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Muanza,🟡 Tropical Storm Force,-19.08435178512121,35.0596236404679,2021-01-22 21:00,96.0,40.6,75.3,24.0,2021-01-22 21:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Quelimane,🟡 Tropical Storm Force,-17.862455258261367,36.914780729077265,2021-01-22 12:00,127.6,39.7,73.5,24.0,2021-01-22 09:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Mogincual,🟡 Tropical Storm Force,-15.539380958241173,40.08715050031857,2021-01-21 18:00,256.2,39.6,73.3,12.0,2021-01-21 15:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Mogovolas,🟡 Tropical Storm Force,-15.737638159064915,39.259577434966715,2021-01-21 18:00,265.7,38.5,71.3,6.0,2021-01-21 18:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Meconta,🟡 Tropical Storm Force,-15.281764916892142,39.646874184096035,2021-01-21 18:00,296.1,36.0,66.6,6.0,2021-01-21 18:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Nhamatanda,🟡 Tropical Storm Force,-19.33389319953975,34.24040447859879,2021-01-23 00:00,113.7,35.5,65.8,24.0,2021-01-23 00:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Mossuril,🟡 Tropical Storm Force,-15.061594386196836,40.51366385026776,2021-01-21 18:00,288.5,35.3,65.3,6.0,2021-01-21 18:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Ilha de Mocambique,🟡 Tropical Storm Force,-15.049627210723589,40.61476240160655,2021-01-21 18:00,285.4,35.2,65.1,6.0,2021-01-21 18:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Govuro,🟡 Tropical Storm Force,-21.318131760117325,34.6768882484668,2021-01-23 03:00,111.6,35.0,64.8,24.0,2021-01-23 03:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Maganja da Costa,🟡 Tropical Storm Force,-17.10961774761628,37.625238769559765,2021-01-21 21:00,182.5,34.5,63.9,30.0,2021-01-21 18:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Gile,🟡 Tropical Storm Force,-15.927610915015402,38.30655257592137,2021-01-21 18:00,280.4,34.3,63.6,6.0,2021-01-21 18:00:00,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Nampula,🟢 Safe / Low Impact,-15.102237271129507,39.26289280251133,2021-01-21 18:00,329.9,33.4,61.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Nampula,🟢 Safe / Low Impact,-15.128209128935111,39.12707952268529,2021-01-21 18:00,333.6,33.1,61.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Murrupula,🟢 Safe / Low Impact,-15.400610790222622,38.661148581818004,2021-01-21 18:00,321.8,33.0,61.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Monapo,🟢 Safe / Low Impact,-14.791761795246131,40.135350461298934,2021-01-21 18:00,329.8,32.8,60.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Nicoadala,🟢 Safe / Low Impact,-17.615935781643316,36.74381051057589,2021-01-22 12:00,159.5,32.8,60.7,24.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Marromeu,🟢 Safe / Low Impact,-18.42817680399243,35.742421665796094,2021-01-22 15:00,128.9,32.8,60.8,24.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Namacurra,🟢 Safe / Low Impact,-17.482194432169667,37.07354226837362,2021-01-22 12:00,161.0,31.8,58.9,24.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Nacala-A-Velha,🟢 Safe / Low Impact,-14.562711476448893,40.48295572070426,2021-01-21 18:00,340.0,31.3,58.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Muecate,🟢 Safe / Low Impact,-14.682521526228783,39.53374401832871,2021-01-21 18:00,363.2,31.1,57.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Nacala,🟢 Safe / Low Impact,-14.537687375341381,40.71994126709687,2021-01-21 18:00,329.1,31.1,57.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Sussundenga,🟢 Safe / Low Impact,-19.67040317293065,33.26288404903408,2021-01-23 06:00,121.3,31.0,57.4,12.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Ile,🟢 Safe / Low Impact,-16.18020064041081,37.465769034320985,2021-01-21 18:00,285.6,30.4,56.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Alto Molocue,🟢 Safe / Low Impact,-15.6490394609734,37.663594169331695,2021-01-21 18:00,333.6,29.6,54.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Nacaroa,🟢 Safe / Low Impact,-14.33619788023184,39.90609740506127,2021-01-21 18:00,386.0,29.5,54.5,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mopeia,🟢 Safe / Low Impact,-17.83304572551324,36.06249856978365,2021-01-22 12:00,168.9,29.4,54.5,18.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Ribaue,🟢 Safe / Low Impact,-15.00671701213524,38.19594909315362,2021-01-21 18:00,381.5,29.0,53.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mocuba,🟢 Safe / Low Impact,-16.853350081805836,36.86355693029469,2021-01-21 18:00,234.1,28.7,53.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mecuburi,🟢 Safe / Low Impact,-14.476024683905138,38.916058694403596,2021-01-21 18:00,408.7,28.5,52.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Memba,🟢 Safe / Low Impact,-13.965411427549174,40.393680595296054,2021-01-21 18:00,401.6,27.6,51.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cheringoma,🟢 Safe / Low Impact,-18.528932502391765,35.22272028346834,2021-01-22 18:00,143.0,27.6,51.1,24.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Erati,🟢 Safe / Low Impact,-13.91860448749564,39.77329979252512,2021-01-21 18:00,434.4,27.0,50.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Lugela,🟢 Safe / Low Impact,-16.30555830258885,36.653320823811406,2021-01-21 18:00,299.0,26.7,49.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Lalaua,🟢 Safe / Low Impact,-14.43639495619872,38.12688193844106,2021-01-21 18:00,443.1,26.3,48.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Namarroi,🟢 Safe / Low Impact,-15.855191574975311,36.806917645103525,2021-01-21 18:00,341.4,26.3,48.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chicualacuala,🟢 Safe / Low Impact,-22.715257356334938,32.0310314616046,2021-01-23 21:00,75.3,26.2,48.5,18.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Gondola,🟢 Safe / Low Impact,-19.150381926111148,33.66741768246745,2021-01-23 03:00,155.6,26.0,48.1,6.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Gurue,🟢 Safe / Low Impact,-15.349075592141736,36.94740449401028,2021-01-21 18:00,390.6,25.6,47.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Malema,🟢 Safe / Low Impact,-14.79816667662,37.390578073935046,2021-01-21 18:00,432.7,25.4,47.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Namuno,🟢 Safe / Low Impact,-13.743494022909372,38.89469637187747,2021-01-21 18:00,484.6,25.0,46.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Inhassoro,🟢 Safe / Low Impact,-21.750363039940943,34.85865853939365,2021-01-23 03:00,162.7,24.9,46.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chiure,🟢 Safe / Low Impact,-13.466727954301968,39.70316401052158,2021-01-21 18:00,484.2,24.8,45.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mabote,🟢 Safe / Low Impact,-22.002079779789923,33.801837419628015,2021-01-23 09:00,135.0,24.2,44.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mecufi,🟢 Safe / Low Impact,-13.238351261507932,40.402071242462995,2021-01-21 18:00,469.2,24.1,44.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Nipepe,🟢 Safe / Low Impact,-13.987108612616048,37.90362867971476,2021-01-21 18:00,498.5,24.1,44.5,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Morrumbala,🟢 Safe / Low Impact,-17.057072181189227,35.789906452054986,2021-01-21 18:00,259.7,24.0,44.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Chimoio,🟢 Safe / Low Impact,-19.127041879438764,33.45626338820464,2021-01-23 03:00,166.4,23.9,44.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Milange,🟢 Safe / Low Impact,-16.018877132172836,35.991165974099836,2021-01-21 18:00,354.2,23.5,43.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Pemba,🟢 Safe / Low Impact,-13.018799163534045,40.529978996811266,2021-01-21 18:00,482.1,23.3,43.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Balama,🟢 Safe / Low Impact,-13.463608178857527,38.407154573416854,2021-01-21 18:00,533.9,23.2,43.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Gorongosa,🟢 Safe / Low Impact,-18.613460976134007,34.21707414424074,2021-01-23 00:00,184.6,23.1,42.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Ancuabe,🟢 Safe / Low Impact,-12.970008620208487,39.77370985532249,2021-01-21 18:00,530.9,22.9,42.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Pemba,🟢 Safe / Low Impact,-12.89582850629942,40.31372074911588,2021-01-21 18:00,506.2,22.8,42.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cuamba,🟢 Safe / Low Impact,-14.74764775696228,36.54485573415752,2021-01-21 18:00,467.6,22.8,42.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Metarica,🟢 Safe / Low Impact,-14.322614314069357,36.862479933427615,2021-01-21 18:00,501.2,22.6,41.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mecanhelas,🟢 Safe / Low Impact,-15.001352187426692,36.08265734960938,2021-01-21 18:00,456.3,22.1,40.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Maua,🟢 Safe / Low Impact,-13.902086278591117,37.04060621893566,2021-01-21 18:00,539.0,21.9,40.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Quissanga,🟢 Safe / Low Impact,-12.573532209695987,40.32153734624105,2021-01-21 18:00,536.1,21.7,40.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Caia,🟢 Safe / Low Impact,-17.78237838483119,35.00832112121529,2021-01-21 18:00,225.1,21.5,39.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Meluco,🟢 Safe / Low Impact,-12.465325150096305,39.62399172496682,2021-01-21 18:00,587.3,21.1,39.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Ibo,🟢 Safe / Low Impact,-12.30889976629552,40.59780932607929,2021-01-21 18:00,547.5,20.9,38.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Montepuez,🟢 Safe / Low Impact,-12.603642603931506,38.72807060381997,2021-01-21 18:00,610.0,20.9,38.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Marrupa,🟢 Safe / Low Impact,-13.029976355092703,37.51979737718006,2021-01-21 18:00,612.6,20.5,38.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mutarara,🟢 Safe / Low Impact,-16.867390540969243,34.77192803351488,2021-01-21 18:00,327.4,20.5,38.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chemba,🟢 Safe / Low Impact,-17.205913048566,34.63003008828114,2021-01-21 18:00,300.6,20.3,37.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Macomia,🟢 Safe / Low Impact,-12.063715879459842,40.190709738673405,2021-01-21 18:00,592.3,20.1,37.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mandimba,🟢 Safe / Low Impact,-14.203858666707736,35.90437833092482,2021-01-21 18:00,546.0,20.1,37.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Maringue,🟢 Safe / Low Impact,-17.85730826561168,34.484588194981534,2021-01-21 18:00,245.0,20.0,37.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Muidumbe,🟢 Safe / Low Impact,-11.833783647585147,39.83693136848565,2021-01-21 18:00,633.8,19.4,35.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Majune,🟢 Safe / Low Impact,-13.320324045984558,36.37381687426724,2021-01-21 18:00,624.3,19.4,35.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Manica,🟢 Safe / Low Impact,-18.83099998050468,33.10655283616162,2021-01-23 06:00,210.6,19.1,35.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Tambara,🟢 Safe / Low Impact,-16.963223826482412,34.10514358143015,2021-01-21 18:00,352.1,18.9,35.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Ngauma,🟢 Safe / Low Impact,-13.819693467730481,35.578542799632174,2021-01-21 18:00,598.5,18.9,34.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mocimboa da Praia,🟢 Safe / Low Impact,-11.43392560901824,40.16534720142886,2021-01-21 18:00,655.6,18.5,34.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mueda,🟢 Safe / Low Impact,-11.58686167158509,39.12995463828935,2021-01-21 18:00,698.8,18.5,34.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Macossa,🟢 Safe / Low Impact,-17.909766640076818,33.789505125241334,2021-01-21 18:00,274.8,18.4,34.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mecula,🟢 Safe / Low Impact,-11.957940972690048,37.56607663725254,2021-01-21 18:00,721.6,18.2,33.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Tsangano,🟢 Safe / Low Impact,-15.125206936491217,34.34385683377499,2021-01-21 18:00,520.2,18.2,33.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Vilankulo,🟢 Safe / Low Impact,-22.300848980284787,35.1263277432606,2021-01-23 03:00,229.2,18.2,33.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Moatize,🟢 Safe / Low Impact,-15.972897324840636,34.002581143934655,2021-01-21 18:00,453.0,18.1,33.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Nangade,🟢 Safe / Low Impact,-11.157345976295463,39.7755167967327,2021-01-21 18:00,702.5,17.8,33.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Guro,🟢 Safe / Low Impact,-16.971890094645435,33.538641658424275,2021-01-21 18:00,380.3,17.7,32.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Lichinga,🟢 Safe / Low Impact,-13.392912749659535,35.29252539545475,2021-01-21 18:00,654.0,17.7,32.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Muembe,🟢 Safe / Low Impact,-12.82428305817206,35.81249570527803,2021-01-21 18:00,694.9,17.6,32.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Lichinga,🟢 Safe / Low Impact,-13.297008442890808,35.2469749446047,2021-01-21 18:00,665.7,17.5,32.5,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mavago,🟢 Safe / Low Impact,-12.235024878783285,36.40646724288317,2021-01-21 18:00,736.5,17.4,32.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Angonia,🟢 Safe / Low Impact,-14.674443959423186,34.163199621701544,2021-01-21 18:00,573.6,17.4,32.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Tete,🟢 Safe / Low Impact,-16.138574508267325,33.56713746616361,2021-01-21 18:00,459.6,17.4,32.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Palma,🟢 Safe / Low Impact,-10.863206964221451,40.320333898177964,2021-01-21 18:00,703.5,17.3,32.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Barue,🟢 Safe / Low Impact,-17.992509438104207,33.2220975313472,2021-01-21 18:00,291.1,17.2,31.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chiuta,🟢 Safe / Low Impact,-15.47064092456608,33.454630203336684,2021-01-21 18:00,530.5,16.8,31.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Luenha,🟢 Safe / Low Impact,-16.86742112687652,33.11878092017298,2021-01-21 18:00,410.5,16.8,31.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Changara,🟢 Safe / Low Impact,-16.27292924383553,33.15533282090875,2021-01-21 18:00,467.9,16.7,30.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Massinga,🟢 Safe / Low Impact,-22.836326393242235,35.01996304662898,2021-01-21 18:00,277.2,16.7,30.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Sanga,🟢 Safe / Low Impact,-12.176662626579727,35.56049153360986,2021-01-21 18:00,771.7,16.4,30.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Macanga,🟢 Safe / Low Impact,-14.801934152663497,33.534699965724855,2021-01-21 18:00,591.7,16.4,30.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Morrumbene,🟢 Safe / Low Impact,-23.473928590971973,35.09855149531949,2021-01-21 18:00,344.2,16.0,29.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Lago,🟢 Safe / Low Impact,-12.304539667109552,34.991719112446674,2021-01-21 18:00,778.5,15.9,29.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Inhambane,🟢 Safe / Low Impact,-23.884809744964297,35.46622861605017,2021-01-21 18:00,402.3,15.8,29.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Lago niassa,🟢 Safe / Low Impact,-12.462054582095364,34.66370258920327,2021-01-21 18:00,774.6,15.7,29.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Maxixe,🟢 Safe / Low Impact,-23.881701041224026,35.309141287096786,2021-01-21 18:00,394.3,15.7,29.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Funhalouro,🟢 Safe / Low Impact,-23.054454245014995,34.30598242528294,2021-01-21 18:00,262.6,15.6,28.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cahora Bassa,🟢 Safe / Low Impact,-16.025865717250774,32.50589138387366,2021-01-21 18:00,521.7,15.5,28.8,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Homoine,🟢 Safe / Low Impact,-23.875685962406735,35.04128391111423,2021-01-21 18:00,379.0,15.4,28.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chifunde,🟢 Safe / Low Impact,-14.613385983315105,32.82855901628035,2021-01-21 18:00,646.7,15.3,28.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chigubo,🟢 Safe / Low Impact,-22.90985173152885,33.24780540823208,2021-01-23 09:00,180.7,15.3,28.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Jangamo,🟢 Safe / Low Impact,-24.163165326372866,35.27080113570643,2021-01-21 18:00,418.4,15.3,28.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Panda,🟢 Safe / Low Impact,-24.01449862688979,34.401529488469215,2021-01-21 18:00,347.0,14.7,27.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Inharrime,🟢 Safe / Low Impact,-24.400624275729566,34.771198046100146,2021-01-21 18:00,403.0,14.6,27.0,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Maravia,🟢 Safe / Low Impact,-15.09288696053668,32.06519642482012,2021-01-21 18:00,635.6,14.5,26.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Zavala,🟢 Safe / Low Impact,-24.650941039512826,34.66913973285399,2021-01-21 18:00,413.4,14.2,26.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Magoe,🟢 Safe / Low Impact,-15.903931423281588,31.366058883685458,2021-01-21 18:00,584.2,14.0,25.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mandlakaze,🟢 Safe / Low Impact,-24.63073392769013,34.067429857759564,2021-01-21 18:00,369.4,13.8,25.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chibuto,🟢 Safe / Low Impact,-24.30003995432555,33.61009494253058,2021-01-21 18:00,311.5,13.7,25.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Mabalane,🟢 Safe / Low Impact,-23.47829447166141,32.738032517117496,2021-01-21 18:00,185.2,13.6,25.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Guija,🟢 Safe / Low Impact,-24.166840659925843,33.121459571149714,2021-01-21 18:00,270.6,13.4,24.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Zumbu,🟢 Safe / Low Impact,-15.229201190467839,30.93407441588519,2021-01-21 18:00,671.5,13.3,24.6,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Massingir,🟢 Safe / Low Impact,-23.866655306858956,32.092310481960254,2021-01-24 00:00,177.5,13.1,24.3,6.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Xai-xai,🟢 Safe / Low Impact,-25.01147625508086,33.61149804883937,2021-01-21 18:00,372.8,13.1,24.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Xai-Xai,🟢 Safe / Low Impact,-25.04949011040439,33.658941925121105,2021-01-21 18:00,379.1,13.1,24.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Chokwe,🟢 Safe / Low Impact,-24.561732883359316,32.95513332493528,2021-01-21 18:00,291.6,13.0,24.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Bilene,🟢 Safe / Low Impact,-25.026239178817026,33.175420947343255,2021-01-21 18:00,346.0,12.8,23.7,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Manhica,🟢 Safe / Low Impact,-25.207157946784815,32.82121205997293,2021-01-21 18:00,343.2,12.5,23.1,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Magude,🟢 Safe / Low Impact,-24.701429438671784,32.43966141110445,2021-01-21 18:00,275.4,12.5,23.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Marracuene,🟢 Safe / Low Impact,-25.660638353711548,32.71177288276512,2021-01-21 18:00,383.1,12.1,22.4,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Moamba,🟢 Safe / Low Impact,-25.347331810126526,32.257093057185436,2021-01-21 18:00,333.6,12.0,22.2,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade de Maputo,🟢 Safe / Low Impact,-25.959528481087535,32.62437570666508,2021-01-21 18:00,410.3,11.8,21.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Cidade da Matola,🟢 Safe / Low Impact,-25.83465936688863,32.49518299779534,2021-01-21 18:00,392.7,11.8,21.9,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Boane,🟢 Safe / Low Impact,-26.034435349080166,32.353143414526926,2021-01-21 18:00,409.1,11.6,21.5,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Namaacha,🟢 Safe / Low Impact,-26.06172516261806,32.16342003560364,2021-01-21 18:00,406.7,11.5,21.3,0.0,,,,1.7,YES
+Cyclone Eloise,Mozambique,Matutuine,🟢 Safe / Low Impact,-26.527205682549717,32.562816852958676,2021-01-21 18:00,467.6,11.4,21.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Vhembe District Municipality,🟢 Safe / Low Impact,-22.75467011471555,30.19284302524399,2021-01-24 00:00,12.6,19.5,36.1,36.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Capricorn District Municipality,🟢 Safe / Low Impact,-23.480183102495815,29.180835028082946,2021-01-24 15:00,23.4,19.4,35.9,42.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Waterberg District Municipality,🟢 Safe / Low Impact,-24.20628641695373,27.98071268224462,2021-01-24 21:00,54.9,15.7,29.0,36.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Mopani District Municipality,🟢 Safe / Low Impact,-23.766546734924948,30.835525908661946,2021-01-24 00:00,130.6,15.5,28.7,30.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Ehlanzeni District Municipality,🟢 Safe / Low Impact,-25.048127517310807,31.257873534931335,2021-01-21 18:00,270.2,11.6,21.4,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Sekhukhune District Municipality,🟢 Safe / Low Impact,-24.827932140960232,29.839116345252116,2021-01-21 18:00,174.4,10.8,20.1,12.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Umkhanyakude District Municipality,🟢 Safe / Low Impact,-27.615888596236168,32.301947613782175,2021-01-21 18:00,566.6,10.7,19.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Nkangala District Municipality,🟢 Safe / Low Impact,-25.7123266561296,29.424351009318254,2021-01-21 18:00,246.5,10.3,19.0,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Zululand District Municipality,🟢 Safe / Low Impact,-27.810668075208067,31.294307834528492,2021-01-21 18:00,533.8,10.2,18.9,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Gert Sibande District Municipality,🟢 Safe / Low Impact,-26.671134459574827,29.933169323418635,2021-01-21 18:00,364.3,10.1,18.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,City of Tshwane Metropolitan Municipality,🟢 Safe / Low Impact,-25.659766646674136,28.443376836633533,2021-01-21 18:00,218.0,9.8,18.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Amajuba District Municipality,🟢 Safe / Low Impact,-27.73541084428416,30.135612698286995,2021-01-21 18:00,481.2,9.8,18.1,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Uthungulu District Municipality,🟢 Safe / Low Impact,-28.700586140480816,31.51449793399083,2021-01-21 18:00,632.0,9.8,18.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Ekurhuleni Metropolitan Municipality,🟢 Safe / Low Impact,-26.198781502312745,28.312624937312904,2021-01-21 18:00,278.0,9.6,17.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Umzinyathi District Municipality,🟢 Safe / Low Impact,-28.584629359294997,30.558398095750103,2021-01-21 18:00,584.3,9.6,17.7,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,City of Johannesburg Metropolitan Municipality,🟢 Safe / Low Impact,-26.17659464197747,27.963679927431286,2021-01-21 18:00,273.8,9.5,17.5,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,iLembe District Municipality,🟢 Safe / Low Impact,-29.27311990751698,31.14281596357071,2021-01-21 18:00,676.6,9.5,17.5,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Sedibeng District Municipality,🟢 Safe / Low Impact,-26.567010676936697,28.183100217560742,2021-01-21 18:00,318.2,9.4,17.5,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Bojanala District Municipality,🟢 Safe / Low Impact,-25.426030306712793,27.22424902902434,2021-01-21 18:00,190.7,9.4,17.3,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,West Rand District Municipality,🟢 Safe / Low Impact,-26.245318792017624,27.555708654046818,2021-01-21 18:00,283.5,9.3,17.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Uthukela District Municipality,🟢 Safe / Low Impact,-28.719030612396818,29.656415676029116,2021-01-21 18:00,572.0,9.2,17.1,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,eThekwini Metropolitan Municipality,🟢 Safe / Low Impact,-29.805026019176413,30.8500983781446,2021-01-21 18:00,721.1,9.2,17.0,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Umgungundlovu District Municipality,🟢 Safe / Low Impact,-29.50919976137559,30.199032162940465,2021-01-21 18:00,670.2,9.1,16.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Thabo Mofutsanyane District Municipality,🟢 Safe / Low Impact,-28.243593334330015,28.345260504878475,2021-01-21 18:00,505.3,9.0,16.6,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Fezile Dabi District Municipality,🟢 Safe / Low Impact,-27.339454924771896,27.71974505115705,2021-01-21 18:00,403.6,9.0,16.7,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Dr Kenneth Kaunda District Municipality,🟢 Safe / Low Impact,-26.806257241298102,26.571417078400604,2021-01-21 18:00,326.6,8.8,16.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Ugu District Municipality,🟢 Safe / Low Impact,-30.54342179505448,30.27553730217749,2021-01-21 18:00,783.2,8.7,16.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Sisonke District Municipality,🟢 Safe / Low Impact,-30.111886232703565,29.662436140739253,2021-01-21 18:00,723.9,8.7,16.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Ngaka Modiri Molema District Municipality,🟢 Safe / Low Impact,-25.95413914709771,25.81022360037069,2021-01-21 18:00,230.3,8.7,16.1,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Alfred Nzo District Municipality,🟢 Safe / Low Impact,-30.66896452097211,29.15462481104417,2021-01-21 18:00,778.5,8.4,15.6,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Lejweleputswa District Municipality,🟢 Safe / Low Impact,-28.239730933483155,26.127548564060373,2021-01-21 18:00,482.6,8.3,15.3,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,O.R.Tambo District Municipality,🟢 Safe / Low Impact,-31.467365570319856,29.053183689953,2021-01-21 18:00,866.1,8.1,15.1,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Mangaung Metropolitan Municipality,🟢 Safe / Low Impact,-29.156494830799957,26.3508039386839,2021-01-21 18:00,585.0,8.1,15.0,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Dr Ruth Segomotsi Mompati District Municipality,🟢 Safe / Low Impact,-26.63537900609743,24.26868877156454,2021-01-21 18:00,355.5,8.0,14.9,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Joe Gqabi District Municipality,🟢 Safe / Low Impact,-30.94299868006247,27.063340942511108,2021-01-21 18:00,788.9,7.8,14.5,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Xhariep District Municipality,🟢 Safe / Low Impact,-29.843549778756202,25.833058341002918,2021-01-21 18:00,661.4,7.8,14.5,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Frances Baard District Municipality,🟢 Safe / Low Impact,-28.299316698639114,24.381607726589156,2021-01-21 18:00,518.4,7.8,14.4,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,John Taolo Gaetsewe District Municipality,🟢 Safe / Low Impact,-27.04526176865044,23.046234956681918,2021-01-21 18:00,465.0,7.6,14.1,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Amathole District Municipality,🟢 Safe / Low Impact,-32.5600903228442,27.46201265467099,2021-01-21 18:00,972.1,7.5,13.9,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Chris Hani District Municipality,🟢 Safe / Low Impact,-31.79324551111232,26.4402487997977,2021-01-21 18:00,878.3,7.5,13.9,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Buffalo City Metropolitan Municipality,🟢 Safe / Low Impact,-32.951376722366064,27.611575431895364,2021-01-21 18:00,1017.2,7.4,13.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Pixley ka Seme District Municipality,🟢 Safe / Low Impact,-30.285456531201774,23.256694025045928,2021-01-21 18:00,763.7,7.1,13.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Siyanda District Municipality,🟢 Safe / Low Impact,-27.991774574156093,21.18145038908416,2021-01-21 18:00,669.8,7.0,13.0,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Cacadu District Municipality,🟢 Safe / Low Impact,-33.06560371431822,24.77494613840265,2021-01-21 18:00,1027.3,6.9,12.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Nelson Mandela Bay Metropolitan Municipality,🟢 Safe / Low Impact,-33.80388575057252,25.49223831884387,2021-01-21 18:00,1102.8,6.9,12.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Central Karoo District Municipality,🟢 Safe / Low Impact,-32.628798218255255,22.218500673205718,2021-01-21 18:00,1042.1,6.6,12.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Namakwa District Municipality,🟢 Safe / Low Impact,-30.530502940889075,19.407512938577355,2021-01-21 18:00,990.2,6.4,11.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Eden District Municipality,🟢 Safe / Low Impact,-33.82324331216532,22.014104246182512,2021-01-21 18:00,1172.6,6.4,11.8,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,West Coast District Municipality,🟢 Safe / Low Impact,-32.088143712808495,18.62595224128917,2021-01-21 18:00,1168.6,6.1,11.2,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Cape Winelands District Municipality,🟢 Safe / Low Impact,-33.32084424297741,19.69056150399002,2021-01-21 18:00,1219.5,6.1,11.3,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,Overberg District Municipality,🟢 Safe / Low Impact,-34.261515668475,19.940917694272038,2021-01-21 18:00,1297.6,6.0,11.1,0.0,,,,1.7,YES
+Cyclone Eloise,South Africa,City of Cape Town Metropolitan Municipality,🟢 Safe / Low Impact,-35.60284505930492,20.53282719408146,2021-01-21 18:00,1407.2,5.9,10.9,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chipinge,🟢 Safe / Low Impact,-20.49461662954734,32.47410089350441,2021-01-23 12:00,79.5,31.6,58.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chiredzi,🟢 Safe / Low Impact,-21.344460730785904,31.683451553718935,2021-01-23 18:00,66.1,31.6,58.6,12.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chimanimani,🟢 Safe / Low Impact,-19.784479720890346,32.71928377725646,2021-01-23 09:00,136.0,25.3,46.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Bikita,🟢 Safe / Low Impact,-20.145955585924458,31.911423458244588,2021-01-23 09:00,142.8,19.8,36.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mutare,🟢 Safe / Low Impact,-19.2244815643743,32.429240332958955,2021-01-23 06:00,204.2,18.6,34.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Zaka,🟢 Safe / Low Impact,-20.387101518009917,31.426731332861742,2021-01-23 15:00,156.4,17.6,32.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mwenezi,🟢 Safe / Low Impact,-21.367743465966733,30.69082406727017,2021-01-23 21:00,114.9,17.4,32.2,18.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mutasa,🟢 Safe / Low Impact,-18.64529296195178,32.701520941951095,2021-01-23 06:00,248.6,16.4,30.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Buhera,🟢 Safe / Low Impact,-19.449779964113915,31.86772830237585,2021-01-23 06:00,211.4,16.4,30.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Nyanga,🟢 Safe / Low Impact,-17.94022598132723,32.75635209220891,2021-01-21 18:00,316.1,16.3,30.3,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Beitbridge,🟢 Safe / Low Impact,-21.90984514714278,30.029549586990857,2021-01-24 00:00,92.0,16.1,29.9,30.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mudzi,🟢 Safe / Low Impact,-17.03475033335003,32.63348385171471,2021-01-21 18:00,414.3,16.0,29.7,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mutoko,🟢 Safe / Low Impact,-17.448009981769268,32.27433550826524,2021-01-21 18:00,387.3,15.5,28.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Makoni,🟢 Safe / Low Impact,-18.363059678578534,32.18294158959883,2021-01-21 18:00,299.7,15.4,28.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Rushinga,🟢 Safe / Low Impact,-16.609166823599352,32.29404651766987,2021-01-21 18:00,471.7,15.4,28.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Uzumba-Maramba-Pfungwe,🟢 Safe / Low Impact,-17.082628602704066,32.043474589267866,2021-01-21 18:00,434.6,15.1,28.0,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Murehwa,🟢 Safe / Low Impact,-17.797393130907945,31.821608967167155,2021-01-21 18:00,373.2,14.9,27.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Shamva,🟢 Safe / Low Impact,-17.095529930835312,31.638692009396188,2021-01-21 18:00,451.5,14.6,27.0,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Hwedza,🟢 Safe / Low Impact,-18.736941130148455,31.63528133262533,2021-01-21 18:00,292.7,14.6,27.0,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mount Darwin,🟢 Safe / Low Impact,-16.574096467421263,31.651083330399974,2021-01-21 18:00,503.8,14.5,26.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Marondera,🟢 Safe / Low Impact,-18.27064053987425,31.499135093005535,2021-01-21 18:00,344.5,14.5,26.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Bindura,🟢 Safe / Low Impact,-17.246431435919497,31.308639604799072,2021-01-21 18:00,453.4,14.2,26.2,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Goromonzi,🟢 Safe / Low Impact,-17.788372928543073,31.3387884726818,2021-01-21 18:00,399.6,14.2,26.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Gutu,🟢 Safe / Low Impact,-19.61163516599132,31.241003574871787,2021-01-23 09:00,233.4,14.0,25.9,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chitungwiza,🟢 Safe / Low Impact,-18.01300635851408,31.06339572184548,2021-01-21 18:00,392.1,13.9,25.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Harare,🟢 Safe / Low Impact,-17.836221719267854,31.06789060835604,2021-01-21 18:00,409.3,13.9,25.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chikomba,🟢 Safe / Low Impact,-18.892003316060542,31.103893512666026,2021-01-21 18:00,305.4,13.9,25.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Masvingo,🟢 Safe / Low Impact,-20.259878985626408,30.909327372102172,2021-01-23 15:00,202.0,13.9,25.7,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Centenary,🟢 Safe / Low Impact,-16.426781462467826,31.142635557754602,2021-01-21 18:00,541.7,13.8,25.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Seke,🟢 Safe / Low Impact,-18.254326496978106,30.953866562917433,2021-01-21 18:00,374.0,13.8,25.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mazowe,🟢 Safe / Low Impact,-17.25167838376461,30.93195880461896,2021-01-21 18:00,472.7,13.7,25.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Guruve,🟢 Safe / Low Impact,-16.6845789659816,30.659084994629865,2021-01-21 18:00,541.9,13.3,24.7,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chegutu,🟢 Safe / Low Impact,-18.14205229708983,30.396917469529114,2021-01-21 18:00,416.5,13.2,24.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Zvimba,🟢 Safe / Low Impact,-17.501246176499063,30.447594004954375,2021-01-21 18:00,473.3,13.2,24.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chirumhanzu,🟢 Safe / Low Impact,-19.318775199847597,30.481656544125403,2021-01-21 18:00,310.6,13.2,24.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mbire,🟢 Safe / Low Impact,-16.117445936612803,30.519535411308482,2021-01-21 18:00,604.3,13.1,24.2,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Chivi,🟢 Safe / Low Impact,-20.483309985112925,30.564640683220702,2021-01-21 18:00,214.0,13.0,24.1,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Makonde,🟢 Safe / Low Impact,-17.127737918351045,30.01473791270281,2021-01-21 18:00,532.7,12.7,23.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Shurugwi,🟢 Safe / Low Impact,-19.74703148419769,30.148866449681098,2021-01-21 18:00,298.8,12.7,23.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Kadoma,🟢 Safe / Low Impact,-18.286062814365764,29.85633986581741,2021-01-21 18:00,440.5,12.6,23.3,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Zvishavane,🟢 Safe / Low Impact,-20.284403627273942,30.07562282534197,2021-01-21 18:00,245.4,12.6,23.3,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mberengwa,🟢 Safe / Low Impact,-20.745075521253543,30.01245541438677,2021-01-21 18:00,199.2,12.4,23.0,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Kwekwe,🟢 Safe / Low Impact,-18.882591900719227,29.556265093578027,2021-01-21 18:00,410.3,12.3,22.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Gweru,🟢 Safe / Low Impact,-19.46734503187328,29.641736269314773,2021-01-21 18:00,345.8,12.3,22.8,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Hurungwe,🟢 Safe / Low Impact,-16.435388258168636,29.53738624033193,2021-01-21 18:00,624.9,12.2,22.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Insiza,🟢 Safe / Low Impact,-20.25632133329486,29.404045103701634,2021-01-21 18:00,276.1,12.0,22.2,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Gokwe North,🟢 Safe / Low Impact,-17.571626338903076,28.837485631990614,2021-01-21 18:00,570.5,11.7,21.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Gwanda,🟢 Safe / Low Impact,-21.2358634116549,29.16132464181472,2021-01-21 18:00,200.7,11.6,21.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Umzingwane,🟢 Safe / Low Impact,-20.345542437821013,28.94529169197477,2021-01-21 18:00,295.1,11.6,21.5,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Gokwe South,🟢 Safe / Low Impact,-18.20765717079585,28.64530126716644,2021-01-21 18:00,515.2,11.5,21.3,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Bubi,🟢 Safe / Low Impact,-19.526816514171085,28.659754309683006,2021-01-21 18:00,386.2,11.5,21.2,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Nkayi,🟢 Safe / Low Impact,-18.922238992865562,28.68667191859512,2021-01-21 18:00,442.2,11.5,21.4,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Kariba,🟢 Safe / Low Impact,-16.89421022859133,28.612571936027095,2021-01-21 18:00,643.7,11.4,21.2,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Bulawayo,🟢 Safe / Low Impact,-20.14025705172959,28.548304428395856,2021-01-21 18:00,337.5,11.3,20.9,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Matobo,🟢 Safe / Low Impact,-20.95534995999951,28.49054516573261,2021-01-21 18:00,265.9,11.1,20.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Umguza,🟢 Safe / Low Impact,-19.823637781661898,28.275853284270983,2021-01-21 18:00,382.5,11.1,20.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Lupane,🟢 Safe / Low Impact,-18.85610696367586,27.91315654313733,2021-01-21 18:00,492.3,11.0,20.3,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Binga,🟢 Safe / Low Impact,-17.79113470896296,27.65675975187383,2021-01-21 18:00,605.7,10.8,20.0,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Mangwe,🟢 Safe / Low Impact,-20.97865430368867,28.01290877138675,2021-01-21 18:00,290.2,10.8,20.0,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Tsholotsho,🟢 Safe / Low Impact,-19.620082301738236,27.413127255481662,2021-01-21 18:00,451.2,10.6,19.6,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Bulilima,🟢 Safe / Low Impact,-20.16923858479863,27.5652389526324,2021-01-21 18:00,391.5,10.6,19.7,0.0,,,,1.7,YES
+Cyclone Eloise,Zimbabwe,Hwange,🟢 Safe / Low Impact,-18.716476110439,26.501113786851935,2021-01-21 18:00,561.8,10.0,18.6,0.0,,,,1.7,YES
+Somalia Cyclone ARB 01,Somalia,Eyl,🟡 Tropical Storm Force,8.094216229718944,49.56441679419744,2013-11-11 00:00,64.0,35.0,64.8,24.0,2013-11-11 00:00:00,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Qardho,🟡 Tropical Storm Force,9.501424244587792,49.507859268131384,2013-11-11 06:00,70.0,34.9,64.6,24.0,2013-11-11 06:00:00,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Garoowe,🟡 Tropical Storm Force,8.470353097123581,48.78630215922383,2013-11-11 06:00,70.7,34.8,64.5,24.0,2013-11-11 06:00:00,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Taleex,🟡 Tropical Storm Force,9.179439247061708,48.541142531987504,2013-11-11 06:00,9.4,34.1,63.2,30.0,2013-11-11 06:00:00,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Bandarbeyla,🟢 Safe / Low Impact,9.229349453043548,50.32913008168976,2013-11-11 00:00,93.9,32.3,59.9,12.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Xudun,🟢 Safe / Low Impact,9.141692005825423,47.50746440573949,2013-11-11 12:00,36.2,28.3,52.5,36.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Ceerigaabo,🟢 Safe / Low Impact,10.290360953959397,47.807444430792636,2013-11-11 12:00,101.2,27.0,50.0,30.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Laas Caanood,🟢 Safe / Low Impact,8.43803757039929,47.636340745600954,2013-11-11 12:00,114.2,25.6,47.3,24.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Sheikh,🟢 Safe / Low Impact,9.992521481109819,45.42917581752474,2013-11-12 00:00,66.1,25.0,46.3,18.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Ceel Afweyn,🟢 Safe / Low Impact,10.147820077206537,46.68871461879136,2013-11-11 21:00,64.8,25.0,46.3,30.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Burtinle,🟢 Safe / Low Impact,7.802269962134483,48.399051987733685,2013-11-11 06:00,155.4,24.7,45.8,12.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Caynabo,🟢 Safe / Low Impact,9.282193275581372,46.49026441627756,2013-11-12 00:00,38.4,24.5,45.3,30.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Burco,🟢 Safe / Low Impact,9.140889104812333,45.75875736373168,2013-11-12 00:00,77.9,24.5,45.4,18.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Laasqoray,🟢 Safe / Low Impact,10.537316377837062,48.69553673920376,2013-11-11 09:00,146.5,23.6,43.7,18.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Berbera,🟢 Safe / Low Impact,10.35911082985117,45.28576561641383,2013-11-12 00:00,99.9,22.7,42.1,12.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Jariiban,🟢 Safe / Low Impact,7.1636874194000395,48.99849667766178,2013-11-11 03:00,181.9,22.3,41.2,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Buuhoodle,🟢 Safe / Low Impact,8.460133918839418,46.661354910396206,2013-11-11 18:00,118.6,21.1,39.0,30.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Owdweyne,🟢 Safe / Low Impact,9.257072695272276,45.01097103674326,2013-11-12 00:00,124.1,20.6,38.1,12.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Bossaso,🟢 Safe / Low Impact,10.92171223014004,49.39967153026954,2013-11-11 06:00,207.5,19.4,35.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Iskushuban,🟢 Safe / Low Impact,10.551240106310003,50.50463851691678,2013-11-11 06:00,227.9,19.0,35.1,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Qandala,🟢 Safe / Low Impact,11.059962886453798,50.088741116387226,2013-11-11 06:00,254.2,17.5,32.4,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Gaalkacyo,🟢 Safe / Low Impact,6.935249236460551,47.68765335448853,2013-11-11 06:00,274.1,16.3,30.1,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Hargeysa,🟢 Safe / Low Impact,9.521379444523893,44.28072258333755,2013-11-12 00:00,191.0,15.9,29.5,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Galdogob,🟢 Safe / Low Impact,7.039147672026724,47.22159232860207,2013-11-11 06:00,269.9,15.2,28.2,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Hobyo,🟢 Safe / Low Impact,5.971348796653658,48.20135887251651,2013-11-11 03:00,339.8,14.0,25.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Caluula,🟢 Safe / Low Impact,11.668246314192743,50.793949314484514,2013-11-11 06:00,348.8,13.7,25.4,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Baki,🟢 Safe / Low Impact,10.28567941528101,43.73190824292372,2013-11-12 00:00,254.1,13.1,24.3,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Gebiley,🟢 Safe / Low Impact,9.85947068520523,43.680780329057974,2013-11-12 00:00,254.2,13.1,24.3,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Cadaado,🟢 Safe / Low Impact,6.130697697238261,47.036774577546865,2013-11-11 06:00,372.4,12.4,23.0,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Lughaye,🟢 Safe / Low Impact,10.647400473133104,43.57810350359475,2013-11-12 00:00,281.3,12.2,22.6,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Borama,🟢 Safe / Low Impact,10.187549908061044,43.17026627148002,2013-11-12 00:00,312.9,11.3,20.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Zeylac,🟢 Safe / Low Impact,10.892778237890598,43.168009302484585,2013-11-12 00:00,332.8,10.8,20.0,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Xarardheere,🟢 Safe / Low Impact,4.793367365315582,47.83265457095558,2013-11-11 00:00,473.0,10.8,19.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Dhuusamarreeb,🟢 Safe / Low Impact,5.441232360323254,46.683968670756016,2013-11-11 06:00,451.9,10.6,19.7,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Cabudwaaq,🟢 Safe / Low Impact,5.826012923260344,46.12475474169006,2013-11-11 06:00,417.4,10.5,19.5,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Ceel Buur,🟢 Safe / Low Impact,4.760524506781661,46.841500339973514,2013-11-11 06:00,526.3,9.8,18.1,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Ceel Dheer,🟢 Safe / Low Impact,4.0518470919964855,47.04725901309101,2013-11-11 03:00,588.5,9.0,16.7,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Belet Weyne,🟢 Safe / Low Impact,4.724352786498058,45.37954998665484,2013-11-11 06:00,556.9,8.5,15.7,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Adan Yabaal,🟢 Safe / Low Impact,3.54944164645595,46.544709148380754,2013-11-11 03:00,662.8,8.2,15.1,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Bulo Burto,🟢 Safe / Low Impact,3.9000894860595383,45.53219735075615,2013-11-11 06:00,640.7,7.9,14.6,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Cadale,🟢 Safe / Low Impact,3.091491108311254,46.26280839010138,2013-11-11 03:00,716.1,7.6,14.1,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Jalalaqsi,🟢 Safe / Low Impact,3.4033077633073496,45.61272607828389,2013-11-11 06:00,692.7,7.5,13.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Ceel Barde,🟢 Safe / Low Impact,4.673959632563109,43.99831129846491,2013-11-11 06:00,611.2,7.4,13.7,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Tayeeglow,🟢 Safe / Low Impact,3.8358227381047607,44.52908145968173,2013-11-11 06:00,676.9,7.2,13.4,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Jowhar,🟢 Safe / Low Impact,2.9933775701316163,45.56808861644509,2013-11-11 06:00,738.3,7.2,13.3,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Xudur,🟢 Safe / Low Impact,4.188907193852388,43.90626573104329,2013-11-11 06:00,665.3,7.1,13.1,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Balcad,🟢 Safe / Low Impact,2.488555542640901,45.659068311679334,2013-11-11 03:00,791.6,6.9,12.7,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Wanla Weyn,🟢 Safe / Low Impact,2.791602583001959,44.90646024339564,2013-11-11 06:00,777.8,6.8,12.5,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Rab Dhuure,🟢 Safe / Low Impact,4.243267285487649,43.211639599511706,2013-11-11 06:00,690.2,6.7,12.4,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Waajid,🟢 Safe / Low Impact,3.8164532265079143,43.43284373824408,2013-11-11 06:00,723.1,6.6,12.3,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Banadir,🟢 Safe / Low Impact,2.1105530881946475,45.42547159794824,2013-11-11 03:00,837.7,6.6,12.1,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Baydhaba,🟢 Safe / Low Impact,3.2663071738884875,43.639176841408315,2013-11-11 06:00,771.2,6.5,12.0,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Afgooye,🟢 Safe / Low Impact,2.23639022569014,45.07663891699224,2013-11-11 06:00,832.4,6.5,12.0,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Buur Hakaba,🟢 Safe / Low Impact,2.4853149705452457,44.00675242519094,2013-11-11 06:00,837.7,6.2,11.6,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Luuq,🟢 Safe / Low Impact,3.792908083134705,42.69761720688158,2013-11-11 06:00,760.9,6.2,11.6,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Marka,🟢 Safe / Low Impact,1.7401549991177208,44.717848082341476,2013-11-11 06:00,896.0,6.1,11.3,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Qoryooley,🟢 Safe / Low Impact,1.934561287543446,44.449423591928856,2013-11-11 06:00,882.5,6.1,11.3,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Doolow,🟢 Safe / Low Impact,4.002529967425156,42.140785330385945,2013-11-11 06:00,772.6,6.0,11.2,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Qansax Dheere,🟢 Safe / Low Impact,2.815127124259315,42.840105655070616,2013-11-11 06:00,851.5,5.9,11.0,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Garbahaarey,🟢 Safe / Low Impact,3.2060147779561086,42.35913090351153,2013-11-11 06:00,836.2,5.9,10.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Kurtunwaarey,🟢 Safe / Low Impact,1.6746136536820178,44.06696132711359,2013-11-11 06:00,921.7,5.9,10.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Diinsoor,🟢 Safe / Low Impact,2.1019894943709603,42.901900432332994,2013-11-11 06:00,921.9,5.7,10.5,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Belet Xaawo,🟢 Safe / Low Impact,3.435546412620057,41.73364162646816,2013-11-11 06:00,850.1,5.7,10.5,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Baraawe,🟢 Safe / Low Impact,1.1083114799701246,43.840635748960125,2013-11-11 06:00,989.2,5.6,10.3,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Sablaale,🟢 Safe / Low Impact,1.3832651353044767,43.52053413910108,2013-11-11 06:00,971.1,5.6,10.4,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Ceel Waaq,🟢 Safe / Low Impact,2.6789683852057333,41.445247664345615,2013-11-11 06:00,938.1,5.4,9.9,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Baardheere,🟢 Safe / Low Impact,2.1020183388491565,41.706548425194285,2013-11-11 06:00,978.7,5.3,9.8,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Bu'aale,🟢 Safe / Low Impact,1.1979851818747438,42.74081446362421,2013-11-11 06:00,1021.9,5.3,9.8,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Jilib,🟢 Safe / Low Impact,0.6450096926612009,43.05588861865264,2013-11-11 06:00,1065.9,5.2,9.6,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Saakow,🟢 Safe / Low Impact,1.6286423582439589,42.06272423181922,2013-11-11 06:00,1007.5,5.2,9.7,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Jamaame,🟢 Safe / Low Impact,0.12430328803686677,42.80162846743097,2013-11-11 06:00,1130.0,5.0,9.2,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Afmadow,🟢 Safe / Low Impact,0.5908935418363365,41.78618231593544,2013-11-11 06:00,1125.1,4.9,9.0,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Kismaayo,🟢 Safe / Low Impact,-0.38114350278887604,42.00864670430893,2013-11-11 06:00,1215.2,4.7,8.6,0.0,,,,0.67,NO
+Somalia Cyclone ARB 01,Somalia,Badhaadhe,🟢 Safe / Low Impact,-0.8536782684630376,41.42939492630867,2013-11-11 06:00,1288.1,4.4,8.2,0.0,,,,0.67,NO
+Cyclone Gezani,Madagascar,Toamasina I,🟡 Tropical Storm Force,-18.14626833450195,49.39536583281305,2026-02-13 06:00,47.1,35.5,65.8,150.0,2026-02-12 18:00:00,,,0.45,NO
+Cyclone Gezani,Madagascar,Sainte Marie,🟢 Safe / Low Impact,-16.89828941043823,49.91068843677749,2026-02-11 12:00,156.3,32.5,60.1,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Toamasina II,🟢 Safe / Low Impact,-18.00556021284029,49.14116058355805,2026-02-13 00:00,71.6,29.7,55.0,144.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Fenerive Est,🟢 Safe / Low Impact,-17.163260434782778,49.202061647914846,2026-02-12 00:00,156.4,26.2,48.5,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Vavatenina,🟢 Safe / Low Impact,-17.5059686630648,49.02130762734196,2026-02-12 12:00,127.9,26.0,48.1,120.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Anosibe-An'ala,🟢 Safe / Low Impact,-19.51370478529814,48.12462379307846,2026-02-17 12:00,45.2,25.0,46.3,114.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Moramanga,🟢 Safe / Low Impact,-18.805512962892074,48.26572985738054,2026-02-16 00:00,23.7,25.0,46.3,126.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo I,🟢 Safe / Low Impact,-18.905803874297998,47.51163859861034,2026-02-17 12:00,42.1,25.0,46.3,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo II,🟢 Safe / Low Impact,-18.92890016644232,47.54840284580506,2026-02-18 06:00,38.0,25.0,46.3,102.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo III,🟢 Safe / Low Impact,-18.896375381167534,47.52886792791958,2026-02-17 12:00,42.1,25.0,46.3,102.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo V,🟢 Safe / Low Impact,-18.880099434663506,47.539318504434924,2026-02-17 12:00,43.2,25.0,46.3,102.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo VI,🟢 Safe / Low Impact,-18.86611900676256,47.493273743915914,2026-02-17 18:00,46.9,25.0,46.3,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Andramasina,🟢 Safe / Low Impact,-19.30014998099813,47.74602401851008,2026-02-17 00:00,8.3,25.0,46.2,102.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo Atsimondrano,🟢 Safe / Low Impact,-19.027650462226738,47.51859335780675,2026-02-18 12:00,29.2,25.0,46.3,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo Avaradrano,🟢 Safe / Low Impact,-18.901476043128856,47.625653444826334,2026-02-17 06:00,37.9,25.0,46.3,102.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Brickaville,🟢 Safe / Low Impact,-18.641381370795692,48.853146907679,2026-02-13 06:00,18.0,25.0,46.2,150.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antsirabe II,🟢 Safe / Low Impact,-19.882178861693376,47.158591935077524,2026-02-18 18:00,48.5,25.0,46.2,72.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antanifotsy,🟢 Safe / Low Impact,-19.745508237678955,47.49857707303217,2026-02-18 18:00,45.1,24.9,46.1,84.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antsirabe I,🟢 Safe / Low Impact,-19.881919674869085,47.031890191817105,2026-02-18 18:00,49.8,24.9,46.2,66.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antananarivo IV,🟢 Safe / Low Impact,-18.933375189417823,47.51385187308637,2026-02-18 06:00,39.3,24.8,46.0,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Manjakandriana,🟢 Safe / Low Impact,-18.828163312106796,47.79045560782885,2026-02-17 00:00,39.6,24.8,45.9,108.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Arivonimamo,🟢 Safe / Low Impact,-19.070397479298478,47.240488362966595,2026-02-17 18:00,35.8,24.8,45.8,84.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Soanierana Ivongo,🟢 Safe / Low Impact,-16.72323158591909,49.30957399046481,2026-02-11 18:00,197.7,24.6,45.6,36.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Vatomandry,🟢 Safe / Low Impact,-19.360373586022984,48.77830622479299,2026-02-16 06:00,54.5,24.6,45.6,138.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Faratsiho,🟢 Safe / Low Impact,-19.412266097190447,46.902932160601914,2026-02-18 06:00,25.4,24.5,45.4,72.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambatolampy,🟢 Safe / Low Impact,-19.46335152329653,47.56547800119849,2026-02-17 06:00,19.8,24.2,44.8,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antanambao Manampontsy,🟢 Safe / Low Impact,-19.55839989110254,48.470233695225645,2026-02-16 18:00,63.1,23.8,44.1,120.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Soavinandriana,🟢 Safe / Low Impact,-19.22708741372509,46.559732843775684,2026-02-18 18:00,65.9,23.5,43.5,60.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mananara-Avaratra,🟢 Safe / Low Impact,-16.232575416472688,49.511121069919824,2026-02-11 06:00,240.8,23.2,43.0,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Miarinarivo,🟢 Safe / Low Impact,-18.9067205683278,46.830710391049635,2026-02-18 18:00,68.4,23.2,42.9,72.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambohidratrimo,🟢 Safe / Low Impact,-18.66535229344008,47.4359656116975,2026-02-17 18:00,69.5,23.0,42.7,96.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Betafo,🟢 Safe / Low Impact,-19.946886368282385,46.667615317472844,2026-02-18 18:00,74.6,22.4,41.5,54.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambatondrazaka,🟢 Safe / Low Impact,-17.918413688250343,48.45140652269302,2026-02-12 12:00,107.3,21.4,39.6,126.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antalaha,🟢 Safe / Low Impact,-15.220755948916441,50.14185511061774,2026-02-10 00:00,321.2,20.7,38.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Amparafaravola,🟢 Safe / Low Impact,-17.440835773398604,48.34303836070407,2026-02-12 06:00,161.0,19.9,36.8,90.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Fandriana,🟢 Safe / Low Impact,-20.26628006176449,47.442704086264825,2026-02-18 18:00,96.4,19.9,36.8,66.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Marolambo,🟢 Safe / Low Impact,-20.091916748436528,47.96680366884591,2026-02-18 00:00,98.7,19.6,36.3,90.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Maroantsetra,🟢 Safe / Low Impact,-15.460563451882171,49.50024265627273,2026-02-10 18:00,321.2,19.2,35.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mandoto,🟢 Safe / Low Impact,-19.68268312492405,46.19773505693329,2026-02-18 18:00,102.5,19.2,35.6,42.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Anjozorobe,🟢 Safe / Low Impact,-18.202311378579985,47.75148770668021,2026-02-17 00:00,105.1,19.0,35.1,108.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Andilamena,🟢 Safe / Low Impact,-16.720334873187134,48.3488141875541,2026-02-11 18:00,235.3,18.3,33.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mandritsara,🟢 Safe / Low Impact,-16.03313572590757,48.73613524360341,2026-02-11 06:00,291.5,18.2,33.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mahanoro,🟢 Safe / Low Impact,-20.03159874203965,48.517287453838726,2026-02-17 00:00,113.7,18.1,33.6,108.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambositra,🟢 Safe / Low Impact,-20.575495927707966,47.29967735010444,2026-02-18 18:00,126.6,17.0,31.5,54.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ankazobe,🟢 Safe / Low Impact,-18.162079272243567,47.054848517940194,2026-02-18 00:00,136.3,16.2,30.1,78.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Tsiroanomandidy,🟢 Safe / Low Impact,-18.841081743072873,45.97031253951066,2026-02-18 18:00,140.4,15.9,29.5,36.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Andapa,🟢 Safe / Low Impact,-14.567340229732038,49.55329153944386,2026-02-10 06:00,411.7,15.9,29.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Tsaratanana,🟢 Safe / Low Impact,-17.143913689478484,47.64103528451296,2026-02-12 00:00,218.9,15.8,29.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Manandriana,🟢 Safe / Low Impact,-20.75062419594183,47.01951218192177,2026-02-18 18:00,145.6,15.6,28.8,36.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Befandriana Nord,🟢 Safe / Low Impact,-15.164575437255511,48.77251952014978,2026-02-10 18:00,380.1,15.6,28.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambatofinandrahana,🟢 Safe / Low Impact,-20.502250156984797,46.309341117612256,2026-02-18 18:00,146.2,15.5,28.8,24.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Sambava,🟢 Safe / Low Impact,-14.222127614965322,49.78642070614404,2026-02-10 00:00,438.5,15.3,28.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Fenoarivobe,🟢 Safe / Low Impact,-18.271605293061572,46.36161866877217,2026-02-18 18:00,154.3,15.0,27.8,42.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Nosy-Varika,🟢 Safe / Low Impact,-20.565304473107236,48.1731992604267,2026-02-18 00:00,155.6,14.9,27.6,72.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mampikony,🟢 Safe / Low Impact,-16.16169345253924,47.67325361599412,2026-02-11 12:00,319.4,14.5,26.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Bealanana,🟢 Safe / Low Impact,-14.553232414740624,48.83502240769307,2026-02-10 12:00,441.1,14.1,26.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Port-Berge (Boriziny-Vaovao),🟢 Safe / Low Impact,-15.717355753950052,47.727257031518214,2026-02-11 06:00,363.3,13.9,25.8,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambohimahasoa,🟢 Safe / Low Impact,-21.06888520722573,47.16886707373292,2026-02-18 18:00,180.4,13.5,25.0,24.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antsohihy,🟢 Safe / Low Impact,-14.999597382484259,48.0576384795672,2026-02-11 00:00,424.9,13.4,24.8,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Maevatanana,🟢 Safe / Low Impact,-17.239094017070595,46.89133333006829,2026-02-11 18:00,238.0,13.3,24.7,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Miandrivazo,🟢 Safe / Low Impact,-19.16101927778305,45.368156916137465,2026-02-18 18:00,188.9,13.1,24.2,12.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Vohemar,🟢 Safe / Low Impact,-13.485088819080929,49.714554902813134,2026-02-10 00:00,517.8,13.0,24.1,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ifanadiana,🟢 Safe / Low Impact,-21.09176083393907,47.63659154208775,2026-02-18 18:00,190.1,13.0,24.1,24.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mananjary,🟢 Safe / Low Impact,-21.197355939989663,48.08621168026544,2026-02-11 18:00,217.3,12.7,23.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Isandra,🟢 Safe / Low Impact,-21.280832873504817,46.8964711679244,2026-02-18 18:00,205.6,12.3,22.8,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Analalava,🟢 Safe / Low Impact,-14.727265113418987,47.781573655026904,2026-02-11 00:00,463.9,12.3,22.8,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambilobe,🟢 Safe / Low Impact,-13.49241111218686,49.08627667291812,2026-02-10 06:00,541.4,12.1,22.5,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambanja,🟢 Safe / Low Impact,-13.878630804378917,48.47141752311465,2026-02-10 12:00,525.1,12.0,22.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambato Boeni,🟢 Safe / Low Impact,-16.67087179365008,46.47614657674043,2026-02-11 18:00,313.0,11.9,22.0,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Marovoay,🟢 Safe / Low Impact,-16.16141268468898,46.62690635517195,2026-02-11 12:00,359.9,11.8,21.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Lalangina,🟢 Safe / Low Impact,-21.41010783416841,47.26623843912175,2026-02-18 18:00,218.7,11.8,21.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mahajanga II,🟢 Safe / Low Impact,-15.653003179753771,46.75312749300166,2026-02-11 12:00,407.7,11.6,21.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Fianarantsoa I,🟢 Safe / Low Impact,-21.45378217620448,47.08755695532975,2026-02-18 18:00,223.3,11.6,21.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ikalamavony,🟢 Safe / Low Impact,-21.28854375048938,46.21944048983822,2026-02-18 18:00,226.3,11.5,21.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Kandreho,🟢 Safe / Low Impact,-17.40920436503168,46.05136417078088,2026-02-11 18:00,254.1,11.3,21.0,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Belo Sur Tsiribihina,🟢 Safe / Low Impact,-19.63942727760643,44.84791952842972,2026-02-18 18:00,241.4,11.0,20.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Manakara Atsimo,🟢 Safe / Low Impact,-21.915938102990708,47.871954768677824,2026-02-11 18:00,284.9,11.0,20.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mahajanga I,🟢 Safe / Low Impact,-15.695075153847702,46.34264107183282,2026-02-11 12:00,419.3,10.9,20.1,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mahabo,🟢 Safe / Low Impact,-20.636350275485462,45.16579130099931,2026-02-18 18:00,245.3,10.9,20.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Nosy-Be,🟢 Safe / Low Impact,-13.336163848084823,48.27013906578316,2026-02-10 12:00,589.2,10.8,20.0,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Vohibato,🟢 Safe / Low Impact,-21.66520245378984,47.087434940557124,2026-02-18 18:00,246.8,10.8,20.1,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambatomainty,🟢 Safe / Low Impact,-17.74287604424327,45.59955055296136,2026-02-18 18:00,249.7,10.7,19.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antsiranana II,🟢 Safe / Low Impact,-12.590605618522025,49.2371838365241,2026-02-10 00:00,629.2,10.6,19.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Mitsinjo,🟢 Safe / Low Impact,-16.110832541954103,45.9276848753838,2026-02-11 12:00,392.2,10.5,19.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ikongo,🟢 Safe / Low Impact,-21.925456124599826,47.45039638669336,2026-02-11 18:00,277.5,10.5,19.5,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Vohipeno,🟢 Safe / Low Impact,-22.342564439633545,47.705831125180445,2026-02-11 18:00,327.3,10.2,18.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antsiranana I,🟢 Safe / Low Impact,-12.29184212101757,49.265556192078435,2026-02-10 00:00,659.1,10.1,18.7,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambalavao,🟢 Safe / Low Impact,-21.876812171496127,46.721921592741346,2026-02-18 18:00,273.8,10.1,18.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Antsalova,🟢 Safe / Low Impact,-18.82724518338383,44.63586566488048,2026-02-18 18:00,272.2,10.1,18.7,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Soalala,🟢 Safe / Low Impact,-16.508767018762963,45.412711334183584,2026-02-11 12:00,374.4,9.8,18.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Morafenobe,🟢 Safe / Low Impact,-17.934564659574004,44.9591770974939,2026-02-18 18:00,284.9,9.8,18.1,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Farafangana,🟢 Safe / Low Impact,-22.80662341805397,47.65883347586522,2026-02-11 12:00,377.4,9.5,17.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Vondrozo,🟢 Safe / Low Impact,-22.686078406930832,47.30609979266371,2026-02-11 18:00,360.6,9.4,17.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Beroroha,🟢 Safe / Low Impact,-21.485100887860558,45.203328163530074,2026-02-18 18:00,303.7,9.3,17.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Besalampy,🟢 Safe / Low Impact,-16.92126615035704,44.92020657239435,2026-02-11 18:00,366.0,9.3,17.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ivohibe,🟢 Safe / Low Impact,-22.520559130946648,46.915760476738576,2026-02-11 18:00,342.6,9.2,17.1,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Morondava,🟢 Safe / Low Impact,-20.58729436272454,44.38356732265231,2026-02-18 18:00,315.0,9.1,16.8,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Maintirano,🟢 Safe / Low Impact,-17.725756495769847,44.31816249769611,2026-02-11 18:00,353.9,8.6,16.0,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Vangaindrano,🟢 Safe / Low Impact,-23.55774740200859,47.39908301782497,2026-02-11 12:00,457.9,8.5,15.7,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Midongy-Atsimo,🟢 Safe / Low Impact,-23.34271629983984,46.99663196764105,2026-02-11 12:00,433.5,8.4,15.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Iakora,🟢 Safe / Low Impact,-23.153019983518057,46.634488186349394,2026-02-11 18:00,415.5,8.4,15.5,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ihosy,🟢 Safe / Low Impact,-22.34325957459919,45.82367882256433,2026-02-11 18:00,350.0,8.4,15.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Manja,🟢 Safe / Low Impact,-21.422156886023057,44.20129884877108,2026-02-18 18:00,377.1,7.9,14.7,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Befotaka,🟢 Safe / Low Impact,-23.88444265939879,46.815972692114954,2026-02-11 12:00,494.6,7.8,14.5,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Betroka,🟢 Safe / Low Impact,-23.37174530694081,45.87687877998,2026-02-11 18:00,455.7,7.7,14.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ankazoabo,🟢 Safe / Low Impact,-22.169463183393358,44.6790480121999,2026-02-18 18:00,396.5,7.6,14.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Taolagnaro,🟢 Safe / Low Impact,-24.630854590279014,46.96170495832651,2026-02-11 12:00,576.8,7.3,13.5,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Amboasary-Atsimo,🟢 Safe / Low Impact,-24.423420455359796,46.35410886723683,2026-02-11 12:00,559.4,7.2,13.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Benenitra,🟢 Safe / Low Impact,-23.402835989885705,45.08646729115591,2026-02-11 18:00,488.7,7.2,13.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Sakaraha,🟢 Safe / Low Impact,-22.786615099666815,44.4412213131589,2026-02-11 18:00,465.2,7.1,13.2,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Morombe,🟢 Safe / Low Impact,-22.027340504512555,43.714773866341254,2026-02-11 18:00,457.6,7.0,12.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Bekily,🟢 Safe / Low Impact,-24.251855530213124,45.39500350310285,2026-02-11 18:00,563.9,6.8,12.7,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Betioky Atsimo,🟢 Safe / Low Impact,-23.67787217663619,44.49393349014559,2026-02-11 18:00,544.4,6.7,12.4,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ambovombe-Androy,🟢 Safe / Low Impact,-24.860209565121913,45.78648055142064,2026-02-11 12:00,618.0,6.6,12.3,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Toliary-II,🟢 Safe / Low Impact,-23.228324077246985,43.79285846750965,2026-02-11 18:00,545.1,6.5,12.1,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Toliary-I,🟢 Safe / Low Impact,-23.340890633888854,43.65833592753301,2026-02-11 18:00,563.6,6.4,11.9,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Ampanihy Ouest,🟢 Safe / Low Impact,-24.522028898169562,44.482071324479534,2026-02-11 18:00,627.5,6.3,11.6,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Beloha,🟢 Safe / Low Impact,-25.090557357945162,45.0224597005439,2026-02-11 18:00,664.4,6.2,11.5,0.0,,,,0.45,NO
+Cyclone Gezani,Madagascar,Tsihombe,🟢 Safe / Low Impact,-25.363082892160488,45.472378153985105,2026-02-11 12:00,679.9,6.2,11.6,0.0,,,,0.45,NO

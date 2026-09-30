@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pan-African Cyclone & Extreme Wind 72-Hour Discrete Events Verification Dashboard (1980–2026)</title>
+    <style>
+        :root {
+            --primary: #1D3557;
+            --secondary: #457B9D;
+            --agro: #2A9D8F;
+            --property: #D90429;
+            --cat2: #F4A261;
+            --cat3: #E76F51;
+            --bg-light: #F8F9FA;
+            --card-bg: #FFFFFF;
+            --text-dark: #2B2D42;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            margin: 0;
+            padding: 24px;
+        }
+        .dashboard-container {
+            max-width: 1540px;
+            margin: 0 auto;
+        }
+        .header-box {
+            background: linear-gradient(135deg, #1D3557 0%, #2A9D8F 100%);
+            color: white;
+            padding: 24px 32px;
+            border-radius: 12px;
+            margin-bottom: 24px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+        }
+        .header-box h1 {
+            margin: 0 0 8px 0;
+            font-size: 26px;
+            font-weight: 700;
+        }
+        .header-box p {
+            margin: 0;
+            font-size: 14px;
+            opacity: 0.94;
+            line-height: 1.5;
+        }
+        .kpi-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        .kpi-card {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid var(--secondary);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .kpi-card.agro { border-left-color: var(--agro); }
+        .kpi-card.property { border-left-color: var(--property); }
+        .kpi-card.max { border-left-color: #E76F51; }
+        .kpi-title {
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #6C757D;
+            margin-bottom: 6px;
+        }
+        .kpi-val {
+            font-size: 28px;
+            font-weight: 800;
+            color: var(--primary);
+            line-height: 1.1;
+        }
+        .kpi-sub {
+            font-size: 12px;
+            color: #6C757D;
+            margin-top: 6px;
+        }
+        .plot-container {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+            margin-bottom: 24px;
+        }
+        
+        /* Interactive Inspection Reference Card */
+        .inspection-card {
+            background: #FFFFFF;
+            border: 2px solid var(--secondary);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 6px 20px rgba(69, 123, 157, 0.15);
+            transition: all 0.2s ease-in-out;
+        }
+        .inspection-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #E9ECEF;
+            padding-bottom: 12px;
+            margin-bottom: 16px;
+        }
+        .inspection-title {
+            font-size: 22px;
+            font-weight: 800;
+            color: var(--primary);
+            margin: 0;
+        }
+        .inspection-badge {
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 700;
+            background: #E8F5E9;
+            color: #2E7D32;
+        }
+        .inspection-badge.cat1 { background: #FFEBEE; color: #C62828; }
+        .inspection-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+        .info-block {
+            background: #F8F9FA;
+            padding: 12px 16px;
+            border-radius: 8px;
+        }
+        .info-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: #6C757D;
+            margin-bottom: 4px;
+        }
+        .info-val {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+        .links-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            border-top: 1px solid #E9ECEF;
+            padding-top: 16px;
+        }
+        .action-link-btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 10px 18px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.15s ease;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+        }
+        .action-link-btn.wiki {
+            background-color: #1D3557;
+            color: #FFFFFF;
+        }
+        .action-link-btn.wiki:hover { background-color: #0F1E33; transform: translateY(-1px); }
+        .action-link-btn.hum {
+            background-color: #E63946;
+            color: #FFFFFF;
+        }
+        .action-link-btn.hum:hover { background-color: #C62828; transform: translateY(-1px); }
+        .action-link-btn.agency {
+            background-color: #2A9D8F;
+            color: #FFFFFF;
+        }
+        .action-link-btn.agency:hover { background-color: #1F7369; transform: translateY(-1px); }
+        
+        /* Table Styles */
+        .table-container {
+            background: var(--card-bg);
+            padding: 24px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+        }
+        .table-container h2 {
+            font-size: 20px;
+            color: var(--primary);
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+        .search-box {
+            width: 100%;
+            max-width: 440px;
+            padding: 10px 14px;
+            border: 1px solid #CED4DA;
+            border-radius: 6px;
+            font-size: 14px;
+            margin-bottom: 16px;
+            outline: none;
+        }
+        .search-box:focus {
+            border-color: var(--secondary);
+            box-shadow: 0 0 0 3px rgba(69, 123, 157, 0.2);
+        }
+        .table-responsive {
+            max-height: 520px;
+            overflow-y: auto;
+            border: 1px solid #E9ECEF;
+            border-radius: 8px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            text-align: left;
+        }
+        th {
+            background-color: #F1F3F5;
+            color: var(--primary);
+            padding: 12px 14px;
+            font-weight: 700;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            border-bottom: 2px solid #DEE2E6;
+        }
+        td {
+            padding: 10px 14px;
+            border-bottom: 1px solid #E9ECEF;
+        }
+        tr:hover td {
+            background-color: #F8F9FA;
+        }
+        .badge-link {
+            display: inline-block;
+            padding: 4px 8px;
+            margin: 2px 4px 2px 0;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .badge-link.wiki { background: #E2E8F0; color: #1E293B; }
+        .badge-link.hum { background: #FEE2E2; color: #991B1B; }
+        .badge-link.agency { background: #CCFBF1; color: #115E59; }
+        .badge-link:hover { text-decoration: underline; }
+        .footer-note {
+            font-size: 12px;
+            color: #6C757D;
+            margin-top: 16px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dashboard-container">
+    <div class="header-box">
+        <h1>🌪️ Pan-African Full-Year Windstorm & Cyclone 72-Hour Discrete Events Timeline (1980–2026)</h1>
+        <p>
+            <b>Full-Year 365-Day Continuous Surveillance:</b> Evaluates all high-speed wind events occurring across the complete calendar year across Africa (independent of crop calendar). Continuous storm winds within a rolling 72-hour window are aggregated into 1 single discrete reinsurance event taking peak intensity.<br>
+            Strictly filtered to <b>Peak Wind Speeds ≥ 63 km/h (34 kt gale force)</b>. Categorized by the Saffir-Simpson Hurricane Wind Scale (Categories 1–5 & Tropical Storm Gale).
+        </p>
+    </div>
+
+    <div class="kpi-row">
+        <div class="kpi-card">
+            <div class="kpi-title">Total Verified 72h Discrete Events</div>
+            <div class="kpi-val">36</div>
+            <div class="kpi-sub">Full-Year Winds ≥ 63 km/h (1980–2026)</div>
+        </div>
+        <div class="kpi-card agro">
+            <div class="kpi-title">Tropical Storm Gale Events</div>
+            <div class="kpi-val">0</div>
+            <div class="kpi-sub">Winds 63–118 km/h (34–63 kt)</div>
+        </div>
+        <div class="kpi-card property">
+            <div class="kpi-title">Hurricane Force Cat 1+ Events</div>
+            <div class="kpi-val">36</div>
+            <div class="kpi-sub">Winds ≥ 119 km/h (Property Structural Failure)</div>
+        </div>
+        <div class="kpi-card max">
+            <div class="kpi-title">Historical Peak Intensity (ERA5 Land)</div>
+            <div class="kpi-val">170.8 <span style="font-size:16px;">km/h</span></div>
+            <div class="kpi-sub"><b>Cyclone Batsirai (2022)</b> — Vatovavy, Madagascar<br><span style="font-size:11px; color:#555;">Kenneth (2019): 177.2 km/h ERA5 land | 220 km/h IBTrACS coastal eye</span></div>
+        </div>
+    </div>
+
+    <div class="plot-container">
+        <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script charset="utf-8" src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>                <div id="cyclone_timeline_plot" class="plotly-graph-div" style="height:720px; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("cyclone_timeline_plot")) {                    Plotly.newPlot(                        "cyclone_timeline_plot",                        [{"customdata":[["GERALDA",1994,"Madagascar","Atsinanana","1994-02-01","1994-02-04",154.6,83.5,"\ud83d\udfe2 IN-SEASON: Severe storm (154.6 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 154.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Geralda Report","https:\u002f\u002freliefweb.int\u002freport\u002fmadagascar\u002fmadagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6","ReliefWeb Reports: Cyclone Geralda (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Geralda%20Madagascar","Wikipedia: Cyclone Geralda (1994)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Geralda"],["HUDAH",2000,"Madagascar","Sava","2000-04-01","2000-04-04",156.0,84.2,"\ud83d\udfe2 IN-SEASON: Severe storm (156.0 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 156.0 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Hudah Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f468\u002fcyclone-hudah","ReliefWeb Reports: Cyclone Hudah (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Hudah%20Madagascar","Wikipedia: Cyclone Hudah (2000)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Hudah"],["BATSIRAI",2022,"Madagascar","Vatovavy","2022-02-04","2022-02-07",170.8,92.2,"\ud83d\udfe2 IN-SEASON: Severe storm (170.8 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 170.8 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Batsirai Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f149420\u002fcyclone-batsirai-approaches-madagascar","ReliefWeb Reports: Cyclone Batsirai (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Batsirai%20Madagascar","Wikipedia: Cyclone Batsirai (2022)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Batsirai"],["FREDDY",2023,"Madagascar","Vatovavy","2023-02-20","2023-02-24",159.9,86.3,"\ud83d\udfe2 IN-SEASON: Severe storm (159.9 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 159.9 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Freddy Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f151044\u002fcyclone-freddy-crosses-the-indian-ocean","ReliefWeb Reports: Cyclone Freddy (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Freddy%20Madagascar","Wikipedia: Cyclone Freddy (2023)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Freddy"]],"hovertemplate":"\u003cb\u003e%{customdata[0]} (%{customdata[1]})\u003c\u002fb\u003e\u003cbr\u003e\ud83d\udccd \u003cb\u003e%{customdata[3]}, %{customdata[2]}\u003c\u002fb\u003e\u003cbr\u003e\u23f1\ufe0f \u003cb\u003e72h Event Window:\u003c\u002fb\u003e %{customdata[4]} to %{customdata[5]}\u003cbr\u003e\ud83d\udca8 \u003cb\u003ePeak Wind Speed:\u003c\u002fb\u003e %{customdata[6]:.1f} km\u002fh (%{customdata[7]:.1f} kt)\u003cbr\u003e\ud83c\udfe2 \u003cb\u003eProperty Status:\u003c\u002fb\u003e %{customdata[9]}\u003cbr\u003e\ud83c\udf3e \u003cb\u003eAgro Status:\u003c\u002fb\u003e %{customdata[8]}\u003cbr\u003e\u003ci\u003e\ud83d\udc47 Click to inspect & visit references below\u003c\u002fi\u003e\u003cextra\u003e\u003c\u002fextra\u003e","marker":{"color":"#F4A261","line":{"color":"#FFFFFF","width":1.4},"opacity":0.92,"size":[18.085714285714285,18.285714285714285,20.400000000000002,18.84285714285714]},"mode":"markers","name":"Category 2 Hurricane (154\u2013177 km\u002fh)","x":[1993.8973554238573,2000.161168003955,2022.0587882437485,2022.9967500198454],"y":[154.6,156.0,170.8,159.9],"type":"scatter"},{"customdata":[["KAMISY",1984,"Madagascar","Boeny","1984-04-04","1984-04-07",125.6,67.8,"\u26aa OFF-SEASON: Severe storm (125.6 km\u002fh) occurred outside maize crop calendar (no standing crop exposure).","\ud83d\udd34 PROPERTY TRIGGERED: Wind 125.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Kamisy Report","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Kamisy","ReliefWeb Reports: Cyclone Kamisy (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Kamisy%20Madagascar","Wikipedia: Cyclone Kamisy (1984)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Kamisy"],["HONORININA",1986,"Madagascar","Alaotra-Mangoro","1986-03-08","1986-03-11",123.7,66.8,"\ud83d\udfe2 IN-SEASON: Severe storm (123.7 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 123.7 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Honorinina Report","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Honorinina","ReliefWeb Reports: Cyclone Honorinina (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Honorinina%20Madagascar","Wikipedia: Cyclone Honorinina (1986)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Honorinina"],["CYNTHIA",1991,"Madagascar","Menabe","1991-02-16","1991-02-19",132.8,71.7,"\ud83d\udfe2 IN-SEASON: Severe storm (132.8 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 132.8 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Cynthia Report","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002f1990%E2%80%9391_South-West_Indian_Ocean_cyclone_season#Tropical_Cyclone_Cynthia","ReliefWeb Reports: Cyclone Cynthia (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Cynthia%20Madagascar","Wikipedia: Cyclone Cynthia (1991)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002f1990%E2%80%9391_South-West_Indian_Ocean_cyclone_season#Tropical_Cyclone_Cynthia"],["GERALDA",1994,"Madagascar","Itasy","1994-01-26","1994-01-29",133.4,72.0,"\ud83d\udfe2 IN-SEASON: Severe storm (133.4 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 133.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Geralda Report","https:\u002f\u002freliefweb.int\u002freport\u002fmadagascar\u002fmadagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6","ReliefWeb Reports: Cyclone Geralda (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Geralda%20Madagascar","Wikipedia: Cyclone Geralda (1994)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Geralda"],["GERALDA",1994,"Madagascar","Analamanga","1994-01-26","1994-01-29",135.9,73.4,"\ud83d\udfe2 IN-SEASON: Severe storm (135.9 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 135.9 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Geralda Report","https:\u002f\u002freliefweb.int\u002freport\u002fmadagascar\u002fmadagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6","ReliefWeb Reports: Cyclone Geralda (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Geralda%20Madagascar","Wikipedia: Cyclone Geralda (1994)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Geralda"],["GERALDA",1994,"Madagascar","Alaotra-Mangoro","1994-01-26","1994-01-29",136.7,73.8,"\ud83d\udfe2 IN-SEASON: Severe storm (136.7 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 136.7 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Geralda Report","https:\u002f\u002freliefweb.int\u002freport\u002fmadagascar\u002fmadagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6","ReliefWeb Reports: Cyclone Geralda (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Geralda%20Madagascar","Wikipedia: Cyclone Geralda (1994)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Geralda"],["GRETELLE",1997,"Madagascar","Anosy","1997-01-20","1997-01-23",137.2,74.1,"\ud83d\udfe2 IN-SEASON: Severe storm (137.2 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 137.2 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","WMO \u002f RSMC Archive: Cyclone Gretelle Report","https:\u002f\u002freliefweb.int\u002freport\u002fmadagascar\u002fmadagascar-cyclone-gretelle-jan-1997-un-dha-information-report-no-1","ReliefWeb Reports: Cyclone Gretelle (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Gretelle%20Madagascar","Wikipedia: Cyclone Gretelle (1997)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Gretelle"],["HUDAH",2000,"Madagascar","Sofia","2000-03-25","2000-03-28",137.4,74.2,"\u26aa OFF-SEASON: Severe storm (137.4 km\u002fh) occurred outside maize crop calendar (no standing crop exposure).","\ud83d\udd34 PROPERTY TRIGGERED: Wind 137.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Hudah Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f468\u002fcyclone-hudah","ReliefWeb Reports: Cyclone Hudah (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Hudah%20Madagascar","Wikipedia: Cyclone Hudah (2000)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Hudah"],["JAPHET",2003,"Mozambique","Vilanculos","2003-02-26","2003-03-01",138.6,74.8,"\ud83d\udfe2 IN-SEASON: Severe storm (138.6 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 138.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Japhet Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f3229\u002fcyclone-japhet","ReliefWeb Reports: Cyclone Japhet (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Japhet%20Mozambique","Wikipedia: Cyclone Japhet (2003)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Japhet"],["ELITA",2004,"Madagascar","Menabe","2004-01-26","2004-01-29",120.5,65.1,"\ud83d\udfe2 IN-SEASON: Severe storm (120.5 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 120.5 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Elita Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f4188\u002fcyclone-elita","ReliefWeb Reports: Cyclone Elita (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Elita%20Madagascar","Wikipedia: Cyclone Elita (2004)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Elita"],["GAFILO",2004,"Madagascar","Melaky","2004-03-02","2004-03-05",132.4,71.5,"\ud83d\udfe2 IN-SEASON: Severe storm (132.4 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 132.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Gafilo Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f13010\u002fcyclone-gafilo","ReliefWeb Reports: Cyclone Gafilo (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Gafilo%20Madagascar","Wikipedia: Cyclone Gafilo (2004)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Gafilo"],["GAFILO",2004,"Madagascar","Sofia","2004-03-02","2004-03-05",128.6,69.4,"\ud83d\udfe2 IN-SEASON: Severe storm (128.6 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 128.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Gafilo Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f13010\u002fcyclone-gafilo","ReliefWeb Reports: Cyclone Gafilo (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Gafilo%20Madagascar","Wikipedia: Cyclone Gafilo (2004)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Gafilo"],["GAFILO",2004,"Madagascar","Boeny","2004-03-02","2004-03-05",121.4,65.6,"\ud83d\udfe2 IN-SEASON: Severe storm (121.4 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 121.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Gafilo Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f13010\u002fcyclone-gafilo","ReliefWeb Reports: Cyclone Gafilo (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Gafilo%20Madagascar","Wikipedia: Cyclone Gafilo (2004)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Gafilo"],["GAFILO",2004,"Madagascar","Sava","2004-03-06","2004-03-09",140.4,75.8,"\ud83d\udfe2 IN-SEASON: Severe storm (140.4 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 140.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Gafilo Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f13010\u002fcyclone-gafilo","ReliefWeb Reports: Cyclone Gafilo (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Gafilo%20Madagascar","Wikipedia: Cyclone Gafilo (2004)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Gafilo"],["IVAN",2008,"Madagascar","Alaotra-Mangoro","2008-02-06","2008-02-09",137.1,74.0,"\ud83d\udfe2 IN-SEASON: Severe storm (137.1 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 137.1 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Ivan Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f8499\u002fcyclone-ivan","ReliefWeb Reports: Cyclone Ivan (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Ivan%20Madagascar","Wikipedia: Cyclone Ivan (2008)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Ivan"],["GIOVANNA",2012,"Madagascar","Itasy","2012-02-09","2012-02-12",127.9,69.1,"\ud83d\udfe2 IN-SEASON: Severe storm (127.9 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 127.9 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Giovanna Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f77180\u002fcyclone-giovanna-approaches-madagascar","ReliefWeb Reports: Cyclone Giovanna (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Giovanna%20Madagascar","Wikipedia: Cyclone Giovanna (2012)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Giovanna"],["HARUNA",2013,"Madagascar","Atsimo-Andrefana","2013-02-18","2013-02-21",144.4,78.0,"\ud83d\udfe2 IN-SEASON: Severe storm (144.4 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 144.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Haruna Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f80479\u002fcyclone-haruna-approaches-madagascar","ReliefWeb Reports: Cyclone Haruna (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Haruna%20Madagascar","Wikipedia: Cyclone Haruna (2013)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Haruna"],["ENAWO",2017,"Madagascar","Betsiboka","2017-03-03","2017-03-06",121.0,65.3,"\ud83d\udfe2 IN-SEASON: Severe storm (121.0 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 121.0 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Enawo Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f89809\u002fcyclone-enawo-over-madagascar","ReliefWeb Reports: Cyclone Enawo (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Enawo%20Madagascar","Wikipedia: Cyclone Enawo (2017)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Enawo"],["ENAWO",2017,"Madagascar","Sava","2017-03-06","2017-03-09",145.4,78.5,"\ud83d\udfe2 IN-SEASON: Severe storm (145.4 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 145.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Enawo Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f89809\u002fcyclone-enawo-over-madagascar","ReliefWeb Reports: Cyclone Enawo (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Enawo%20Madagascar","Wikipedia: Cyclone Enawo (2017)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Enawo"],["CAPE_TOWN_GALE",2017,"South Africa","Cape Winelands","2017-06-06","2017-06-09",137.6,74.3,"\ud83d\udfe2 IN-SEASON: Severe storm (137.6 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 137.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","Meteorological Dossier: Cyclone Cape_Town_Gale","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Cape_Town_Gale","ReliefWeb Reports: Cyclone Cape_Town_Gale (South Africa)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Cape_Town_Gale%20South%20Africa","Wikipedia: Cyclone Cape_Town_Gale (2017)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Cape_Town_Gale"],["CAPE_TOWN_GALE",2017,"South Africa","Overberg","2017-06-06","2017-06-09",129.4,69.9,"\ud83d\udfe2 IN-SEASON: Severe storm (129.4 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 129.4 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","Meteorological Dossier: Cyclone Cape_Town_Gale","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Cape_Town_Gale","ReliefWeb Reports: Cyclone Cape_Town_Gale (South Africa)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Cape_Town_Gale%20South%20Africa","Wikipedia: Cyclone Cape_Town_Gale (2017)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Cape_Town_Gale"],["IDAI",2019,"Mozambique","Dondo","2019-03-05","2019-03-08",147.8,79.8,"\ud83d\udfe2 IN-SEASON: Severe storm (147.8 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 147.8 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Idai Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f144697\u002fcyclone-idai-approaches-mozambique","ReliefWeb Reports: Cyclone Idai (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Idai%20Mozambique","Wikipedia: Cyclone Idai (2019)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Idai"],["IDAI",2019,"Mozambique","Nhamatanda","2019-03-05","2019-03-08",123.0,66.4,"\ud83d\udfe2 IN-SEASON: Severe storm (123.0 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 123.0 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Idai Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f144697\u002fcyclone-idai-approaches-mozambique","ReliefWeb Reports: Cyclone Idai (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Idai%20Mozambique","Wikipedia: Cyclone Idai (2019)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Idai"],["IDAI",2019,"Mozambique","Sussundenga","2019-03-05","2019-03-08",126.5,68.3,"\ud83d\udfe2 IN-SEASON: Severe storm (126.5 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 126.5 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Idai Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f144697\u002fcyclone-idai-approaches-mozambique","ReliefWeb Reports: Cyclone Idai (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Idai%20Mozambique","Wikipedia: Cyclone Idai (2019)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Idai"],["IDAI",2019,"Mozambique","Beira","2019-03-13","2019-03-16",147.8,79.8,"\ud83d\udfe2 IN-SEASON: Severe storm (147.8 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 147.8 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Idai Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f144697\u002fcyclone-idai-approaches-mozambique","ReliefWeb Reports: Cyclone Idai (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Idai%20Mozambique","Wikipedia: Cyclone Idai (2019)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Idai"],["IDAI",2019,"Mozambique","Buzi","2019-03-13","2019-03-16",140.6,75.9,"\ud83d\udfe2 IN-SEASON: Severe storm (140.6 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 140.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Idai Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f144697\u002fcyclone-idai-approaches-mozambique","ReliefWeb Reports: Cyclone Idai (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Idai%20Mozambique","Wikipedia: Cyclone Idai (2019)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Idai"],["ELOISE",2021,"Mozambique","Dondo","2021-01-16","2021-01-19",122.6,66.2,"\ud83d\udfe2 IN-SEASON: Severe storm (122.6 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 122.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Eloise Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f147822\u002fcyclone-eloise-soaks-mozambique","ReliefWeb Reports: Cyclone Eloise (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Eloise%20Mozambique","Wikipedia: Cyclone Eloise (2021)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Eloise"],["ELOISE",2021,"Mozambique","Beira","2021-01-22","2021-01-25",127.1,68.6,"\ud83d\udfe2 IN-SEASON: Severe storm (127.1 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 127.1 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Eloise Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f147822\u002fcyclone-eloise-soaks-mozambique","ReliefWeb Reports: Cyclone Eloise (Mozambique)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Eloise%20Mozambique","Wikipedia: Cyclone Eloise (2021)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Eloise"],["BATSIRAI",2022,"Madagascar","Haute matsiatra","2022-01-27","2022-01-30",148.0,79.9,"\ud83d\udfe2 IN-SEASON: Severe storm (148.0 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 148.0 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Batsirai Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f149420\u002fcyclone-batsirai-approaches-madagascar","ReliefWeb Reports: Cyclone Batsirai (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Batsirai%20Madagascar","Wikipedia: Cyclone Batsirai (2022)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Batsirai"],["EMNATI",2022,"Madagascar","Anosy","2022-02-16","2022-02-19",139.6,75.4,"\ud83d\udfe2 IN-SEASON: Severe storm (139.6 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 139.6 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Emnati Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f149495\u002fcyclone-emnati-nears-madagascar","ReliefWeb Reports: Cyclone Emnati (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Emnati%20Madagascar","Wikipedia: Cyclone Emnati (2022)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Emnati"],["FREDDY",2023,"Madagascar","Amoron'i mania","2023-02-14","2023-02-17",120.2,64.9,"\ud83d\udfe2 IN-SEASON: Severe storm (120.2 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 120.2 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Freddy Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f151044\u002fcyclone-freddy-crosses-the-indian-ocean","ReliefWeb Reports: Cyclone Freddy (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Freddy%20Madagascar","Wikipedia: Cyclone Freddy (2023)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Freddy"],["FREDDY",2023,"Madagascar","Haute matsiatra","2023-02-14","2023-02-17",124.7,67.3,"\ud83d\udfe2 IN-SEASON: Severe storm (124.7 km\u002fh) coincided with active maize growing calendar.","\ud83d\udd34 PROPERTY TRIGGERED: Wind 124.7 km\u002fh reached Category 1+ structural damage threshold (365-day property exposure).","NASA Earth Observatory: Cyclone Freddy Satellite Dossier","https:\u002f\u002fearthobservatory.nasa.gov\u002fimages\u002f151044\u002fcyclone-freddy-crosses-the-indian-ocean","ReliefWeb Reports: Cyclone Freddy (Madagascar)","https:\u002f\u002freliefweb.int\u002fupdates?search=Cyclone%20Freddy%20Madagascar","Wikipedia: Cyclone Freddy (2023)","https:\u002f\u002fen.wikipedia.org\u002fwiki\u002fCyclone_Freddy"]],"hovertemplate":"\u003cb\u003e%{customdata[0]} (%{customdata[1]})\u003c\u002fb\u003e\u003cbr\u003e\ud83d\udccd \u003cb\u003e%{customdata[3]}, %{customdata[2]}\u003c\u002fb\u003e\u003cbr\u003e\u23f1\ufe0f \u003cb\u003e72h Event Window:\u003c\u002fb\u003e %{customdata[4]} to %{customdata[5]}\u003cbr\u003e\ud83d\udca8 \u003cb\u003ePeak Wind Speed:\u003c\u002fb\u003e %{customdata[6]:.1f} km\u002fh (%{customdata[7]:.1f} kt)\u003cbr\u003e\ud83c\udfe2 \u003cb\u003eProperty Status:\u003c\u002fb\u003e %{customdata[9]}\u003cbr\u003e\ud83c\udf3e \u003cb\u003eAgro Status:\u003c\u002fb\u003e %{customdata[8]}\u003cbr\u003e\u003ci\u003e\ud83d\udc47 Click to inspect & visit references below\u003c\u002fi\u003e\u003cextra\u003e\u003c\u002fextra\u003e","marker":{"color":"#E9C46A","line":{"color":"#FFFFFF","width":1.4},"opacity":0.92,"size":[13.942857142857141,13.671428571428573,14.971428571428573,15.057142857142857,15.414285714285715,15.528571428571427,15.599999999999998,15.62857142857143,15.799999999999999,13.214285714285714,14.914285714285715,14.37142857142857,13.342857142857143,16.057142857142857,15.585714285714285,14.271428571428572,16.62857142857143,13.285714285714286,16.771428571428572,15.657142857142857,14.485714285714286,17.114285714285714,13.571428571428571,14.071428571428571,17.114285714285714,16.085714285714285,13.514285714285714,14.157142857142857,17.142857142857142,15.942857142857143,13.171428571428573,13.814285714285715]},"mode":"markers","name":"Category 1 Hurricane (119\u2013153 km\u002fh)","x":[1984.1135926093405,1985.8385258889377,1991.0763304080003,1993.8619874776832,1993.8852002915542,1994.1251057492652,1997.0290454817882,1999.8885712437661,2002.8794374831862,2003.8791957011938,2004.0183675894382,2003.9013812781247,2003.9048163985965,2004.1379214251772,2008.079292540643,2012.1026154123917,2012.9947490922534,2016.8026250095834,2016.9475301680584,2016.8816864864918,2016.8535913507062,2018.8247122468244,2019.0139634693448,2019.063409194933,2019.1355027270033,2018.8540438064686,2021.0013468148265,2020.9925704135512,2021.8195823016335,2021.9968891891265,2023.1225197096671,2022.8981604381668],"y":[125.6,123.7,132.8,133.4,135.9,136.7,137.2,137.4,138.6,120.5,132.4,128.6,121.4,140.4,137.1,127.9,144.4,121.0,145.4,137.6,129.4,147.8,123.0,126.5,147.8,140.6,122.6,127.1,148.0,139.6,120.2,124.7],"type":"scatter"}],                        {"template":{"data":{"barpolar":[{"marker":{"line":{"color":"white","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"white","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"#C8D4E3","linecolor":"#C8D4E3","minorgridcolor":"#C8D4E3","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"#C8D4E3","linecolor":"#C8D4E3","minorgridcolor":"#C8D4E3","startlinecolor":"#2a3f5f"},"type":"carpet"}],"choropleth":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"choropleth"}],"contourcarpet":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"contourcarpet"}],"contour":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"contour"}],"heatmapgl":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"heatmapgl"}],"heatmap":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"heatmap"}],"histogram2dcontour":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"histogram2dcontour"}],"histogram2d":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"histogram2d"}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"mesh3d":[{"colorbar":{"outlinewidth":0,"ticks":""},"type":"mesh3d"}],"parcoords":[{"line":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"parcoords"}],"pie":[{"automargin":true,"type":"pie"}],"scatter3d":[{"line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatter3d"}],"scattercarpet":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattercarpet"}],"scattergeo":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattergeo"}],"scattergl":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattergl"}],"scattermapbox":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scattermapbox"}],"scatterpolargl":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterpolargl"}],"scatterpolar":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterpolar"}],"scatter":[{"fillpattern":{"fillmode":"overlay","size":10,"solidity":0.2},"type":"scatter"}],"scatterternary":[{"marker":{"colorbar":{"outlinewidth":0,"ticks":""}},"type":"scatterternary"}],"surface":[{"colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"type":"surface"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}]},"layout":{"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"autotypenumbers":"strict","coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]],"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]},"colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"geo":{"bgcolor":"white","lakecolor":"white","landcolor":"white","showlakes":true,"showland":true,"subunitcolor":"#C8D4E3"},"hoverlabel":{"align":"left"},"hovermode":"closest","mapbox":{"style":"light"},"paper_bgcolor":"white","plot_bgcolor":"white","polar":{"angularaxis":{"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":""},"bgcolor":"white","radialaxis":{"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":""}},"scene":{"xaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"},"yaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"},"zaxis":{"backgroundcolor":"white","gridcolor":"#DFE8F3","gridwidth":2,"linecolor":"#EBF0F8","showbackground":true,"ticks":"","zerolinecolor":"#EBF0F8"}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"ternary":{"aaxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"baxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""},"bgcolor":"white","caxis":{"gridcolor":"#DFE8F3","linecolor":"#A2B1C6","ticks":""}},"title":{"x":0.05},"xaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2},"yaxis":{"automargin":true,"gridcolor":"#EBF0F8","linecolor":"#EBF0F8","ticks":"","title":{"standoff":15},"zerolinecolor":"#EBF0F8","zerolinewidth":2}}},"shapes":[{"fillcolor":"rgba(233, 196, 106, 0.12)","line":{"width":0},"type":"rect","x0":0,"x1":1,"xref":"x domain","y0":119,"y1":154,"yref":"y"},{"fillcolor":"rgba(244, 162, 97, 0.12)","line":{"width":0},"type":"rect","x0":0,"x1":1,"xref":"x domain","y0":154,"y1":178,"yref":"y"},{"fillcolor":"rgba(231, 111, 81, 0.13)","line":{"width":0},"type":"rect","x0":0,"x1":1,"xref":"x domain","y0":178,"y1":209,"yref":"y"},{"fillcolor":"rgba(217, 4, 41, 0.14)","line":{"width":0},"type":"rect","x0":0,"x1":1,"xref":"x domain","y0":209,"y1":252,"yref":"y"},{"fillcolor":"rgba(106, 4, 15, 0.16)","line":{"width":0},"type":"rect","x0":0,"x1":1,"xref":"x domain","y0":252,"y1":280,"yref":"y"},{"line":{"color":"#E9C46A","dash":"dash","width":2.0},"type":"line","x0":0,"x1":1,"xref":"x domain","y0":119.0,"y1":119.0,"yref":"y"},{"line":{"color":"#F4A261","dash":"dash","width":2.0},"type":"line","x0":0,"x1":1,"xref":"x domain","y0":154.0,"y1":154.0,"yref":"y"},{"line":{"color":"#E76F51","dash":"dash","width":2.0},"type":"line","x0":0,"x1":1,"xref":"x domain","y0":178.0,"y1":178.0,"yref":"y"},{"line":{"color":"#D90429","dash":"dash","width":2.0},"type":"line","x0":0,"x1":1,"xref":"x domain","y0":209.0,"y1":209.0,"yref":"y"},{"line":{"color":"#6A040F","dash":"dash","width":2.0},"type":"line","x0":0,"x1":1,"xref":"x domain","y0":252.0,"y1":252.0,"yref":"y"}],"annotations":[{"font":{"color":"#E9C46A","family":"Arial Black","size":11},"showarrow":false,"text":"\u003cb\u003eSaffir-Simpson: Category 1 Hurricane (\u2265 119 km\u002fh \u002f 64 kt) \u2014 Property Attachment Trigger\u003c\u002fb\u003e","x":0,"xanchor":"left","xref":"x domain","y":119.0,"yanchor":"bottom","yref":"y"},{"font":{"color":"#F4A261","family":"Arial Black","size":11},"showarrow":false,"text":"\u003cb\u003eSaffir-Simpson: Category 2 Hurricane (\u2265 154 km\u002fh \u002f 83 kt) \u2014 Roof & Structural Uplift\u003c\u002fb\u003e","x":0,"xanchor":"left","xref":"x domain","y":154.0,"yanchor":"bottom","yref":"y"},{"font":{"color":"#E76F51","family":"Arial Black","size":11},"showarrow":false,"text":"\u003cb\u003eSaffir-Simpson: Category 3 Major Hurricane (\u2265 178 km\u002fh \u002f 96 kt) \u2014 Extensive Building Damage\u003c\u002fb\u003e","x":0,"xanchor":"left","xref":"x domain","y":178.0,"yanchor":"bottom","yref":"y"},{"font":{"color":"#D90429","family":"Arial Black","size":11},"showarrow":false,"text":"\u003cb\u003eSaffir-Simpson: Category 4 Major Hurricane (\u2265 209 km\u002fh \u002f 113 kt) \u2014 Major Structural Failure\u003c\u002fb\u003e","x":0,"xanchor":"left","xref":"x domain","y":209.0,"yanchor":"bottom","yref":"y"},{"font":{"color":"#6A040F","family":"Arial Black","size":11},"showarrow":false,"text":"\u003cb\u003eSaffir-Simpson: Category 5 Catastrophic Hurricane (\u2265 252 km\u002fh \u002f 136 kt) \u2014 Catastrophic Rupture\u003c\u002fb\u003e","x":0,"xanchor":"left","xref":"x domain","y":252.0,"yanchor":"bottom","yref":"y"}],"title":{"font":{"size":17,"color":"#1D3557"},"text":"\u003cb\u003ePan-African Full-Year Commercial Property & Infrastructure Cyclone 72-Hour Discrete Events Timeline (1980\u20132026)\u003c\u002fb\u003e\u003cbr\u003e\u003cspan style='font-size:13px; color:#555;'\u003eReinsurance 72-Hour Hours Clause | Filtered Strictly to Category 1+ Hurricane Force (Peak Wind \u2265 119 km\u002fh \u002f 64 kt) | 365-Day Continuous Property Exposure\u003c\u002fspan\u003e","x":0.01,"y":0.97},"xaxis":{"title":{"text":"\u003cb\u003eHistorical Year (1980 \u2013 2026)\u003c\u002fb\u003e"},"tickmode":"linear","tick0":1980,"dtick":2,"range":[1979,2027],"gridcolor":"#E5E5E5","showline":true,"linecolor":"#1D3557"},"yaxis":{"title":{"text":"\u003cb\u003ePeak 72-Hour Wind Speed (km\u002fh)\u003c\u002fb\u003e"},"range":[110,215],"gridcolor":"#E5E5E5","zeroline":false,"showline":true,"linecolor":"#1D3557"},"legend":{"orientation":"h","yanchor":"bottom","y":1.02,"xanchor":"right","x":1.0,"bgcolor":"rgba(255, 255, 255, 0.88)","bordercolor":"#CCCCCC","borderwidth":1},"margin":{"l":65,"r":40,"t":110,"b":65},"height":720},                        {"responsive": true}                    )                };                            </script>        </div>
+    </div>
+
+    <!-- Active Event Inspection & Live References Panel -->
+    <div id="inspectionCard" class="inspection-card">
+        <div class="inspection-header">
+            <div>
+                <h3 id="cardTitle" class="inspection-title">🌪️ BATSIRAI (2022) — Vatovavy, Madagascar</h3>
+                <span style="font-size:13px; color:#6C757D;">Click or hover over any storm dot in the plot above to update this reference panel.</span>
+            </div>
+            <span id="cardBadge" class="inspection-badge cat1">Category 2 Hurricane</span>
+        </div>
+
+        <div class="inspection-grid">
+            <div class="info-block">
+                <div class="info-label">⏱️ 72-Hour Reinsurance Window</div>
+                <div id="cardDates" class="info-val">2022-02-04 to 2022-02-07</div>
+            </div>
+            <div class="info-block">
+                <div class="info-label">💨 Peak Wind Speed</div>
+                <div id="cardWind" class="info-val" style="color:var(--property); font-size:16px;">170.8 km/h (92.2 kt)</div>
+            </div>
+        </div>
+
+        <div style="font-size:13px; font-weight:700; color:var(--primary); margin-bottom:8px;">
+            🔗 Direct Verified References & Reports (Click to Visit):
+        </div>
+        <div class="links-container">
+            <a id="cardWikiBtn" href="https://en.wikipedia.org/wiki/Cyclone_Batsirai" target="_blank" class="action-link-btn wiki">
+                📖 Wikipedia: Cyclone Batsirai (2022) ↗
+            </a>
+            <a id="cardHumBtn" href="https://reliefweb.int/updates?search=Cyclone%20Batsirai%20Madagascar" target="_blank" class="action-link-btn hum">
+                🌐 ReliefWeb Reports: Cyclone Batsirai (Madagascar) ↗
+            </a>
+            <a id="cardAgencyBtn" href="https://earthobservatory.nasa.gov/images/149420/cyclone-batsirai-approaches-madagascar" target="_blank" class="action-link-btn agency">
+                📑 NASA Earth Observatory: Cyclone Batsirai Satellite Dossier ↗
+            </a>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <h2>📑 Verified Historical Event Catalogue with Ground-Truth Evidence (1980–2026)</h2>
+        <input type="text" id="searchInput" class="search-box" placeholder="🔍 Search by Cyclone Name, Country, District, or Year..." onkeyup="filterTable()">
+        
+        <div class="table-responsive">
+            <table id="eventsTable">
+                <thead>
+                    <tr>
+                        <th onclick="sortTable(0)" style="cursor:pointer;" title="Click to sort by Storm">Storm / Cyclone ↕</th>
+                        <th onclick="sortTable(1)" style="cursor:pointer;" title="Click to sort by Year">Year ↕</th>
+                        <th onclick="sortTable(2)" style="cursor:pointer;" title="Click to sort by Country">Country ↕</th>
+                        <th onclick="sortTable(3)" style="cursor:pointer;" title="Click to sort by District">District ↕</th>
+                        <th onclick="sortTable(4)" style="cursor:pointer;" title="Click to sort by 72h Window">72h Reinsurance Window ↕</th>
+                        <th onclick="sortTable(5)" style="cursor:pointer;" title="Click to sort by Wind Speed">Peak Wind Speed ↕</th>
+                        <th onclick="sortTable(6)" style="cursor:pointer;" title="Click to sort by Category">Saffir-Simpson Category ↕</th>
+                        <th>Direct Clickable References</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+        <tr>
+            <td><b>KAMISY</b></td>
+            <td>1984</td>
+            <td><b>Madagascar</b></td>
+            <td>Boeny</td>
+            <td><code>1984-04-04 to 1984-04-07</code></td>
+            <td style="font-weight:bold; color:#D90429;">125.6 km/h (67.8 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Kamisy" target="_blank" class="badge-link wiki">📖 KAMISY Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Kamisy%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Kamisy" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>HONORININA</b></td>
+            <td>1986</td>
+            <td><b>Madagascar</b></td>
+            <td>Alaotra-Mangoro</td>
+            <td><code>1986-03-08 to 1986-03-11</code></td>
+            <td style="font-weight:bold; color:#D90429;">123.7 km/h (66.8 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Honorinina" target="_blank" class="badge-link wiki">📖 HONORININA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Honorinina%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Honorinina" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>CYNTHIA</b></td>
+            <td>1991</td>
+            <td><b>Madagascar</b></td>
+            <td>Menabe</td>
+            <td><code>1991-02-16 to 1991-02-19</code></td>
+            <td style="font-weight:bold; color:#D90429;">132.8 km/h (71.7 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/1990%E2%80%9391_South-West_Indian_Ocean_cyclone_season#Tropical_Cyclone_Cynthia" target="_blank" class="badge-link wiki">📖 CYNTHIA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Cynthia%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://en.wikipedia.org/wiki/1990%E2%80%9391_South-West_Indian_Ocean_cyclone_season#Tropical_Cyclone_Cynthia" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GERALDA</b></td>
+            <td>1994</td>
+            <td><b>Madagascar</b></td>
+            <td>Atsinanana</td>
+            <td><code>1994-02-01 to 1994-02-04</code></td>
+            <td style="font-weight:bold; color:#D90429;">154.6 km/h (83.5 kt)</td>
+            <td style="text-align:center;"><span style="background:#F4A261; color:white; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 2 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Geralda" target="_blank" class="badge-link wiki">📖 GERALDA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Geralda%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://reliefweb.int/report/madagascar/madagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GERALDA</b></td>
+            <td>1994</td>
+            <td><b>Madagascar</b></td>
+            <td>Alaotra-Mangoro</td>
+            <td><code>1994-01-26 to 1994-01-29</code></td>
+            <td style="font-weight:bold; color:#D90429;">136.7 km/h (73.8 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Geralda" target="_blank" class="badge-link wiki">📖 GERALDA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Geralda%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://reliefweb.int/report/madagascar/madagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GERALDA</b></td>
+            <td>1994</td>
+            <td><b>Madagascar</b></td>
+            <td>Analamanga</td>
+            <td><code>1994-01-26 to 1994-01-29</code></td>
+            <td style="font-weight:bold; color:#D90429;">135.9 km/h (73.4 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Geralda" target="_blank" class="badge-link wiki">📖 GERALDA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Geralda%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://reliefweb.int/report/madagascar/madagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GERALDA</b></td>
+            <td>1994</td>
+            <td><b>Madagascar</b></td>
+            <td>Itasy</td>
+            <td><code>1994-01-26 to 1994-01-29</code></td>
+            <td style="font-weight:bold; color:#D90429;">133.4 km/h (72.0 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Geralda" target="_blank" class="badge-link wiki">📖 GERALDA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Geralda%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://reliefweb.int/report/madagascar/madagascar-cyclone-geralda-feb-1994-un-dha-information-reports-1-6" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GRETELLE</b></td>
+            <td>1997</td>
+            <td><b>Madagascar</b></td>
+            <td>Anosy</td>
+            <td><code>1997-01-20 to 1997-01-23</code></td>
+            <td style="font-weight:bold; color:#D90429;">137.2 km/h (74.1 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Gretelle" target="_blank" class="badge-link wiki">📖 GRETELLE Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Gretelle%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://reliefweb.int/report/madagascar/madagascar-cyclone-gretelle-jan-1997-un-dha-information-report-no-1" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>HUDAH</b></td>
+            <td>2000</td>
+            <td><b>Madagascar</b></td>
+            <td>Sava</td>
+            <td><code>2000-04-01 to 2000-04-04</code></td>
+            <td style="font-weight:bold; color:#D90429;">156.0 km/h (84.2 kt)</td>
+            <td style="text-align:center;"><span style="background:#F4A261; color:white; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 2 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Hudah" target="_blank" class="badge-link wiki">📖 HUDAH Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Hudah%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/468/cyclone-hudah" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>HUDAH</b></td>
+            <td>2000</td>
+            <td><b>Madagascar</b></td>
+            <td>Sofia</td>
+            <td><code>2000-03-25 to 2000-03-28</code></td>
+            <td style="font-weight:bold; color:#D90429;">137.4 km/h (74.2 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Hudah" target="_blank" class="badge-link wiki">📖 HUDAH Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Hudah%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/468/cyclone-hudah" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>JAPHET</b></td>
+            <td>2003</td>
+            <td><b>Mozambique</b></td>
+            <td>Vilanculos</td>
+            <td><code>2003-02-26 to 2003-03-01</code></td>
+            <td style="font-weight:bold; color:#D90429;">138.6 km/h (74.8 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Japhet" target="_blank" class="badge-link wiki">📖 JAPHET Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Japhet%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/3229/cyclone-japhet" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GAFILO</b></td>
+            <td>2004</td>
+            <td><b>Madagascar</b></td>
+            <td>Sava</td>
+            <td><code>2004-03-06 to 2004-03-09</code></td>
+            <td style="font-weight:bold; color:#D90429;">140.4 km/h (75.8 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Gafilo" target="_blank" class="badge-link wiki">📖 GAFILO Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Gafilo%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/13010/cyclone-gafilo" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GAFILO</b></td>
+            <td>2004</td>
+            <td><b>Madagascar</b></td>
+            <td>Melaky</td>
+            <td><code>2004-03-02 to 2004-03-05</code></td>
+            <td style="font-weight:bold; color:#D90429;">132.4 km/h (71.5 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Gafilo" target="_blank" class="badge-link wiki">📖 GAFILO Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Gafilo%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/13010/cyclone-gafilo" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GAFILO</b></td>
+            <td>2004</td>
+            <td><b>Madagascar</b></td>
+            <td>Sofia</td>
+            <td><code>2004-03-02 to 2004-03-05</code></td>
+            <td style="font-weight:bold; color:#D90429;">128.6 km/h (69.4 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Gafilo" target="_blank" class="badge-link wiki">📖 GAFILO Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Gafilo%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/13010/cyclone-gafilo" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GAFILO</b></td>
+            <td>2004</td>
+            <td><b>Madagascar</b></td>
+            <td>Boeny</td>
+            <td><code>2004-03-02 to 2004-03-05</code></td>
+            <td style="font-weight:bold; color:#D90429;">121.4 km/h (65.6 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Gafilo" target="_blank" class="badge-link wiki">📖 GAFILO Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Gafilo%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/13010/cyclone-gafilo" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>ELITA</b></td>
+            <td>2004</td>
+            <td><b>Madagascar</b></td>
+            <td>Menabe</td>
+            <td><code>2004-01-26 to 2004-01-29</code></td>
+            <td style="font-weight:bold; color:#D90429;">120.5 km/h (65.1 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Elita" target="_blank" class="badge-link wiki">📖 ELITA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Elita%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/4188/cyclone-elita" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>IVAN</b></td>
+            <td>2008</td>
+            <td><b>Madagascar</b></td>
+            <td>Alaotra-Mangoro</td>
+            <td><code>2008-02-06 to 2008-02-09</code></td>
+            <td style="font-weight:bold; color:#D90429;">137.1 km/h (74.0 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Ivan" target="_blank" class="badge-link wiki">📖 IVAN Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Ivan%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/8499/cyclone-ivan" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>GIOVANNA</b></td>
+            <td>2012</td>
+            <td><b>Madagascar</b></td>
+            <td>Itasy</td>
+            <td><code>2012-02-09 to 2012-02-12</code></td>
+            <td style="font-weight:bold; color:#D90429;">127.9 km/h (69.1 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Giovanna" target="_blank" class="badge-link wiki">📖 GIOVANNA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Giovanna%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/77180/cyclone-giovanna-approaches-madagascar" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>HARUNA</b></td>
+            <td>2013</td>
+            <td><b>Madagascar</b></td>
+            <td>Atsimo-Andrefana</td>
+            <td><code>2013-02-18 to 2013-02-21</code></td>
+            <td style="font-weight:bold; color:#D90429;">144.4 km/h (78.0 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Haruna" target="_blank" class="badge-link wiki">📖 HARUNA Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Haruna%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/80479/cyclone-haruna-approaches-madagascar" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>ENAWO</b></td>
+            <td>2017</td>
+            <td><b>Madagascar</b></td>
+            <td>Sava</td>
+            <td><code>2017-03-06 to 2017-03-09</code></td>
+            <td style="font-weight:bold; color:#D90429;">145.4 km/h (78.5 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Enawo" target="_blank" class="badge-link wiki">📖 ENAWO Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Enawo%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/89809/cyclone-enawo-over-madagascar" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>CAPE_TOWN_GALE</b></td>
+            <td>2017</td>
+            <td><b>South Africa</b></td>
+            <td>Cape Winelands</td>
+            <td><code>2017-06-06 to 2017-06-09</code></td>
+            <td style="font-weight:bold; color:#D90429;">137.6 km/h (74.3 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Cape_Town_Gale" target="_blank" class="badge-link wiki">📖 CAPE_TOWN_GALE Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Cape_Town_Gale%20South%20Africa" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Cape_Town_Gale" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>CAPE_TOWN_GALE</b></td>
+            <td>2017</td>
+            <td><b>South Africa</b></td>
+            <td>Overberg</td>
+            <td><code>2017-06-06 to 2017-06-09</code></td>
+            <td style="font-weight:bold; color:#D90429;">129.4 km/h (69.9 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Cape_Town_Gale" target="_blank" class="badge-link wiki">📖 CAPE_TOWN_GALE Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Cape_Town_Gale%20South%20Africa" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Cape_Town_Gale" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>ENAWO</b></td>
+            <td>2017</td>
+            <td><b>Madagascar</b></td>
+            <td>Betsiboka</td>
+            <td><code>2017-03-03 to 2017-03-06</code></td>
+            <td style="font-weight:bold; color:#D90429;">121.0 km/h (65.3 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Enawo" target="_blank" class="badge-link wiki">📖 ENAWO Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Enawo%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/89809/cyclone-enawo-over-madagascar" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>IDAI</b></td>
+            <td>2019</td>
+            <td><b>Mozambique</b></td>
+            <td>Dondo</td>
+            <td><code>2019-03-05 to 2019-03-08</code></td>
+            <td style="font-weight:bold; color:#D90429;">147.8 km/h (79.8 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Idai" target="_blank" class="badge-link wiki">📖 IDAI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Idai%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/144697/cyclone-idai-approaches-mozambique" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>IDAI</b></td>
+            <td>2019</td>
+            <td><b>Mozambique</b></td>
+            <td>Beira</td>
+            <td><code>2019-03-13 to 2019-03-16</code></td>
+            <td style="font-weight:bold; color:#D90429;">147.8 km/h (79.8 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Idai" target="_blank" class="badge-link wiki">📖 IDAI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Idai%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/144697/cyclone-idai-approaches-mozambique" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>IDAI</b></td>
+            <td>2019</td>
+            <td><b>Mozambique</b></td>
+            <td>Buzi</td>
+            <td><code>2019-03-13 to 2019-03-16</code></td>
+            <td style="font-weight:bold; color:#D90429;">140.6 km/h (75.9 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Idai" target="_blank" class="badge-link wiki">📖 IDAI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Idai%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/144697/cyclone-idai-approaches-mozambique" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>IDAI</b></td>
+            <td>2019</td>
+            <td><b>Mozambique</b></td>
+            <td>Sussundenga</td>
+            <td><code>2019-03-05 to 2019-03-08</code></td>
+            <td style="font-weight:bold; color:#D90429;">126.5 km/h (68.3 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Idai" target="_blank" class="badge-link wiki">📖 IDAI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Idai%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/144697/cyclone-idai-approaches-mozambique" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>IDAI</b></td>
+            <td>2019</td>
+            <td><b>Mozambique</b></td>
+            <td>Nhamatanda</td>
+            <td><code>2019-03-05 to 2019-03-08</code></td>
+            <td style="font-weight:bold; color:#D90429;">123.0 km/h (66.4 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Idai" target="_blank" class="badge-link wiki">📖 IDAI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Idai%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/144697/cyclone-idai-approaches-mozambique" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>ELOISE</b></td>
+            <td>2021</td>
+            <td><b>Mozambique</b></td>
+            <td>Beira</td>
+            <td><code>2021-01-22 to 2021-01-25</code></td>
+            <td style="font-weight:bold; color:#D90429;">127.1 km/h (68.6 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Eloise" target="_blank" class="badge-link wiki">📖 ELOISE Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Eloise%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/147822/cyclone-eloise-soaks-mozambique" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>ELOISE</b></td>
+            <td>2021</td>
+            <td><b>Mozambique</b></td>
+            <td>Dondo</td>
+            <td><code>2021-01-16 to 2021-01-19</code></td>
+            <td style="font-weight:bold; color:#D90429;">122.6 km/h (66.2 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Eloise" target="_blank" class="badge-link wiki">📖 ELOISE Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Eloise%20Mozambique" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/147822/cyclone-eloise-soaks-mozambique" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>BATSIRAI</b></td>
+            <td>2022</td>
+            <td><b>Madagascar</b></td>
+            <td>Vatovavy</td>
+            <td><code>2022-02-04 to 2022-02-07</code></td>
+            <td style="font-weight:bold; color:#D90429;">170.8 km/h (92.2 kt)</td>
+            <td style="text-align:center;"><span style="background:#F4A261; color:white; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 2 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Batsirai" target="_blank" class="badge-link wiki">📖 BATSIRAI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Batsirai%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/149420/cyclone-batsirai-approaches-madagascar" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>BATSIRAI</b></td>
+            <td>2022</td>
+            <td><b>Madagascar</b></td>
+            <td>Haute matsiatra</td>
+            <td><code>2022-01-27 to 2022-01-30</code></td>
+            <td style="font-weight:bold; color:#D90429;">148.0 km/h (79.9 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Batsirai" target="_blank" class="badge-link wiki">📖 BATSIRAI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Batsirai%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/149420/cyclone-batsirai-approaches-madagascar" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>EMNATI</b></td>
+            <td>2022</td>
+            <td><b>Madagascar</b></td>
+            <td>Anosy</td>
+            <td><code>2022-02-16 to 2022-02-19</code></td>
+            <td style="font-weight:bold; color:#D90429;">139.6 km/h (75.4 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Emnati" target="_blank" class="badge-link wiki">📖 EMNATI Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Emnati%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/149495/cyclone-emnati-nears-madagascar" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>FREDDY</b></td>
+            <td>2023</td>
+            <td><b>Madagascar</b></td>
+            <td>Vatovavy</td>
+            <td><code>2023-02-20 to 2023-02-24</code></td>
+            <td style="font-weight:bold; color:#D90429;">159.9 km/h (86.3 kt)</td>
+            <td style="text-align:center;"><span style="background:#F4A261; color:white; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 2 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Freddy" target="_blank" class="badge-link wiki">📖 FREDDY Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Freddy%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/151044/cyclone-freddy-crosses-the-indian-ocean" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>FREDDY</b></td>
+            <td>2023</td>
+            <td><b>Madagascar</b></td>
+            <td>Haute matsiatra</td>
+            <td><code>2023-02-14 to 2023-02-17</code></td>
+            <td style="font-weight:bold; color:#D90429;">124.7 km/h (67.3 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Freddy" target="_blank" class="badge-link wiki">📖 FREDDY Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Freddy%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/151044/cyclone-freddy-crosses-the-indian-ocean" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td><b>FREDDY</b></td>
+            <td>2023</td>
+            <td><b>Madagascar</b></td>
+            <td>Amoron'i mania</td>
+            <td><code>2023-02-14 to 2023-02-17</code></td>
+            <td style="font-weight:bold; color:#D90429;">120.2 km/h (64.9 kt)</td>
+            <td style="text-align:center;"><span style="background:#E9C46A; color:#1D3557; padding:3px 8px; border-radius:4px; font-weight:bold; font-size:11px;">Cat 1 Hurricane</span></td>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/Cyclone_Freddy" target="_blank" class="badge-link wiki">📖 FREDDY Article ↗</a>
+                <a href="https://reliefweb.int/updates?search=Cyclone%20Freddy%20Madagascar" target="_blank" class="badge-link hum">🌐 Disaster Report ↗</a>
+                <a href="https://earthobservatory.nasa.gov/images/151044/cyclone-freddy-crosses-the-indian-ocean" target="_blank" class="badge-link agency">📑 Met Archive ↗</a>
+            </td>
+        </tr>
+        
+                </tbody>
+            </table>
+        </div>
+        <div class="footer-note">
+            Data Sources: ECMWF ERA5 Continuous 10m Wind Gust Reanalysis, WMO Regional Association I, UN OCHA Situation Reports, EM-DAT Disasters Database.
+        </div>
+    </div>
+</div>
+
+<script>
+// Interactive Event Inspection Listener
+document.addEventListener("DOMContentLoaded", function() {
+    var plotElement = document.getElementById('cyclone_timeline_plot');
+    
+    function updateCardFromData(pt) {
+        var cData = pt.customdata;
+        if (!cData) return;
+        
+        var cyclone = cData[0];
+        var year = cData[1];
+        var country = cData[2];
+        var district = cData[3];
+        var winStart = cData[4];
+        var winEnd = cData[5];
+        var vKmh = parseFloat(cData[6]);
+        var vKt = parseFloat(cData[7]);
+        var agroReason = cData[8];
+        var propReason = cData[9];
+        var agencyName = cData[10];
+        var agencyUrl = cData[11];
+        var humName = cData[12];
+        var humUrl = cData[13];
+        var wikiName = cData[14];
+        var wikiUrl = cData[15];
+        
+        document.getElementById('cardTitle').innerText = "🌪️ " + cyclone + " (" + year + ") — " + district + ", " + country;
+        document.getElementById('cardDates').innerText = winStart + " to " + winEnd;
+        document.getElementById('cardWind').innerText = vKmh.toFixed(1) + " km/h (" + vKt.toFixed(1) + " kt)";
+        
+        // Badge
+        var badge = document.getElementById('cardBadge');
+        if (vKmh >= 252) {
+            badge.innerText = "Category 5 Catastrophic Hurricane";
+            badge.className = "inspection-badge cat1";
+        } else if (vKmh >= 209) {
+            badge.innerText = "Category 4 Major Hurricane";
+            badge.className = "inspection-badge cat1";
+        } else if (vKmh >= 178) {
+            badge.innerText = "Category 3 Major Hurricane";
+            badge.className = "inspection-badge cat1";
+        } else if (vKmh >= 154) {
+            badge.innerText = "Category 2 Hurricane";
+            badge.className = "inspection-badge cat1";
+        } else if (vKmh >= 119) {
+            badge.innerText = "Category 1 Hurricane";
+            badge.className = "inspection-badge cat1";
+        } else {
+            badge.innerText = "Tropical Storm / Agro Gale (≥ 63 km/h)";
+            badge.className = "inspection-badge";
+        }
+        
+        // Links
+        var wikiBtn = document.getElementById('cardWikiBtn');
+        wikiBtn.innerText = "📖 " + wikiName + " ↗";
+        wikiBtn.href = wikiUrl;
+        
+        var humBtn = document.getElementById('cardHumBtn');
+        humBtn.innerText = "🌐 " + humName + " ↗";
+        humBtn.href = humUrl;
+        
+        var agencyBtn = document.getElementById('cardAgencyBtn');
+        agencyBtn.innerText = "📑 " + agencyName + " ↗";
+        agencyBtn.href = agencyUrl;
+    }
+    
+    if (plotElement) {
+        plotElement.on('plotly_hover', function(data) {
+            if (data.points && data.points.length > 0) {
+                updateCardFromData(data.points[0]);
+            }
+        });
+        plotElement.on('plotly_click', function(data) {
+            if (data.points && data.points.length > 0) {
+                updateCardFromData(data.points[0]);
+                document.getElementById('inspectionCard').scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        });
+    }
+});
+
+// Filter table
+function filterTable() {
+    var input, filter, table, tr, td, i, j, visible;
+    input = document.getElementById("searchInput");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("eventsTable");
+    tr = table.getElementsByTagName("tr");
+    
+    for (i = 1; i < tr.length; i++) {
+        visible = false;
+        td = tr[i].getElementsByTagName("td");
+        for (j = 0; j < td.length; j++) {
+            if (td[j]) {
+                if (td[j].innerText.toUpperCase().indexOf(filter) > -1) {
+                    visible = true;
+                    break;
+                }
+            }
+        }
+        tr[i].style.display = visible ? "" : "none";
+    }
+}
+
+// Interactive Column Header Sorting
+var sortOrders = {};
+function sortTable(columnIndex) {
+    var table = document.getElementById("eventsTable");
+    var tbody = table.querySelector("tbody");
+    var rows = Array.from(tbody.querySelectorAll("tr"));
+    
+    sortOrders[columnIndex] = !sortOrders[columnIndex];
+    var isAsc = sortOrders[columnIndex];
+    
+    rows.sort(function(rowA, rowB) {
+        var cellA = rowA.children[columnIndex].innerText.trim();
+        var cellB = rowB.children[columnIndex].innerText.trim();
+        
+        // Check for numeric values (Year is col 1, Wind speed is col 5)
+        if (columnIndex === 1) {
+            var numA = parseInt(cellA) || 0;
+            var numB = parseInt(cellB) || 0;
+            return isAsc ? (numA - numB) : (numB - numA);
+        }
+        if (columnIndex === 5) {
+            var valA = parseFloat(cellA.split(' ')[0]) || 0;
+            var valB = parseFloat(cellB.split(' ')[0]) || 0;
+            return isAsc ? (valA - valB) : (valB - valA);
+        }
+        return isAsc ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
+    });
+    
+    rows.forEach(function(r) { tbody.appendChild(r); });
+}
+</script>
+
+</body>
+</html>

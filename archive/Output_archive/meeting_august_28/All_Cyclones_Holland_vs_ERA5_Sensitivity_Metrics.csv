@@ -1,0 +1,192 @@
+country,province,district,lat,lon,cyclone_id,cyclone_name,cyclone_year,min_dist_to_eye_km,holland_max_wind_kmh,holland_peak_time,era5_v10_mean_kmh,era5_wind_gust_kmh,gust_factor,era5_gust_to_holland_ratio,delta_gust_minus_holland_kmh,impact_zone,ground_truth_verified_hit
+Mozambique,Manica,Barue,-17.992509438104207,33.2220975313472,idai_2019,Cyclone Idai,2019,165.9,44.5,2019-03-15 06:00,13.6,54.7,4.02,1.23,10.2,Outer Gale (120–250 km),False
+Mozambique,Manica,Guro,-16.971890094645435,33.538641658424275,idai_2019,Cyclone Idai,2019,284.2,28.7,2019-03-15 06:00,19.5,47.9,2.46,1.67,19.2,Peripheral (>250 km),False
+Mozambique,Manica,Macossa,-17.909766640076818,33.789505125241334,idai_2019,Cyclone Idai,2019,190.4,42.5,2019-03-15 06:00,27.7,51.3,1.85,1.21,8.8,Outer Gale (120–250 km),False
+Mozambique,Manica,Tambara,-16.963223826482412,34.10514358143015,idai_2019,Cyclone Idai,2019,300.1,28.0,2019-03-15 06:00,18.7,42.9,2.29,1.53,14.9,Peripheral (>250 km),False
+Mozambique,Sofala,Caia,-17.78237838483119,35.00832112121529,idai_2019,Cyclone Idai,2019,226.4,33.9,2019-03-15 00:00,21.3,44.3,2.08,1.31,10.4,Outer Gale (120–250 km),False
+Mozambique,Sofala,Chemba,-17.205913048566,34.63003008828114,idai_2019,Cyclone Idai,2019,289.5,28.8,2019-03-15 06:00,25.1,43.1,1.72,1.5,14.3,Peripheral (>250 km),False
+Mozambique,Sofala,Maringue,-17.85730826561168,34.484588194981534,idai_2019,Cyclone Idai,2019,216.2,37.3,2019-03-15 06:00,20.3,52.4,2.58,1.4,15.1,Outer Gale (120–250 km),False
+Mozambique,Tete,Angonia,-14.674443959423186,34.163199621701544,idai_2019,Cyclone Idai,2019,548.0,15.9,2019-03-15 06:00,11.1,38.3,3.45,2.41,22.4,Peripheral (>250 km),False
+Mozambique,Tete,Cahora Bassa,-16.025865717250774,32.50589138387366,idai_2019,Cyclone Idai,2019,357.0,21.2,2019-03-15 12:00,17.8,39.7,2.23,1.87,18.5,Peripheral (>250 km),False
+Mozambique,Tete,Changara,-16.27292924383553,33.15533282090875,idai_2019,Cyclone Idai,2019,347.7,23.0,2019-03-15 06:00,13.1,36.2,2.76,1.57,13.2,Peripheral (>250 km),False
+Mozambique,Tete,Chifunde,-14.613385983315105,32.82855901628035,idai_2019,Cyclone Idai,2019,517.6,15.7,2019-03-15 12:00,9.8,26.6,2.71,1.69,10.9,Peripheral (>250 km),False
+Mozambique,Tete,Chiuta,-15.47064092456608,33.454630203336684,idai_2019,Cyclone Idai,2019,442.5,18.9,2019-03-15 06:00,15.4,35.8,2.32,1.89,16.9,Peripheral (>250 km),False
+Mozambique,Tete,Macanga,-14.801934152663497,33.534699965724855,idai_2019,Cyclone Idai,2019,515.5,16.4,2019-03-15 06:00,14.4,33.9,2.35,2.07,17.5,Peripheral (>250 km),False
+Mozambique,Tete,Magoe,-15.903931423281588,31.366058883685458,idai_2019,Cyclone Idai,2019,372.6,20.0,2019-03-15 18:00,18.1,30.7,1.7,1.54,10.7,Peripheral (>250 km),False
+Mozambique,Tete,Maravia,-15.09288696053668,32.06519642482012,idai_2019,Cyclone Idai,2019,456.7,17.1,2019-03-15 12:00,10.1,29.9,2.96,1.75,12.8,Peripheral (>250 km),False
+Mozambique,Tete,Moatize,-15.972897324840636,34.002581143934655,idai_2019,Cyclone Idai,2019,405.3,21.1,2019-03-15 06:00,16.1,37.5,2.33,1.78,16.4,Peripheral (>250 km),False
+Mozambique,Tete,Mutarara,-16.867390540969243,34.77192803351488,idai_2019,Cyclone Idai,2019,328.4,25.5,2019-03-15 06:00,18.7,39.5,2.11,1.55,14.0,Peripheral (>250 km),False
+Mozambique,Tete,Tsangano,-15.125206936491217,34.34385683377499,idai_2019,Cyclone Idai,2019,505.6,17.3,2019-03-15 06:00,9.1,37.9,4.16,2.19,20.6,Peripheral (>250 km),False
+Mozambique,Tete,Zumbu,-15.229201190467839,30.93407441588519,idai_2019,Cyclone Idai,2019,455.8,17.0,2019-03-15 18:00,12.0,28.3,2.36,1.66,11.3,Peripheral (>250 km),False
+Mozambique,Tete,Cidade de Tete,-16.138574508267325,33.56713746616361,idai_2019,Cyclone Idai,2019,374.1,22.3,2019-03-15 06:00,12.5,36.1,2.89,1.62,13.8,Peripheral (>250 km),False
+Mozambique,Tete,Luenha,-16.86742112687652,33.11878092017298,idai_2019,Cyclone Idai,2019,285.1,27.5,2019-03-15 06:00,19.1,41.8,2.19,1.52,14.3,Peripheral (>250 km),False
+Mozambique,Zambezia,Gile,-15.927610915015402,38.30655257592137,idai_2019,Cyclone Idai,2019,452.6,13.6,2019-03-15 06:00,6.4,38.5,6.02,2.83,24.9,Peripheral (>250 km),False
+Mozambique,Zambezia,Gurue,-15.349075592141736,36.94740449401028,idai_2019,Cyclone Idai,2019,484.5,14.8,2019-03-15 06:00,11.8,41.7,3.53,2.82,26.9,Peripheral (>250 km),False
+Mozambique,Zambezia,Ile,-16.18020064041081,37.465769034320985,idai_2019,Cyclone Idai,2019,399.7,15.5,2019-03-15 06:00,11.4,35.5,3.11,2.29,20.0,Peripheral (>250 km),False
+Mozambique,Zambezia,Inhassunge,-18.055413995950648,36.80791047275936,idai_2019,Cyclone Idai,2019,183.2,34.5,2019-03-14 06:00,32.7,62.5,1.91,1.81,28.0,Outer Gale (120–250 km),False
+Mozambique,Zambezia,Lugela,-16.30555830258885,36.653320823811406,idai_2019,Cyclone Idai,2019,377.5,17.6,2019-03-15 06:00,15.2,45.7,3.01,2.6,28.1,Peripheral (>250 km),False
+Mozambique,Zambezia,Maganja da Costa,-17.10961774761628,37.625238769559765,idai_2019,Cyclone Idai,2019,304.1,19.7,2019-03-14 06:00,13.0,39.6,3.05,2.01,19.9,Peripheral (>250 km),False
+Mozambique,Zambezia,Milange,-16.018877132172836,35.991165974099836,idai_2019,Cyclone Idai,2019,409.9,18.2,2019-03-15 06:00,11.5,43.4,3.77,2.38,25.2,Peripheral (>250 km),False
+Mozambique,Zambezia,Mocuba,-16.853350081805836,36.86355693029469,idai_2019,Cyclone Idai,2019,317.0,18.8,2019-03-15 00:00,16.6,40.7,2.45,2.16,21.9,Peripheral (>250 km),False
+Mozambique,Zambezia,Alto Molocue,-15.6490394609734,37.663594169331695,idai_2019,Cyclone Idai,2019,461.9,14.2,2019-03-15 06:00,7.2,43.1,5.99,3.04,28.9,Peripheral (>250 km),False
+Mozambique,Zambezia,Mopeia,-17.83304572551324,36.06249856978365,idai_2019,Cyclone Idai,2019,208.1,30.0,2019-03-14 12:00,26.8,71.5,2.67,2.38,41.5,Outer Gale (120–250 km),False
+Mozambique,Zambezia,Morrumbala,-17.057072181189227,35.789906452054986,idai_2019,Cyclone Idai,2019,297.0,23.3,2019-03-15 00:00,27.2,53.1,1.95,2.28,29.8,Peripheral (>250 km),False
+Mozambique,Zambezia,Namacurra,-17.482194432169667,37.07354226837362,idai_2019,Cyclone Idai,2019,249.7,24.5,2019-03-14 06:00,17.8,44.8,2.52,1.83,20.3,Outer Gale (120–250 km),False
+Mozambique,Zambezia,Namarroi,-15.855191574975311,36.806917645103525,idai_2019,Cyclone Idai,2019,427.7,16.1,2019-03-15 06:00,11.7,39.9,3.41,2.48,23.8,Peripheral (>250 km),False
+Mozambique,Zambezia,Nicoadala,-17.615935781643316,36.74381051057589,idai_2019,Cyclone Idai,2019,231.8,26.6,2019-03-14 06:00,23.6,52.0,2.2,1.95,25.4,Outer Gale (120–250 km),False
+Mozambique,Zambezia,Pebane,-16.72124641407891,38.54073256370729,idai_2019,Cyclone Idai,2019,384.1,15.2,2019-03-14 06:00,8.9,37.8,4.25,2.49,22.6,Peripheral (>250 km),False
+Mozambique,Zambezia,Cidade de Quelimane,-17.862455258261367,36.914780729077265,idai_2019,Cyclone Idai,2019,205.6,30.4,2019-03-14 06:00,32.7,62.5,1.91,2.06,32.1,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Funhalouro,-23.054454245014995,34.30598242528294,idai_2019,Cyclone Idai,2019,362.0,21.8,2019-03-15 06:00,20.0,53.0,2.65,2.43,31.2,Peripheral (>250 km),False
+Mozambique,Inhambane,Govuro,-21.318131760117325,34.6768882484668,idai_2019,Cyclone Idai,2019,171.3,46.1,2019-03-15 00:00,37.5,84.7,2.26,1.84,38.6,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Homoine,-23.875685962406735,35.04128391111423,idai_2019,Cyclone Idai,2019,454.0,17.4,2019-03-15 06:00,16.1,52.5,3.26,3.02,35.1,Peripheral (>250 km),False
+Mozambique,Inhambane,Inharrime,-24.400624275729566,34.771198046100146,idai_2019,Cyclone Idai,2019,513.0,16.0,2019-03-15 06:00,13.5,46.6,3.45,2.91,30.6,Peripheral (>250 km),False
+Mozambique,Inhambane,Inhassoro,-21.750363039940943,34.85865853939365,idai_2019,Cyclone Idai,2019,221.7,35.6,2019-03-15 00:00,29.0,71.0,2.45,1.99,35.4,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Jangamo,-24.163165326372866,35.27080113570643,idai_2019,Cyclone Idai,2019,485.2,16.2,2019-03-15 06:00,16.8,50.9,3.03,3.14,34.7,Peripheral (>250 km),False
+Mozambique,Inhambane,Mabote,-22.002079779789923,33.801837419628015,idai_2019,Cyclone Idai,2019,252.6,31.3,2019-03-15 00:00,24.2,52.8,2.18,1.69,21.5,Peripheral (>250 km),False
+Mozambique,Inhambane,Massinga,-22.836326393242235,35.01996304662898,idai_2019,Cyclone Idai,2019,338.9,23.0,2019-03-15 00:00,18.6,57.8,3.11,2.51,34.8,Peripheral (>250 km),False
+Mozambique,Inhambane,Morrumbene,-23.473928590971973,35.09855149531949,idai_2019,Cyclone Idai,2019,409.1,19.0,2019-03-15 00:00,19.7,53.9,2.74,2.84,34.9,Peripheral (>250 km),False
+Mozambique,Inhambane,Panda,-24.01449862688979,34.401529488469215,idai_2019,Cyclone Idai,2019,468.6,17.4,2019-03-15 06:00,14.5,47.1,3.25,2.71,29.7,Peripheral (>250 km),False
+Mozambique,Inhambane,Vilankulo,-22.300848980284787,35.1263277432606,idai_2019,Cyclone Idai,2019,278.7,27.4,2019-03-15 00:00,20.6,66.3,3.22,2.42,38.9,Peripheral (>250 km),False
+Mozambique,Inhambane,Zavala,-24.650941039512826,34.66913973285399,idai_2019,Cyclone Idai,2019,540.1,15.3,2019-03-15 06:00,22.3,44.8,2.01,2.93,29.5,Peripheral (>250 km),False
+Mozambique,Inhambane,Cidade de Inhambane,-23.884809744964297,35.46622861605017,idai_2019,Cyclone Idai,2019,454.5,16.9,2019-03-15 06:00,28.4,48.6,1.71,2.88,31.7,Peripheral (>250 km),False
+Mozambique,Inhambane,Maxixe,-23.881701041224026,35.309141287096786,idai_2019,Cyclone Idai,2019,453.9,17.1,2019-03-15 06:00,21.7,49.8,2.29,2.91,32.7,Peripheral (>250 km),False
+Mozambique,Manica,Gondola,-19.150381926111148,33.66741768246745,idai_2019,Cyclone Idai,2019,53.0,115.0,2019-03-15 06:00,42.8,82.3,1.92,0.72,-32.7,Inner Core (50–120 km),True
+Mozambique,Manica,Machaze,-21.042499556892015,33.2712699171532,idai_2019,Cyclone Idai,2019,162.2,49.1,2019-03-15 06:00,36.3,87.5,2.41,1.78,38.4,Outer Gale (120–250 km),False
+Mozambique,Manica,Manica,-18.83099998050468,33.10655283616162,idai_2019,Cyclone Idai,2019,76.3,77.4,2019-03-15 06:00,31.3,93.9,3.0,1.21,16.5,Inner Core (50–120 km),True
+Mozambique,Manica,Mossurize,-20.512417776409677,32.944039586135965,idai_2019,Cyclone Idai,2019,116.9,65.2,2019-03-15 06:00,42.7,104.9,2.46,1.61,39.7,Inner Core (50–120 km),True
+Mozambique,Manica,Sussundenga,-19.67040317293065,33.26288404903408,idai_2019,Cyclone Idai,2019,26.0,96.4,2019-03-15 06:00,36.8,126.5,3.44,1.31,30.1,Eyewall (<50 km),True
+Mozambique,Manica,Cidade de Chimoio,-19.127041879438764,33.45626338820464,idai_2019,Cyclone Idai,2019,52.8,115.3,2019-03-15 06:00,42.8,82.3,1.92,0.71,-33.0,Inner Core (50–120 km),True
+Mozambique,Sofala,Buzi,-20.037618817456355,34.37567864750314,idai_2019,Cyclone Idai,2019,26.5,147.5,2019-03-15 00:00,66.0,134.3,2.03,0.91,-13.2,Eyewall (<50 km),True
+Mozambique,Sofala,Cheringoma,-18.528932502391765,35.22272028346834,idai_2019,Cyclone Idai,2019,141.6,47.7,2019-03-15 00:00,34.3,90.1,2.63,1.89,42.4,Outer Gale (120–250 km),False
+Mozambique,Sofala,Chibabava,-20.36807208716094,33.88320194219389,idai_2019,Cyclone Idai,2019,83.1,91.6,2019-03-15 00:00,51.7,113.8,2.2,1.24,22.2,Inner Core (50–120 km),True
+Mozambique,Sofala,Dondo,-19.49298040370051,34.828252336892604,idai_2019,Cyclone Idai,2019,56.4,126.0,2019-03-15 00:00,63.3,144.4,2.28,1.15,18.4,Inner Core (50–120 km),True
+Mozambique,Sofala,Gorongosa,-18.613460976134007,34.21707414424074,idai_2019,Cyclone Idai,2019,133.1,58.9,2019-03-15 00:00,28.6,82.7,2.89,1.4,23.8,Outer Gale (120–250 km),False
+Mozambique,Sofala,Machanga,-20.90943269605078,34.52661627847644,idai_2019,Cyclone Idai,2019,124.1,63.1,2019-03-15 00:00,43.2,93.6,2.17,1.48,30.5,Outer Gale (120–250 km),False
+Mozambique,Sofala,Marromeu,-18.42817680399243,35.742421665796094,idai_2019,Cyclone Idai,2019,149.4,43.2,2019-03-14 12:00,34.1,101.5,2.98,2.35,58.3,Outer Gale (120–250 km),False
+Mozambique,Sofala,Muanza,-19.08435178512121,35.0596236404679,idai_2019,Cyclone Idai,2019,83.5,80.4,2019-03-14 18:00,51.9,130.7,2.52,1.63,50.3,Inner Core (50–120 km),True
+Mozambique,Sofala,Nhamatanda,-19.33389319953975,34.24040447859879,idai_2019,Cyclone Idai,2019,54.5,129.2,2019-03-15 00:00,56.8,115.6,2.04,0.89,-13.6,Inner Core (50–120 km),True
+Mozambique,Sofala,Cidade da Beira,-19.721292552350953,34.924581216578915,idai_2019,Cyclone Idai,2019,40.2,152.9,2019-03-14 18:00,81.1,147.8,1.82,0.97,-5.1,Eyewall (<50 km),True
+Mozambique,Zambezia,Chinde,-18.399166079350525,36.324746706185365,idai_2019,Cyclone Idai,2019,145.2,44.5,2019-03-14 12:00,35.6,104.1,2.92,2.34,59.6,Outer Gale (120–250 km),False
+Mozambique,Sofala,Caia,-17.78237838483119,35.00832112121529,freddy_2023,Cyclone Freddy,2023,471.8,17.6,2023-02-24 12:00,24.7,45.0,1.82,2.56,27.4,Peripheral (>250 km),False
+Mozambique,Sofala,Chemba,-17.205913048566,34.63003008828114,freddy_2023,Cyclone Freddy,2023,540.8,15.7,2023-02-24 12:00,27.3,45.6,1.67,2.9,29.9,Peripheral (>250 km),False
+Mozambique,Sofala,Maringue,-17.85730826561168,34.484588194981534,freddy_2023,Cyclone Freddy,2023,472.7,17.8,2023-02-24 12:00,24.3,44.1,1.81,2.48,26.3,Peripheral (>250 km),False
+Mozambique,Zambezia,Gile,-15.927610915015402,38.30655257592137,freddy_2023,Cyclone Freddy,2023,671.9,11.4,2023-02-23 18:00,15.0,36.9,2.46,3.24,25.5,Peripheral (>250 km),False
+Mozambique,Zambezia,Gurue,-15.349075592141743,36.94740449401028,freddy_2023,Cyclone Freddy,2023,717.5,11.3,2023-02-24 12:00,10.6,29.4,2.77,2.6,18.1,Peripheral (>250 km),False
+Mozambique,Zambezia,Ile,-16.18020064041081,37.465769034320985,freddy_2023,Cyclone Freddy,2023,628.8,12.3,2023-02-24 12:00,17.8,32.8,1.84,2.67,20.5,Peripheral (>250 km),False
+Mozambique,Zambezia,Inhassunge,-18.055413995950648,36.80791047275936,freddy_2023,Cyclone Freddy,2023,416.4,17.9,2023-02-23 18:00,31.5,41.0,1.3,2.29,23.1,Peripheral (>250 km),False
+Mozambique,Zambezia,Lugela,-16.30555830258885,36.653320823811406,freddy_2023,Cyclone Freddy,2023,611.1,13.0,2023-02-24 12:00,11.8,40.7,3.45,3.13,27.7,Peripheral (>250 km),False
+Mozambique,Zambezia,Maganja da Costa,-17.109617747616277,37.625238769559765,freddy_2023,Cyclone Freddy,2023,528.7,14.3,2023-02-23 18:00,21.3,38.4,1.8,2.69,24.1,Peripheral (>250 km),False
+Mozambique,Zambezia,Milange,-16.018877132172836,35.991165974099836,freddy_2023,Cyclone Freddy,2023,648.4,12.8,2023-02-24 12:00,13.6,40.0,2.94,3.12,27.2,Peripheral (>250 km),False
+Mozambique,Zambezia,Mocuba,-16.853350081805836,36.86355693029469,freddy_2023,Cyclone Freddy,2023,550.1,14.0,2023-02-24 12:00,16.9,31.4,1.86,2.24,17.4,Peripheral (>250 km),False
+Mozambique,Zambezia,Alto Molocue,-15.6490394609734,37.663594169331695,freddy_2023,Cyclone Freddy,2023,690.0,11.4,2023-02-24 12:00,12.8,40.8,3.19,3.58,29.4,Peripheral (>250 km),False
+Mozambique,Zambezia,Mopeia,-17.83304572551324,36.06249856978365,freddy_2023,Cyclone Freddy,2023,447.8,17.2,2023-02-24 12:00,20.9,37.5,1.79,2.18,20.3,Peripheral (>250 km),False
+Mozambique,Zambezia,Morrumbala,-17.057072181189234,35.78990645205499,freddy_2023,Cyclone Freddy,2023,537.9,15.1,2023-02-24 12:00,20.1,42.7,2.12,2.83,27.6,Peripheral (>250 km),False
+Mozambique,Zambezia,Namacurra,-17.482194432169667,37.07354226837362,freddy_2023,Cyclone Freddy,2023,481.0,15.6,2023-02-23 18:00,20.9,33.5,1.6,2.15,17.9,Peripheral (>250 km),False
+Mozambique,Zambezia,Namarroi,-15.855191574975311,36.806917645103525,freddy_2023,Cyclone Freddy,2023,661.0,12.2,2023-02-24 12:00,12.6,29.3,2.33,2.4,17.1,Peripheral (>250 km),False
+Mozambique,Zambezia,Nicoadala,-17.615935781643316,36.74381051057589,freddy_2023,Cyclone Freddy,2023,465.3,16.1,2023-02-23 18:00,18.6,30.5,1.64,1.89,14.4,Peripheral (>250 km),False
+Mozambique,Zambezia,Pebane,-16.721246414078912,38.54073256370727,freddy_2023,Cyclone Freddy,2023,593.5,12.9,2023-02-23 18:00,16.4,42.6,2.6,3.3,29.7,Peripheral (>250 km),False
+Mozambique,Zambezia,Cidade de Quelimane,-17.862455258261367,36.914780729077265,freddy_2023,Cyclone Freddy,2023,438.0,17.1,2023-02-23 18:00,31.5,41.0,1.3,2.4,23.9,Peripheral (>250 km),False
+Madagascar,Atsinanana,Toamasina II,-18.00556021284029,49.14116058355805,freddy_2023,Cyclone Freddy,2023,335.1,17.7,2023-02-21 18:00,18.0,39.9,2.22,2.25,22.2,Peripheral (>250 km),False
+Madagascar,Atsinanana,Antanambao Manampontsy,-19.55839989110254,48.470233695225645,freddy_2023,Cyclone Freddy,2023,183.4,36.1,2023-02-21 18:00,26.4,56.8,2.15,1.57,20.7,Outer Gale (120–250 km),False
+Madagascar,Atsinanana,Brickaville,-18.641381370795692,48.853146907679,freddy_2023,Cyclone Freddy,2023,270.9,22.5,2023-02-21 18:00,13.3,36.2,2.72,1.61,13.7,Peripheral (>250 km),False
+Madagascar,Atsinanana,Mahanoro,-20.03159874203965,48.517287453838726,freddy_2023,Cyclone Freddy,2023,131.9,50.5,2023-02-21 18:00,33.2,76.9,2.32,1.52,26.4,Outer Gale (120–250 km),False
+Madagascar,Atsinanana,Marolambo,-20.091916748436528,47.96680366884591,freddy_2023,Cyclone Freddy,2023,128.0,52.1,2023-02-21 18:00,38.7,108.2,2.8,2.08,56.1,Outer Gale (120–250 km),False
+Madagascar,Atsinanana,Toamasina I,-18.14626833450195,49.39536583281305,freddy_2023,Cyclone Freddy,2023,317.5,18.1,2023-02-21 18:00,37.0,58.5,1.58,3.23,40.4,Peripheral (>250 km),False
+Madagascar,Atsinanana,Vatomandry,-19.360373586022984,48.77830622479299,freddy_2023,Cyclone Freddy,2023,197.3,31.4,2023-02-21 18:00,20.2,42.4,2.1,1.35,11.0,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Funhalouro,-23.05445424501499,34.30598242528293,freddy_2023,Cyclone Freddy,2023,107.7,66.5,2023-02-24 12:00,53.9,107.7,2.0,1.62,41.2,Inner Core (50–120 km),True
+Mozambique,Inhambane,Govuro,-21.318131760117325,34.6768882484668,freddy_2023,Cyclone Freddy,2023,98.9,71.1,2023-02-24 12:00,43.1,70.5,1.64,0.99,-0.6,Inner Core (50–120 km),True
+Mozambique,Inhambane,Homoine,-23.875685962406735,35.04128391111423,freddy_2023,Cyclone Freddy,2023,188.0,41.6,2023-02-24 12:00,28.7,91.7,3.2,2.2,50.1,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Inharrime,-24.400624275729566,34.771198046100146,freddy_2023,Cyclone Freddy,2023,244.7,32.9,2023-02-24 12:00,27.1,67.4,2.49,2.05,34.5,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Inhassoro,-21.750363039940943,34.85865853939365,freddy_2023,Cyclone Freddy,2023,50.4,110.0,2023-02-24 12:00,51.5,91.7,1.78,0.83,-18.3,Inner Core (50–120 km),True
+Mozambique,Inhambane,Jangamo,-24.163165326372862,35.27080113570643,freddy_2023,Cyclone Freddy,2023,223.5,35.7,2023-02-24 12:00,32.1,82.2,2.56,2.3,46.5,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Mabote,-22.002079779789923,33.801837419628015,freddy_2023,Cyclone Freddy,2023,105.2,67.8,2023-02-24 12:00,55.0,100.5,1.83,1.48,32.7,Inner Core (50–120 km),True
+Mozambique,Inhambane,Massinga,-22.836326393242235,35.01996304662898,freddy_2023,Cyclone Freddy,2023,74.3,87.8,2023-02-24 12:00,41.8,99.4,2.38,1.13,11.6,Inner Core (50–120 km),True
+Mozambique,Inhambane,Morrumbene,-23.473928590971973,35.09855149531949,freddy_2023,Cyclone Freddy,2023,144.9,52.0,2023-02-24 12:00,36.6,98.8,2.7,1.9,46.8,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Panda,-24.014498626889786,34.401529488469215,freddy_2023,Cyclone Freddy,2023,205.8,38.4,2023-02-24 12:00,26.3,74.9,2.85,1.95,36.5,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Vilankulo,-22.300848980284787,35.1263277432606,freddy_2023,Cyclone Freddy,2023,35.4,120.4,2023-02-24 12:00,43.7,100.4,2.3,0.83,-20.0,Eyewall (<50 km),True
+Mozambique,Inhambane,Zavala,-24.650941039512826,34.66913973285399,freddy_2023,Cyclone Freddy,2023,272.9,29.9,2023-02-24 12:00,42.2,63.4,1.5,2.12,33.5,Peripheral (>250 km),False
+Mozambique,Inhambane,Cidade de Inhambane,-23.884809744964297,35.46622861605017,freddy_2023,Cyclone Freddy,2023,199.4,39.5,2023-02-24 12:00,43.1,91.8,2.13,2.32,52.3,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Maxixe,-23.881701041224026,35.309141287096786,freddy_2023,Cyclone Freddy,2023,194.1,40.4,2023-02-24 12:00,34.4,88.9,2.58,2.2,48.5,Outer Gale (120–250 km),False
+Mozambique,Sofala,Buzi,-20.037618817456355,34.37567864750314,freddy_2023,Cyclone Freddy,2023,244.4,33.0,2023-02-24 12:00,32.2,48.2,1.5,1.46,15.2,Outer Gale (120–250 km),False
+Mozambique,Sofala,Cheringoma,-18.528932502391765,35.22272028346834,freddy_2023,Cyclone Freddy,2023,387.0,20.7,2023-02-24 12:00,20.9,40.6,1.94,1.96,19.9,Peripheral (>250 km),False
+Mozambique,Sofala,Chibabava,-20.36807208716094,33.88320194219389,freddy_2023,Cyclone Freddy,2023,224.8,35.5,2023-02-24 12:00,37.5,57.1,1.52,1.61,21.6,Outer Gale (120–250 km),False
+Mozambique,Sofala,Dondo,-19.49298040370051,34.828252336892604,freddy_2023,Cyclone Freddy,2023,287.4,27.4,2023-02-24 12:00,23.8,40.7,1.71,1.49,13.3,Peripheral (>250 km),False
+Mozambique,Sofala,Gorongosa,-18.613460976134007,34.21707414424074,freddy_2023,Cyclone Freddy,2023,399.6,21.0,2023-02-24 12:00,18.2,41.5,2.28,1.98,20.5,Peripheral (>250 km),False
+Mozambique,Sofala,Machanga,-20.90943269605078,34.52661627847644,freddy_2023,Cyclone Freddy,2023,146.3,51.6,2023-02-24 12:00,42.4,61.5,1.45,1.19,9.9,Outer Gale (120–250 km),False
+Mozambique,Sofala,Marromeu,-18.42817680399243,35.742421665796094,freddy_2023,Cyclone Freddy,2023,390.8,19.8,2023-02-24 12:00,21.4,37.8,1.77,1.91,18.0,Peripheral (>250 km),False
+Mozambique,Sofala,Muanza,-19.084351785121196,35.0596236404679,freddy_2023,Cyclone Freddy,2023,327.4,24.0,2023-02-24 12:00,21.8,42.4,1.94,1.77,18.4,Peripheral (>250 km),False
+Mozambique,Sofala,Nhamatanda,-19.333893199539745,34.240404478598784,freddy_2023,Cyclone Freddy,2023,324.0,25.6,2023-02-24 12:00,26.0,45.1,1.73,1.76,19.5,Peripheral (>250 km),False
+Mozambique,Sofala,Cidade da Beira,-19.721292552350953,34.924581216578915,freddy_2023,Cyclone Freddy,2023,260.3,29.6,2023-02-24 12:00,38.7,44.7,1.16,1.51,15.1,Peripheral (>250 km),False
+Mozambique,Zambezia,Chinde,-18.399166079350525,36.324746706185365,freddy_2023,Cyclone Freddy,2023,381.4,19.4,2023-02-23 18:00,23.3,36.6,1.57,1.89,17.2,Peripheral (>250 km),False
+Mozambique,Manica,Barue,-17.992509438104207,33.2220975313472,eloise_2021,Cyclone Eloise,2021,237.7,33.8,2021-01-23 06:00,17.2,57.5,3.34,1.7,23.7,Outer Gale (120–250 km),False
+Mozambique,Manica,Guro,-16.971890094645435,33.538641658424275,eloise_2021,Cyclone Eloise,2021,340.2,24.5,2021-01-23 06:00,16.0,45.8,2.86,1.87,21.3,Peripheral (>250 km),False
+Mozambique,Manica,Macossa,-17.909766640076818,33.789505125241334,eloise_2021,Cyclone Eloise,2021,233.5,34.3,2021-01-23 06:00,29.4,60.0,2.04,1.75,25.7,Outer Gale (120–250 km),False
+Mozambique,Manica,Tambara,-16.963223826482412,34.10514358143015,eloise_2021,Cyclone Eloise,2021,329.3,24.7,2021-01-23 06:00,15.3,51.8,3.39,2.1,27.1,Peripheral (>250 km),False
+Mozambique,Sofala,Caia,-17.78237838483119,35.00832112121529,eloise_2021,Cyclone Eloise,2021,224.4,32.9,2021-01-23 00:00,25.6,63.6,2.48,1.93,30.7,Outer Gale (120–250 km),False
+Mozambique,Sofala,Chemba,-17.205913048566,34.63003008828114,eloise_2021,Cyclone Eloise,2021,291.1,26.1,2021-01-23 06:00,22.0,60.9,2.77,2.33,34.8,Peripheral (>250 km),False
+Mozambique,Sofala,Maringue,-17.85730826561168,34.484588194981534,eloise_2021,Cyclone Eloise,2021,222.7,33.2,2021-01-23 00:00,29.8,61.9,2.08,1.86,28.7,Outer Gale (120–250 km),False
+Mozambique,Gaza,Bilene,-25.026239178817026,33.175420947343255,eloise_2021,Cyclone Eloise,2021,525.5,16.6,2021-01-23 12:00,9.9,58.8,5.94,3.54,42.2,Peripheral (>250 km),False
+Mozambique,Gaza,Chibuto,-24.30003995432555,33.61009494253058,eloise_2021,Cyclone Eloise,2021,446.8,19.1,2021-01-23 12:00,13.4,66.1,4.93,3.46,47.0,Peripheral (>250 km),False
+Mozambique,Gaza,Chicualacuala,-22.715257356334938,32.0310314616046,eloise_2021,Cyclone Eloise,2021,294.5,27.0,2021-01-23 12:00,31.8,79.2,2.49,2.93,52.2,Peripheral (>250 km),False
+Mozambique,Gaza,Chigubo,-22.90985173152885,33.24780540823208,eloise_2021,Cyclone Eloise,2021,290.2,27.3,2021-01-23 12:00,22.1,65.3,2.95,2.39,38.0,Peripheral (>250 km),False
+Mozambique,Gaza,Chokwe,-24.561732883359316,32.95513332493528,eloise_2021,Cyclone Eloise,2021,474.6,18.1,2021-01-23 12:00,13.1,53.2,4.06,2.94,35.1,Peripheral (>250 km),False
+Mozambique,Gaza,Guija,-24.166840659925843,33.121459571149714,eloise_2021,Cyclone Eloise,2021,430.0,19.7,2021-01-23 12:00,16.2,60.7,3.75,3.08,41.0,Peripheral (>250 km),False
+Mozambique,Gaza,Mabalane,-23.47829447166141,32.738032517117496,eloise_2021,Cyclone Eloise,2021,356.6,23.0,2021-01-23 12:00,18.7,65.1,3.48,2.83,42.1,Peripheral (>250 km),False
+Mozambique,Gaza,Mandlakaze,-24.63073392769013,34.067429857759564,eloise_2021,Cyclone Eloise,2021,489.7,17.6,2021-01-23 12:00,12.4,74.8,6.03,4.25,57.2,Peripheral (>250 km),False
+Mozambique,Gaza,Massangena,-21.747368318710514,32.591499697035566,eloise_2021,Cyclone Eloise,2021,172.9,41.3,2021-01-23 12:00,40.0,87.6,2.19,2.12,46.3,Outer Gale (120–250 km),False
+Mozambique,Gaza,Massingir,-23.866655306858956,32.092310481960254,eloise_2021,Cyclone Eloise,2021,412.7,20.4,2021-01-23 12:00,18.9,63.5,3.36,3.11,43.1,Peripheral (>250 km),False
+Mozambique,Gaza,Xai-xai,-25.01147625508086,33.61149804883937,eloise_2021,Cyclone Eloise,2021,525.6,16.6,2021-01-23 12:00,11.2,64.2,5.73,3.87,47.6,Peripheral (>250 km),False
+Mozambique,Gaza,Cidade de Xai-Xai,-25.04949011040439,33.658941925121105,eloise_2021,Cyclone Eloise,2021,530.2,16.5,2021-01-23 12:00,11.2,64.2,5.73,3.89,47.7,Peripheral (>250 km),False
+Mozambique,Inhambane,Funhalouro,-23.054454245014995,34.30598242528294,eloise_2021,Cyclone Eloise,2021,326.9,24.7,2021-01-23 12:00,18.7,77.1,4.12,3.12,52.4,Peripheral (>250 km),False
+Mozambique,Inhambane,Govuro,-21.318131760117325,34.6768882484668,eloise_2021,Cyclone Eloise,2021,162.6,47.1,2021-01-23 06:00,31.8,105.5,3.32,2.24,58.4,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Homoine,-23.875685962406735,35.04128391111423,eloise_2021,Cyclone Eloise,2021,440.5,19.3,2021-01-23 12:00,17.8,73.8,4.15,3.82,54.5,Peripheral (>250 km),False
+Mozambique,Inhambane,Inharrime,-24.400624275729566,34.771198046100146,eloise_2021,Cyclone Eloise,2021,483.7,17.8,2021-01-23 12:00,12.9,78.3,6.07,4.4,60.5,Peripheral (>250 km),False
+Mozambique,Inhambane,Inhassoro,-21.750363039940943,34.85865853939365,eloise_2021,Cyclone Eloise,2021,214.1,37.1,2021-01-23 06:00,27.2,88.4,3.25,2.38,51.3,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Jangamo,-24.163165326372866,35.27080113570643,eloise_2021,Cyclone Eloise,2021,479.5,18.0,2021-01-23 12:00,20.3,67.7,3.33,3.76,49.7,Peripheral (>250 km),False
+Mozambique,Inhambane,Mabote,-22.002079779789923,33.801837419628015,eloise_2021,Cyclone Eloise,2021,199.3,37.0,2021-01-23 12:00,25.7,84.1,3.27,2.27,47.1,Outer Gale (120–250 km),False
+Mozambique,Inhambane,Massinga,-22.836326393242235,35.01996304662898,eloise_2021,Cyclone Eloise,2021,332.6,25.0,2021-01-23 06:00,19.1,68.0,3.56,2.72,43.0,Peripheral (>250 km),False
+Mozambique,Inhambane,Morrumbene,-23.473928590971973,35.09855149531949,eloise_2021,Cyclone Eloise,2021,402.6,21.1,2021-01-23 06:00,22.0,65.5,2.98,3.1,44.4,Peripheral (>250 km),False
+Mozambique,Inhambane,Panda,-24.01449862688979,34.401529488469215,eloise_2021,Cyclone Eloise,2021,431.2,19.6,2021-01-23 12:00,12.9,80.7,6.26,4.12,61.1,Peripheral (>250 km),False
+Mozambique,Inhambane,Vilankulo,-22.300848980284787,35.1263277432606,eloise_2021,Cyclone Eloise,2021,278.4,29.1,2021-01-23 06:00,20.9,74.8,3.58,2.57,45.7,Peripheral (>250 km),False
+Mozambique,Inhambane,Zavala,-24.650941039512826,34.66913973285399,eloise_2021,Cyclone Eloise,2021,506.8,17.1,2021-01-23 12:00,18.4,62.2,3.38,3.64,45.1,Peripheral (>250 km),False
+Mozambique,Inhambane,Cidade de Inhambane,-23.884809744964297,35.46622861605017,eloise_2021,Cyclone Eloise,2021,456.8,18.7,2021-01-23 06:00,30.3,62.6,2.07,3.35,43.9,Peripheral (>250 km),False
+Mozambique,Inhambane,Maxixe,-23.881701041224026,35.309141287096786,eloise_2021,Cyclone Eloise,2021,452.2,18.9,2021-01-23 06:00,24.9,60.4,2.43,3.2,41.5,Peripheral (>250 km),False
+Mozambique,Manica,Gondola,-19.150381926111148,33.66741768246745,eloise_2021,Cyclone Eloise,2021,100.7,70.1,2021-01-23 06:00,41.3,65.3,1.58,0.93,-4.8,Inner Core (50–120 km),True
+Mozambique,Manica,Machaze,-21.042499556892015,33.2712699171532,eloise_2021,Cyclone Eloise,2021,82.9,68.3,2021-01-23 12:00,45.9,90.1,1.96,1.32,21.8,Inner Core (50–120 km),True
+Mozambique,Manica,Manica,-18.83099998050468,33.10655283616162,eloise_2021,Cyclone Eloise,2021,160.2,47.8,2021-01-23 06:00,24.1,62.6,2.6,1.31,14.8,Outer Gale (120–250 km),False
+Mozambique,Manica,Mossurize,-20.512417776409677,32.944039586135965,eloise_2021,Cyclone Eloise,2021,35.6,66.0,2021-01-23 12:00,38.2,85.2,2.23,1.29,19.2,Eyewall (<50 km),True
+Mozambique,Manica,Sussundenga,-19.67040317293065,33.26288404903408,eloise_2021,Cyclone Eloise,2021,70.3,79.5,2021-01-23 06:00,26.1,89.4,3.43,1.12,9.9,Inner Core (50–120 km),True
+Mozambique,Manica,Cidade de Chimoio,-19.127041879438764,33.45626338820464,eloise_2021,Cyclone Eloise,2021,112.6,64.2,2021-01-23 06:00,41.3,65.3,1.58,1.02,1.1,Inner Core (50–120 km),True
+Mozambique,Sofala,Buzi,-20.037618817456355,34.37567864750314,eloise_2021,Cyclone Eloise,2021,39.5,119.0,2021-01-23 06:00,55.6,102.7,1.85,0.86,-16.3,Eyewall (<50 km),True
+Mozambique,Sofala,Cheringoma,-18.528932502391765,35.22272028346834,eloise_2021,Cyclone Eloise,2021,143.3,51.4,2021-01-23 00:00,41.3,91.5,2.22,1.78,40.1,Outer Gale (120–250 km),False
+Mozambique,Sofala,Chibabava,-20.36807208716094,33.88320194219389,eloise_2021,Cyclone Eloise,2021,42.7,116.9,2021-01-23 06:00,53.8,90.7,1.69,0.78,-26.2,Eyewall (<50 km),True
+Mozambique,Sofala,Dondo,-19.49298040370051,34.828252336892604,eloise_2021,Cyclone Eloise,2021,38.6,152.9,2021-01-23 00:00,60.2,108.4,1.8,0.71,-44.5,Eyewall (<50 km),True
+Mozambique,Sofala,Gorongosa,-18.613460976134007,34.21707414424074,eloise_2021,Cyclone Eloise,2021,155.5,48.9,2021-01-23 06:00,26.1,71.4,2.74,1.46,22.5,Outer Gale (120–250 km),False
+Mozambique,Sofala,Machanga,-20.90943269605078,34.52661627847644,eloise_2021,Cyclone Eloise,2021,115.0,63.0,2021-01-23 06:00,39.3,110.3,2.81,1.75,47.3,Inner Core (50–120 km),True
+Mozambique,Sofala,Marromeu,-18.42817680399243,35.742421665796094,eloise_2021,Cyclone Eloise,2021,133.1,54.1,2021-01-22 18:00,46.7,102.7,2.2,1.9,48.6,Outer Gale (120–250 km),False
+Mozambique,Sofala,Muanza,-19.08435178512121,35.0596236404679,eloise_2021,Cyclone Eloise,2021,79.8,89.3,2021-01-23 00:00,53.1,104.2,1.96,1.17,14.9,Inner Core (50–120 km),True
+Mozambique,Sofala,Nhamatanda,-19.33389319953975,34.24040447859879,eloise_2021,Cyclone Eloise,2021,78.2,84.7,2021-01-23 06:00,51.8,91.2,1.76,1.08,6.5,Inner Core (50–120 km),True
+Mozambique,Sofala,Cidade da Beira,-19.721292552350953,34.924581216578915,eloise_2021,Cyclone Eloise,2021,11.8,70.2,2021-01-23 00:00,66.8,122.6,1.84,1.75,52.4,Eyewall (<50 km),True
+Madagascar,Atsinanana,Toamasina II,-18.00556021284029,49.14116058355805,batsirai_2022,Cyclone Batsirai,2022,277.4,18.3,2022-02-05 18:00,30.5,59.2,1.94,3.23,40.9,Peripheral (>250 km),False
+Madagascar,Atsinanana,Antanambao Manampontsy,-19.55839989110254,48.470233695225645,batsirai_2022,Cyclone Batsirai,2022,129.5,43.5,2022-02-05 18:00,42.7,101.9,2.39,2.34,58.4,Outer Gale (120–250 km),False
+Madagascar,Atsinanana,Brickaville,-18.641381370795692,48.853146907679,batsirai_2022,Cyclone Batsirai,2022,209.8,24.2,2022-02-05 18:00,29.5,77.7,2.63,3.21,53.5,Outer Gale (120–250 km),False
+Madagascar,Atsinanana,Mahanoro,-20.03159874203965,48.517287453838726,batsirai_2022,Cyclone Batsirai,2022,88.2,63.8,2022-02-05 18:00,46.9,110.2,2.35,1.73,46.4,Inner Core (50–120 km),True
+Madagascar,Atsinanana,Marolambo,-20.091916748436528,47.96680366884591,batsirai_2022,Cyclone Batsirai,2022,78.8,81.7,2022-02-05 18:00,50.2,115.2,2.29,1.41,33.5,Inner Core (50–120 km),True
+Madagascar,Atsinanana,Toamasina I,-18.14626833450195,49.39536583281305,batsirai_2022,Cyclone Batsirai,2022,256.1,18.9,2022-02-05 06:00,57.4,68.3,1.19,3.61,49.4,Peripheral (>250 km),False
+Madagascar,Atsinanana,Vatomandry,-19.360373586022984,48.77830622479299,batsirai_2022,Cyclone Batsirai,2022,134.2,39.4,2022-02-05 12:00,40.6,95.5,2.35,2.42,56.1,Outer Gale (120–250 km),False
+Madagascar,Haute Matsiatra,Isandra,-21.280832873504817,46.8964711679244,batsirai_2022,Cyclone Batsirai,2022,42.1,108.3,2022-02-06 00:00,47.9,115.6,2.41,1.07,7.3,Eyewall (<50 km),True
+Madagascar,Haute Matsiatra,Lalangina,-21.41010783416841,47.26623843912175,batsirai_2022,Cyclone Batsirai,2022,82.7,75.1,2022-02-06 00:00,55.8,136.0,2.44,1.81,60.9,Inner Core (50–120 km),True
+Madagascar,Haute Matsiatra,Vohibato,-21.66520245378984,47.087434940557124,batsirai_2022,Cyclone Batsirai,2022,79.8,77.1,2022-02-06 00:00,51.5,143.0,2.78,1.85,65.9,Inner Core (50–120 km),True
+Madagascar,Haute Matsiatra,Ambalavao,-21.876812171496127,46.721921592741346,batsirai_2022,Cyclone Batsirai,2022,78.7,77.9,2022-02-06 00:00,37.4,125.7,3.36,1.61,47.8,Inner Core (50–120 km),True
+Madagascar,Haute Matsiatra,Ambohimahasoa,-21.06888520722573,47.16886707373292,batsirai_2022,Cyclone Batsirai,2022,70.9,83.7,2022-02-06 00:00,52.8,127.7,2.42,1.53,44.0,Inner Core (50–120 km),True
+Madagascar,Haute Matsiatra,Fianarantsoa I,-21.45378217620448,47.08755695532975,batsirai_2022,Cyclone Batsirai,2022,67.1,86.7,2022-02-06 00:00,51.5,143.0,2.78,1.65,56.3,Inner Core (50–120 km),True
+Madagascar,Haute Matsiatra,Ikalamavony,-21.28854375048938,46.21944048983822,batsirai_2022,Cyclone Batsirai,2022,30.7,97.5,2022-02-06 00:00,37.8,95.1,2.52,0.98,-2.4,Eyewall (<50 km),True
+Somalia,Bari,Bandarbeyla,9.229349453043548,50.329130081689755,gati_2020,Cyclone Gati,2020,253.8,23.9,2020-11-22 12:00,25.8,52.1,2.02,2.18,28.2,Peripheral (>250 km),False
+Somalia,Bari,Bossaso,10.92171223014004,49.39967153026954,gati_2020,Cyclone Gati,2020,107.0,52.8,2020-11-22 18:00,11.5,47.1,4.1,0.89,-5.7,Inner Core (50–120 km),False
+Somalia,Bari,Caluula,11.668246314192743,50.793949314484514,gati_2020,Cyclone Gati,2020,18.7,141.8,2020-11-22 12:00,20.6,49.3,2.39,0.35,-92.5,Eyewall (<50 km),False
+Somalia,Bari,Iskushuban,10.551240106310003,50.50463851691678,gati_2020,Cyclone Gati,2020,110.3,54.5,2020-11-22 12:00,24.9,46.1,1.85,0.85,-8.4,Inner Core (50–120 km),False
+Somalia,Bari,Qandala,11.059962886453798,50.088741116387226,gati_2020,Cyclone Gati,2020,88.1,64.8,2020-11-22 12:00,18.3,47.7,2.61,0.74,-17.1,Inner Core (50–120 km),False
+Somalia,Bari,Qardho,9.501424244587792,49.507859268131384,gati_2020,Cyclone Gati,2020,257.6,25.8,2020-11-22 18:00,25.1,45.1,1.8,1.75,19.3,Peripheral (>250 km),False
+Somalia,Sanaag,Laasqoray,10.537316377837062,48.69553673920376,gati_2020,Cyclone Gati,2020,164.0,34.0,2020-11-22 18:00,19.1,36.5,1.91,1.07,2.5,Outer Gale (120–250 km),False
+Somalia,Sanaag,Ceel Afweyn,10.147820077206537,46.68871461879136,gati_2020,Cyclone Gati,2020,285.4,21.1,2020-11-23 00:00,11.0,43.3,3.94,2.05,22.2,Peripheral (>250 km),False
+Somalia,Sanaag,Ceerigaabo,10.290360953959397,47.807444430792636,gati_2020,Cyclone Gati,2020,204.6,27.2,2020-11-23 00:00,14.5,38.6,2.66,1.42,11.4,Outer Gale (120–250 km),False

@@ -1,0 +1,7 @@
+cyclone,date,country,district,r_km_to_eye,ibtracs_eye_wind_kt,v_holland_kmh,v_era5_kmh,underestimation_pct
+Cyclone Idai,2019-03-14 18:00,Mozambique,Beira,324.9,110.0,22.6,70.6,-212.4
+Cyclone Idai,2019-03-15 06:00,Zimbabwe,Chimanimani,136.6,100.0,55.8,32.5,41.8
+Cyclone Freddy,2023-02-21 18:00,Madagascar,Mananjary,513.6,109.0,14.5,68.5,-372.6
+Cyclone Freddy,2023-02-24 12:00,Mozambique,Vilankulo,252.6,60.0,23.9,50.3,-110.3
+Cyclone Eloise,2021-01-23 06:00,Mozambique,Beira,39.4,90.0,143.6,58.2,59.4
+Somalia Gati,2020-11-22 12:00,Somalia,Caluula,419.5,60.0,16.3,44.7,-173.8
